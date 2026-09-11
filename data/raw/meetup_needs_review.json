@@ -1,0 +1,399 @@
+[
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316211287",
+    "name": "IA aplicada: convierte procesos en servicios para tus clientes ",
+    "description": "La IA no solo permite ahorrar tiempo y automatizar tareas. También está creando nuevas oportunidades para profesionales, freelancers y agencias que quieren incorporar nuevas soluciones a los servicios que ya ofrecen a sus clientes.\n\nEn este encuentro online veremos **cómo identificar procesos con potencial para aplicar IA, transformarlos en soluciones concretas y convertirlos en servicios que puedas ofrecer de forma clara y repetible a diferentes clientes.**\n\nHablaremos de casos aplicados a marketing, ventas, atención al cliente, operaciones y otras áreas, con ejemplos concretos y un framework práctico para pasar de una necesidad real a una propuesta de servicio.\n\n## Qué veremos\n\n* Dónde están las oportunidades reales para crear servicios con IA.\n* Qué puedes ofrecer con IA en áreas como marketing, ventas, atención al cliente y operaciones.\n* Cómo detectar problemas y procesos de tus clientes que pueden convertirse en una solución.\n* Cómo pasar de una automatización o agente a una oferta concreta y fácil de entender.\n* Qué necesitas para empezar sin tener que desarrollar todo desde cero.\n* Cómo crear soluciones que puedas adaptar y reutilizar con distintos clientes.\n* Errores habituales al crear una oferta basada en IA.\n* Un framework práctico: **problema → solución → proceso → cliente → propuesta → delivery.**\n* Ejemplos aplicados a prospección B2B, lead scoring, generación de propuestas, onboarding, reporting, contenido, recepción virtual y otras aplicaciones.\n\n🎓 **Encuentro online gratuito**\n⏱️ **Duración aproximada: 90 min + Q&A**\n🤝 **Impulsado por InvokeApp para la comunidad PNM – Professional Network Madrid**",
+    "start_at": "2026-09-15T18:00:00+02:00",
+    "url": "https://www.meetup.com/ia-para-agencias-freelancers-y-consultores/events/316211287/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "IA para Agencias, Freelancers y Consultores",
+    "attendees": 28,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316209512",
+    "name": "Build you own intelligent corporate raw assistant",
+    "description": "Ever wondered what it actually takes to build an AI assistant that understands your company's data, messy files, weird formats and all? Join us for a hands-on workshop where we'll build our own intelligent corporate assistant from scratch.\n\nWe'll take on a real-world challenge: given a chaotic mix of unstructured data (PDFs, logs, office docs, etc...), we'll build a context-aware Agentic System using modern Retrieval-Augmented Generation (RAG) techniques.\n\nExpect practical coding, honest discussion, and a chance to connect with other data and AI practitioners in Madrid.\n\n**WARNING**: Expect hands-on coding, we'll build the assistant from scratch using technologies like LangGraph, Langfuse, Quadrant, etc...\n\n**Agenda:**\n\n* 18:30 – Welcome, intro\n* 18:45 – Kickoff\n* 19:00 – Workshop\n* 21:15 – Wrap-up & networking\n\n**What to bring:**\n\n* A laptop\n* Python Coding experience\n* Curiosity - no prior RAG/vector DB experience required\n\n**How to find the group:**\nWe'll meet somewhere nice in the center of Madrid.\nMore details will be shared soon!",
+    "start_at": "2026-10-05T18:30:00+02:00",
+    "url": "https://www.meetup.com/unit8-ai-data-and-analytics-group/events/316209512/",
+    "event_type": "PHYSICAL",
+    "city": "Spain",
+    "address": "Madrid, Spain",
+    "organizer": "Unit8 Tech Community: AI, Data & Cloud",
+    "attendees": 2,
+    "max_tickets": 10,
+    "spots_left": 8,
+    "found_in": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316466866",
+    "name": "¿Qué hay de nuevo este 2026 en Power Apps y Power Automate?",
+    "description": "**Power Apps** y **Power Automate** siguen evolucionando y este 2026 traen algunas novedades interesantes, muchas de ellas impulsando enfoques más inteligentes, fluidos y apoyados en **inteligencia artificial**, como casi todo este 2026: **Power Platform** no podía ser la excepción.\n\nEn esta sesión veremos estas novedades desde un punto de vista práctico: qué implican, por qué son relevantes y cómo podemos aprovecharlas en proyectos reales.",
+    "start_at": "2026-09-23T19:00:00+02:00",
+    "url": "https://www.meetup.com/power-platform-madrid/events/316466866/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Power Platform Madrid",
+    "attendees": 5,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316289559",
+    "name": "Networking for AI Professionals around the world - Sept 22",
+    "description": "**1 Hour \\| Free \\| Online**\n**AI Professionals - Connect, Collaborate, Share and more..**\n\nAn interactive session for networking, insight and opportunity. Connect with like minds in our global AI Professionals community.\n\n**Networking Sessions**:\nSmall-group breakout sessions designed to help you connect with like-minded professionals in AI — from developers and data scientists to strategists, product managers, and emerging talent from around the world.\n\n**Global Connections, Local Impact -** Whether you're job-hunting, hiring, looking to collaborate, or just want to meet other AI Professionals — this event is for you.\n\n**Who Should Attend?**\n✔️ AI Engineers & Developers\n✔️ Data Scientists & Analysts\n✔️ AI/ML Researchers & Students\n✔️ AI Product Leads & Strategists\n✔️ AI Business/Tech Professionals\n\nBring your enthusiasm for this space, curiosity, and conversation and connect with like minds from around the world\n\n**Let’s build the future of AI together — one connection at a time!**\n\nNOTE: This event is also being promoted on other related groups.",
+    "start_at": "2026-09-22T20:30:00+02:00",
+    "url": "https://www.meetup.com/ai-professionals-madrid/events/316289559/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "AI Professionals Madrid",
+    "attendees": 6,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316003588",
+    "name": "GPU, CUDA, and PyTorch Performance Optimizations",
+    "description": "**Zoom link**: [https://us02web.zoom.us/j/82308186562](https://us02web.zoom.us/j/82308186562)\n\n**Talk #0: Introductions and Meetup Updates**\nby Chris Fregly and Antje Barth\n\n**Talk #1: GPU, PyTorch, and CUDA Performance Optimizations**\n\n**Talk #2: GPU, PyTorch, and CUDA Performance Optimizations**\n\n**Zoom link**: [https://us02web.zoom.us/j/82308186562](https://us02web.zoom.us/j/82308186562)\n\n**Related Links**\nGithub Repo: [http://github.com/cfregly/ai-performance-engineering/](http://github.com/cfregly/ai-performance-engineering/)\nO'Reilly Book: [https://www.amazon.com/Systems-Performance-Engineering-Optimizing-Algorithms/dp/B0F47689K8/](https://www.amazon.com/Systems-Performance-Engineering-Optimizing-Algorithms/dp/B0F47689K8/)\nYouTube: [https://www.youtube.com/@AIPerformanceEngineering](https://www.youtube.com/@AIPerformanceEngineering)\nGenerative AI Free Course on DeepLearning.ai: [https://bit.ly/gllm](https://bit.ly/gllm)",
+    "start_at": "2026-09-21T18:00:00+02:00",
+    "url": "https://www.meetup.com/ai-performance-engineering-meetup-madrid/events/316003588/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "AI Performance Engineering Meetup (Madrid)",
+    "attendees": 5,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "315388183",
+    "name": "Sept 24 - AI, ML and Computer Vision Meetup",
+    "description": "Join our virtual meetup on September 24 to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Date, Time and Location**\n\nSep 24, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-september-24-2026)**\n\n**How Do Mercedes-Benz AI Principles Drive our Innovation?**\n\nAt Mercedes-Benz, our AI Principles guide every step of innovation, emphasizing responsible use, safety and reliability, explainability, and the protection of privacy. These principles go beyond statements and actively shape how we design, test, and deploy AI systems in real-world automotive and enterprise settings. In this talk, I will present how these principles inspired our recent research on when reusing LoRA (Low-Rank Adaptation) is effective. By combining theoretical analysis with synthetic data as a proxy for enterprise scenarios, we uncovered the strengths and limitations of modular AI components under constrained data access. Our findings provide practical guidance on when reused LoRAs could deliver high-quality results.\n\n*About the Speaker*\n\n[Mei-Yen Chen](https://www.linkedin.com/in/mei-yen-chen-22937787) is a Senior Data Scientist at Mercedes-Benz Tech Innovation GmbH in Germany with 10 years of industry experience in AI and data solutions. She leads early-stage AI projects across business functions and collaborates with research institutions on machine learning and responsible AI.\n\n**Region Tokens as the Visual Primitive: From Recognition to World Modeling**\n\nPatch-based tokenization has become the default interface between vision encoders and downstream models, yet patches carry no semantic structure and scale poorly with resolution and temporal extent. This talk presents a research program centered on replacing patch tokens with region-level representations — semantically dense tokens grounded in visual entities rather than arbitrary grid crops.\n\nI will describe RELOCATE, REN, and T-REN, a progression of methods that produce region tokens via pooling, train them with region-level objectives, and extend them to video with temporal coherence. I will then present ongoing work integrating region tokens into VLMs to directly expand visual context capacity, and preliminary results on future region trajectory prediction as a foundation for world modeling.\n\nThe broader thesis is that region-level tokens are a more natural unit of visual computation than patches, and their advantage compounds as task complexity, resolution, and temporal horizon increase.\n\n*About the Speaker*\n\n[Savya Khosla](https://www.linkedin.com/in/savyakhosla/) is a second-year Ph.D. student at the University of Illinois Urbana-Champaign, advised by Prof. Derek Hoiem and Prof. Alex Schwing.\n\n**Leveraging Text-To-Image Diffusion Models for Consistent Set-to-Set Generation**\n\nImage collections are humans' primary way of capturing the world, yet advances in generative editing remain largely inapplicable to this modality. We address this gap by introducing Match-and-Fuse - a zero-shot, training-free method for consistent set-to-set generation from image collections that share a common visual element but differ in viewpoint, capture time, and surrounding content.\nOur key idea is a unified graph-based framework that combines dense correspondences with an emergent prior in text-to-image diffusion models to generate coherent canvases. We achieve state-of-the-art consistency and visual quality, and unlock new creative capabilities for content generation.\n\n*About the Speaker*\n\n[Kate Feingold](https://www.linkedin.com/in/katefeingold/) is a PhD student in Computer Vision at the Weizmann Institute of Science. Her research sits at the intersection of generative models, 3D/4D perception, and multimodal learning, focusing on problems where vision meets other modalities or paradigms in creative tasks.\n\n**Yield Estimation of a Coffee in a dense environment**\n\nThis presentation provides a detailed workflow related to coffee yield estimation in a dense environment. With photos of pre-harvest coffee plants from a couple of coffee estates, details related to pre-processing, annotation to detect regions of interest (ROI), object detection training and inferencing results with various Yolo models and finally segmentation with SAM2 and Yolo\\*-seg with training and inference results to determine the count of raw, pre-mature, mature and over-mature coffee berries and finally the yield of the entire estate. All this is based on real world data captured on iPhone and android phones.\n\n*About the Speaker*\n\n[Raghu M. Rao](http://www.linkedin.com/in/raghumrao) is a consultant working on applications of computer vision AI models. He was previously with AMD and Xilinx. He has a Ph.D. in Wireless Communications from UCLA and is a Senior Member, IEEE. His current interests are in applications of AI for agriculture, health care and wireless communications.",
+    "start_at": "2026-09-24T18:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-ai-machine-learning-and-computer-vision-meetup/events/315388183/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
+    "attendees": 0,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence",
+      "Machine Learning"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316174919",
+    "name": "Sept 17 - ADAS, AV, and AI Meetup",
+    "description": "Join our virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Time, Date and Location**\n\nSep 17, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/adas-av-and-ai-meetup-september-17-2026)**\n\n**AI for Autonomous Driving: From Data to Decisions**\n\nBuilding reliable automated driving systems is as much a data and engineering challenge as a modeling one. In this talk, Tin will share perspectives from his work at Porsche AG on applying modern AI methods across the autonomous driving development process, from making sense of large-scale driving data to understanding and evaluating how AI-based systems behave on the road. He'll discuss lessons learned from real-world development, where today's approaches shine, and where hard problems remain for the ADAS and AV community.\n\n*About the Speaker*\n\n[Tin Stribor Sohn](https://www.linkedin.com/in/tin-stribor-sohn/) is a PhD Student at Porsche AG and Karlsruhe Institute of Technology in the area of Foundation Models for Scenario Understanding and Decision Making in Autonomous Robotics, Tech Lead at Data Driven Engineering for Autonomous Driving, Prior: Master in CS at University of Tuebingen with focus on Computer Vision and Deep Learning and co-founder of a software company for smart EV charging\n\n**Advancing ADAS and Autonomous Vehicle Development with Multimodal Data**\n\nADAS and autonomous vehicle systems rely on increasingly complex data from cameras, video, LiDAR, radar, and other sensor streams. In this session, Murilo will introduce Voxel51 and explore how the latest multimodal capabilities in FiftyOne help teams bring these data sources together to better understand their datasets and model behavior. He’ll discuss how unified workflows for visualization, search, curation, and evaluation can help ADAS and AV teams uncover challenging scenarios, investigate model failures, and build safer, more reliable autonomous systems.\n\n*About the Speaker*\n\n[Murilo Gustineli](https://www.linkedin.com/in/murilo-gustineli/) is a Machine Learning Engineer at Voxel51 working at the intersection of representation learning and computer vision. He holds an M.S. in Computer Science from Georgia Tech, where he co-leads the DS@GT Applied Research & Competitions group, advancing machine learning research through competitive challenges and peer-reviewed publications.\n\n**From Survey-Grade Maps to Physical AI: Scaling Real-World Data for Training and Simulation**\n\nPhysical AI systems are increasingly constrained not by model architectures, but by the availability of scalable, high-fidelity real-world data. This talk explores how Dynamic Map Platform transforms survey-grade road assets collected across 1.8 million km of roads worldwide into training- and simulation-ready datasets, including point clouds, imagery, HD maps, road surface models, and 3D Gaussian Splatting representations.\n\nWe will discuss why geometric accuracy, semantic understanding, and real-world diversity are critical to building robust autonomous driving systems. Attendees will learn how real-world geospatial data can be structured and scaled for AI training and simulation workflows.\n\n*About the Speaker*\n\n[Ryoto Miyake](https://www.linkedin.com/in/ryoto-miyake/) is a Software Engineer at Dynamic Map Platform, where he works on transforming large-scale geospatial data into AI-ready datasets for training, simulation, and validation, such as HD maps and 3D Gaussian Splatting. With a background in transportation engineering, he works closely with automotive manufacturers and industry partners to bridge large-scale real-world mapping data with next-generation AI and mobility systems.",
+    "start_at": "2026-09-17T18:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-ai-machine-learning-and-computer-vision-meetup/events/316174919/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
+    "attendees": 0,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316064296",
+    "name": "Sept 22 - FiftyOne Agent: Automate Visual AI Workflows with Natural Language",
+    "description": "Learn about FiftyOne Agent, an AI assistant built directly into FiftyOne that turns plain-language requests into real dataset operations.\n\n**Date, Time and Location**\n\nSep 22, 2026\n9:00 AM - 10:00 AM Pacific\nOnline. **[Register for the Zoom!](https://voxel51.com/events/meet-the-fiftyone-agent-automate-visual-ai-workflows-with-natural-language-september-22-2026)**\n\nAsk it to find and remove duplicate images, run object detection and surface low-confidence predictions, or evaluate a model and summarize where it fails, and the agent handles execution end to end.\n\nWe will also walk through the newest capabilities shipping with this release, including code generation and plugin generation. You will see how to go from a conversational prompt to a custom dashboard, visualization, or full FiftyOne application, and how to package multi-step workflows as reusable skills the agent can call on demand.\n\nBecause the agent runs inside FiftyOne's secure guardrails, teams keep full control. Connect your preferred models from over 100 LLM providers, route requests through your own enterprise gateway, and maintain audit logging and user attribution for every action the agent takes.",
+    "start_at": "2026-09-22T18:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-ai-machine-learning-and-computer-vision-meetup/events/316064296/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
+    "attendees": 0,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "315935906",
+    "name": "Google Agents in Production for Enterprises (Virtual) - Ep 1",
+    "description": "**Important**: Register on the [event website](https://www.aicamp.ai/event/eventdetails/W2026081110) to receive the joining link. (rsvp on meetup will NOT receive anything).\n\nThis is virtual event for our AI global community, please double-check your local time. Can't make it live? Register anyway to receive the webinar recording.\n\nBrought to you by Google Cloud and AICamp, Agents in Production for Enterprises is a global event series designed for organizations ready to move beyond AI experimentation and into production reality. This series brings together Google Cloud engineers, partner architects, and enterprise practitioners to tackle the real-world challenges of building and deploying agentic AI at scale.\n\n**What to Expect:**\n\n* ▶️ Deep-Dive Talk: Strategic insights from Google Cloud engineers and partner architects on enterprise-grade AI architectures\n* 💻 Live Demo: See production-ready agentic AI in action across real enterprise scenarios\n* 🛠️ Hands-On Code Labs: Build and deploy agentic workflows with guided, code-first labs\n* 🤝 Community & Networking: Connect with peers, speakers, and tech leaders solving the same challenges you face\n\n**Venue:**\nVirtual, join from anywhere\n\n**More virtual sessions:**\n\n* Aug 20th: NVIDIA Flare Webinar Q3. [RSVP](https://www.aicamp.ai/event/eventdetails/W2026082010)\n* Aug 25th: Google Agents in Production for Enterprises (#2). [RSVP](https://www.aicamp.ai/event/eventdetails/W2026082501)\n* Sep 2nd: AI Deep Dive with Google Ep 3. [RSVP](https://www.aicamp.ai/event/eventdetails/W2026090210)",
+    "start_at": "2026-09-22T19:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-ai-developers-group/events/315935906/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Madrid AI Developers Group",
+    "attendees": 7,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316397919",
+    "name": "AI Deep Dive Webinar - Taking LangGraph to production",
+    "description": "**Important**: Register on the [event website](https://www.aicamp.ai/event/eventdetails/W2026091710) to receive the joining link. (rsvp on meetup will NOT receive anything).\n\nThis is virtual event for our AI global community, please double-check your local time. Can't make it live? Register anyway to receive the webinar recording.\n\nJoin Diagrid to learn taking LangGraph to production\n\n**Tech Talk: Taking LangGraph to production**\n**Speaker:** Mark Fussell\\, Co\\-founder & CEO\\, Diagrid \\| Co\\-creator of Dapr\\. and Yaron Schneider\\, Co\\-founder & CTO\\, Diagrid \\| Co\\-creator of Dapr\n**Abstract:** In this session, Dapr co-creators Mark Fussell and Yaron Schneider draw the line between checkpointing and durable execution, show exactly where LangGraph's persistence stops, and kill a live LangGraph agent mid-run to show Diagrid Catalyst bring it back without any re-architecture or custom recovery code.\nYou'll walk away knowing:\n\n* How to make LangGraph agents failure-proof, even in the face of complete outages\n* How to keep a complete, tamper-proof system of record that proves what your agents did\n* How to secure LangGraph deployments in any environment and specifically on Kubernetes\n\n**Who should attend**\nEngineers and architects running or planning to run LangGraph agents, platform teams responsible for agent reliability, and engineering leaders deciding how much of the reliability stack to build themselves.\n\n**Venue:**\nVirtual, join from anywhere\n\n**More virtual sessions:**\n\n* Sep 22nd: Google Agents in Production for Enterprises (#1). [RSVP](https://www.aicamp.ai/event/eventdetails/W2026081110)\n* Oct 14th: AI Deep Dive with Google Ep 4. [RSVP](https://www.aicamp.ai/event/eventdetails/W2026101410)",
+    "start_at": "2026-09-24T19:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-ai-developers-group/events/316397919/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Madrid AI Developers Group",
+    "attendees": 4,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316297853",
+    "name": "Agentic AI Multimodal MonthlyMixer - Where Agents Minds Meet",
+    "description": "Join the global gathering of AI builders, researchers, and enthusiasts pushing the boundaries of agentic systems and multimodal intelligence.\nConnect every month for organic networking, 1-on-1 video chats, and powerful peer-to-peer exchanges across a flexible, open chat-based platform.\n**Watch how it works**: [https://youtu.be/trmf6Gqs6FM](https://www.youtube.com/watch?v=trmf6Gqs6FM)\nWhat Is the **Agentic AI Multimodal** #MonthlyMixer?\nThe **Agentic AI Multimodal MonthlyMixer** is a self-led, virtual networking event built for the ever-evolving AI community. Held on a Slack-like platform, this event is **unmoderated and open-format**, giving you full control to explore conversations, meet new minds, and share your work with others who “get it.”\nFrom autonomous agents to multimodal AI, this mixer is the go-to online space for researchers, engineers, founders, and curious learners working at the frontier of machine intelligence.\n**Who It’s For:**\n\n* AI & ML researchers building agent-based systems\n* Engineers and developers experimenting with LLMs and multimodal models\n* Founders and startup teams innovating with AI tools\n* Students, hobbyists, and professionals exploring applied AI\n* AI community managers, mentors, and tech evangelists\n\nWhether you're here to **collaborate, hire, share, or simply learn** — this mixer offers a space to grow your AI network month by month.\nChannels You'll Explore:\nOnce inside, you’ll find themed group chats designed to make it easy to dive in:\n\n* **[#general](https://teamtaoindia.slack.com/archives/C04SYEPNHH6)** – For intros, casual chat, and major community announcements\n* **#networking** – Drop your portfolio, project, startup, or agent demo\n* **#intros** – Share your background, interests, and goals\n* **#help-wanted** – Ask for or offer help with AI, code, design, research & more\n* **#industry-room-tech** – Deep discussions on the latest tools, models, and frameworks in AI\n\nAnd yes — you can instantly jump into **1-on-1 video or text conversations** with anyone you meet.\nWhen & Where?\n\n* **Every third Wednesday of the month**\n* **5:00 PM – 7:00 PM (your local time)**\n* **Register from the platform here - [https://events.tao.ai/pod/analytics.club/cont-4d55c8eg78pg](https://events.tao.ai/pod/analytics.club/cont-4d55c8eg78pg)**\n\nNo Zoom. No formal agenda. Just real people, real tech, real connections.\n**Why You Shouldn’t Miss It:**\n\n* Global network of agentic AI practitioners and researchers\n* Self-guided 1-on-1 connections and peer-led topic chats\n* Showcase your work, explore partnerships, or ask for feedback\n* Return monthly to reconnect and keep the conversation going\n* A low-pressure space to think out loud with fellow innovators\n\nQuestions or Feedback?\nReach out any time at: [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n**Useful Links**\n\n* **Explainer Video**: [https://youtu.be/trmf6Gqs6FM](https://youtu.be/trmf6Gqs6FM)\n* **Need help?** [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**Hashtags:**\n#AgenticAI #MultimodalAI #MonthlyMixer #AICommunity #AIMeetup #LLMNetworking #AutonomousAgents #AIBuilderMeetup #MachineLearningNetworking #VirtualAIMixer #AIIndustryEvents #ConnectWithAI \\*\\*#\\*\\*thefutureofAI—together.",
+    "start_at": "2026-09-16T17:00:00+02:00",
+    "url": "https://www.meetup.com/ac-mad/events/316297853/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Analytics.CLUB Madrid",
+    "attendees": 2,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence",
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Machine Learning",
+    "source_id": "316418129",
+    "name": "AIDataTech Connect: Global Virtual Networking Event for AI, Data & Tech Pros",
+    "description": "Are you working in artificial intelligence, data science, or machine learning? Whether you're a developer, researcher, startup founder, or aspiring tech enthusiast — **AIDataTech Connect** is your go-to **AI networking event online** designed to foster career growth, real-time collaboration, and innovation exchange in a dynamic, community-driven environment.\n\nThis event brings together a global **virtual AI community meetup** hosted on a flexible Slack-style platform that supports group discussions and **1-1 video or text chats**, making it perfect for professionals looking to connect, collaborate, and build with others in the AI ecosystem.\n\n🎥 **Watch how it works:**\n👉 [https://www.youtube.com/watch?v=NRUTXUOFKm4](https://www.youtube.com/watch?v=NRUTXUOFKm4)\n\n**💬 What to Expect:**\nAt AIDataTech Connect, attendees are encouraged to explore, share, and engage across multiple interactive channels designed to support learning, networking, and opportunity discovery:\n\n* **General** – A central hub for orientation, announcements, and community-wide discussions.\n* **Intros** – Introduce yourself, your background, and your AI/tech journey. Spark meaningful introductions.\n* **Networking** – Share your resume, startup, or project pitch. Meet employers, peers, or collaborators.\n* **Help Wanted** – Ask for help or offer support on coding, data, research, or AI model deployment.\n* **Industry Room Tech** – Discuss AI frameworks, tools, and the latest tech trends in data and development.\n* **Project Showcase** – Perfect for those seeking a **machine learning career fair** experience or showcasing real-world work through our **AI project showcase platform**.\n* **Collaboration Pods** – Jump into discussions around **collaboration for AI specialists**, including open-source partnerships, research pods, and co-building opportunities.\n\n**📍 Where:**\nJoin virtually at:\n👉 [https://events.tao.ai/pod/analytics.club/q4j5imq9qjs9](https://events.tao.ai/pod/analytics.club/q4j5imq9qjs9)\n**🕔 When:**\nEvent runs globally from **5:00 PM – 7:00 PM local time** — designed for participation across time zones.\n\n**👥 Who Should Join:**\n\n* AI professionals, ML engineers, and data scientists\n* Tech founders, entrepreneurs, and product leaders\n* Students, job seekers, and aspiring AI talent\n* Recruiters, employers, and hiring managers in AI/tech\n* Researchers, open-source contributors, and peer mentors\n\n**🧠 Why Attend:**\n\n* Engage in a truly global **virtual tech networking event**\n* Discover AI jobs, freelance gigs, or partnership opportunities\n* Connect with experts and peers in AI, ML, and data\n* Explore AI applications and get feedback on your models or tools\n* Network directly via 1-on-1 video or text chats\n* Collaborate on new ideas, research papers, or open-source projects\n\n**❓ Questions or Suggestions?**\nWe’re here to help. Drop us a note at:\n👉 [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**🔖 Hashtags:**\n#AIDataTechConnect #AINetworkingEventOnline #VirtualAICommunityMeetup #MachineLearningCareerFair #AIProjectShowcasePlatform #CollaborationForAISpecialists #DataScienceMeetup #MLJobs #AIResearchNetworking #GlobalTechNetworking #TechCollaborationEvent",
+    "start_at": "2026-09-24T17:00:00+02:00",
+    "url": "https://www.meetup.com/ac-mad/events/316418129/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Analytics.CLUB Madrid",
+    "attendees": 2,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Machine Learning",
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Data Science",
+    "source_id": "316003491",
+    "name": "Automate your reporting with Make & SQL",
+    "description": "**[Save your seat on the official event page](https://www.lewagon.com/events/automate-your-reporting-with-make-sql-8inR0I)**\n\n**Copy, paste, clean up, repeat... if this routine sounds familiar, this workshop is for you.**\nIt’s time to say goodbye to manually rebuilding reports every week. Discover how to automate them so they update almost by themselves. No more Monday morning copy-pasting, make way for a smoother, more reliable, and more efficient workflow.\nYou’ll leave with a concrete method to save time on recurring reports and focus on the analyses that really matter.\n\n**Who is this workshop for?**\nAll levels are welcome! No prerequisites required.\n\n**What you’ll learn:**\n✅ Use SQL to extract raw data directly from your database\n✅ Automate and structure your reporting workflow with Make\n✅ Compile your data into a clear, clean, and shareable report in Google Sheets\n\n**About Le Wagon:**\nLe Wagon is the #1 ranked tech bootcamp in the world with 27 campuses and an impressive community of over 30,000 alumni. We teach a wide range of courses, including AI Software Development, Data Science & AI, Data Analytics and Data Engineering, catering to both beginners and experienced individuals.",
+    "start_at": "2026-09-16T18:30:00+02:00",
+    "url": "https://www.meetup.com/le-wagon-madrid-coding-bootcamp/events/316003491/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Le Wagon Madrid | Tech Bootcamps",
+    "attendees": 2,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Data Science",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Data Science",
+    "source_id": "316232019",
+    "name": "AIConnect: Global Virtual Job & Career Networking Event for AI Specialists",
+    "description": "Are you an AI engineer, data scientist, machine learning researcher, or aspiring innovator in the world of artificial intelligence? **AIConnect** is your dynamic **AI networking event online** designed to foster real-time conversations, career growth, and collaboration opportunities — all within a vibrant and self-led virtual space.\n\nWhether you're exploring job roles in AI, hoping to demo your latest project, or searching for your next co-developer or data scientist partner, **AIConnect** offers a one-of-a-kind experience to connect with the global **machine learning community meetup** — anytime, from anywhere.\n\n🎥 **Watch how it works in our explainer video:**\n👉 [https://www.youtube.com/watch?v=bH3uNrkUTuw](https://www.youtube.com/watch?v=bH3uNrkUTuw)\n\n**💡 Why Join AIConnect?**\n\nThis is not just another virtual event. It’s a **collaboration platform for AI specialists** where you can grow your professional network, showcase your AI/ML portfolio, exchange ideas, and chat directly with fellow participants, recruiters, and service providers.\nDesigned for **AI career fair virtual** seekers and builders alike, the platform supports live 1-1 **video or text chats**, and offers open access to diverse community-led channels tailored to your interests.\n\n**💬 Brainstorming & Discussion Channels Include:**\n\n* **General** – Your go-to hub for announcements, orientation, and casual community-wide conversation.\n* **Intros** – Introduce yourself, your research, your startup, or just share your journey in AI.\n* **Networking** – Showcase your AI/ML projects, portfolios, startup pitches, or job aspirations.\n* **Help Wanted** – Looking for team members, mentorship, freelance gigs, or offering support? Post here.\n* **Industry Room Tech** – Dive into the latest developments in AI frameworks, ML pipelines, data tools, and tech trends.\n\nWhether you’re a beginner or a pro, a researcher or a recruiter — this space empowers growth through **project demos, career discussions, and research conversations.**\n\n**🧠 What You’ll Gain:**\n\n* Direct access to a **global AI talent and hiring ecosystem**\n* Exposure to cutting-edge projects via the **AI project showcase event**\n* Connections with peers and thought leaders across AI, ML, and data science\n* Career insights and opportunities from fellow professionals and employers\n* A flexible environment to network, brainstorm, and build meaningful collaborations\n* Instant 1-on-1 video or text chats for deeper engagement\n\n**📍 Where:**\nJoin virtually at:\n👉 [https://events.tao.ai/pod/analytics.club/jknf0o9m3kix](https://events.tao.ai/pod/analytics.club/jknf0o9m3kix)\n**🕔 When:**\nEvery session starts at **5:00 PM – 7:00 PM local time** — recurring monthly on Fridays. Mark your calendar and come prepared to connect!\n\n**👥 Who Should Attend:**\n\n* AI engineers, ML developers, and data scientists\n* Startup founders and entrepreneurs in the AI/tech space\n* Recruiters, hiring managers, and project collaborators\n* Students, academics, and early-career professionals\n* Anyone passionate about AI, machine learning, and applied tech innovation\n\n**📩 Questions or Suggestions?**\nWe’d love to hear from you. Reach us anytime here:\n👉 [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**🔖 Hashtags:**\n#AIConnect #AINetworkingEventOnline #AICareerFairVirtual #MachineLearningCommunityMeetup #AIProjectShowcaseEvent #CollaborationPlatformForAISpecialists #MLJobs #GlobalAINetworking #TechNetworkingEvent #AIProfessionalsUnite",
+    "start_at": "2026-09-11T23:00:00+02:00",
+    "url": "https://www.meetup.com/ac-mad/events/316232019/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Analytics.CLUB Madrid",
+    "attendees": 2,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "315676501",
+    "name": "SAFe® DevOps (SDP) + Certificación Internacional | DevOps para Agilidad Europa",
+    "description": "**Aprende a acelerar la entrega de valor con DevOps, Continuous Delivery Pipeline y certificación oficial SAFe® DevOps Practitioner (SDP).**\nLa transformación digital ya no depende únicamente de desarrollar software. Las organizaciones necesitan entregar soluciones de calidad de forma rápida, segura y continua.\nLa certificación oficial SAFe® DevOps Practitioner (SDP) te prepara para liderar esa transformación mediante prácticas DevOps, Lean y Agilidad Empresarial utilizadas por miles de organizaciones en todo el mundo.\nEn Meta Agility, Partner Oficial de Scaled Agile®, complementamos el contenido oficial con experiencia real implementando SAFe® en empresas privadas e instituciones de gobierno.\n**🚀 Beneficios para tu desarrollo profesional**\nLa demanda de profesionales con conocimientos en DevOps continúa creciendo, pero las empresas buscan mucho más que especialistas en herramientas.\n**Con esta certificación desarrollarás competencias para:**\n✔ Comprender el flujo completo de entrega de valor, desde la idea hasta la puesta en producción.\n✔ Integrar negocio, desarrollo, pruebas, seguridad y operaciones bajo una visión compartida de DevOps.\n✔ Liderar iniciativas de transformación digital y mejora continua.\n✔ Reducir tiempos de entrega mediante prácticas modernas de Continuous Delivery.\n✔ Identificar y eliminar cuellos de botella utilizando técnicas de Value Stream Mapping.\n✔ Aplicar el enfoque CALMR de SAFe® para construir organizaciones más ágiles y eficientes.\n**Esta certificación puede ayudarte a:**\n🚀 Diferenciarte en procesos de contratación.\n🚀 Acceder a posiciones de mayor responsabilidad.\n🚀 Incrementar tu valor profesional como líder técnico o de transformación.\n🚀 Fortalecer tu perfil internacional con una certificación oficial reconocida por organizaciones de todo el mundo.\n🚀 Aprender a utilizar Inteligencia Artificial para acelerar actividades de desarrollo, pruebas, documentación, automatización y mejora continua.\n**🏢 Beneficios para las organizaciones/ empresas**\nLas empresas obtienen mejores resultados cuando todas las áreas trabajan bajo una misma estrategia de entrega de valor.\n**Con SAFe® DevOps las organizaciones pueden:**\n✔ Reducir significativamente el Time-to-Market.\n✔ Disminuir tiempos de espera entre desarrollo, pruebas y producción.\n✔ Mejorar la colaboración entre negocio, desarrollo, operaciones y seguridad.\n✔ Detectar y eliminar desperdicios en el flujo de entrega.\n✔ Incrementar la calidad del software mediante integración, pruebas y seguridad continuas.\n✔ Reducir riesgos en los despliegues.\n✔ Entregar valor al cliente con mayor frecuencia.\n✔ Mejorar la capacidad de adaptación frente a cambios del mercado.\n✔ Optimizar el retorno de inversión en iniciativas digitales.\nEstos resultados están alineados con los objetivos del curso oficial, que promueve una mentalidad DevOps compartida, el diseño de un Continuous Delivery Pipeline, el uso del Value Stream Mapping y la elaboración de un plan de transformación DevOps adaptado a cada organización.\n**¿Qué recibirás?**\n🎓 Curso Oficial SAFe®\n📚 Material oficial de Scaled Agile®\n💻 Acceso durante un año a SAFe Studio.\n📝 Derecho a presentar el examen oficial.\n🏅 Certificación internacional SAFe® DevOps Practitioner (SDP) al aprobar el examen.\n🤝 Formación impartida por Meta Agility, Partner Oficial de Scaled Agile®, con experiencia práctica implementando SAFe® en distintos sectores.\n**🚀 Da el siguiente paso en tu carrera**\nSi deseas convertirte en un profesional capaz de acelerar la entrega de soluciones, conectar equipos multidisciplinarios y liderar iniciativas de transformación empresarial, SAFe® DevOps Practitioner es una de las certificaciones con mayor impacto para organizaciones que adoptan Business Agility.\n👉 Reserva tu lugar y conoce nuestras promociones y facilidades de pago.\n**🗓️ Este programa de Scaled Agile Framework se realizará en las siguientes sesiones:**\n.\n\n* **Sesión 1.** Sábado 12 de septiembre\n* **Sesión 2.** Domingo 13 de septiembre\n* **Sesión 3.** Sábado 19 de septiembre\n* **Sesión 4.** Domingo 20 de septiembre\n\n.\n**🕗 Horario compatible con LATAM y España**\n\n* 7:00 a 11:00 Hrs Costa Rica 🇨🇷, Guatemala 🇬🇹, México 🇲🇽\n* 8:00 a 12:00 Hrs Colombia 🇨🇴, Ecuador 🇪🇨, Perú 🇵🇪\n* 9:00 a 13:00 Hrs Bolivia 🇧🇴, Venezuela 🇻🇪\n* 10:00 a 14:00 Hrs Argentina 🇦🇷, Brasil 🇧🇷, Uruguay 🇺🇾\n* 15:00 a 19:00 Hrs España 🇪🇸, Italia 🇮🇹, Alemania 🇩🇪\n*\n\n**🖋️ Puedes contactarnos :**\n.\nVía **correo** electrónico en [[contacto@meta-agility.com.mx](mailto:contacto@meta-agility.com.mx)]([http://mailto:contacto@meta-agility.com.mx/](http://mailto:contacto@meta-agility.com.mx/))\n.\no a través de **[WhatsApp](https://api.whatsapp.com/send/?phone=525630001321&text=Hola%2C%0A%0AEncontr%C3%A9+tu+meetup+y+deseo+obtener+mayor+informaci%C3%B3n+sobre+las+certificaciones+de+SAFe.+%0A%0AMe+interesa+la+certificacion+de+SAFe+DepOps..)**\n.\n🌐 También puedes visitar nuestro sitio web para conocer más sobre nuestras certificaciones:\n\n* [Portafolio de formación Scaled Agile](http://%5Bhttps//%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D(%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D)(%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D(www.meta-agility.com.mx/safe-scaled-agile%5D))(%5B%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile%5D)(%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile%5D(https://www.meta-agility.com.mx/safe-scaled-agile))))\n* [Leading SAFe | SAFe Agilist (SA)](http://%5Bhttps//%5B%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-leading-safe-en-espanol%5D%5D%5D%5D(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-leading-safe-en-espanol%5D%5D%5D)(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-leading-safe-en-espanol%5D%5D%5D(%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-leading-safe-en-espanol%5D%5D))(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-leading-safe-en-espanol%5D%5D%5D(%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-leading-safe-en-espanol%5D%5D)(%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-leading-safe-en-espanol%5D%5D(www.meta-agility.com.mx/safe-scaled-agile/curso-leading-safe-en-espanol%5D)))(%5B%5B%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile/curso-leading-safe-en-espanol%5D%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile/curso-leading-safe-en-espanol%5D%5D)(%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile/curso-leading-safe-en-espanol%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile/curso-leading-safe-en-espanol%5D))(%5B%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile/curso-leading-safe-en-espanol%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile/curso-leading-safe-en-espanol%5D)(%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile/curso-leading-safe-en-espanol%5D(https://www.meta-agility.com.mx/safe-scaled-agile/curso-leading-safe-en-espanol)))))\n* [SAFe Scrum Master (SSM)](http://%5Bhttps//%5B%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-safe-scrum-master-en-espanol-ssm%5D%5D%5D%5D(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-safe-scrum-master-en-espanol-ssm%5D%5D%5D)(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-safe-scrum-master-en-espanol-ssm%5D%5D%5D(%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-safe-scrum-master-en-espanol-ssm%5D%5D))(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-safe-scrum-master-en-espanol-ssm%5D%5D%5D(%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-safe-scrum-master-en-espanol-ssm%5D%5D)(%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-safe-scrum-master-en-espanol-ssm%5D%5D(www.meta-agility.com.mx/safe-scaled-agile/curso-safe-scrum-master-en-espanol-ssm%5D)))(%5B%5B%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile/curso-safe-scrum-master-en-espanol-ssm%5D%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile/curso-safe-scrum-master-en-espanol-ssm%5D%5D)(%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile/curso-safe-scrum-master-en-espanol-ssm%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile/curso-safe-scrum-master-en-espanol-ssm%5D))(%5B%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile/curso-safe-scrum-master-en-espanol-ssm%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile/curso-safe-scrum-master-en-espanol-ssm%5D)(%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile/curso-safe-scrum-master-en-espanol-ssm%5D(https://www.meta-agility.com.mx/safe-scaled-agile/curso-safe-scrum-master-en-espanol-ssm)))))\n* [SAFe Product Owner / Product Management (POPM)](http://%5Bhttps//%5B%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-safe-product-owner-product-management-en-espanol-popm%5D%5D%5D%5D(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-safe-product-owner-product-management-en-espanol-popm%5D%5D%5D)(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-safe-product-owner-product-management-en-espanol-popm%5D%5D%5D(%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-safe-product-owner-product-management-en-espanol-popm%5D%5D))(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-safe-product-owner-product-management-en-espanol-popm%5D%5D%5D(%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-safe-product-owner-product-management-en-espanol-popm%5D%5D)(%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-safe-product-owner-product-management-en-espanol-popm%5D%5D(www.meta-agility.com.mx/safe-scaled-agile/curso-safe-product-owner-product-management-en-espanol-popm%5D)))(%5B%5B%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile/curso-safe-product-owner-product-management-en-espanol-popm%5D%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile/curso-safe-product-owner-product-management-en-espanol-popm%5D%5D)(%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile/curso-safe-product-owner-product-management-en-espanol-popm%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile/curso-safe-product-owner-product-management-en-espanol-popm%5D))(%5B%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile/curso-safe-product-owner-product-management-en-espanol-popm%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile/curso-safe-product-owner-product-management-en-espanol-popm%5D)(%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile/curso-safe-product-owner-product-management-en-espanol-popm%5D(https://www.meta-agility.com.mx/safe-scaled-agile/curso-safe-product-owner-product-management-en-espanol-popm)))))\n* [Lean Portfolio Management | SAFe LEAN PORTFOLIO MANAGEMENT (LPM)](http://%5Bhttps//%5B%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-safe-lean-portfolio-management-en-espanol-lpm%5D%5D%5D%5D(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-safe-lean-portfolio-management-en-espanol-lpm%5D%5D%5D)(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-safe-lean-portfolio-management-en-espanol-lpm%5D%5D%5D(%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-safe-lean-portfolio-management-en-espanol-lpm%5D%5D))(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-safe-lean-portfolio-management-en-espanol-lpm%5D%5D%5D(%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-safe-lean-portfolio-management-en-espanol-lpm%5D%5D)(%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-safe-lean-portfolio-management-en-espanol-lpm%5D%5D(www.meta-agility.com.mx/safe-scaled-agile/curso-safe-lean-portfolio-management-en-espanol-lpm%5D)))(%5B%5B%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile/curso-safe-lean-portfolio-management-en-espanol-lpm%5D%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile/curso-safe-lean-portfolio-management-en-espanol-lpm%5D%5D)(%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile/curso-safe-lean-portfolio-management-en-espanol-lpm%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile/curso-safe-lean-portfolio-management-en-espanol-lpm%5D))(%5B%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile/curso-safe-lean-portfolio-management-en-espanol-lpm%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile/curso-safe-lean-portfolio-management-en-espanol-lpm%5D)(%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile/curso-safe-lean-portfolio-management-en-espanol-lpm%5D(https://www.meta-agility.com.mx/safe-scaled-agile/curso-safe-lean-portfolio-management-en-espanol-lpm)))))\n* [Advanced Facilitator: Value Stream Mapping](http://%5Bhttps//%5B%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-advanced-facilitator-value-stream-mapping%5D%5D%5D%5D(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-advanced-facilitator-value-stream-mapping%5D%5D%5D)(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-advanced-facilitator-value-stream-mapping%5D%5D%5D(%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-advanced-facilitator-value-stream-mapping%5D%5D))(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-advanced-facilitator-value-stream-mapping%5D%5D%5D(%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-advanced-facilitator-value-stream-mapping%5D%5D)(%5Bwww.meta-agility.com.mx/safe-scaled-agile/curso-advanced-facilitator-value-stream-mapping%5D%5D(www.meta-agility.com.mx/safe-scaled-agile/curso-advanced-facilitator-value-stream-mapping%5D)))(%5B%5B%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile/curso-advanced-facilitator-value-stream-mapping%5D%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile/curso-advanced-facilitator-value-stream-mapping%5D%5D)(%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile/curso-advanced-facilitator-value-stream-mapping%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile/curso-advanced-facilitator-value-stream-mapping%5D))(%5B%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile/curso-advanced-facilitator-value-stream-mapping%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile/curso-advanced-facilitator-value-stream-mapping%5D)(%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile/curso-advanced-facilitator-value-stream-mapping%5D(https://www.meta-agility.com.mx/safe-scaled-agile/curso-advanced-facilitator-value-stream-mapping)))))\n* [Advanced Scrum Master (ADVANCED SSM)](http://%5Bhttps//%5B%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D%5D(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D)(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D(%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D))(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D(%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D)(%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D(www.meta-agility.com.mx/safe-scaled-agile%5D)))(%5B%5B%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile%5D%5D)(%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile%5D))(%5B%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile%5D)(%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile%5D(https://www.meta-agility.com.mx/safe-scaled-agile)))))\n* [Agile Product Management | SAFe PRODUCT MANAGEMENT (APM)](http://%5Bhttps//%5B%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D%5D(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D)(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D(%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D))(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D(%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D)(%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D(www.meta-agility.com.mx/safe-scaled-agile%5D)))(%5B%5B%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile%5D%5D)(%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile%5D))(%5B%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile%5D)(%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile%5D(https://www.meta-agility.com.mx/safe-scaled-agile)))))\n* [SAFe® for Teams | SAFe PRACTITIONER (SP)](http://%5Bhttps//%5B%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D%5D(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D)(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D(%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D))(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D(%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D)(%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D(www.meta-agility.com.mx/safe-scaled-agile%5D)))(%5B%5B%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile%5D%5D)(%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile%5D))(%5B%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile%5D)(%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile%5D(https://www.meta-agility.com.mx/safe-scaled-agile)))))\n* [SAFe® DevOps | SAFe DEVOPS (SDP)](http://%5Bhttps//%5B%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D%5D(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D)(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D(%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D))(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D(%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D)(%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D(www.meta-agility.com.mx/safe-scaled-agile%5D)))(%5B%5B%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile%5D%5D)(%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile%5D))(%5B%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile%5D)(%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile%5D(https://www.meta-agility.com.mx/safe-scaled-agile)))))\n* [SAFe® for Architects (ARCH)](http://%5Bhttps//%5B%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D%5D(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D)(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D(%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D))(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D(%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D)(%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D(www.meta-agility.com.mx/safe-scaled-agile%5D)))(%5B%5B%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile%5D%5D)(%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile%5D))(%5B%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile%5D)(%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile%5D(https://www.meta-agility.com.mx/safe-scaled-agile)))))\n* [SAFe Release Train Engineer| SAFe MANAGEMENT (RTE) (In Company)](http://%5Bhttps//%5B%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D%5D(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D)(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D(%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D))(%5B%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D(%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D)(%5Bwww.meta-agility.com.mx/safe-scaled-agile%5D%5D(www.meta-agility.com.mx/safe-scaled-agile%5D)))(%5B%5B%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile%5D%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile%5D%5D)(%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile%5D))(%5B%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile%5D%5D(https://www.meta-agility.com.mx/safe-scaled-agile%5D)(%5Bhttps://www.meta-agility.com.mx/safe-scaled-agile%5D(https://www.meta-agility.com.mx/safe-scaled-agile)))))",
+    "start_at": "2026-09-12T15:00:00+02:00",
+    "url": "https://www.meetup.com/agilidad-y-liderazgo-europa/events/315676501/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Agilidad liderazgo y escalado | M3.0 M3K y SAFe | Europa",
+    "attendees": 1,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Startups",
+    "source_id": "316271071",
+    "name": "Silicon Valley Business Networking (Online) ",
+    "description": "This event is organized in collaboration with many groups!\n\n**Organizational Sponsor:**\n\n**Startup House**\n\n**Need a place to stay short term in Silicon Valley?**\n\n**Stay at Startup House in Palo Alto - the heart of Silicon Valley - for as low as $50 a night!**\n\n**-Network, socialize and connect with entrepreneurs all over the world!**\n\n**-Enjoy social events and startup and venture capital-related programming!**\n\n**\\- Have access to world class amenities\\, iconic tech companies\\, top tier venture capital firms\\, Stanford University\\, etc\\. \\- all within walking or biking distance\\!**\n\n**For more info, send an email message to:**\n\n**siliconvalleystartuphousing@gmail.com**\n\n**Put this in the subject header:**\n\n**Silicon Valley Startup Housing**\n\nThis event is 100% online.\n\nParticipants can be located anywhere in the world!\n\nThis event is FREE to attend!\n\nIn order to attend, please register here:\n\n[https://www.eventbrite.com/e/silicon-valley-business-networking-online-tickets-712802279807?aff=oddtdtcreator](https://www.eventbrite.com/e/silicon-valley-business-networking-online-tickets-712802279807?aff=oddtdtcreator)\n\n(The login link will be sent via email to Eventbrite registrants right before the start of the event.)\n\nHurry! Slots are limited!\n\nThere's no content or speaker at this event -- just business networking.\n\nBuild your business network - face to face (online)!\n\nJoin a virtual gathering of professionals from all walks of life from all over the world!\n\nYou may meet your next business collaborator, client, employer, employee or friend!\n\nMeet Silicon Valley movers and shakers and influencers from all over the world - tech entrepreneurs, developers, engineers, attorneys, bloggers, academics, thought leaders, community organizers, artists, financiers, and investors!\n\nN﻿etwork, socialize and connect!\n\nFor more info on Idea to IPO events, visit:\n\n[www.idea-to-ipo.com](www.idea-to-ipo.com) (our main meetup group among 160 meetup groups globally)\n\n[https://www.youtube.com/@ideatoipo2 ](https://www.youtube.com/@ideatoipo2)(videos of online events)\n\n[@﻿ideatoipo](@%EF%BB%BFideatoipo)",
+    "start_at": "2026-09-14T21:00:00+02:00",
+    "url": "https://www.meetup.com/spain-startup-idea-to-ipo/events/316271071/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Spain  Startup: Idea to IPO",
+    "attendees": 1,
+    "max_tickets": 80,
+    "spots_left": 79,
+    "found_in": [
+      "Startups"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Startups",
+    "source_id": "316349046",
+    "name": "How to Build AI Skills For Your Career",
+    "description": "This event is being promoted by many groups.\n\nOur meetup group is participating by promoting this event.\n\nThis event is organized by Albert's List.\n\nOur meetup group is collaborating by promoting this event.\n\nThis is an online event.\n\nAttendees can be located anywhere in the world!\n\nThis event is FREE to attend!\n\nIn order to attend, please register here:\n[https://www.eventbrite.com/e/how-to-build-ai-skills-for-your-career-tickets-1999078866704?aff=ideatoipo](https://www.eventbrite.com/e/how-to-build-ai-skills-for-your-career-tickets-1999078866704?aff=ideatoipo)\nAI is reshaping work. But most professionals don't know where to start. Do you build an agent to improve your job search? Automate repetitive work in your current role? Or create a side project to generate income?\n**The Session**\nIn this webinar, Albert of Albert's List walks through how professionals across different situations are using vibe coding and AI agents to move faster, land better roles, and create leverage. You'll see:\n\n* What \"vibe coding\" actually is (and why it works for non-technical builders)\n* Why agents matter at work, and what they actually do\n* Real examples: job seekers building search tools, operators automating workflows, builders shipping side projects\n* How to pick the right path for your situation\n\nThis isn't a technical tutorial. It's a framework for deciding what you should build and why.\n**Who This Is For**\n\n* Job seekers who want to differentiate themselves and move faster\n* Professionals in roles who want to automate friction\n* People interested in building a side project or consulting practice\n\n**What Happens Next**\nAt the end, you'll vote on what you'd actually build. Based on community demand, we'll announce workshops and training in the areas that matter most to our audience.",
+    "start_at": "2026-09-29T00:00:00+02:00",
+    "url": "https://www.meetup.com/spain-startup-idea-to-ipo/events/316349046/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Spain  Startup: Idea to IPO",
+    "attendees": 2,
+    "max_tickets": 50,
+    "spots_left": 48,
+    "found_in": [
+      "Startups"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Startups",
+    "source_id": "316350269",
+    "name": "How to Strategize and Execute Your Job Search with AI in One Hour",
+    "description": "There are many groups promoting this event.\n\nOur meetup group is participating by promoting this event.\n\nThis event is organized by Albert's List.\n\nThis is an online event.\n\nAttendees can be located anywhere in the world!\n\nThere is a cost to attend this event ($5+)\n\nIn order to attend, please register here:\n[https://www.eventbrite.com/e/how-to-strategize-and-execute-your-job-search-with-ai-in-one-hour-tickets-1995041486792?aff=ideatoipo](https://www.eventbrite.com/e/how-to-strategize-and-execute-your-job-search-with-ai-in-one-hour-tickets-1995041486792?aff=ideatoipo)\nMost people take weeks or even months to organize their job search. In the AI era, the market moves so fast that by the time you’ve figured out your plan, everything has changed—and you’re stuck pivoting again. The result? Job seekers are always chasing the market instead of leading it.\nIt doesn’t have to be this way.\n\nAI isn’t just for recruiters and hiring managers—it’s for you too. If you’re stuck figuring out where to start, how to build a strategy, or just want to get back into the market faster, this one-hour webinar is your solution.\nUsing AI, you’ll learn how to plan, organize, and execute your job search with clarity and speed—without the burnout—with a real resume and LinkedIn profile from a peer.\n\nThis isn’t about quick answers from AI. It’s about using AI as a thinking partner to help you take control and move forward confidently.\n\n### We'll cover how you can use AI to:\n\n* Serve as your personalized career advisor with your existing resume and LinkedIn profile.\n* Act as an accountability partner for your job search, including with daily tasks.\n* Edit your resume and LinkedIn so it can be more visible, including tailored for individual job listings.\n* Identify where you need more experience or education so you can become a better candidate.\n* Develop a company application strategy, including reading the trends and seeing what's hot and what's not.\n* Improve your interviewing, including creating interview answers and as a mock interviewer.\n* Build your personal brand in your voice.\n* And much more!\n\n### **What you’ll walk away with:**\n\n* A repeatable system for job searching in 2026\n* Custom AI prompts you can use immediately to: Organize your thoughts into a clear strategy, create compelling, tailored content for every stage of the process, prepare with confidence for networking and interviews\n\nFinally, this session will be recorded. If you sign up and cannot make it, a recording will be sent to you.",
+    "start_at": "2026-09-30T00:00:00+02:00",
+    "url": "https://www.meetup.com/spain-startup-idea-to-ipo/events/316350269/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Spain  Startup: Idea to IPO",
+    "attendees": 1,
+    "max_tickets": 100,
+    "spots_left": 99,
+    "found_in": [
+      "Startups"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Startups",
+    "source_id": "316337418",
+    "name": "25% OFF: 2 Hours to Freedom: From Ticket to Tested Pull Request with Claude Code",
+    "description": "There are many groups promoting this event.\n\nOur meetup group is participating by promoting this event.\n\nThis event is organized by Albert's List.\n\nThis is an online event.\n\nAttendees can be located anywhere in the world!\n\nThere is a cost to attend this event.\nOur Meetup members get 25% OFF with Code IDEATOIPO\n\nIn order to attend, please register here:\n[https://www.eventbrite.com/e/2-hours-to-freedom-from-ticket-to-tested-pull-request-with-claude-code-tickets-1999067443537?aff=ideatoipo](https://www.eventbrite.com/e/2-hours-to-freedom-from-ticket-to-tested-pull-request-with-claude-code-tickets-1999067443537?aff=ideatoipo)\nClaude Code is powerful, but most engineers don't know how to integrate it into their actual workflow. They try it once, get confused about context, or end up reviewing poorly-scoped changes. The result: they revert to manual coding because the friction isn't worth the speed gain.\n**The Session**\nThis is a hands-on workshop where you'll learn how to use Claude Code as a workflow tool—not a replacement for your judgment. You'll work through real scenarios: exploring unfamiliar codebases, turning feature requests into implementation plans, drafting code and tests, and knowing when Claude Code is worth using versus when you need to steer.\n**You'll Learn**\n\n* How to set up Claude Code and give it the context it needs to be useful\n* How to explore an unfamiliar repository without losing oversight\n* How to turn a feature request or bug into a working implementation plan\n* How to review AI-generated code for correctness, security, and maintainability\n* Which tasks are high-leverage for Claude Code and which require caution\n* Prompt patterns that fit into existing Git, code-review, and CI/CD workflows\n\n**Who This Is For**\n\n* Software engineers and developers looking to improve day-to-day workflow\n* Engineering managers and technical leads evaluating Claude Code for teams\n* Data, platform, DevOps, and QA engineers\n* Technical product managers who work closely with codebases\n* Career-transitioning professionals with foundational coding experience\n\n**Prerequisites**\n\n* Comfort using a terminal and Git\n* Familiarity with at least one programming language\n* A laptop with a development environment installed\n* Optional: a personal practice repository to work in\n\n**Format**\n90 minutes of interactive instruction with hands-on exercises. An optional 30-minute extended lab or Q&A follows for those who want deeper practice or discussion.",
+    "start_at": "2026-09-14T23:00:00+02:00",
+    "url": "https://www.meetup.com/spain-startup-idea-to-ipo/events/316337418/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Spain  Startup: Idea to IPO",
+    "attendees": 1,
+    "max_tickets": 100,
+    "spots_left": 99,
+    "found_in": [
+      "Startups"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Hackathon",
+    "source_id": "316498913",
+    "name": "Hack The Box Meetup: El Nuevo Enfoque al Activation Context Hijacking ",
+    "description": "Constantino Raul Soltan nos impartirá una meetup donde demostrará cómo es posible evadir defensas de seguridad modernas (EDR & AV) abusando de un mecanismo interno de Windows poco explorado: Activation Contexts. Durante sus pruebas, detectó que la implementación original de la técnica era detectada por reglas de EDRs muy agresivas. Tras una rigurosa investigación, Raul presenta un nuevo enfoque que cambia las reglas del juego.",
+    "start_at": "2026-09-17T18:00:00+02:00",
+    "url": "https://www.meetup.com/hack-the-box-meetup-salamanca-es/events/316498913/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Hack The Box Meetup: Salamanca, ES",
+    "attendees": 13,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Hackathon"
+    ]
+  }
+]

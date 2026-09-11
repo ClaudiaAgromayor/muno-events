@@ -2,7 +2,7 @@ import httpx
 import json
 from bs4 import BeautifulSoup
 import urllib.parse
-
+import os
 
 def _parse_next_data(html: str) -> dict:
     soup = BeautifulSoup(html, "html.parser")
@@ -73,22 +73,28 @@ def fetch_meetup_search(keyword: str, location: str = "es--madrid") -> list[dict
     for edge in connection.get("edges", []):
         ev = _resolve(store, edge["node"])
         if "title" not in ev:
-            continue  # entradas de eventos recurrentes sin datos completos, se ignoran
+            continue
 
         group = _resolve(store, ev["group"]) if ev.get("group") else {}
         venue = ev.get("venue") or {}
+        attendees = ev.get("rsvps", {}).get("totalCount")
+        max_tickets = ev.get("maxTickets")
+
         events.append({
             "source": "meetup",
             "source_slug": keyword,
             "source_id": ev["id"],
             "name": ev.get("title"),
+            "description": ev.get("description"),
             "start_at": ev.get("dateTime"),
             "url": ev.get("eventUrl"),
             "event_type": ev.get("eventType"),
             "city": venue.get("city"),
             "address": venue.get("address"),
             "organizer": group.get("name"),
-            "attendees": ev.get("rsvps", {}).get("totalCount"),
+            "attendees": attendees,
+            "max_tickets": max_tickets,
+            "spots_left": (max_tickets - attendees) if (max_tickets and attendees is not None) else None,
         })
     return events
 
@@ -104,9 +110,21 @@ def dedupe_events(events: list[dict]) -> list[dict]:
             deduped[key]["found_in"].append(ev["source_slug"])
     return list(deduped.values())
 
-if __name__ == "__main__":
-    import os
+def filter_madrid(events: list[dict]) -> tuple[list[dict], list[dict]]:
+    """Devuelve (eventos_validos, eventos_para_revisar_a_mano)."""
+    valid = []
+    needs_review = []
+    for ev in events:
+        city = (ev.get("city") or "").strip()
+        if "madrid" in city.lower():
+            valid.append(ev)
+        elif city == "" or city.lower() == "spain":
+            # probablemente online/virtual, sin ciudad física — no lo descartamos sin mirar
+            needs_review.append(ev)
+        # si tiene una ciudad concreta distinta de Madrid, se descarta sin más
+    return valid, needs_review
 
+if __name__ == "__main__":
     keywords = [
         "Artificial Intelligence",
         "Machine Learning",
@@ -129,8 +147,13 @@ if __name__ == "__main__":
     unique_events = dedupe_events(all_events)
     print(f"Total después de deduplicar: {len(unique_events)}")
 
+    valid_events, needs_review = filter_madrid(unique_events)
+    print(f"Eventos válidos (Madrid): {len(valid_events)}")
+    print(f"Para revisión manual (ciudad ambigua): {len(needs_review)}")
+
     os.makedirs("data/raw", exist_ok=True)
-    output_path = "data/raw/meetup_events.json"
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(unique_events, f, ensure_ascii=False, indent=2)
-    print(f"Guardado en {output_path}")
+    with open("data/raw/meetup_events.json", "w", encoding="utf-8") as f:
+        json.dump(valid_events, f, ensure_ascii=False, indent=2)
+    with open("data/raw/meetup_needs_review.json", "w", encoding="utf-8") as f:
+        json.dump(needs_review, f, ensure_ascii=False, indent=2)
+    print("Guardado en data/raw/meetup_events.json y meetup_needs_review.json")

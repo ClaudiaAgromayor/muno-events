@@ -1,0 +1,837 @@
+[
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316442332",
+    "name": "Madrid AI Builders",
+    "start_at": "2026-09-18T17:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-marketing-club/events/316442332/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "C. de San Bernardo, 2, Centro, 28013 Madrid",
+    "organizer": "Madrid Networking Club",
+    "attendees": 37,
+    "found_in": [
+      "Artificial Intelligence",
+      "Startups"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316335741",
+    "name": "MARCHA POR LA LONGEVIDAD DE MADRID: Jueves 1 de octubre, 14:00 - 15:30, CET",
+    "start_at": "2026-10-01T14:00:00+02:00",
+    "url": "https://www.meetup.com/madridsingularity/events/316335741/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Calle Arrieta, número 12, 28013 Madrid",
+    "organizer": "Madrid Singularity",
+    "attendees": 120,
+    "found_in": [
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316482502",
+    "name": "Meetup: IA, FinOps y Transformación Real",
+    "start_at": "2026-10-07T19:00:00+02:00",
+    "url": "https://www.meetup.com/sirviendo-codigo/events/316482502/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "P.º de La Habana, 9, 11, Chamartín, 28036 Madrid, Spain",
+    "organizer": "Sirviendo Código",
+    "attendees": 14,
+    "found_in": [
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316153101",
+    "name": "BLACKBOXAI - Construyendo un adversario autónomo",
+    "start_at": "2026-09-24T18:00:00+02:00",
+    "url": "https://www.meetup.com/aiseceng-spain/events/316153101/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Av. Gran Vía del Este, 1, Vicálvaro, 28032 Madrid",
+    "organizer": "AI Security Engineers - Madrid, ES",
+    "attendees": 19,
+    "found_in": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "DevOps",
+      "Hackathon"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316468176",
+    "name": "Club de Lectura de IA",
+    "start_at": "2026-10-13T19:00:00+02:00",
+    "url": "https://www.meetup.com/arje-club-de-lectura-de-etica-y-politica-de-la-ia/events/316468176/",
+    "event_type": "PHYSICAL",
+    "city": "madrid",
+    "address": "C. de Espoz y Mina, 22, Centro, 28012 Madrid",
+    "organizer": "Arjé: Club de Lectura de Ética y Política de la IA",
+    "attendees": 10,
+    "found_in": [
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316470797",
+    "name": "Cacharreando con Nerves, IA y Telegram | Pepe Márquez",
+    "start_at": "2026-09-23T19:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-elixir/events/316470797/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "C. de Cronos, 63",
+    "organizer": "Elixir Madrid",
+    "attendees": 10,
+    "found_in": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316211287",
+    "name": "IA aplicada: convierte procesos en servicios para tus clientes ",
+    "start_at": "2026-09-15T18:00:00+02:00",
+    "url": "https://www.meetup.com/ia-para-agencias-freelancers-y-consultores/events/316211287/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "IA para Agencias, Freelancers y Consultores",
+    "attendees": 28,
+    "found_in": [
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316209512",
+    "name": "Build you own intelligent corporate raw assistant",
+    "start_at": "2026-10-05T18:30:00+02:00",
+    "url": "https://www.meetup.com/unit8-ai-data-and-analytics-group/events/316209512/",
+    "event_type": "PHYSICAL",
+    "city": "Spain",
+    "address": "Madrid, Spain",
+    "organizer": "Unit8 Tech Community: AI, Data & Cloud",
+    "attendees": 2,
+    "found_in": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316466866",
+    "name": "¿Qué hay de nuevo este 2026 en Power Apps y Power Automate?",
+    "start_at": "2026-09-23T19:00:00+02:00",
+    "url": "https://www.meetup.com/power-platform-madrid/events/316466866/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Power Platform Madrid",
+    "attendees": 5,
+    "found_in": [
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316314307",
+    "name": "Hello World! Lanzamiento Oficial de Cloudflare User Group España",
+    "start_at": "2026-10-01T19:00:00+02:00",
+    "url": "https://www.meetup.com/cloudflare-user-group-espana-ia-cyber/events/316314307/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "C. del Marqués de Casa Riera, 4, Centro, 28014 Madrid, Spain",
+    "organizer": "Cloudflare User Group España (IA, CyberSecurity & Edge Dev)",
+    "attendees": 28,
+    "found_in": [
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316289559",
+    "name": "Networking for AI Professionals around the world - Sept 22",
+    "start_at": "2026-09-22T20:30:00+02:00",
+    "url": "https://www.meetup.com/ai-professionals-madrid/events/316289559/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "AI Professionals Madrid",
+    "attendees": 6,
+    "found_in": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316003588",
+    "name": "GPU, CUDA, and PyTorch Performance Optimizations",
+    "start_at": "2026-09-21T18:00:00+02:00",
+    "url": "https://www.meetup.com/ai-performance-engineering-meetup-madrid/events/316003588/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "AI Performance Engineering Meetup (Madrid)",
+    "attendees": 5,
+    "found_in": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316511396",
+    "name": "Let Your Imagination Flow!🎨 Flow Matching and Rectified Flows",
+    "start_at": "2026-10-06T18:30:00+02:00",
+    "url": "https://www.meetup.com/madrid-machine-learning-meetup/events/316511396/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "de la comunidad, C. de Bravo Murillo, 39, Local interior, Chamberí, 28015 Madrid, Spain",
+    "organizer": "Madrid Machine Learning Meetup",
+    "attendees": 6,
+    "found_in": [
+      "Artificial Intelligence",
+      "Machine Learning"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "315388183",
+    "name": "Sept 24 - AI, ML and Computer Vision Meetup",
+    "start_at": "2026-09-24T18:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-ai-machine-learning-and-computer-vision-meetup/events/315388183/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
+    "attendees": 0,
+    "found_in": [
+      "Artificial Intelligence",
+      "Machine Learning"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316174919",
+    "name": "Sept 17 - ADAS, AV, and AI Meetup",
+    "start_at": "2026-09-17T18:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-ai-machine-learning-and-computer-vision-meetup/events/316174919/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
+    "attendees": 0,
+    "found_in": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316064296",
+    "name": "Sept 22 - FiftyOne Agent: Automate Visual AI Workflows with Natural Language",
+    "start_at": "2026-09-22T18:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-ai-machine-learning-and-computer-vision-meetup/events/316064296/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
+    "attendees": 0,
+    "found_in": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "315935906",
+    "name": "Google Agents in Production for Enterprises (Virtual) - Ep 1",
+    "start_at": "2026-09-22T19:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-ai-developers-group/events/315935906/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Madrid AI Developers Group",
+    "attendees": 7,
+    "found_in": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "315789520",
+    "name": "Vibe Coding & Friends: Social Gathering for Founders and Entrepreneurs",
+    "start_at": "2026-09-16T19:00:00+02:00",
+    "url": "https://www.meetup.com/the-vcc/events/315789520/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Calle Jorge Juan, 17",
+    "organizer": "The Vibe Coding Club Madrid",
+    "attendees": 20,
+    "found_in": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Startups",
+      "Hackathon"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316397919",
+    "name": "AI Deep Dive Webinar - Taking LangGraph to production",
+    "start_at": "2026-09-24T19:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-ai-developers-group/events/316397919/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Madrid AI Developers Group",
+    "attendees": 4,
+    "found_in": [
+      "Artificial Intelligence",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316210308",
+    "name": "#CodeMeet: ¿Quién controla a los agentes? De ahorrar tokens a construir MCPs",
+    "start_at": "2026-09-17T18:30:00+02:00",
+    "url": "https://www.meetup.com/codemotion-espana/events/316210308/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Plaza de Manuel Gómez-Moreno, 2, Tetuán, 28020",
+    "organizer": "Codemotion Meetup en España",
+    "attendees": 14,
+    "found_in": [
+      "Artificial Intelligence",
+      "DevOps",
+      "Hackathon"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316297853",
+    "name": "Agentic AI Multimodal MonthlyMixer - Where Agents Minds Meet",
+    "start_at": "2026-09-16T17:00:00+02:00",
+    "url": "https://www.meetup.com/ac-mad/events/316297853/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Analytics.CLUB Madrid",
+    "attendees": 2,
+    "found_in": [
+      "Artificial Intelligence",
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Machine Learning",
+    "source_id": "316418129",
+    "name": "AIDataTech Connect: Global Virtual Networking Event for AI, Data & Tech Pros",
+    "start_at": "2026-09-24T17:00:00+02:00",
+    "url": "https://www.meetup.com/ac-mad/events/316418129/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Analytics.CLUB Madrid",
+    "attendees": 2,
+    "found_in": [
+      "Machine Learning",
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Machine Learning",
+    "source_id": "316482240",
+    "name": "#CodeMeet Madrid: ¿Quién controla a los agentes?",
+    "start_at": "2026-09-17T18:30:00+02:00",
+    "url": "https://www.meetup.com/celonis-tech-meetups-madrid/events/316482240/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Pl. de Manuel Gómez-Moreno, 2",
+    "organizer": "Celonis Tech Meetups Madrid",
+    "attendees": 1,
+    "found_in": [
+      "Machine Learning",
+      "Data Science",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Data Science",
+    "source_id": "316496763",
+    "name": "¿Demasiado perfeccionista? Suelta la Autoexigencia",
+    "start_at": "2026-09-21T19:00:00+02:00",
+    "url": "https://www.meetup.com/viaje-hacia-ti/events/316496763/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Calle Barceló, 4",
+    "organizer": "Viaje hacia Ti: Crecimiento Personal",
+    "attendees": 1,
+    "found_in": [
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Data Science",
+    "source_id": "316003491",
+    "name": "Automate your reporting with Make & SQL",
+    "start_at": "2026-09-16T18:30:00+02:00",
+    "url": "https://www.meetup.com/le-wagon-madrid-coding-bootcamp/events/316003491/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Le Wagon Madrid | Tech Bootcamps",
+    "attendees": 2,
+    "found_in": [
+      "Data Science",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Data Science",
+    "source_id": "316232019",
+    "name": "AIConnect: Global Virtual Job & Career Networking Event for AI Specialists",
+    "start_at": "2026-09-11T23:00:00+02:00",
+    "url": "https://www.meetup.com/ac-mad/events/316232019/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Analytics.CLUB Madrid",
+    "attendees": 2,
+    "found_in": [
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Data Science",
+    "source_id": "316482252",
+    "name": "Escalando con el particionado de postgresql y releases inmutables",
+    "start_at": "2026-09-28T18:50:00+02:00",
+    "url": "https://www.meetup.com/celonis-tech-meetups-madrid/events/316482252/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Pl. de Manuel Gómez-Moreno, 2",
+    "organizer": "Celonis Tech Meetups Madrid",
+    "attendees": 1,
+    "found_in": [
+      "Data Science",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "316152297",
+    "name": "Escalando con el particionado de postgresql y releases inmutables",
+    "start_at": "2026-09-28T18:50:00+02:00",
+    "url": "https://www.meetup.com/madrid-devops/events/316152297/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Plaza de Manuel Gómez-Moreno, 2, Tetuán, 28020",
+    "organizer": "Madrid DevOps",
+    "attendees": 21,
+    "found_in": [
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "315676501",
+    "name": "SAFe® DevOps (SDP) + Certificación Internacional | DevOps para Agilidad Europa",
+    "start_at": "2026-09-12T15:00:00+02:00",
+    "url": "https://www.meetup.com/agilidad-y-liderazgo-europa/events/315676501/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Agilidad liderazgo y escalado | M3.0 M3K y SAFe | Europa",
+    "attendees": 1,
+    "found_in": [
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "316450466",
+    "name": "DevMad! Talks - September 2026",
+    "start_at": "2026-09-14T18:30:00+02:00",
+    "url": "https://www.meetup.com/devmad/events/316450466/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "C/Toledo 110",
+    "organizer": "DevMad! Developers in Madrid",
+    "attendees": 30,
+    "found_in": [
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "316329116",
+    "name": "*CONOCER GENTE NUEVA CERVECEO+FLORIDA GALERIA*",
+    "start_at": "2026-09-12T22:00:00+02:00",
+    "url": "https://www.meetup.com/meetup-group-erboswim/events/316329116/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Cale Ibiza",
+    "organizer": "NUEVOS AMIGOS",
+    "attendees": 12,
+    "found_in": [
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "316361267",
+    "name": "Tras la Máscara de Async Rust",
+    "start_at": "2026-09-15T18:00:00+02:00",
+    "url": "https://www.meetup.com/madrust/events/316361267/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "C. de Toledo, 110, Centro, 28005 Madrid",
+    "organizer": "MadRust",
+    "attendees": 17,
+    "found_in": [
+      "DevOps",
+      "Hackathon"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "316446627",
+    "name": "APIs for the Modern PM",
+    "start_at": "2026-09-29T19:00:00+02:00",
+    "url": "https://www.meetup.com/producttank-madrid/events/316446627/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Calle de Pradillo, 42, 28002 Madrid, Spain",
+    "organizer": "ProductTank Madrid",
+    "attendees": 42,
+    "found_in": [
+      "DevOps",
+      "Startups"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "316404047",
+    "name": "What's New in Micronaut 5",
+    "start_at": "2026-09-17T19:00:00+02:00",
+    "url": "https://www.meetup.com/madridjug/events/316404047/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Paseo de la castellana 81, 28046",
+    "organizer": "MadridJUG",
+    "attendees": 16,
+    "found_in": [
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Startups",
+    "source_id": "315675863",
+    "name": "[🌴 Startup Oasis] Innovation Café - MADRID!",
+    "start_at": "2026-09-25T09:00:00+02:00",
+    "url": "https://www.meetup.com/startup-oasis/events/315675863/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "C/ del Alcalde Sainz de Baranda, 32, Retiro, 28009 Madrid",
+    "organizer": "Startup Oasis - Tech, Founders, nomads, devs, UI/UX, Product",
+    "attendees": 15,
+    "found_in": [
+      "Startups"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Startups",
+    "source_id": "316271071",
+    "name": "Silicon Valley Business Networking (Online) ",
+    "start_at": "2026-09-14T21:00:00+02:00",
+    "url": "https://www.meetup.com/spain-startup-idea-to-ipo/events/316271071/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Spain  Startup: Idea to IPO",
+    "attendees": 1,
+    "found_in": [
+      "Startups"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Startups",
+    "source_id": "316486466",
+    "name": "MICA: ¿Quién ganará el mercado Cripto? - Encuentro SuperPioneros #137",
+    "start_at": "2026-09-22T18:00:00+02:00",
+    "url": "https://www.meetup.com/innovacion-web3-para-todos-con-super-pioneros/events/316486466/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "41 Calle de Bailén",
+    "organizer": "NWC10Lab: Innovación WEB3, CRIPTO y blockchain para todos",
+    "attendees": 2,
+    "found_in": [
+      "Startups"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Startups",
+    "source_id": "311781960",
+    "name": "Out in Tech after work - Monthly Mixer",
+    "start_at": "2026-09-24T20:00:00+02:00",
+    "url": "https://www.meetup.com/out-in-tech-madrid/events/311781960/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "C. de Belén, 7",
+    "organizer": "Out in Tech - Madrid",
+    "attendees": 8,
+    "found_in": [
+      "Startups"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Startups",
+    "source_id": "316382510",
+    "name": "Guía práctica para inversores en tecnologías cuánticas ",
+    "start_at": "2026-09-17T18:00:00+02:00",
+    "url": "https://www.meetup.com/quantummadrid/events/316382510/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Bailén, 41",
+    "organizer": "Quantum Madrid by Entangle",
+    "attendees": 25,
+    "found_in": [
+      "Startups",
+      "Hackathon"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Startups",
+    "source_id": "316349046",
+    "name": "How to Build AI Skills For Your Career",
+    "start_at": "2026-09-29T00:00:00+02:00",
+    "url": "https://www.meetup.com/spain-startup-idea-to-ipo/events/316349046/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Spain  Startup: Idea to IPO",
+    "attendees": 2,
+    "found_in": [
+      "Startups"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Startups",
+    "source_id": "316484729",
+    "name": "Inclusive Tech in Spain",
+    "start_at": "2026-09-16T18:00:00+02:00",
+    "url": "https://www.meetup.com/out-in-tech-madrid/events/316484729/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "C. de Claudio Coello, 124",
+    "organizer": "Out in Tech - Madrid",
+    "attendees": 6,
+    "found_in": [
+      "Startups"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Startups",
+    "source_id": "316350269",
+    "name": "How to Strategize and Execute Your Job Search with AI in One Hour",
+    "start_at": "2026-09-30T00:00:00+02:00",
+    "url": "https://www.meetup.com/spain-startup-idea-to-ipo/events/316350269/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Spain  Startup: Idea to IPO",
+    "attendees": 1,
+    "found_in": [
+      "Startups"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Startups",
+    "source_id": "316337418",
+    "name": "25% OFF: 2 Hours to Freedom: From Ticket to Tested Pull Request with Claude Code",
+    "start_at": "2026-09-14T23:00:00+02:00",
+    "url": "https://www.meetup.com/spain-startup-idea-to-ipo/events/316337418/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Spain  Startup: Idea to IPO",
+    "attendees": 1,
+    "found_in": [
+      "Startups"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Hackathon",
+    "source_id": "316468326",
+    "name": "Jakeando Kañas en The Sinner Metal Bar",
+    "start_at": "2026-09-11T20:00:00+02:00",
+    "url": "https://www.meetup.com/hackmadrid-27/events/316468326/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Calle de Andrés Mellado, 31,  28015 Madrid",
+    "organizer": "HackMadrid %27",
+    "attendees": 4,
+    "found_in": [
+      "Hackathon"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Hackathon",
+    "source_id": "316498913",
+    "name": "Hack The Box Meetup: El Nuevo Enfoque al Activation Context Hijacking ",
+    "start_at": "2026-09-17T18:00:00+02:00",
+    "url": "https://www.meetup.com/hack-the-box-meetup-salamanca-es/events/316498913/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Hack The Box Meetup: Salamanca, ES",
+    "attendees": 13,
+    "found_in": [
+      "Hackathon"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Hackathon",
+    "source_id": "316300285",
+    "name": "#CodeMeet Madrid: ¿Quién controla a los agentes?",
+    "start_at": "2026-09-17T18:30:00+02:00",
+    "url": "https://www.meetup.com/arcasiles-community-madrid/events/316300285/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "2 Plaza de Manuel Gómez-Moreno",
+    "organizer": "Arcasiles Community Madrid",
+    "attendees": 8,
+    "found_in": [
+      "Hackathon"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Hackathon",
+    "source_id": "316444822",
+    "name": "Crystal Bowl Sound Bath",
+    "start_at": "2026-09-13T11:00:00+02:00",
+    "url": "https://www.meetup.com/healing-crystal-bowl-sound-bath/events/316444822/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "https://maps.app.goo.gl/A2pbJ1RsdwyDv84VA",
+    "organizer": "Healing Crystal Bowl Sound Bath",
+    "attendees": 1,
+    "found_in": [
+      "Hackathon"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Hackathon",
+    "source_id": "316152027",
+    "name": "Club de Lectura Majadahonda, curso 26/27",
+    "start_at": "2026-09-17T19:00:00+02:00",
+    "url": "https://www.meetup.com/majadahonda-clubdelectura-improaula/events/316152027/",
+    "event_type": "PHYSICAL",
+    "city": "MAJADAHONDA",
+    "address": "C/ Las Norias 14",
+    "organizer": "Club de Lectura Majadahonda",
+    "attendees": 5,
+    "found_in": [
+      "Hackathon"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Hackathon",
+    "source_id": "316328092",
+    "name": "CRAFT NIGHT",
+    "start_at": "2026-09-18T18:30:00+02:00",
+    "url": "https://www.meetup.com/hacklab/events/316328092/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "calle coruña 5",
+    "organizer": "Hacklab La Raiz",
+    "attendees": 1,
+    "found_in": [
+      "Hackathon"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Hackathon",
+    "source_id": "316382056",
+    "name": "El juego de tu voz (LinkedIn) - taller boutique",
+    "start_at": "2026-09-24T10:00:00+02:00",
+    "url": "https://www.meetup.com/collective-intelligence-inteligencia-colectiva/events/316382056/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "calle Ferraz 56",
+    "organizer": "Inteligencia colectiva",
+    "attendees": 2,
+    "found_in": [
+      "Hackathon"
+    ]
+  }
+]

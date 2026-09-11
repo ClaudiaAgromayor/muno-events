@@ -53,19 +53,44 @@ def fetch_luma_source(slug: str) -> list[dict]:
     items = _extract_event_items(next_data)
     return [_map_item(item, slug) for item in items]
 
+def dedupe_events(events: list[dict]) -> list[dict]:
+    deduped = {}
+    for ev in events:
+        key = ev["source_id"]
+        if key not in deduped:
+            deduped[key] = ev.copy()
+            deduped[key]["found_in"] = [ev["source_slug"]]
+        else:
+            deduped[key]["found_in"].append(ev["source_slug"])
+    return list(deduped.values())
 
 if __name__ == "__main__":
-    sources = ["madrid", "madai", "claudecommunity", "codex-community", "aimadrid"]
+    sources = [
+        "madrid",
+        "madai",
+        "claudecommunity",
+        "codex-community",
+        "aimadrid",
+        "madrid-tech-brunch",
+        "helmcode",
+    ]
+
     all_events = []
     for slug in sources:
-        events = fetch_luma_source(slug)
-        print(f"{slug}: {len(events)} eventos")
-        all_events.extend(events)
+        try:
+            events = fetch_luma_source(slug)
+            print(f"{slug}: {len(events)} eventos")
+            all_events.extend(events)
+        except Exception as e:
+            print(f"{slug}: ERROR ({e})")
 
-    print(f"\nTotal: {len(all_events)} eventos (antes de deduplicar)")
+    print(f"\nTotal antes de deduplicar: {len(all_events)}")
+
+    unique_events = dedupe_events(all_events)
+    print(f"Total después de deduplicar: {len(unique_events)}")
 
     os.makedirs("data/raw", exist_ok=True)
     output_path = "data/raw/luma_events.json"
     with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(all_events, f, ensure_ascii=False, indent=2)
+        json.dump(unique_events, f, ensure_ascii=False, indent=2)
     print(f"Guardado en {output_path}")

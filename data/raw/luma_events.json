@@ -12,7 +12,10 @@
     "address": "C. de Trafalgar, 17",
     "organizer": "Personal",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/4h/c2f8a9d3-7452-42a9-a517-105ec8a92c49.png"
+    "cover_image": "https://images.lumacdn.com/uploads/4h/c2f8a9d3-7452-42a9-a517-105ec8a92c49.png",
+    "found_in": [
+      "madrid"
+    ]
   },
   {
     "source": "luma",
@@ -27,7 +30,10 @@
     "address": "Puerta de O'Donnell",
     "organizer": "Personal",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/1g/cc99d44a-1b3c-4bd0-9777-e9c6aefdabda.jpg"
+    "cover_image": "https://images.lumacdn.com/uploads/1g/cc99d44a-1b3c-4bd0-9777-e9c6aefdabda.jpg",
+    "found_in": [
+      "madrid"
+    ]
   },
   {
     "source": "luma",
@@ -42,7 +48,10 @@
     "address": "Nômade Temple Madrid",
     "organizer": "Nômade Temple Madrid",
     "is_free": false,
-    "cover_image": "https://images.lumacdn.com/uploads/bs/1f2bb274-0b9c-45f7-b236-cbc37256ff8b.png"
+    "cover_image": "https://images.lumacdn.com/uploads/bs/1f2bb274-0b9c-45f7-b236-cbc37256ff8b.png",
+    "found_in": [
+      "madrid"
+    ]
   },
   {
     "source": "luma",
@@ -57,7 +66,10 @@
     "address": "Bravo Wine Bar",
     "organizer": "FoundHer Madrid Events",
     "is_free": false,
-    "cover_image": "https://images.lumacdn.com/uploads/3j/8a38c3c5-3917-4407-80af-7904e2ab23b6.png"
+    "cover_image": "https://images.lumacdn.com/uploads/3j/8a38c3c5-3917-4407-80af-7904e2ab23b6.png",
+    "found_in": [
+      "madrid"
+    ]
   },
   {
     "source": "luma",
@@ -72,7 +84,10 @@
     "address": "Palacio",
     "organizer": "Codex Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/pt/02fec324-caf5-4b92-ab2b-3c653b38fe75.png"
+    "cover_image": "https://images.lumacdn.com/uploads/pt/02fec324-caf5-4b92-ab2b-3c653b38fe75.png",
+    "found_in": [
+      "madrid"
+    ]
   },
   {
     "source": "luma",
@@ -87,7 +102,10 @@
     "address": "ISDI Escuela de Negocios - Sede Madrid",
     "organizer": "Claude Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/ym/cf9e4ca7-2b8a-4599-8726-86ac2c69f2f9.png"
+    "cover_image": "https://images.lumacdn.com/uploads/ym/cf9e4ca7-2b8a-4599-8726-86ac2c69f2f9.png",
+    "found_in": [
+      "madrid"
+    ]
   },
   {
     "source": "luma",
@@ -102,7 +120,10 @@
     "address": "Pl. Pablo Ruiz Picasso, 11",
     "organizer": "Personal",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/fg/95b9425f-5745-4030-8dd8-fa51df9216ce.png"
+    "cover_image": "https://images.lumacdn.com/uploads/fg/95b9425f-5745-4030-8dd8-fa51df9216ce.png",
+    "found_in": [
+      "madrid"
+    ]
   },
   {
     "source": "luma",
@@ -117,7 +138,10 @@
     "address": "Pl. del Callao, 1",
     "organizer": "Personal",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/yr/8286c217-3d73-4c3a-a36b-712be49c9ab4.jpg"
+    "cover_image": "https://images.lumacdn.com/uploads/yr/8286c217-3d73-4c3a-a36b-712be49c9ab4.jpg",
+    "found_in": [
+      "madrid"
+    ]
   },
   {
     "source": "luma",
@@ -132,7 +156,10 @@
     "address": "Greta Salad Bar",
     "organizer": "Personal",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/aw/93a88243-4920-4dd0-9134-b825a8a332da.png"
+    "cover_image": "https://images.lumacdn.com/uploads/aw/93a88243-4920-4dd0-9134-b825a8a332da.png",
+    "found_in": [
+      "madrid"
+    ]
   },
   {
     "source": "luma",
@@ -147,7 +174,10 @@
     "address": "Recoletos",
     "organizer": "Personal",
     "is_free": false,
-    "cover_image": "https://images.lumacdn.com/uploads/j7/43128a73-d5d2-4b39-8d47-3f8e07742694.png"
+    "cover_image": "https://images.lumacdn.com/uploads/j7/43128a73-d5d2-4b39-8d47-3f8e07742694.png",
+    "found_in": [
+      "madrid"
+    ]
   },
   {
     "source": "luma",
@@ -162,7 +192,11 @@
     "address": "Puerta Innovación",
     "organizer": "MadAi",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/c8/ed858064-0d64-4d9e-b3b5-f04d774fa6f1.jpg"
+    "cover_image": "https://images.lumacdn.com/uploads/c8/ed858064-0d64-4d9e-b3b5-f04d774fa6f1.jpg",
+    "found_in": [
+      "madrid",
+      "madai"
+    ]
   },
   {
     "source": "luma",
@@ -177,7 +211,10 @@
     "address": "Justicia",
     "organizer": "LSE Generate Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/7i/9ec09a82-62a5-40b2-92cd-2cf870ea4222.png"
+    "cover_image": "https://images.lumacdn.com/uploads/7i/9ec09a82-62a5-40b2-92cd-2cf870ea4222.png",
+    "found_in": [
+      "madrid"
+    ]
   },
   {
     "source": "luma",
@@ -192,7 +229,10 @@
     "address": "Vrro Castellana",
     "organizer": "Personal",
     "is_free": false,
-    "cover_image": "https://images.lumacdn.com/uploads/a3/1d681f5e-97bf-457f-97ea-960df352a2eb.png"
+    "cover_image": "https://images.lumacdn.com/uploads/a3/1d681f5e-97bf-457f-97ea-960df352a2eb.png",
+    "found_in": [
+      "madrid"
+    ]
   },
   {
     "source": "luma",
@@ -207,7 +247,10 @@
     "address": "Mandolina libros, café y talleres",
     "organizer": "Personal",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/d8/93f90853-e206-4f41-8be3-f040e70ea3f0.png"
+    "cover_image": "https://images.lumacdn.com/uploads/d8/93f90853-e206-4f41-8be3-f040e70ea3f0.png",
+    "found_in": [
+      "madrid"
+    ]
   },
   {
     "source": "luma",
@@ -222,7 +265,11 @@
     "address": "Mad Tech Campus",
     "organizer": "Helmcode Community",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/q8/56659517-89f1-464c-828d-e07bb98425bd.png"
+    "cover_image": "https://images.lumacdn.com/uploads/q8/56659517-89f1-464c-828d-e07bb98425bd.png",
+    "found_in": [
+      "madrid",
+      "helmcode"
+    ]
   },
   {
     "source": "luma",
@@ -237,7 +284,10 @@
     "address": "Hispanoamérica",
     "organizer": "PagerDuty Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/m4/e59d9964-31f5-41e9-b480-92a3cc7c1a1f.png"
+    "cover_image": "https://images.lumacdn.com/uploads/m4/e59d9964-31f5-41e9-b480-92a3cc7c1a1f.png",
+    "found_in": [
+      "madrid"
+    ]
   },
   {
     "source": "luma",
@@ -252,7 +302,10 @@
     "address": "Espacio Rastro Madrid",
     "organizer": "Personal",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/km/ee74adc9-bac6-4359-86ed-fd3026182648.png"
+    "cover_image": "https://images.lumacdn.com/uploads/km/ee74adc9-bac6-4359-86ed-fd3026182648.png",
+    "found_in": [
+      "madrid"
+    ]
   },
   {
     "source": "luma",
@@ -267,7 +320,11 @@
     "address": "Experience Design Lab",
     "organizer": "AI Socratic - Madrid",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/mk/a2f9fed1-ea37-4de2-a937-30ba0e5c6041.png"
+    "cover_image": "https://images.lumacdn.com/uploads/mk/a2f9fed1-ea37-4de2-a937-30ba0e5c6041.png",
+    "found_in": [
+      "madrid",
+      "aimadrid"
+    ]
   },
   {
     "source": "luma",
@@ -282,7 +339,10 @@
     "address": "Nômade Temple Madrid",
     "organizer": "Nômade Temple Madrid",
     "is_free": false,
-    "cover_image": "https://images.lumacdn.com/uploads/fe/5e184de6-8274-4cf1-9cf9-3472d7057e14.jpg"
+    "cover_image": "https://images.lumacdn.com/uploads/fe/5e184de6-8274-4cf1-9cf9-3472d7057e14.jpg",
+    "found_in": [
+      "madrid"
+    ]
   },
   {
     "source": "luma",
@@ -297,22 +357,10 @@
     "address": "Pl. del Callao, 1",
     "organizer": "SpaceXAI for Madrid, Spain",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/sm/53eecd8f-b929-4f8d-8040-e0a28c2306f7.png"
-  },
-  {
-    "source": "luma",
-    "source_slug": "madai",
-    "source_id": "evt-f8aWVrUa03CilAr",
-    "name": "How to stop your AI agent from amplifying your team's tech debt",
-    "start_at": "2026-09-17T17:00:00.000Z",
-    "end_at": "2026-09-17T18:30:00.000Z",
-    "timezone": "Europe/Madrid",
-    "url": "https://lu.ma/mq1ffwe1",
-    "city": "Madrid",
-    "address": "Puerta Innovación",
-    "organizer": "MadAi",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/c8/ed858064-0d64-4d9e-b3b5-f04d774fa6f1.jpg"
+    "cover_image": "https://images.lumacdn.com/uploads/sm/53eecd8f-b929-4f8d-8040-e0a28c2306f7.png",
+    "found_in": [
+      "madrid"
+    ]
   },
   {
     "source": "luma",
@@ -327,7 +375,10 @@
     "address": "UAA/APU Consortium Library",
     "organizer": "Claude Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/api-uploads/90/df1ca309-5be0-4dab-989d-d4a923db6008.png"
+    "cover_image": "https://images.lumacdn.com/api-uploads/90/df1ca309-5be0-4dab-989d-d4a923db6008.png",
+    "found_in": [
+      "claudecommunity"
+    ]
   },
   {
     "source": "luma",
@@ -342,7 +393,10 @@
     "address": null,
     "organizer": "Claude Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/api-uploads/wx/e4d2e5d4-173e-4a10-a85c-972e8082a0c8.png"
+    "cover_image": "https://images.lumacdn.com/api-uploads/wx/e4d2e5d4-173e-4a10-a85c-972e8082a0c8.png",
+    "found_in": [
+      "claudecommunity"
+    ]
   },
   {
     "source": "luma",
@@ -357,7 +411,10 @@
     "address": "Roamwork Harrington",
     "organizer": "Claude Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/api-uploads/rh/89dac6b4-d814-405a-905b-3335b8553716.png"
+    "cover_image": "https://images.lumacdn.com/api-uploads/rh/89dac6b4-d814-405a-905b-3335b8553716.png",
+    "found_in": [
+      "claudecommunity"
+    ]
   },
   {
     "source": "luma",
@@ -372,7 +429,10 @@
     "address": "Zone-II",
     "organizer": "Claude Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/api-uploads/r5/fcb0fc15-d600-4f19-9463-1b6f7f9de0fd.png"
+    "cover_image": "https://images.lumacdn.com/api-uploads/r5/fcb0fc15-d600-4f19-9463-1b6f7f9de0fd.png",
+    "found_in": [
+      "claudecommunity"
+    ]
   },
   {
     "source": "luma",
@@ -387,7 +447,10 @@
     "address": "SoMa",
     "organizer": "Claude Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/api-uploads/dr/87088810-c1e9-4f3a-a9a8-9a3ae4760c68.png"
+    "cover_image": "https://images.lumacdn.com/api-uploads/dr/87088810-c1e9-4f3a-a9a8-9a3ae4760c68.png",
+    "found_in": [
+      "claudecommunity"
+    ]
   },
   {
     "source": "luma",
@@ -402,7 +465,10 @@
     "address": null,
     "organizer": "Claude Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/api-uploads/ho/1c9d3753-fcc9-44d8-9d1a-cfc599d9ff47.png"
+    "cover_image": "https://images.lumacdn.com/api-uploads/ho/1c9d3753-fcc9-44d8-9d1a-cfc599d9ff47.png",
+    "found_in": [
+      "claudecommunity"
+    ]
   },
   {
     "source": "luma",
@@ -417,7 +483,10 @@
     "address": "KDDI Ishin Hall, Yamaguchi City",
     "organizer": "Claude Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/api-uploads/vq/4e9dd191-f4ab-470f-919f-ef536d936ee0.png"
+    "cover_image": "https://images.lumacdn.com/api-uploads/vq/4e9dd191-f4ab-470f-919f-ef536d936ee0.png",
+    "found_in": [
+      "claudecommunity"
+    ]
   },
   {
     "source": "luma",
@@ -432,7 +501,10 @@
     "address": "6401 San Joaquin Hills Rd",
     "organizer": "Claude Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/api-uploads/h5/a45be175-9a43-4a01-8704-bcea1e87bd2f.png"
+    "cover_image": "https://images.lumacdn.com/api-uploads/h5/a45be175-9a43-4a01-8704-bcea1e87bd2f.png",
+    "found_in": [
+      "claudecommunity"
+    ]
   },
   {
     "source": "luma",
@@ -447,7 +519,10 @@
     "address": "No More Cafe",
     "organizer": "Claude Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/g9/495635b6-f126-4a92-89ba-d96ee76954f3.png"
+    "cover_image": "https://images.lumacdn.com/uploads/g9/495635b6-f126-4a92-89ba-d96ee76954f3.png",
+    "found_in": [
+      "claudecommunity"
+    ]
   },
   {
     "source": "luma",
@@ -462,7 +537,10 @@
     "address": "Mesh Youngstorget - Mesh Community",
     "organizer": "Claude Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/he/77ac434d-d187-4931-8910-d4536c3f8e49.png"
+    "cover_image": "https://images.lumacdn.com/uploads/he/77ac434d-d187-4931-8910-d4536c3f8e49.png",
+    "found_in": [
+      "claudecommunity"
+    ]
   },
   {
     "source": "luma",
@@ -477,7 +555,10 @@
     "address": "Capital Factory, Austin, TX",
     "organizer": "Claude Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/api-uploads/at/477cc35d-2f21-4510-8c0f-62092e5df6d3.png"
+    "cover_image": "https://images.lumacdn.com/api-uploads/at/477cc35d-2f21-4510-8c0f-62092e5df6d3.png",
+    "found_in": [
+      "claudecommunity"
+    ]
   },
   {
     "source": "luma",
@@ -492,7 +573,10 @@
     "address": "CodeNode Copenhagen",
     "organizer": "Claude Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/86/424fc703-d042-4447-83ec-b05b4cab8ab6.png"
+    "cover_image": "https://images.lumacdn.com/uploads/86/424fc703-d042-4447-83ec-b05b4cab8ab6.png",
+    "found_in": [
+      "claudecommunity"
+    ]
   },
   {
     "source": "luma",
@@ -507,7 +591,10 @@
     "address": "Café Belcampo",
     "organizer": "Claude Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/api-uploads/wv/aa70d3e7-d8e9-474a-a309-cb38bfd2f31b.png"
+    "cover_image": "https://images.lumacdn.com/api-uploads/wv/aa70d3e7-d8e9-474a-a309-cb38bfd2f31b.png",
+    "found_in": [
+      "claudecommunity"
+    ]
   },
   {
     "source": "luma",
@@ -522,7 +609,10 @@
     "address": "34 Bd du Parc",
     "organizer": "Claude Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/api-uploads/mo/5e9f5588-98f2-469e-9539-72b05b4ca41b.png"
+    "cover_image": "https://images.lumacdn.com/api-uploads/mo/5e9f5588-98f2-469e-9539-72b05b4ca41b.png",
+    "found_in": [
+      "claudecommunity"
+    ]
   },
   {
     "source": "luma",
@@ -537,7 +627,10 @@
     "address": "Manhattan",
     "organizer": "Claude Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/v8/a2dd0629-99cb-440b-a2ea-54d6bc6bd292.png"
+    "cover_image": "https://images.lumacdn.com/uploads/v8/a2dd0629-99cb-440b-a2ea-54d6bc6bd292.png",
+    "found_in": [
+      "claudecommunity"
+    ]
   },
   {
     "source": "luma",
@@ -552,7 +645,10 @@
     "address": null,
     "organizer": "Codex Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/5q/dc7c9662-92ce-4328-8972-809d8176fefc.png"
+    "cover_image": "https://images.lumacdn.com/uploads/5q/dc7c9662-92ce-4328-8972-809d8176fefc.png",
+    "found_in": [
+      "codex-community"
+    ]
   },
   {
     "source": "luma",
@@ -567,7 +663,10 @@
     "address": "Prefab-ACME",
     "organizer": "Codex Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/eo/7f05b429-5795-4934-8898-ca64e8ddb939.png"
+    "cover_image": "https://images.lumacdn.com/uploads/eo/7f05b429-5795-4934-8898-ca64e8ddb939.png",
+    "found_in": [
+      "codex-community"
+    ]
   },
   {
     "source": "luma",
@@ -582,7 +681,10 @@
     "address": "Coal Harbour",
     "organizer": "Codex Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/cq/2326b4e5-0de5-4362-9f57-1983c27226b9.png"
+    "cover_image": "https://images.lumacdn.com/uploads/cq/2326b4e5-0de5-4362-9f57-1983c27226b9.png",
+    "found_in": [
+      "codex-community"
+    ]
   },
   {
     "source": "luma",
@@ -597,7 +699,10 @@
     "address": "Queenstown",
     "organizer": "AI Tinkerers Singapore",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/vt/5a55c02d-611b-4a8c-8b10-aa4411596119.jpg"
+    "cover_image": "https://images.lumacdn.com/uploads/vt/5a55c02d-611b-4a8c-8b10-aa4411596119.jpg",
+    "found_in": [
+      "codex-community"
+    ]
   },
   {
     "source": "luma",
@@ -612,7 +717,10 @@
     "address": "แขวงห้วยขวาง",
     "organizer": "Codex Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/w4/3b734c31-6aa5-4c96-a2d9-22849e049245.png"
+    "cover_image": "https://images.lumacdn.com/uploads/w4/3b734c31-6aa5-4c96-a2d9-22849e049245.png",
+    "found_in": [
+      "codex-community"
+    ]
   },
   {
     "source": "luma",
@@ -627,7 +735,10 @@
     "address": "PV XENIA",
     "organizer": "Codex Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/vo/b146fcc1-9f4f-4b17-a4ed-a7aadbf0a9ac.jpg"
+    "cover_image": "https://images.lumacdn.com/uploads/vo/b146fcc1-9f4f-4b17-a4ed-a7aadbf0a9ac.jpg",
+    "found_in": [
+      "codex-community"
+    ]
   },
   {
     "source": "luma",
@@ -642,7 +753,10 @@
     "address": "ReVerse | Coffee & Tea",
     "organizer": "Codex Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/hh/ab878cb5-51a5-4fef-b336-475c79c9d2fc.png"
+    "cover_image": "https://images.lumacdn.com/uploads/hh/ab878cb5-51a5-4fef-b336-475c79c9d2fc.png",
+    "found_in": [
+      "codex-community"
+    ]
   },
   {
     "source": "luma",
@@ -657,7 +771,10 @@
     "address": "Yeast Side - Sourdough Pizza & Craft Beer (Farrer Park)",
     "organizer": "Codex Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/yd/49d9b0ea-4ce1-4aea-bc52-38dec2366523.png"
+    "cover_image": "https://images.lumacdn.com/uploads/yd/49d9b0ea-4ce1-4aea-bc52-38dec2366523.png",
+    "found_in": [
+      "codex-community"
+    ]
   },
   {
     "source": "luma",
@@ -672,7 +789,10 @@
     "address": "Upper Hill Estate",
     "organizer": "Codex Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/9e/d66df69d-f45e-4442-815e-78a99aed4118.png"
+    "cover_image": "https://images.lumacdn.com/uploads/9e/d66df69d-f45e-4442-815e-78a99aed4118.png",
+    "found_in": [
+      "codex-community"
+    ]
   },
   {
     "source": "luma",
@@ -687,7 +807,10 @@
     "address": "BeCentral",
     "organizer": "Cerebras",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/ee/db299c57-fcd9-45a3-9220-ececdde195eb.jpg"
+    "cover_image": "https://images.lumacdn.com/uploads/ee/db299c57-fcd9-45a3-9220-ececdde195eb.jpg",
+    "found_in": [
+      "codex-community"
+    ]
   },
   {
     "source": "luma",
@@ -702,7 +825,10 @@
     "address": "Alpha Coffee Cafe - Salt Lake City",
     "organizer": "Codex Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/z3/58a5e182-a80c-4f86-9986-5c9931a6a420.png"
+    "cover_image": "https://images.lumacdn.com/uploads/z3/58a5e182-a80c-4f86-9986-5c9931a6a420.png",
+    "found_in": [
+      "codex-community"
+    ]
   },
   {
     "source": "luma",
@@ -717,7 +843,10 @@
     "address": "1441 Chestnut St",
     "organizer": "Codex Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/19/25f7764a-aa5a-4c03-9fe2-f2bd021c33ef.png"
+    "cover_image": "https://images.lumacdn.com/uploads/19/25f7764a-aa5a-4c03-9fe2-f2bd021c33ef.png",
+    "found_in": [
+      "codex-community"
+    ]
   },
   {
     "source": "luma",
@@ -732,7 +861,10 @@
     "address": "53 Wrights Rd",
     "organizer": "Codex Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/tz/f23407e8-c1e7-4003-bb92-7383ccb09b87.png"
+    "cover_image": "https://images.lumacdn.com/uploads/tz/f23407e8-c1e7-4003-bb92-7383ccb09b87.png",
+    "found_in": [
+      "codex-community"
+    ]
   },
   {
     "source": "luma",
@@ -747,7 +879,10 @@
     "address": "Seolleung-ro 111-gil",
     "organizer": "Codex Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/hm/a0c460c3-5c86-4995-86e3-7d7e9ba3f381.jpg"
+    "cover_image": "https://images.lumacdn.com/uploads/hm/a0c460c3-5c86-4995-86e3-7d7e9ba3f381.jpg",
+    "found_in": [
+      "codex-community"
+    ]
   },
   {
     "source": "luma",
@@ -762,7 +897,10 @@
     "address": null,
     "organizer": "Codex Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/j1/8a66d2cc-5328-4113-93f3-ac73d4bef46b.png"
+    "cover_image": "https://images.lumacdn.com/uploads/j1/8a66d2cc-5328-4113-93f3-ac73d4bef46b.png",
+    "found_in": [
+      "codex-community"
+    ]
   },
   {
     "source": "luma",
@@ -777,7 +915,10 @@
     "address": "Caffè Calabria",
     "organizer": "Codex Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/jx/9a9d49c1-cee3-41d4-9539-213a28410e74.png"
+    "cover_image": "https://images.lumacdn.com/uploads/jx/9a9d49c1-cee3-41d4-9539-213a28410e74.png",
+    "found_in": [
+      "codex-community"
+    ]
   },
   {
     "source": "luma",
@@ -792,7 +933,10 @@
     "address": "The Joi Factory (Vegetarian Café Restaurant)",
     "organizer": "Codex Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/9y/5ea9c6d6-c34c-4731-9f48-23e056b1180e.jpg"
+    "cover_image": "https://images.lumacdn.com/uploads/9y/5ea9c6d6-c34c-4731-9f48-23e056b1180e.jpg",
+    "found_in": [
+      "codex-community"
+    ]
   },
   {
     "source": "luma",
@@ -807,7 +951,10 @@
     "address": "ミックウェアイノベーションラボ大阪",
     "organizer": "Codex Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/0h/5740f3b3-60d9-4e95-ae36-7a0977d2db50.png"
+    "cover_image": "https://images.lumacdn.com/uploads/0h/5740f3b3-60d9-4e95-ae36-7a0977d2db50.png",
+    "found_in": [
+      "codex-community"
+    ]
   },
   {
     "source": "luma",
@@ -822,7 +969,10 @@
     "address": "Itnig Café",
     "organizer": "Codex Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/n0/58b5fa11-f2cd-47e7-9358-4fd72da91b15.png"
+    "cover_image": "https://images.lumacdn.com/uploads/n0/58b5fa11-f2cd-47e7-9358-4fd72da91b15.png",
+    "found_in": [
+      "codex-community"
+    ]
   },
   {
     "source": "luma",
@@ -837,21 +987,9 @@
     "address": null,
     "organizer": "Codex Community Events",
     "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/4r/dfb5baf2-18a0-49fe-aa18-e4bf09727b58.png"
-  },
-  {
-    "source": "luma",
-    "source_slug": "aimadrid",
-    "source_id": "evt-x62zPTK7EILE9XK",
-    "name": "AI Socratic Madrid - September",
-    "start_at": "2026-09-24T15:30:00.000Z",
-    "end_at": "2026-09-24T18:00:00.000Z",
-    "timezone": "Europe/Madrid",
-    "url": "https://lu.ma/42vour7p",
-    "city": "Madrid",
-    "address": "Experience Design Lab",
-    "organizer": "AI Socratic - Madrid",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/mk/a2f9fed1-ea37-4de2-a937-30ba0e5c6041.png"
+    "cover_image": "https://images.lumacdn.com/uploads/4r/dfb5baf2-18a0-49fe-aa18-e4bf09727b58.png",
+    "found_in": [
+      "codex-community"
+    ]
   }
 ]

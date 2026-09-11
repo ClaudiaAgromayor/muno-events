@@ -1,0 +1,45 @@
+name: Scrape eventos Madrid tech
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Instalar uv
+        uses: astral-sh/setup-uv@v3
+
+      - name: Instalar dependencias
+        run: uv sync
+
+      - name: Scraper de Luma
+        run: uv run python src/eventos_tech_madrid/scrapers/luma.py
+        continue-on-error: true
+
+      - name: Scraper de Meetup
+        run: uv run python src/eventos_tech_madrid/scrapers/meetup.py
+        continue-on-error: true
+
+      - name: Scraper de Eventbrite
+        run: uv run python src/eventos_tech_madrid/scrapers/eventbrite.py
+        continue-on-error: true
+
+      - name: Unificar y deduplicar
+        run: uv run python src/eventos_tech_madrid/pipeline/unify.py
+
+      - name: Guardar cambios en el repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "Actualizar datos de eventos [automatico]"
+          git push

@@ -2,78 +2,6 @@
   {
     "source": "luma",
     "source_slug": "madrid",
-    "source_id": "evt-lIKMzI2eGiupSOU",
-    "name": "The social workout",
-    "start_at": "2026-09-12T09:00:00.000Z",
-    "end_at": "2026-09-12T11:30:00.000Z",
-    "timezone": "Europe/Madrid",
-    "url": "https://lu.ma/3vejplq7",
-    "city": "Madrid",
-    "address": "C. de Trafalgar, 17",
-    "organizer": "Personal",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/4h/c2f8a9d3-7452-42a9-a517-105ec8a92c49.png",
-    "found_in": [
-      "madrid"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "madrid",
-    "source_id": "evt-0smjmBavSVdedmX",
-    "name": "¡Viva México! · Fun Run & Brunch",
-    "start_at": "2026-09-13T09:00:00.000Z",
-    "end_at": "2026-09-13T10:00:00.000Z",
-    "timezone": "Europe/Madrid",
-    "url": "https://lu.ma/mrezq6nc",
-    "city": "Madrid",
-    "address": "Puerta de O'Donnell",
-    "organizer": "Personal",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/1g/cc99d44a-1b3c-4bd0-9777-e9c6aefdabda.jpg",
-    "found_in": [
-      "madrid"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "madrid",
-    "source_id": "evt-rWOSB0MjlmK8h71",
-    "name": "In Breath with Catalina Rojas",
-    "start_at": "2026-09-15T17:30:00.000Z",
-    "end_at": "2026-09-15T19:00:00.000Z",
-    "timezone": "Europe/Madrid",
-    "url": "https://lu.ma/tf206llz",
-    "city": "Madrid",
-    "address": "Nômade Temple Madrid",
-    "organizer": "Nômade Temple Madrid",
-    "is_free": false,
-    "cover_image": "https://images.lumacdn.com/uploads/bs/1f2bb274-0b9c-45f7-b236-cbc37256ff8b.png",
-    "found_in": [
-      "madrid"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "madrid",
-    "source_id": "evt-Tsf9C2eyNE134Y1",
-    "name": "Sip & Connect: Love & Ambition",
-    "start_at": "2026-09-15T18:00:00.000Z",
-    "end_at": "2026-09-15T21:00:00.000Z",
-    "timezone": "Europe/Madrid",
-    "url": "https://lu.ma/dcwq173j",
-    "city": "Madrid",
-    "address": "Bravo Wine Bar",
-    "organizer": "FoundHer Madrid Events",
-    "is_free": false,
-    "cover_image": "https://images.lumacdn.com/uploads/3j/8a38c3c5-3917-4407-80af-7904e2ab23b6.png",
-    "found_in": [
-      "madrid"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "madrid",
     "source_id": "evt-HKQg4GkjHJCr4um",
     "name": "Astra Commons: Madrid",
     "start_at": "2026-09-16T16:00:00.000Z",
@@ -81,13 +9,20 @@
     "timezone": "Europe/Madrid",
     "url": "https://lu.ma/to9pt7z7",
     "city": "Madrid",
-    "address": "Palacio",
+    "address": "AZCA",
     "organizer": "Codex Community Events",
     "is_free": true,
     "cover_image": "https://images.lumacdn.com/uploads/pt/02fec324-caf5-4b92-ab2b-3c653b38fe75.png",
     "found_in": [
       "madrid"
-    ]
+    ],
+    "description": "¡Acompáñanos en Astra Commons en Madrid!Este encuentro informal reunirá a desarrolladores, estudiantes, founders y miembros de la comunidad para celebrar el lanzamiento de GPT-6 Astra.\n¿Qué puedes esperar?\nTomar un café y conectar con la comunidad local de builders.\n\nConversar sobre el lanzamiento de GPT-6 Astra.\n\nIntercambiar ideas y encontrar inspiración.\n\n$100 en créditos de Codex y $50 en créditos de API para construir con GPT-6 Astra (para asistentes registrados).\n\nLos cupos son limitados. ¡Esperamos verte ahí!==================================Join us at Astra Commons in Madrid!This casual meetup is bringing together developers, students, founders, and community members to celebrate the launch of GPT-6 Astra.What to expect:\nGrab coffee and connect with your local builder community\n\nDiscuss the launch of GPT-6 Astra\n\nExchange ideas and find inspiration\n\n$100 in Codex credits and $50 in API credits to build with GPT-6 Astra (for registered attendees)\n\nSpace is limited. We hope to see you there!",
+    "categories": [
+      "AI"
+    ],
+    "guest_count": 63,
+    "sold_out": true,
+    "waitlist_active": true
   },
   {
     "source": "luma",
@@ -105,25 +40,14 @@
     "cover_image": "https://images.lumacdn.com/uploads/ym/cf9e4ca7-2b8a-4599-8726-86ac2c69f2f9.png",
     "found_in": [
       "madrid"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "madrid",
-    "source_id": "evt-7GDp5EzpYabgGHJ",
-    "name": "Culture in Motion - Uber & Adsmurai",
-    "start_at": "2026-09-16T16:30:00.000Z",
-    "end_at": "2026-09-16T20:30:00.000Z",
-    "timezone": "Europe/Madrid",
-    "url": "https://lu.ma/xlz2nko7",
-    "city": "Madrid",
-    "address": "Pl. Pablo Ruiz Picasso, 11",
-    "organizer": "Personal",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/fg/95b9425f-5745-4030-8dd8-fa51df9216ce.png",
-    "found_in": [
-      "madrid"
-    ]
+    ],
+    "description": "Ven al primer evento oficial de Claude Community Madrid! \nSerá el 16 de Septiembre a las 6:30 pm en el centro de Madrid (ISDI).\nPresentaremos a todos los embajadores y sus verticales, te contaremos de qué va esta comunidad y cómo puedes formar parte, y te adelantaremos el tipo de eventos que iremos organizando a partir de ahora.\nHabrá tiempo para preguntas y, después de la presentación, te animamos a quedarte a hacer networking con los embajadores y con el resto de asistentes.\nEl espacio co-patrocina las bebidas y además te llevarás un pequeño regalo ;)\nEl registro está abierto hasta el viernes 4 de septiembre. Seleccionaremos a los asistentes buscando una mezcla variada de perfiles, para que las conversaciones sean lo más interesantes posible; no hace falta ser técnico ni usuario avanzado. Te confirmaremos si tienes plaza antes del lunes 7 de septiembre.\nRegístrate solo si estás seguro de que puedes venir: las plazas son limitadas y cada sitio vacío es alguien que se quedó fuera.\n------\nJoin Claude Community Madrid for our first official event!\nWe'll introduce all the ambassadors and their verticals, explain what this community is about and how you can be part of it, and give you a preview of the kinds of events we'll be running from here on.\nThere will be time for questions, and after the presentation we encourage you to stay and network with the ambassadors and the other attendees.\nThe venue is co-sponsoring drinks, and you'll get a small gift ;)\nRegistration is open until Friday, September 4th. We'll select attendees looking for a varied mix of profiles and levels of experience with Claude, so the conversations are as interesting as possible — you don't need to be technical or an advanced user. We'll let you know whether you have a spot by Monday, September 7th.\nPlease only register if you're sure you can make it: spots are limited, and every empty seat is someone who was left out.",
+    "categories": [
+      "AI"
+    ],
+    "guest_count": 0,
+    "sold_out": true,
+    "waitlist_active": false
   },
   {
     "source": "luma",
@@ -141,43 +65,14 @@
     "cover_image": "https://images.lumacdn.com/uploads/yr/8286c217-3d73-4c3a-a36b-712be49c9ab4.jpg",
     "found_in": [
       "madrid"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "madrid",
-    "source_id": "evt-FsUHjC4WuuvQVZo",
-    "name": "Social Run & Dinner TEMPLE X GRETA",
-    "start_at": "2026-09-16T17:30:00.000Z",
-    "end_at": "2026-09-16T20:00:00.000Z",
-    "timezone": "Europe/Madrid",
-    "url": "https://lu.ma/p9t4g824",
-    "city": "Madrid",
-    "address": "Greta Salad Bar",
-    "organizer": "Personal",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/aw/93a88243-4920-4dd0-9134-b825a8a332da.png",
-    "found_in": [
-      "madrid"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "madrid",
-    "source_id": "evt-SdY0oYlXnZpC6cF",
-    "name": "Intro Only: Back to The City 🖤",
-    "start_at": "2026-09-16T19:00:00.000Z",
-    "end_at": "2026-09-16T22:00:00.000Z",
-    "timezone": "Europe/Madrid",
-    "url": "https://lu.ma/wlpatknh",
-    "city": "Madrid",
-    "address": "Recoletos",
-    "organizer": "Personal",
-    "is_free": false,
-    "cover_image": "https://images.lumacdn.com/uploads/j7/43128a73-d5d2-4b39-8d47-3f8e07742694.png",
-    "found_in": [
-      "madrid"
-    ]
+    ],
+    "description": "Omarchy Spain 🇪🇸 - Madrid\nThe first Omarchy meetup in Madrid.\nA casual gathering for people who use Omarchy, are curious about it or just love Linux, open source and making computers fun again.\nBring your laptop. Show off your setup. Swap themes and plugins. Help someone install Omarchy. Talk Linux, programming, hardware, AI, agents or whatever you’re building.\n📍 SampliaX! Callao (Pl. del Callao, 1, Centro, 28013 Madrid)🎟️ Free and open to everyone👥 Limited to 50 seats\nBring your machine. Come hang out. 🐧\nAbout the Hosts\nmad.builders - a curated community, and a launchpad for founders building real companies. No coworking fluff. No networking theater. Just building.\nSamplia - We connect brands with people. We are experts in smart sampling with consumer feedback.",
+    "categories": [
+      "Tech"
+    ],
+    "guest_count": 50,
+    "sold_out": true,
+    "waitlist_active": true
   },
   {
     "source": "luma",
@@ -196,7 +91,14 @@
     "found_in": [
       "madrid",
       "madai"
-    ]
+    ],
+    "description": "The talk will be in Spanish, unless someone doesn’t speak the language, in which case we’ll switch to English.La IA solo amplifica lo que tu equipo ya hace. Sin un proceso claro, lo único que aceleras no es la entrega, sino la deuda técnica. En esta charla, explicaré el flujo de trabajo real que aplicamos en los proyectos de nuestros clientes para integrar la IA en el desarrollo frontend sin perder calidad: una nueva forma de ejecutar pruebas dentro del propio navegador que el desarrollador ya tiene abierto, el uso de harness engineering como marco de trabajo y cuatro reglas no negociables para mantener al agente bajo control.\n¿Qué aporta de diferente? Se trata de meses de aprendizaje en proyectos frontend reales con clientes, donde pasamos de 0 uso de IA a todo un flujo controlado en producción.Ponente:Kevin Martínez, software Architect y maintainer de TWD (testing while developing), una metodología de pruebas diseñada para replantear cómo se validan las interfaces durante el proceso de desarrollo. Cuenta con una profunda pasión por compartir conocimiento, el testing y la accesibilidad.Agenda\n18:50 Bienvenida y recepción de asistentes19:00 Charla: How to stop your AI agent from amplifying your team's tech debt20:00 Cierre y networking",
+    "categories": [
+      "AI"
+    ],
+    "guest_count": 40,
+    "sold_out": true,
+    "waitlist_active": true
   },
   {
     "source": "luma",
@@ -214,43 +116,14 @@
     "cover_image": "https://images.lumacdn.com/uploads/7i/9ec09a82-62a5-40b2-92cd-2cf870ea4222.png",
     "found_in": [
       "madrid"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "madrid",
-    "source_id": "evt-sliSVmB5ejqFysI",
-    "name": "APERITIVO",
-    "start_at": "2026-09-20T09:00:00.000Z",
-    "end_at": "2026-09-20T12:00:00.000Z",
-    "timezone": "Europe/Madrid",
-    "url": "https://lu.ma/mvm50e28",
-    "city": "Madrid",
-    "address": "Vrro Castellana",
-    "organizer": "Personal",
-    "is_free": false,
-    "cover_image": "https://images.lumacdn.com/uploads/a3/1d681f5e-97bf-457f-97ea-960df352a2eb.png",
-    "found_in": [
-      "madrid"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "madrid",
-    "source_id": "evt-RwyUOmknrOPv6x4",
-    "name": "Café literario 🔖 Las indignas",
-    "start_at": "2026-09-20T15:30:00.000Z",
-    "end_at": "2026-09-20T17:00:00.000Z",
-    "timezone": "Europe/Madrid",
-    "url": "https://lu.ma/w9fi72gr",
-    "city": "Madrid",
-    "address": "Mandolina libros, café y talleres",
-    "organizer": "Personal",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/d8/93f90853-e206-4f41-8be3-f040e70ea3f0.png",
-    "found_in": [
-      "madrid"
-    ]
+    ],
+    "description": "Join the School's award-winning entrepreneurship centre, Generate, for a vibrant evening convening LSE's innovator community with Madrid's local entrepreneurial community, marking the launch of the Madrid chapter.\nWhy “Madrid\": founders and investors on what's building the city's ecosystem, from scale-stage tech to purpose & impact-driven ventures\nOverviewMadrid has emerged as one of Europe's leading entrepreneurial ecosystems, attracting founders, investors, and talent across fintech, deep tech, consumer, and purpose-driven ventures. This event brings together LSE alumni, students, and Madrid's startup community - from high-growth tech to impact-led innovation - to celebrate the chapter's launch and explore what makes the city a distinctive place to build.\nWhether you're building your next venture, investing in innovation, or looking to connect with the LSE community in Madrid, we'd love to welcome you for an evening of conversation, inspiration, and new connections.",
+    "categories": [
+      "Tech"
+    ],
+    "guest_count": 0,
+    "sold_out": false,
+    "waitlist_active": false
   },
   {
     "source": "luma",
@@ -269,7 +142,14 @@
     "found_in": [
       "madrid",
       "helmcode"
-    ]
+    ],
+    "description": "El afterwork de Helmcode para la gente que construye con modelos abiertos.\nTres charlas de 15-20 minutos y después lo importante: tiempo para hablar. El 22 de septiembre a partir de las 17:00 en Mad Tech Campus. El café, los refrescos y algo de picoteo corren de nuestra cuenta.\nLas charlas son la excusa, pero las conversaciones que surjan son lo que buscamos con el evento. Queremos que haya debate sano y compartir realidades: vuestra visión del desarrollo con IA, del sector, de los modelos abiertos y cómo lo vais implementando en vuestras empresas.\nLas charlas serán cortas y sirven como apertura del debate.\nCómo se organiza la tarde\n17:00. Puertas abiertas. Llega, pilla algo de beber y ve conociendo gente. El equipo de Helmcode estará ya por allí. Es el momento tranquilo si quieres charlar con nosotros.\n\n17:30. Bienvenida corta.\n\n17:45 a 19:30. Tres charlas de 15-20 minutos + preguntas.\nManu Martin de Tinybird hablando de Drug design con open models\n\nAlejandro Martínez de RevenuCat hablando de Monitorizando los bloqueos del fútbol: la importancia de las ñapas que no escalan\n\nJason Jiménez de Santander Bank hablando de Data Grounding en fine tunning\n\n\n19:30 a 21:00. Afterwork: conversación, ideas y lo que surja.\n\nEl equipo de Helmcode estará toda la tarde. Si tienes dudas sobre inferencia, modelos abiertos, migración desde otros proveedores o costes, búscanos en el afterwork y hablamos.\n¿Quieres dar una de las charlas?\nUno de los tres huecos está abierto a la comunidad. Si has construido algo con modelos abiertos y tienes una historia que contar, propón tu tema al registrarte. Formato corto e informal: 15 minutos, pantalla si la necesitas y cero presión.\nAntes de venir\nLas plazas son limitadas. Si al final no puedes venir, cancela tu registro para que entre alguien de la lista de espera.\n\nEl evento es en castellano. Si vienes de fuera, nos apañamos en inglés sin problema.\n\nNo hace falta portátil. Esto va de hablar.\n\nAl acabar, montaremos un grupo opcional para quien quiera seguir en contacto.\n\nQuien no forme parte de la comunidad de nan.builders, recibirá al día siguiente una invitación exclusiva.\n\nHabrá fotógrafo haciendo fotos y vídeo durante la tarde. Al asistir, aceptas aparecer en ese material, que podremos usar en nuestros canales.\nNos vemos en Matadero, Madrid.",
+    "categories": [
+      "AI"
+    ],
+    "guest_count": 192,
+    "sold_out": true,
+    "waitlist_active": true
   },
   {
     "source": "luma",
@@ -287,7 +167,14 @@
     "cover_image": "https://images.lumacdn.com/uploads/m4/e59d9964-31f5-41e9-b480-92a3cc7c1a1f.png",
     "found_in": [
       "madrid"
-    ]
+    ],
+    "description": "ENGJoin us for an evening of after-work drinks and real talk about building resilient systems. PagerDuty's Senior Developer Advocate, Daniel Afonso, will walk us through Chaos Engineering: how top teams break things on purpose to build more reliable software. Casual, hands-on, and open bar.Session will be delivered in English.\nAgenda18:30: Doors open; say hi, grab a seat, and eat some food19:00: Talk - Chaos Engineering, with Daniel Afonso. Sr. Developer Advocate (PagerDuty) + Q&A20:00: Networking time with food & drinks21:00: Wrap upPagerDuty is an incident management and real-time operations platform powered by AI designed to help teams detect, respond to, and resolve critical issues faster. For developers, PagerDuty streamlines on-call management, automates alerting, and integrates seamlessly with popular tools like Slack, GitHub, and AWS. Whether you’re building, deploying, or maintaining services, PagerDuty empowers engineering teams to minimise downtime, collaborate efficiently, and deliver reliable digital experiences. Learn more at https://www.pagerduty.com/.__________________________________________________________________ESPÚnete a nosotros para una tarde de after-work con cervezas y una charla sobre cómo construir sistemas más resilientes. Daniel Afonso, Senior Developer Advocate de PagerDuty, nos hablará de Chaos Engineering: cómo los mejores equipos rompen cosas a propósito para mejorar la fiabilidad de su software. Ambiente informal, cercano, y barra libre.La sesión será en inglés.Agenda\n18:30: Apertura de puertas: saluda, coge sitio y pilla algo de comer\n\n19:00: Charla: Chaos Engineering, con Daniel Afonso, Sr. Developer Advocate (PagerDuty) + Turno de preguntas\n\n20:00: Tiempo de networking con comida y bebida\n\n21:00: Cierre del evento\n\nPagerDuty es una plataforma de gestión de incidentes y operaciones en tiempo real impulsada por IA, diseñada para ayudar a los equipos a detectar, responder y resolver problemas críticos de forma más rápida. Para los desarrolladores, PagerDuty agiliza la gestión de las guardias (on-call), automatiza las alertas y se integra sin problemas con herramientas populares como Slack, GitHub y AWS. Ya estés construyendo, desplegando o manteniendo servicios, PagerDuty capacita a los equipos de ingeniería para minimizar el tiempo de inactividad, colaborar de manera eficiente y ofrecer experiencias digitales fiables. Más información en https://www.pagerduty.com/.",
+    "categories": [
+      "Tech"
+    ],
+    "guest_count": 38,
+    "sold_out": false,
+    "waitlist_active": false
   },
   {
     "source": "luma",
@@ -305,7 +192,14 @@
     "cover_image": "https://images.lumacdn.com/uploads/km/ee74adc9-bac6-4359-86ed-fd3026182648.png",
     "found_in": [
       "madrid"
-    ]
+    ],
+    "description": "La FredCon es la conferencia de liderazgo técnico y gestión de equipos técnicos de Manfred para la Comunidad. Un espacio para aprender y compartir. Desde cómo crear un plan de equilibrio salarial a mejorar en la gestión de personas. Una conferencia pensada para que técnicos y recursos humanos se entiendan mejor. Este no es un evento de negocios. Es un evento de Comunidad. De compartir. De aprender.  Las relaciones que se crean en la FredCon no se miden en leads o aplicaciones a ofertas de empleo. Se mide en estar y formar parte o no estar.",
+    "categories": [
+      "Tech"
+    ],
+    "guest_count": 0,
+    "sold_out": false,
+    "waitlist_active": false
   },
   {
     "source": "luma",
@@ -324,25 +218,14 @@
     "found_in": [
       "madrid",
       "aimadrid"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "madrid",
-    "source_id": "evt-CwgKsP5DciaKiG9",
-    "name": "IMMERSIVE SATURDAY: ASANA GROOVE YOGA × MICA WAGNER LIVE DJ SET",
-    "start_at": "2026-09-26T15:00:00.000Z",
-    "end_at": "2026-09-26T17:00:00.000Z",
-    "timezone": "Europe/Madrid",
-    "url": "https://lu.ma/21pg4g22",
-    "city": "Madrid",
-    "address": "Nômade Temple Madrid",
-    "organizer": "Nômade Temple Madrid",
-    "is_free": false,
-    "cover_image": "https://images.lumacdn.com/uploads/fe/5e184de6-8274-4cf1-9cf9-3472d7057e14.jpg",
-    "found_in": [
-      "madrid"
-    ]
+    ],
+    "description": "AI Socratic Madrid is a monthly gathering for AI practitioners, researchers, founders, educators, and builders in the Madrid AI scene.\nWe run Socratic dialogues on the last AI topics: new models and tools, research papers, AGI alignment, philosophy, geopolitics, and more.We believe the best conversations happen when diverse perspectives are in the room. Whether you come from engineering, research, product, policy, or education, if you think seriously about AI, you belong here.\nTo keep discussions meaningful, every application is reviewed. We look for curiosity, depth of thought, and a genuine willingness to contribute, not a specific job title or background.\nThe event runs in English 🇬🇧, unless everyone in the room speaks Spanish 🇪🇸.\nAgenda\n17:30 – 18:00 Welcome & networking\n\n18:00 – 19:00 Socratic dialogues\n\n19:00 – 20:00 Demos and presentations\n\nSocratic Conversations\nWe open with networking, time to meet the people in the room before the conversation starts.\nThe main session is structured around the latest AI Socratic monthly post, with room for the threads and topics that matter most to attendees.Everyone is encouraged to contribute. Jorge Ordovás and Alfonso de la Rocha moderate to keep things flowing and make sure every voice gets heard.\nWe close with demos and short presentations. Submit yours here.\nAI Socratic Madrid — Code of Conduct\nAI Socratic is built on the premise that better ideas come from more perspectives. This Code of Conduct exists to make that real, not aspirational.\nWho this is for:\nEveryone: attendees, speakers, organisers, and guests. No exceptions.\n\nWhat we expect:\nBe curious, not combative. Challenge ideas, not people. The Socratic method works because it assumes good faith on all sides.\n\nMake room. If you tend to speak a lot, listen more. If you see someone being talked over, say something.\n\nRespect identities and expertise. Don't make assumptions about what someone knows (or doesn't) based on how they look, their accent, or their background.\n\nNo unsolicited advice or feedback. If someone didn't ask for your opinion on their work, keep it.\n\nWhat we won't tolerate:\nHarassment of any kind: including comments related to gender, gender identity, sexual orientation, disability, ethnicity, religion, or age. This applies to talks, conversations, online channels, and side events.\n\nSpecifically off-limits: sexualised language or imagery, deliberate intimidation, interrupting or talking over speakers, and taking photos or recording without consent.\n\nIf something happens:\nTell an organiser directly, or send an email. Reports are handled confidentially.\n\nAnyone asked to stop a behaviour is expected to do so immediately. Persistent violations result in removal from the event and future editions.\n\nWe follow up on every report.\n\nThe short version:\nTreat people the way you'd want to be treated if you were the only person who didn't look like everyone else, or the only person defending an opinion in the room.",
+    "categories": [
+      "AI"
+    ],
+    "guest_count": 0,
+    "sold_out": true,
+    "waitlist_active": true
   },
   {
     "source": "luma",
@@ -360,636 +243,13 @@
     "cover_image": "https://images.lumacdn.com/uploads/sm/53eecd8f-b929-4f8d-8040-e0a28c2306f7.png",
     "found_in": [
       "madrid"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "claudecommunity",
-    "source_id": "evt-NCAzAAic7V4ZYJP",
-    "name": "Anchorage | Claude Meetup",
-    "start_at": "2026-09-12T00:00:00.000Z",
-    "end_at": "2026-09-12T02:00:00.000Z",
-    "timezone": "America/Anchorage",
-    "url": "https://lu.ma/claude-gwub",
-    "city": "Anchorage",
-    "address": "UAA/APU Consortium Library",
-    "organizer": "Claude Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/api-uploads/90/df1ca309-5be0-4dab-989d-d4a923db6008.png",
-    "found_in": [
-      "claudecommunity"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "claudecommunity",
-    "source_id": "evt-fsLWbVSvtC4oZcm",
-    "name": "Shimokitazawa | Claude Meetup",
-    "start_at": "2026-09-12T01:00:00.000Z",
-    "end_at": "2026-09-12T02:30:00.000Z",
-    "timezone": "Asia/Tokyo",
-    "url": "https://lu.ma/claude-wn56",
-    "city": null,
-    "address": null,
-    "organizer": "Claude Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/api-uploads/wx/e4d2e5d4-173e-4a10-a85c-972e8082a0c8.png",
-    "found_in": [
-      "claudecommunity"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "claudecommunity",
-    "source_id": "evt-Mn5KJSu1G7COC95",
-    "name": "Cape Town | Claude Build with Fable 5.1",
-    "start_at": "2026-09-12T07:30:00.000Z",
-    "end_at": "2026-09-12T11:00:00.000Z",
-    "timezone": "Africa/Johannesburg",
-    "url": "https://lu.ma/claude-rjn4",
-    "city": "Cape Town",
-    "address": "Roamwork Harrington",
-    "organizer": "Claude Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/api-uploads/rh/89dac6b4-d814-405a-905b-3335b8553716.png",
-    "found_in": [
-      "claudecommunity"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "claudecommunity",
-    "source_id": "evt-hzA0HURYlthyYV2",
-    "name": "Bhopal | Claude Conversation",
-    "start_at": "2026-09-12T11:30:00.000Z",
-    "end_at": "2026-09-12T15:00:00.000Z",
-    "timezone": "Asia/Kolkata",
-    "url": "https://lu.ma/claude-6khk",
-    "city": "Bhopal",
-    "address": "Zone-II",
-    "organizer": "Claude Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/api-uploads/r5/fcb0fc15-d600-4f19-9463-1b6f7f9de0fd.png",
-    "found_in": [
-      "claudecommunity"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "claudecommunity",
-    "source_id": "evt-jUCb7a1QvwVr6hN",
-    "name": "San Francisco | Claude Workshop for Moms - Let's Build Your Work + Life Blueprint",
-    "start_at": "2026-09-12T21:00:00.000Z",
-    "end_at": "2026-09-12T23:00:00.000Z",
-    "timezone": "America/Los_Angeles",
-    "url": "https://lu.ma/claude-4dty",
-    "city": "San Francisco",
-    "address": "SoMa",
-    "organizer": "Claude Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/api-uploads/dr/87088810-c1e9-4f3a-a9a8-9a3ae4760c68.png",
-    "found_in": [
-      "claudecommunity"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "claudecommunity",
-    "source_id": "evt-mLFu3IoSUvVP1FA",
-    "name": "Bhopal | Claude Impact Lab",
-    "start_at": "2026-09-13T04:30:00.000Z",
-    "end_at": "2026-09-13T13:30:00.000Z",
-    "timezone": "Asia/Kolkata",
-    "url": "https://lu.ma/claude-r61u",
-    "city": null,
-    "address": null,
-    "organizer": "Claude Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/api-uploads/ho/1c9d3753-fcc9-44d8-9d1a-cfc599d9ff47.png",
-    "found_in": [
-      "claudecommunity"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "claudecommunity",
-    "source_id": "evt-celFPNAYWeC8W1N",
-    "name": "Yamaguchi | Claude × 医療・ヘルスケア 入門ワークショップ",
-    "start_at": "2026-09-13T05:00:00.000Z",
-    "end_at": "2026-09-13T07:15:00.000Z",
-    "timezone": "Asia/Tokyo",
-    "url": "https://lu.ma/claude-wlcf",
-    "city": null,
-    "address": "KDDI Ishin Hall, Yamaguchi City",
-    "organizer": "Claude Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/api-uploads/vq/4e9dd191-f4ab-470f-919f-ef536d936ee0.png",
-    "found_in": [
-      "claudecommunity"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "claudecommunity",
-    "source_id": "evt-9Ypc08q8NgwPjuw",
-    "name": "Orange County | Claude Hang out",
-    "start_at": "2026-09-13T19:00:00.000Z",
-    "end_at": "2026-09-13T23:00:00.000Z",
-    "timezone": "America/Los_Angeles",
-    "url": "https://lu.ma/claude-hznj",
-    "city": "Newport Beach",
-    "address": "6401 San Joaquin Hills Rd",
-    "organizer": "Claude Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/api-uploads/h5/a45be175-9a43-4a01-8704-bcea1e87bd2f.png",
-    "found_in": [
-      "claudecommunity"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "claudecommunity",
-    "source_id": "evt-edb2MthkjmZ710S",
-    "name": "Claude in Finance NYC",
-    "start_at": "2026-09-13T21:00:00.000Z",
-    "end_at": "2026-09-14T00:00:00.000Z",
-    "timezone": "America/New_York",
-    "url": "https://lu.ma/claude-u86r",
-    "city": "New York",
-    "address": "No More Cafe",
-    "organizer": "Claude Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/g9/495635b6-f126-4a92-89ba-d96ee76954f3.png",
-    "found_in": [
-      "claudecommunity"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "claudecommunity",
-    "source_id": "evt-c5XyqUKwFXmKFHE",
-    "name": "Claude Community Oslo | Fable 5.1 Build Day",
-    "start_at": "2026-09-14T15:30:00.000Z",
-    "end_at": "2026-09-14T19:00:00.000Z",
-    "timezone": "Europe/Oslo",
-    "url": "https://lu.ma/claude-1o6j",
-    "city": "Oslo",
-    "address": "Mesh Youngstorget - Mesh Community",
-    "organizer": "Claude Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/he/77ac434d-d187-4931-8910-d4536c3f8e49.png",
-    "found_in": [
-      "claudecommunity"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "claudecommunity",
-    "source_id": "evt-NRbIDCQoqIl48mp",
-    "name": "Austin | Claude Code Meetup",
-    "start_at": "2026-09-14T23:00:00.000Z",
-    "end_at": "2026-09-15T01:00:00.000Z",
-    "timezone": "America/Chicago",
-    "url": "https://lu.ma/claude-91pm",
-    "city": null,
-    "address": "Capital Factory, Austin, TX",
-    "organizer": "Claude Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/api-uploads/at/477cc35d-2f21-4510-8c0f-62092e5df6d3.png",
-    "found_in": [
-      "claudecommunity"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "claudecommunity",
-    "source_id": "evt-t10QmuI2B7kMnb5",
-    "name": "Copenhagen | Claude for Fintech",
-    "start_at": "2026-09-15T15:00:00.000Z",
-    "end_at": "2026-09-15T18:00:00.000Z",
-    "timezone": "Europe/Copenhagen",
-    "url": "https://lu.ma/claude-s78u",
-    "city": "København",
-    "address": "CodeNode Copenhagen",
-    "organizer": "Claude Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/86/424fc703-d042-4447-83ec-b05b4cab8ab6.png",
-    "found_in": [
-      "claudecommunity"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "claudecommunity",
-    "source_id": "evt-2mr22YiGigjylXR",
-    "name": "Amsterdam | Claude Meetup: Build Your Second Brain",
-    "start_at": "2026-09-15T16:00:00.000Z",
-    "end_at": "2026-09-15T20:00:00.000Z",
-    "timezone": "Europe/Amsterdam",
-    "url": "https://lu.ma/claude-wdr9",
-    "city": "Amsterdam",
-    "address": "Café Belcampo",
-    "organizer": "Claude Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/api-uploads/wv/aa70d3e7-d8e9-474a-a309-cb38bfd2f31b.png",
-    "found_in": [
-      "claudecommunity"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "claudecommunity",
-    "source_id": "evt-XwAS0hZSn8ljyuQ",
-    "name": "Claude For Advertising 01: AI, Data And Insights",
-    "start_at": "2026-09-15T16:30:00.000Z",
-    "end_at": "2026-09-15T19:00:00.000Z",
-    "timezone": "Europe/Paris",
-    "url": "https://lu.ma/claude-8ql4",
-    "city": "Neuilly-sur-Seine",
-    "address": "34 Bd du Parc",
-    "organizer": "Claude Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/api-uploads/mo/5e9f5588-98f2-469e-9539-72b05b4ca41b.png",
-    "found_in": [
-      "claudecommunity"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "claudecommunity",
-    "source_id": "evt-v95u4yO0KmaWqOO",
-    "name": "New York | Claude for Private Equity & Venture Capital",
-    "start_at": "2026-09-15T21:00:00.000Z",
-    "end_at": "2026-09-16T00:00:00.000Z",
-    "timezone": "America/New_York",
-    "url": "https://lu.ma/claude-m0yq",
-    "city": "New York",
-    "address": "Manhattan",
-    "organizer": "Claude Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/v8/a2dd0629-99cb-440b-a2ea-54d6bc6bd292.png",
-    "found_in": [
-      "claudecommunity"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "codex-community",
-    "source_id": "evt-G1t4GqbfBS29f1R",
-    "name": "Astra Commons: London",
-    "start_at": "2026-09-11T17:30:00.000Z",
-    "end_at": "2026-09-11T20:30:00.000Z",
-    "timezone": "Europe/London",
-    "url": "https://lu.ma/astra-ldn",
-    "city": "London",
-    "address": null,
-    "organizer": "Codex Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/5q/dc7c9662-92ce-4328-8972-809d8176fefc.png",
-    "found_in": [
-      "codex-community"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "codex-community",
-    "source_id": "evt-KsjEHdcofWlPb0S",
-    "name": "Astra Commons: Wellington",
-    "start_at": "2026-09-11T21:00:00.000Z",
-    "end_at": "2026-09-12T00:00:00.000Z",
-    "timezone": "Pacific/Auckland",
-    "url": "https://lu.ma/kngoo931",
-    "city": "Wellington",
-    "address": "Prefab-ACME",
-    "organizer": "Codex Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/eo/7f05b429-5795-4934-8898-ca64e8ddb939.png",
-    "found_in": [
-      "codex-community"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "codex-community",
-    "source_id": "evt-GNED3roH3EWP8LQ",
-    "name": "Astra Commons: Vancouver",
-    "start_at": "2026-09-12T02:00:00.000Z",
-    "end_at": "2026-09-12T05:00:00.000Z",
-    "timezone": "America/Vancouver",
-    "url": "https://lu.ma/i8e0x1ys",
-    "city": "Vancouver",
-    "address": "Coal Harbour",
-    "organizer": "Codex Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/cq/2326b4e5-0de5-4362-9f57-1983c27226b9.png",
-    "found_in": [
-      "codex-community"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "codex-community",
-    "source_id": "evt-96ySaqqmoJWq35k",
-    "name": "Agents, Everywhere Hackathon by AI Tinkerers",
-    "start_at": "2026-09-12T02:00:00.000Z",
-    "end_at": "2026-09-12T10:30:00.000Z",
-    "timezone": "Asia/Singapore",
-    "url": "https://lu.ma/b4fdnzoc",
-    "city": "Singapore",
-    "address": "Queenstown",
-    "organizer": "AI Tinkerers Singapore",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/vt/5a55c02d-611b-4a8c-8b10-aa4411596119.jpg",
-    "found_in": [
-      "codex-community"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "codex-community",
-    "source_id": "evt-pnJRuVKnlvC04Hp",
-    "name": "Astra Commons: Bangkok",
-    "start_at": "2026-09-12T02:00:00.000Z",
-    "end_at": "2026-09-12T05:00:00.000Z",
-    "timezone": "Asia/Bangkok",
-    "url": "https://lu.ma/2r393vw4",
-    "city": null,
-    "address": "แขวงห้วยขวาง",
-    "organizer": "Codex Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/w4/3b734c31-6aa5-4c96-a2d9-22849e049245.png",
-    "found_in": [
-      "codex-community"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "codex-community",
-    "source_id": "evt-1yH5QgJhDjH0xTI",
-    "name": "Astra Commons: Kuala Lumpur",
-    "start_at": "2026-09-12T02:00:00.000Z",
-    "end_at": "2026-09-12T07:00:00.000Z",
-    "timezone": "Asia/Kuala_Lumpur",
-    "url": "https://lu.ma/n5x8qxcp",
-    "city": "Selangor",
-    "address": "PV XENIA",
-    "organizer": "Codex Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/vo/b146fcc1-9f4f-4b17-a4ed-a7aadbf0a9ac.jpg",
-    "found_in": [
-      "codex-community"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "codex-community",
-    "source_id": "evt-YMHBKVhYwZINwZ6",
-    "name": "Astra Commons: Jakarta",
-    "start_at": "2026-09-12T03:00:00.000Z",
-    "end_at": "2026-09-12T06:00:00.000Z",
-    "timezone": "Asia/Jakarta",
-    "url": "https://lu.ma/a7x5kjwz",
-    "city": "Kota Jakarta Selatan",
-    "address": "ReVerse | Coffee & Tea",
-    "organizer": "Codex Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/hh/ab878cb5-51a5-4fef-b336-475c79c9d2fc.png",
-    "found_in": [
-      "codex-community"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "codex-community",
-    "source_id": "evt-xJBCBqpYN3zbuIK",
-    "name": "Astra Commons: Singapore",
-    "start_at": "2026-09-12T04:00:00.000Z",
-    "end_at": "2026-09-12T09:00:00.000Z",
-    "timezone": "Asia/Singapore",
-    "url": "https://lu.ma/astracommons-sg",
-    "city": "Singapore",
-    "address": "Yeast Side - Sourdough Pizza & Craft Beer (Farrer Park)",
-    "organizer": "Codex Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/yd/49d9b0ea-4ce1-4aea-bc52-38dec2366523.png",
-    "found_in": [
-      "codex-community"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "codex-community",
-    "source_id": "evt-OgcOk6ubTYpsrGi",
-    "name": "Astra Commons: Nairobi",
-    "start_at": "2026-09-12T12:00:00.000Z",
-    "end_at": "2026-09-12T15:00:00.000Z",
-    "timezone": "Africa/Nairobi",
-    "url": "https://lu.ma/temi4mzj",
-    "city": "Nairobi",
-    "address": "Upper Hill Estate",
-    "organizer": "Codex Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/9e/d66df69d-f45e-4442-815e-78a99aed4118.png",
-    "found_in": [
-      "codex-community"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "codex-community",
-    "source_id": "evt-EkcfBMLb7KQZmYG",
-    "name": "Cafe Compute Meetup: Brussels",
-    "start_at": "2026-09-12T12:00:00.000Z",
-    "end_at": "2026-09-12T15:30:00.000Z",
-    "timezone": "Europe/Brussels",
-    "url": "https://lu.ma/cafecomputebrussels",
-    "city": "Bruxelles",
-    "address": "BeCentral",
-    "organizer": "Cerebras",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/ee/db299c57-fcd9-45a3-9220-ececdde195eb.jpg",
-    "found_in": [
-      "codex-community"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "codex-community",
-    "source_id": "evt-c0kEzI8kSWdIQEM",
-    "name": "Astra Commons: Salt Lake City",
-    "start_at": "2026-09-12T15:00:00.000Z",
-    "end_at": "2026-09-12T18:00:00.000Z",
-    "timezone": "America/Denver",
-    "url": "https://lu.ma/obtdh732",
-    "city": "Salt Lake City",
-    "address": "Alpha Coffee Cafe - Salt Lake City",
-    "organizer": "Codex Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/z3/58a5e182-a80c-4f86-9986-5c9931a6a420.png",
-    "found_in": [
-      "codex-community"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "codex-community",
-    "source_id": "evt-4OyQXKqA8prHQhG",
-    "name": "Astra Commons: Philly",
-    "start_at": "2026-09-12T22:00:00.000Z",
-    "end_at": "2026-09-13T01:00:00.000Z",
-    "timezone": "America/New_York",
-    "url": "https://lu.ma/5ia31j33",
-    "city": "Philadelphia",
-    "address": "1441 Chestnut St",
-    "organizer": "Codex Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/19/25f7764a-aa5a-4c03-9fe2-f2bd021c33ef.png",
-    "found_in": [
-      "codex-community"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "codex-community",
-    "source_id": "evt-CZKABUqvWvw6L2F",
-    "name": "Astra Commons: Sydney",
-    "start_at": "2026-09-13T03:00:00.000Z",
-    "end_at": "2026-09-13T07:00:00.000Z",
-    "timezone": "Australia/Sydney",
-    "url": "https://lu.ma/r62g2kle",
-    "city": "Drummoyne",
-    "address": "53 Wrights Rd",
-    "organizer": "Codex Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/tz/f23407e8-c1e7-4003-bb92-7383ccb09b87.png",
-    "found_in": [
-      "codex-community"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "codex-community",
-    "source_id": "evt-Gl84ccy8GxprDL9",
-    "name": "Astra Commons: Seoul",
-    "start_at": "2026-09-13T05:00:00.000Z",
-    "end_at": "2026-09-13T14:00:00.000Z",
-    "timezone": "Asia/Seoul",
-    "url": "https://lu.ma/s2uzy2ge",
-    "city": null,
-    "address": "Seolleung-ro 111-gil",
-    "organizer": "Codex Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/hm/a0c460c3-5c86-4995-86e3-7d7e9ba3f381.jpg",
-    "found_in": [
-      "codex-community"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "codex-community",
-    "source_id": "evt-J0qeLETrDAtZXXh",
-    "name": "Astra Commons: Stockholm",
-    "start_at": "2026-09-13T16:00:00.000Z",
-    "end_at": "2026-09-13T19:00:00.000Z",
-    "timezone": "Europe/Stockholm",
-    "url": "https://lu.ma/mtm0iwew",
-    "city": "Stockholm",
-    "address": null,
-    "organizer": "Codex Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/j1/8a66d2cc-5328-4113-93f3-ac73d4bef46b.png",
-    "found_in": [
-      "codex-community"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "codex-community",
-    "source_id": "evt-ZQXLSxh2hndZs1f",
-    "name": "Astra Commons: San Diego",
-    "start_at": "2026-09-13T16:30:00.000Z",
-    "end_at": "2026-09-13T19:30:00.000Z",
-    "timezone": "America/Los_Angeles",
-    "url": "https://lu.ma/tasj011w",
-    "city": "San Diego",
-    "address": "Caffè Calabria",
-    "organizer": "Codex Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/jx/9a9d49c1-cee3-41d4-9539-213a28410e74.png",
-    "found_in": [
-      "codex-community"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "codex-community",
-    "source_id": "evt-xsBb5UvIrlpSfrE",
-    "name": "Astra Commons: Ho Chi Minh City",
-    "start_at": "2026-09-14T07:00:00.000Z",
-    "end_at": "2026-09-14T10:00:00.000Z",
-    "timezone": "Asia/Ho_Chi_Minh",
-    "url": "https://lu.ma/pzrik7ij",
-    "city": "Thành phố Hồ Chí Minh",
-    "address": "The Joi Factory (Vegetarian Café Restaurant)",
-    "organizer": "Codex Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/9y/5ea9c6d6-c34c-4731-9f48-23e056b1180e.jpg",
-    "found_in": [
-      "codex-community"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "codex-community",
-    "source_id": "evt-AiP22j9YilVTZkj",
-    "name": "Astra Commons: Osaka",
-    "start_at": "2026-09-14T10:00:00.000Z",
-    "end_at": "2026-09-14T13:00:00.000Z",
-    "timezone": "Asia/Tokyo",
-    "url": "https://lu.ma/e9l1qvw6",
-    "city": "Osaka",
-    "address": "ミックウェアイノベーションラボ大阪",
-    "organizer": "Codex Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/0h/5740f3b3-60d9-4e95-ae36-7a0977d2db50.png",
-    "found_in": [
-      "codex-community"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "codex-community",
-    "source_id": "evt-RMWl2uP8g4wA3pK",
-    "name": "Astra Commons: Barcelona",
-    "start_at": "2026-09-14T13:30:00.000Z",
-    "end_at": "2026-09-14T16:30:00.000Z",
-    "timezone": "Europe/Madrid",
-    "url": "https://lu.ma/4k0reaat",
-    "city": "Barcelona",
-    "address": "Itnig Café",
-    "organizer": "Codex Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/n0/58b5fa11-f2cd-47e7-9358-4fd72da91b15.png",
-    "found_in": [
-      "codex-community"
-    ]
-  },
-  {
-    "source": "luma",
-    "source_slug": "codex-community",
-    "source_id": "evt-Bw3K5qOzTtKSEQi",
-    "name": "Astra Commons: Taichung",
-    "start_at": "2026-09-15T05:00:00.000Z",
-    "end_at": "2026-09-15T08:00:00.000Z",
-    "timezone": "Asia/Taipei",
-    "url": "https://lu.ma/1zbgnccq",
-    "city": "West District",
-    "address": null,
-    "organizer": "Codex Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/4r/dfb5baf2-18a0-49fe-aa18-e4bf09727b58.png",
-    "found_in": [
-      "codex-community"
-    ]
+    ],
+    "description": "Primer Grok Bot Meetup en Madrid ⚡\nNos juntamos una tarde para probar Grok Bot en directo, ver casos reales y conocer a otros builders de la comunidad.\nSolo necesitas traer tu portátil (o el móvil). Nosotros ponemos los créditos para que puedas usar Grok Bot durante el evento, y no hace falta que tengas Cursor instalado ni cuenta de nada.\nEsta vez le daremos un formato de workshop 100% práctico. La idea es que traigas pensado un reto o algo que quieras automatizar, y nos pondremos a construir bots para resolverlo allí mismo. Si no se te ocurre nada, no hay problema: yo llevaré varias ideas preparadas para que podamos ponernos a programar directamente.\n🗓 Martes 29 sep · 17:30–21:30 📍 Pl. del Callao, 1 (Samplia Hub / mad.builders) 🗣 Español (English welcome) 🎟️ Plazas limitadas\n---- Agenda ---- 17:30 — Llegada, setup y reparto de créditos. 18:00 — Intro: qué es Grok Bot y para qué sirve. 18:20 — Demos de la comunidad (formatos muy cortos). 19:00 — Workshop: sacamos los portátiles y nos ponemos a construir bots. 20:30 — Networking, picoteo y cierre hasta las ~21:30.\n---- Qué traer ---- 💻 Portátil o móvil + cargador. 🧠 Un reto o idea para automatizar (si no tienes, te damos una).⚡ Ganas de construir y conocer gente.",
+    "categories": [
+      "AI"
+    ],
+    "guest_count": 70,
+    "sold_out": true,
+    "waitlist_active": true
   }
 ]

@@ -70,7 +70,7 @@
     "city": "",
     "address": "",
     "organizer": "AI Professionals Madrid",
-    "attendees": 6,
+    "attendees": 7,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -118,6 +118,25 @@
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316496875",
+    "name": "3 Hours to Research Intelligence: Build Your First AI Agent",
+    "description": "There are many groups promoting this event.\n\nOur meetup group is participating by promoting this event.\n\nThis event is organized by Albert's List.\n\nThis is an online event.\n\nAttendees can be located anywhere in the world!\n\nThere is a cost to attend this event.\nOur Meetup members get 25% OFF with Code MEETUP\n\nIn order to attend, please register here:\n[https://www.eventbrite.com/e/3-hours-to-research-intelligence-build-your-first-ai-agent-tickets-2000234783081?discount=MEETUP&keep_tld=true](https://www.eventbrite.com/e/3-hours-to-research-intelligence-build-your-first-ai-agent-tickets-2000234783081?discount=MEETUP&keep_tld=true)\n\nYou're either looking at a company to join, or you're trying to understand what your competitors are doing. Either way, you're researching blind—reading scattered reviews, googling company news, checking LinkedIn. It takes forever and you miss things.\nStop doing this manually.\nIn this workshop, you'll customize and deploy a working AI research agent in 3 hours. Fork an existing competitive intelligence agent, wire in your own data sources (RSS feeds, APIs, whatever's available), and run it. Feed it a company or industry keyword. Get back structured intelligence: recent news, hiring patterns, market positioning, gaps, red flags.\n**What you'll actually do:**\n\n* Clone a working competitive intelligence agent from GitHub\n* Add your own custom data sources (RSS feeds, open APIs, etc.)\n* Test it live on a real company or competitor\n* Walk away with a deployed agent you can run 100+ times\n\n**Two use cases, one agent:**\n\n1. **Job Seeker Mode** — Research a company before you apply, interview, or accept an offer. Understand growth, hiring, leadership, red flags.\n2. **Competitive Mode** — Understand what competitors are doing, market gaps, hiring trends, strategic moves. For employees and side hustlers.\n\n**What you need before the workshop:**\n\n* 10 min of pre-work (optional, but recommended): Clone the GitHub repo, set up your API key, test it runs\n* A laptop with a browser (Claude.ai)\n* Basic comfort with Claude—you should already be asking it questions and iterating\n\n**After the workshop:**\n\n* Post-work recap doc: What you built, how to iterate, advanced techniques, troubleshooting\n* Optional upsell: Advanced agent techniques course (separate paid offering)\n\n**This is NOT:**\n\n* A tutorial on \"how to use AI\"\n* A guide to corporate strategy\n* A tool for stalking or privacy violations (we cover ethical guardrails)\n\n**Price:** $17–27 (one-time, includes materials + post-work doc)\n**Pre-work is optional.** If you complete it, you'll hit the ground running. If you skip it, no problem—we'll set up during the first 20 minutes.",
+    "start_at": "2026-10-05T23:00:00+02:00",
+    "url": "https://www.meetup.com/spain-startup-idea-to-ipo/events/316496875/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Spain  Startup: Idea to IPO",
+    "attendees": 1,
+    "max_tickets": 100,
+    "spots_left": 99,
+    "found_in": [
+      "Artificial Intelligence"
     ]
   },
   {
@@ -200,27 +219,8 @@
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence",
+      "Data Science",
       "DevOps"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
-    "source_id": "316297853",
-    "name": "Agentic AI Multimodal MonthlyMixer - Where Agents Minds Meet",
-    "description": "Join the global gathering of AI builders, researchers, and enthusiasts pushing the boundaries of agentic systems and multimodal intelligence.\nConnect every month for organic networking, 1-on-1 video chats, and powerful peer-to-peer exchanges across a flexible, open chat-based platform.\n**Watch how it works**: [https://youtu.be/trmf6Gqs6FM](https://www.youtube.com/watch?v=trmf6Gqs6FM)\nWhat Is the **Agentic AI Multimodal** #MonthlyMixer?\nThe **Agentic AI Multimodal MonthlyMixer** is a self-led, virtual networking event built for the ever-evolving AI community. Held on a Slack-like platform, this event is **unmoderated and open-format**, giving you full control to explore conversations, meet new minds, and share your work with others who “get it.”\nFrom autonomous agents to multimodal AI, this mixer is the go-to online space for researchers, engineers, founders, and curious learners working at the frontier of machine intelligence.\n**Who It’s For:**\n\n* AI & ML researchers building agent-based systems\n* Engineers and developers experimenting with LLMs and multimodal models\n* Founders and startup teams innovating with AI tools\n* Students, hobbyists, and professionals exploring applied AI\n* AI community managers, mentors, and tech evangelists\n\nWhether you're here to **collaborate, hire, share, or simply learn** — this mixer offers a space to grow your AI network month by month.\nChannels You'll Explore:\nOnce inside, you’ll find themed group chats designed to make it easy to dive in:\n\n* **[#general](https://teamtaoindia.slack.com/archives/C04SYEPNHH6)** – For intros, casual chat, and major community announcements\n* **#networking** – Drop your portfolio, project, startup, or agent demo\n* **#intros** – Share your background, interests, and goals\n* **#help-wanted** – Ask for or offer help with AI, code, design, research & more\n* **#industry-room-tech** – Deep discussions on the latest tools, models, and frameworks in AI\n\nAnd yes — you can instantly jump into **1-on-1 video or text conversations** with anyone you meet.\nWhen & Where?\n\n* **Every third Wednesday of the month**\n* **5:00 PM – 7:00 PM (your local time)**\n* **Register from the platform here - [https://events.tao.ai/pod/analytics.club/cont-4d55c8eg78pg](https://events.tao.ai/pod/analytics.club/cont-4d55c8eg78pg)**\n\nNo Zoom. No formal agenda. Just real people, real tech, real connections.\n**Why You Shouldn’t Miss It:**\n\n* Global network of agentic AI practitioners and researchers\n* Self-guided 1-on-1 connections and peer-led topic chats\n* Showcase your work, explore partnerships, or ask for feedback\n* Return monthly to reconnect and keep the conversation going\n* A low-pressure space to think out loud with fellow innovators\n\nQuestions or Feedback?\nReach out any time at: [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n**Useful Links**\n\n* **Explainer Video**: [https://youtu.be/trmf6Gqs6FM](https://youtu.be/trmf6Gqs6FM)\n* **Need help?** [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**Hashtags:**\n#AgenticAI #MultimodalAI #MonthlyMixer #AICommunity #AIMeetup #LLMNetworking #AutonomousAgents #AIBuilderMeetup #MachineLearningNetworking #VirtualAIMixer #AIIndustryEvents #ConnectWithAI \\*\\*#\\*\\*thefutureofAI—together.",
-    "start_at": "2026-09-16T17:00:00+02:00",
-    "url": "https://www.meetup.com/ac-mad/events/316297853/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Analytics.CLUB Madrid",
-    "attendees": 2,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence",
-      "Data Science"
     ]
   },
   {
@@ -266,11 +266,11 @@
   {
     "source": "meetup",
     "source_slug": "Data Science",
-    "source_id": "316232019",
-    "name": "AIConnect: Global Virtual Job & Career Networking Event for AI Specialists",
-    "description": "Are you an AI engineer, data scientist, machine learning researcher, or aspiring innovator in the world of artificial intelligence? **AIConnect** is your dynamic **AI networking event online** designed to foster real-time conversations, career growth, and collaboration opportunities — all within a vibrant and self-led virtual space.\n\nWhether you're exploring job roles in AI, hoping to demo your latest project, or searching for your next co-developer or data scientist partner, **AIConnect** offers a one-of-a-kind experience to connect with the global **machine learning community meetup** — anytime, from anywhere.\n\n🎥 **Watch how it works in our explainer video:**\n👉 [https://www.youtube.com/watch?v=bH3uNrkUTuw](https://www.youtube.com/watch?v=bH3uNrkUTuw)\n\n**💡 Why Join AIConnect?**\n\nThis is not just another virtual event. It’s a **collaboration platform for AI specialists** where you can grow your professional network, showcase your AI/ML portfolio, exchange ideas, and chat directly with fellow participants, recruiters, and service providers.\nDesigned for **AI career fair virtual** seekers and builders alike, the platform supports live 1-1 **video or text chats**, and offers open access to diverse community-led channels tailored to your interests.\n\n**💬 Brainstorming & Discussion Channels Include:**\n\n* **General** – Your go-to hub for announcements, orientation, and casual community-wide conversation.\n* **Intros** – Introduce yourself, your research, your startup, or just share your journey in AI.\n* **Networking** – Showcase your AI/ML projects, portfolios, startup pitches, or job aspirations.\n* **Help Wanted** – Looking for team members, mentorship, freelance gigs, or offering support? Post here.\n* **Industry Room Tech** – Dive into the latest developments in AI frameworks, ML pipelines, data tools, and tech trends.\n\nWhether you’re a beginner or a pro, a researcher or a recruiter — this space empowers growth through **project demos, career discussions, and research conversations.**\n\n**🧠 What You’ll Gain:**\n\n* Direct access to a **global AI talent and hiring ecosystem**\n* Exposure to cutting-edge projects via the **AI project showcase event**\n* Connections with peers and thought leaders across AI, ML, and data science\n* Career insights and opportunities from fellow professionals and employers\n* A flexible environment to network, brainstorm, and build meaningful collaborations\n* Instant 1-on-1 video or text chats for deeper engagement\n\n**📍 Where:**\nJoin virtually at:\n👉 [https://events.tao.ai/pod/analytics.club/jknf0o9m3kix](https://events.tao.ai/pod/analytics.club/jknf0o9m3kix)\n**🕔 When:**\nEvery session starts at **5:00 PM – 7:00 PM local time** — recurring monthly on Fridays. Mark your calendar and come prepared to connect!\n\n**👥 Who Should Attend:**\n\n* AI engineers, ML developers, and data scientists\n* Startup founders and entrepreneurs in the AI/tech space\n* Recruiters, hiring managers, and project collaborators\n* Students, academics, and early-career professionals\n* Anyone passionate about AI, machine learning, and applied tech innovation\n\n**📩 Questions or Suggestions?**\nWe’d love to hear from you. Reach us anytime here:\n👉 [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**🔖 Hashtags:**\n#AIConnect #AINetworkingEventOnline #AICareerFairVirtual #MachineLearningCommunityMeetup #AIProjectShowcaseEvent #CollaborationPlatformForAISpecialists #MLJobs #GlobalAINetworking #TechNetworkingEvent #AIProfessionalsUnite",
-    "start_at": "2026-09-11T23:00:00+02:00",
-    "url": "https://www.meetup.com/ac-mad/events/316232019/",
+    "source_id": "316297853",
+    "name": "Agentic AI Multimodal MonthlyMixer - Where Agents Minds Meet",
+    "description": "Join the global gathering of AI builders, researchers, and enthusiasts pushing the boundaries of agentic systems and multimodal intelligence.\nConnect every month for organic networking, 1-on-1 video chats, and powerful peer-to-peer exchanges across a flexible, open chat-based platform.\n**Watch how it works**: [https://youtu.be/trmf6Gqs6FM](https://www.youtube.com/watch?v=trmf6Gqs6FM)\nWhat Is the **Agentic AI Multimodal** #MonthlyMixer?\nThe **Agentic AI Multimodal MonthlyMixer** is a self-led, virtual networking event built for the ever-evolving AI community. Held on a Slack-like platform, this event is **unmoderated and open-format**, giving you full control to explore conversations, meet new minds, and share your work with others who “get it.”\nFrom autonomous agents to multimodal AI, this mixer is the go-to online space for researchers, engineers, founders, and curious learners working at the frontier of machine intelligence.\n**Who It’s For:**\n\n* AI & ML researchers building agent-based systems\n* Engineers and developers experimenting with LLMs and multimodal models\n* Founders and startup teams innovating with AI tools\n* Students, hobbyists, and professionals exploring applied AI\n* AI community managers, mentors, and tech evangelists\n\nWhether you're here to **collaborate, hire, share, or simply learn** — this mixer offers a space to grow your AI network month by month.\nChannels You'll Explore:\nOnce inside, you’ll find themed group chats designed to make it easy to dive in:\n\n* **[#general](https://teamtaoindia.slack.com/archives/C04SYEPNHH6)** – For intros, casual chat, and major community announcements\n* **#networking** – Drop your portfolio, project, startup, or agent demo\n* **#intros** – Share your background, interests, and goals\n* **#help-wanted** – Ask for or offer help with AI, code, design, research & more\n* **#industry-room-tech** – Deep discussions on the latest tools, models, and frameworks in AI\n\nAnd yes — you can instantly jump into **1-on-1 video or text conversations** with anyone you meet.\nWhen & Where?\n\n* **Every third Wednesday of the month**\n* **5:00 PM – 7:00 PM (your local time)**\n* **Register from the platform here - [https://events.tao.ai/pod/analytics.club/cont-4d55c8eg78pg](https://events.tao.ai/pod/analytics.club/cont-4d55c8eg78pg)**\n\nNo Zoom. No formal agenda. Just real people, real tech, real connections.\n**Why You Shouldn’t Miss It:**\n\n* Global network of agentic AI practitioners and researchers\n* Self-guided 1-on-1 connections and peer-led topic chats\n* Showcase your work, explore partnerships, or ask for feedback\n* Return monthly to reconnect and keep the conversation going\n* A low-pressure space to think out loud with fellow innovators\n\nQuestions or Feedback?\nReach out any time at: [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n**Useful Links**\n\n* **Explainer Video**: [https://youtu.be/trmf6Gqs6FM](https://youtu.be/trmf6Gqs6FM)\n* **Need help?** [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**Hashtags:**\n#AgenticAI #MultimodalAI #MonthlyMixer #AICommunity #AIMeetup #LLMNetworking #AutonomousAgents #AIBuilderMeetup #MachineLearningNetworking #VirtualAIMixer #AIIndustryEvents #ConnectWithAI \\*\\*#\\*\\*thefutureofAI—together.",
+    "start_at": "2026-09-16T17:00:00+02:00",
+    "url": "https://www.meetup.com/ac-mad/events/316297853/",
     "event_type": "ONLINE",
     "city": "",
     "address": "",

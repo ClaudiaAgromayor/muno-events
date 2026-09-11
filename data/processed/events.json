@@ -234,32 +234,6 @@
     "duplicate_ids": []
   },
   {
-    "id": "luma:evt-xibCZK7tSD3Bpb9",
-    "source": "luma",
-    "source_id": "evt-xibCZK7tSD3Bpb9",
-    "name": "Grok Bot Madrid Meetup",
-    "description": "Primer Grok Bot Meetup en Madrid ⚡\nNos juntamos una tarde para probar Grok Bot en directo, ver casos reales y conocer a otros builders de la comunidad.\nSolo necesitas traer tu portátil (o el móvil). Nosotros ponemos los créditos para que puedas usar Grok Bot durante el evento, y no hace falta que tengas Cursor instalado ni cuenta de nada.\nEsta vez le daremos un formato de workshop 100% práctico. La idea es que traigas pensado un reto o algo que quieras automatizar, y nos pondremos a construir bots para resolverlo allí mismo. Si no se te ocurre nada, no hay problema: yo llevaré varias ideas preparadas para que podamos ponernos a programar directamente.\n🗓 Martes 29 sep · 17:30–21:30 📍 Pl. del Callao, 1 (Samplia Hub / mad.builders) 🗣 Español (English welcome) 🎟️ Plazas limitadas\n---- Agenda ---- 17:30 — Llegada, setup y reparto de créditos. 18:00 — Intro: qué es Grok Bot y para qué sirve. 18:20 — Demos de la comunidad (formatos muy cortos). 19:00 — Workshop: sacamos los portátiles y nos ponemos a construir bots. 20:30 — Networking, picoteo y cierre hasta las ~21:30.\n---- Qué traer ---- 💻 Portátil o móvil + cargador. 🧠 Un reto o idea para automatizar (si no tienes, te damos una).⚡ Ganas de construir y conocer gente.",
-    "start_at": "2026-09-29T15:30:00.000Z",
-    "end_at": "2026-09-29T19:30:00.000Z",
-    "url": "https://lu.ma/grokbotmadrid1",
-    "city": "Madrid",
-    "address": "Pl. del Callao, 1",
-    "organizer": "SpaceXAI for Madrid, Spain",
-    "extra": {
-      "categories": [
-        "AI"
-      ],
-      "is_free": true,
-      "guest_count": 70,
-      "sold_out": true,
-      "waitlist_active": true
-    },
-    "found_on_platforms": [
-      "luma"
-    ],
-    "duplicate_ids": []
-  },
-  {
     "id": "meetup:316442332",
     "source": "meetup",
     "source_id": "316442332",
@@ -404,9 +378,9 @@
     "address": "C. del Marqués de Casa Riera, 4, Centro, 28014 Madrid, Spain",
     "organizer": "Cloudflare User Group España (IA, CyberSecurity & Edge Dev)",
     "extra": {
-      "attendees": 28,
+      "attendees": 29,
       "max_tickets": 50,
-      "spots_left": 22
+      "spots_left": 21
     },
     "found_on_platforms": [
       "meetup"
@@ -426,9 +400,9 @@
     "address": "de la comunidad, C. de Bravo Murillo, 39, Local interior, Chamberí, 28015 Madrid, Spain",
     "organizer": "Madrid Machine Learning Meetup",
     "extra": {
-      "attendees": 6,
+      "attendees": 8,
       "max_tickets": 60,
-      "spots_left": 54
+      "spots_left": 52
     },
     "found_on_platforms": [
       "meetup"
@@ -738,9 +712,9 @@
     "address": "Bailén, 41",
     "organizer": "Quantum Madrid by Entangle",
     "extra": {
-      "attendees": 25,
+      "attendees": 26,
       "max_tickets": 90,
-      "spots_left": 65
+      "spots_left": 64
     },
     "found_on_platforms": [
       "meetup"
@@ -761,28 +735,6 @@
     "organizer": "Out in Tech - Madrid",
     "extra": {
       "attendees": 6,
-      "max_tickets": 0,
-      "spots_left": null
-    },
-    "found_on_platforms": [
-      "meetup"
-    ],
-    "duplicate_ids": []
-  },
-  {
-    "id": "meetup:316468326",
-    "source": "meetup",
-    "source_id": "316468326",
-    "name": "Jakeando Kañas en The Sinner Metal Bar",
-    "description": "muy buenas de nuevo éste viernes, nos reuniremos y esta vez repetiremos en la calle Andrés Mellado, 31, 28015 Madrid, Chamberí, por unas kñas frescas, para luego continuar hasta la hora que séa y dónde se tercie. También hay buena comida cerca.\nJackeando kañas es para nuestras propuestas como comunicación securizada, charlas curiosas y fuera de lo común, eventos o congresos que puede haber por la zona sobre Hacking, proponer nuevos proyectos, etc, etc. Y continuaremos hablando del WorldParty2k26!! que va a tener lugar.\nHasta el viernes,\nY recordad;\nEl intercambio de conocimiento, nos hace libres.",
-    "start_at": "2026-09-11T20:00:00+02:00",
-    "end_at": null,
-    "url": "https://www.meetup.com/hackmadrid-27/events/316468326/",
-    "city": "Madrid",
-    "address": "Calle de Andrés Mellado, 31,  28015 Madrid",
-    "organizer": "HackMadrid %27",
-    "extra": {
-      "attendees": 4,
       "max_tickets": 0,
       "spots_left": null
     },
@@ -849,6 +801,28 @@
     "organizer": "Inteligencia colectiva",
     "extra": {
       "attendees": 2,
+      "max_tickets": 0,
+      "spots_left": null
+    },
+    "found_on_platforms": [
+      "meetup"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "meetup:316433462",
+    "source": "meetup",
+    "source_id": "316433462",
+    "name": "GAME NIGHT",
+    "description": "# Muy buenas ! Este proximo Viernes os esperamos para una noche de juegos en el Hacklab ! Juegos de mesa, retro, arcade, billar, futbolin, ajedrez. Tráe el tuyo y participa con nosotras : - ).[@la_enredadera_de_tetuan](https://www.instagram.com/la_enredadera_de_tetuan/) [@hacklab_la_raiz](https://www.instagram.com/hacklab_la_raiz/)",
+    "start_at": "2026-09-25T19:00:00+02:00",
+    "end_at": null,
+    "url": "https://www.meetup.com/hacklab/events/316433462/",
+    "city": "Madrid",
+    "address": "calle coruña 5",
+    "organizer": "Hacklab La Raiz",
+    "extra": {
+      "attendees": 1,
       "max_tickets": 0,
       "spots_left": null
     },

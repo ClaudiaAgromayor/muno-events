@@ -1,6 +1,7 @@
 import httpx
 import json
 from bs4 import BeautifulSoup
+import os
 
 
 def _parse_next_data(html: str) -> dict:
@@ -60,4 +61,11 @@ if __name__ == "__main__":
         events = fetch_luma_source(slug)
         print(f"{slug}: {len(events)} eventos")
         all_events.extend(events)
+
     print(f"\nTotal: {len(all_events)} eventos (antes de deduplicar)")
+
+    os.makedirs("data/raw", exist_ok=True)
+    output_path = "data/raw/luma_events.json"
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(all_events, f, ensure_ascii=False, indent=2)
+    print(f"Guardado en {output_path}")

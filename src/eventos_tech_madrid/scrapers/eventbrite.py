@@ -42,6 +42,7 @@ def fetch_eventbrite_category(path: str) -> list[dict]:
             "source_slug": path,
             "source_id": _extract_event_id(ev.get("url")),
             "name": ev.get("name"),
+            "description": ev.get("description"),
             "start_at": ev.get("startDate"),
             "end_at": ev.get("endDate"),
             "url": ev.get("url"),
@@ -51,7 +52,7 @@ def fetch_eventbrite_category(path: str) -> list[dict]:
             "attendance_mode": ev.get("eventAttendanceMode"),
         })
     return events
-
+    
 
 def dedupe_events(events: list[dict]) -> list[dict]:
     deduped = {}

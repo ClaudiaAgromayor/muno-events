@@ -196,7 +196,8 @@
     "spots_left": null,
     "found_in": [
       "Data Science",
-      "DevOps"
+      "DevOps",
+      "Startups"
     ],
     "lat": 40.4485287,
     "lng": -3.6940143
@@ -213,7 +214,7 @@
     "city": "Madrid",
     "address": "Plaza de Manuel Gómez-Moreno, 2, Tetuán, 28020",
     "organizer": "Madrid DevOps",
-    "attendees": 22,
+    "attendees": 23,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

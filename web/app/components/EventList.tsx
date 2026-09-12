@@ -30,7 +30,11 @@ export default function EventList({ events }: { events: MunoEvent[] }) {
     // profiles(display_name, show_name) es un join -- si show_name es false para esa
     // fila y no es tu propio usuario, la RLS de "profiles" hace que venga null aqui,
     // sin exponer el nombre aunque se pida explicitamente en el select.
-    const { data } = await supabase.from("rsvps").select("event_id, user_id, profiles(display_name, show_name)");
+    const { data, error } = await supabase.from("rsvps").select("event_id, user_id, profiles(display_name, show_name)");
+    if (error) {
+      alert(`Error cargando quien va: ${error.message}`);
+      return;
+    }
     setRsvpRows((data as unknown as RsvpRow[]) ?? []);
   }, [supabase]);
 
@@ -54,16 +58,19 @@ export default function EventList({ events }: { events: MunoEvent[] }) {
 
   const toggleRsvp = async (eventId: string, isGoing: boolean) => {
     if (!user) {
-      await supabase.auth.signInWithOAuth({
+      const { error } = await supabase.auth.signInWithOAuth({
         provider: "github",
         options: { redirectTo: `${window.location.origin}/auth/callback` },
       });
+      if (error) alert(`Error al entrar con GitHub: ${error.message}`);
       return;
     }
-    if (isGoing) {
-      await supabase.from("rsvps").delete().eq("event_id", eventId).eq("user_id", user.id);
-    } else {
-      await supabase.from("rsvps").insert({ event_id: eventId, user_id: user.id });
+    const { error } = isGoing
+      ? await supabase.from("rsvps").delete().eq("event_id", eventId).eq("user_id", user.id)
+      : await supabase.from("rsvps").insert({ event_id: eventId, user_id: user.id });
+    if (error) {
+      alert(`Error al marcar "voy": ${error.message}`);
+      return;
     }
     loadRsvps();
   };
@@ -84,6 +91,7 @@ export default function EventList({ events }: { events: MunoEvent[] }) {
                 event={event}
                 summary={summaries.get(event.id) ?? EMPTY_SUMMARY}
                 signedIn={!!user}
+                full={spotsUrgent(event)}
                 onToggleRsvp={() => toggleRsvp(event.id, (summaries.get(event.id) ?? EMPTY_SUMMARY).isGoing)}
               />
             ))}
@@ -98,11 +106,13 @@ function EventRow({
   event,
   summary,
   signedIn,
+  full,
   onToggleRsvp,
 }: {
   event: MunoEvent;
   summary: RsvpSummary;
   signedIn: boolean;
+  full: boolean;
   onToggleRsvp: () => void;
 }) {
   const spots = spotsLabel(event);
@@ -138,7 +148,7 @@ function EventRow({
         {spots && (
           <span className={`text-xs font-medium ${urgent ? "text-accent" : "text-ok"}`}>{spots}</span>
         )}
-        <RsvpControl summary={summary} signedIn={signedIn} onToggle={onToggleRsvp} />
+        <RsvpControl summary={summary} signedIn={signedIn} full={full} onToggle={onToggleRsvp} />
       </div>
     </a>
   );

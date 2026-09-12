@@ -16,7 +16,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 63,
+      "guest_count": 62,
       "sold_out": true,
       "waitlist_active": true
     },
@@ -282,6 +282,28 @@
     "duplicate_ids": []
   },
   {
+    "id": "meetup:316482502",
+    "source": "meetup",
+    "source_id": "316482502",
+    "name": "Meetup: IA, FinOps y Transformación Real",
+    "description": "## Agenda\n\n​19:00 — Recepción y networking\nLlegada de asistentes, acreditación y primeras conversaciones con la comunidad.\n\n​19:15 — Bienvenida \\| SpainClouds \\+ FinOps Weekly \\+ Sirviendo Código\\.\n​Introducción breve al evento, comunidades y contexto de la sesión.\n​\n19:20 — Ponencia técnica \\| **Alfonso San Miguel Sánchez**\n​GenAI aplicado a FinOps: automatización, visibilidad y optimización cloud real\n\n​Una sesión práctica sobre cómo aplicar GenAI a procesos reales de FinOps y cloud optimization, utilizando inteligencia artificial para mejorar la visibilidad, acelerar el análisis de costes y detectar oportunidades de ahorro de forma proactiva.\n​Durante la sesión, Alfonso compartirá dos casos de uso reales:\n\n* ​Aplicación de GenAI para análisis y reporting de costes cloud.\n* ​Detección proactiva de iniciativas de optimización y ahorro potencial.\n\n​Una charla centrada en automatización, governance, eficiencia operativa y cómo pasar de la teoría a implementaciones reales con impacto directo en coste y operación.\n​\n**Speaker**\n​**Alfonso San Miguel Sánchez**\nMulti Cloud Architect & FinOps Expert\nLead Cloud Architect at B2 Impact\nCo-author of Efficient Cloud FinOps\nTrainer at FinOps Weekly Learn\n​LinkedIn: [/alfonsosanmiguel](https://www.linkedin.com/in/alfonsosanmiguel/?utm_source=luma)\n\n​19:40 — Ponencia \\| **Mayka López Arquero**\n​Operación aumentada: cómo preparar la organización para la era de la IA\n​\nLa experiencia de Naturgy impulsando nuevos modelos de trabajo donde negocio, personas e inteligencia artificial colaboran para resolver problemas reales.\n\n​Mayka compartirá aprendizajes y casos reales sobre:\n\n* ​Arquitectura de decisiones.\n* ​Operación aumentada.\n* ​Adopción de IA dentro de la organización.\n* ​Cambio cultural y generación de capacidades.\n* ​Cómo integrar nuevas tecnologías sin aumentar la complejidad.\n* ​Por qué la transformación empieza en las personas y no en las herramientas.\n\n​**Speaker**\n​**Mayka López Arquero**\nBusiness Transformation & Operating Model Leader at Naturgy\n​Especializada en transformación organizativa, operación aumentada, arquitectura de decisiones e integración de IA en entornos complejos.\n​LinkedIn: [/maykalopezarquero](https://www.linkedin.com/in/maykalopezarquero/?utm_source=luma)\n\n​20:00 — Conversación guiada \\| Mayka López Arquero \\+ Alfonso San Miguel \\+ Víctor García\n​¿Qué ocurre cuando juntamos tecnología, negocio y personas?\n\n​Una conversación sobre cómo conectar innovación tecnológica, transformación organizativa y ejecución real para construir organizaciones capaces de escalar en la era de la IA.\n\n​Hablaremos sobre:\n\n* ​Cómo evitar automatizar el caos.\n* ​IA aplicada a problemas reales de negocio.\n* ​FinOps en la era de los agentes.\n* ​Arquitectura de decisiones y gobierno.\n* ​Adopción y cambio cultural.\n* ​El equilibrio entre eficiencia, control e innovación.\n* ​Qué diferencia a las organizaciones que experimentan de las que realmente transforman.\n\n​**Moderador**\n​**Víctor García**\nFounder at FinOps Weekly\n\n​20:30 — Preguntas de la comunidad\n​Espacio abierto para preguntas, reflexión y debate con asistentes y speakers.\n\n​20:45 — Networking\n​Conversaciones entre asistentes, speakers y comunidad.\n\n​21:30 — Cierre",
+    "start_at": "2026-10-07T19:00:00+02:00",
+    "end_at": null,
+    "url": "https://www.meetup.com/sirviendo-codigo/events/316482502/",
+    "city": "Madrid",
+    "address": "P.º de La Habana, 9, 11, Chamartín, 28036 Madrid, Spain",
+    "organizer": "Sirviendo Código",
+    "extra": {
+      "attendees": 16,
+      "max_tickets": 30,
+      "spots_left": 14
+    },
+    "found_on_platforms": [
+      "meetup"
+    ],
+    "duplicate_ids": []
+  },
+  {
     "id": "meetup:316335741",
     "source": "meetup",
     "source_id": "316335741",
@@ -297,28 +319,6 @@
       "attendees": 120,
       "max_tickets": 0,
       "spots_left": null
-    },
-    "found_on_platforms": [
-      "meetup"
-    ],
-    "duplicate_ids": []
-  },
-  {
-    "id": "meetup:316482502",
-    "source": "meetup",
-    "source_id": "316482502",
-    "name": "Meetup: IA, FinOps y Transformación Real",
-    "description": "## Agenda\n\n​19:00 — Recepción y networking\nLlegada de asistentes, acreditación y primeras conversaciones con la comunidad.\n\n​19:15 — Bienvenida \\| SpainClouds \\+ FinOps Weekly \\+ Sirviendo Código\\.\n​Introducción breve al evento, comunidades y contexto de la sesión.\n​\n19:20 — Ponencia técnica \\| **Alfonso San Miguel Sánchez**\n​GenAI aplicado a FinOps: automatización, visibilidad y optimización cloud real\n\n​Una sesión práctica sobre cómo aplicar GenAI a procesos reales de FinOps y cloud optimization, utilizando inteligencia artificial para mejorar la visibilidad, acelerar el análisis de costes y detectar oportunidades de ahorro de forma proactiva.\n​Durante la sesión, Alfonso compartirá dos casos de uso reales:\n\n* ​Aplicación de GenAI para análisis y reporting de costes cloud.\n* ​Detección proactiva de iniciativas de optimización y ahorro potencial.\n\n​Una charla centrada en automatización, governance, eficiencia operativa y cómo pasar de la teoría a implementaciones reales con impacto directo en coste y operación.\n​\n**Speaker**\n​**Alfonso San Miguel Sánchez**\nMulti Cloud Architect & FinOps Expert\nLead Cloud Architect at B2 Impact\nCo-author of Efficient Cloud FinOps\nTrainer at FinOps Weekly Learn\n​LinkedIn: [/alfonsosanmiguel](https://www.linkedin.com/in/alfonsosanmiguel/?utm_source=luma)\n\n​19:40 — Ponencia \\| **Mayka López Arquero**\n​Operación aumentada: cómo preparar la organización para la era de la IA\n​\nLa experiencia de Naturgy impulsando nuevos modelos de trabajo donde negocio, personas e inteligencia artificial colaboran para resolver problemas reales.\n\n​Mayka compartirá aprendizajes y casos reales sobre:\n\n* ​Arquitectura de decisiones.\n* ​Operación aumentada.\n* ​Adopción de IA dentro de la organización.\n* ​Cambio cultural y generación de capacidades.\n* ​Cómo integrar nuevas tecnologías sin aumentar la complejidad.\n* ​Por qué la transformación empieza en las personas y no en las herramientas.\n\n​**Speaker**\n​**Mayka López Arquero**\nBusiness Transformation & Operating Model Leader at Naturgy\n​Especializada en transformación organizativa, operación aumentada, arquitectura de decisiones e integración de IA en entornos complejos.\n​LinkedIn: [/maykalopezarquero](https://www.linkedin.com/in/maykalopezarquero/?utm_source=luma)\n\n​20:00 — Conversación guiada \\| Mayka López Arquero \\+ Alfonso San Miguel \\+ Víctor García\n​¿Qué ocurre cuando juntamos tecnología, negocio y personas?\n\n​Una conversación sobre cómo conectar innovación tecnológica, transformación organizativa y ejecución real para construir organizaciones capaces de escalar en la era de la IA.\n\n​Hablaremos sobre:\n\n* ​Cómo evitar automatizar el caos.\n* ​IA aplicada a problemas reales de negocio.\n* ​FinOps en la era de los agentes.\n* ​Arquitectura de decisiones y gobierno.\n* ​Adopción y cambio cultural.\n* ​El equilibrio entre eficiencia, control e innovación.\n* ​Qué diferencia a las organizaciones que experimentan de las que realmente transforman.\n\n​**Moderador**\n​**Víctor García**\nFounder at FinOps Weekly\n\n​20:30 — Preguntas de la comunidad\n​Espacio abierto para preguntas, reflexión y debate con asistentes y speakers.\n\n​20:45 — Networking\n​Conversaciones entre asistentes, speakers y comunidad.\n\n​21:30 — Cierre",
-    "start_at": "2026-10-07T19:00:00+02:00",
-    "end_at": null,
-    "url": "https://www.meetup.com/sirviendo-codigo/events/316482502/",
-    "city": "Madrid",
-    "address": "P.º de La Habana, 9, 11, Chamartín, 28036 Madrid, Spain",
-    "organizer": "Sirviendo Código",
-    "extra": {
-      "attendees": 14,
-      "max_tickets": 30,
-      "spots_left": 16
     },
     "found_on_platforms": [
       "meetup"
@@ -404,9 +404,9 @@
     "address": "C. del Marqués de Casa Riera, 4, Centro, 28014 Madrid, Spain",
     "organizer": "Cloudflare User Group España (IA, CyberSecurity & Edge Dev)",
     "extra": {
-      "attendees": 29,
+      "attendees": 30,
       "max_tickets": 50,
-      "spots_left": 21
+      "spots_left": 20
     },
     "found_on_platforms": [
       "meetup"
@@ -458,28 +458,6 @@
     "duplicate_ids": []
   },
   {
-    "id": "meetup:316210308",
-    "source": "meetup",
-    "source_id": "316210308",
-    "name": "#CodeMeet: ¿Quién controla a los agentes? De ahorrar tokens a construir MCPs",
-    "description": "# **#CodeMeet Madrid: ¿Quién controla a los agentes? De ahorrar tokens a construir MCPs: la ingeniería detrás de la IA que actúa.**\n\nLa IA ya no solo responde preguntas. Ahora puede consultar información, utilizar herramientas, interactuar con nuestros sistemas y ejecutar tareas.\nPero cuanto más capaces son los agentes, más preguntas aparecen: ¿cómo hacemos que sean eficientes? ¿Cómo los integramos de verdad en una organización? ¿Y cómo mantenemos el control cuando empiezan a tomar decisiones y ejecutar acciones?\n\nEn este CodeMeet junto a la comunidad de Arcasiles exploraremos la ingeniería que hay detrás de los sistemas agentic desde tres perspectivas: eficiencia, infraestructura y seguridad.\n\n[RESERVA TU PLAZA AQUÍ](https://community.codemotion.com/codemotion-espana/meetups/codemeet-madrid-quin-controla-a-los-agentes-de-ahorrar-tokens-a-construir-mcps)\n\nEste es el form oficial donde apuntarse\n\nHablaremos de cómo optimizar el contexto y el consumo de tokens, de cómo construir un MCP conectado con los sistemas reales de una organización y de qué necesitamos para mantener seguros y bajo control a unos agentes cada vez más autónomos.\nTres charlas, tres perspectivas y una misma pregunta: cuando la IA empieza a actuar, ¿está preparada nuestra ingeniería para ello?\n\n# 🧠 ¿Qué veremos?\n\n* Cómo reducir el consumo de tokens en nuestros flujos de desarrollo con IA sin perder calidad.\n* Model routing, skills, subagentes y técnicas para optimizar el contexto.\n* Cómo construir un MCP capaz de conectar un LLM con herramientas y sistemas corporativos.\n* Qué problemas aparecen cuando un MCP deja de ser una demo y pasa a formar parte de la infraestructura de una organización.\n* Seguridad, observabilidad y gobernanza en sistemas basados en agentes.\n* Cómo mantener el control sobre agentes que cada vez tienen más herramientas y capacidad de acción.\n\n# 🎤 Ponentes\n\n**Manuel Fernández — Software Engineer @ Thoughtworks** \\- De Cajas Negras a Facturas Infladas: Ingeniería de Contexto y Agentes para ahorrar Tokens al programar con IA\n\nIngeniero de Software con más de 6 años de experiencia, especializado en arquitectura de software y desarrollo asistido por IA. Actualmente trabaja en cómo integrar agentes y LLMs en pipelines de desarrollo reales sin sacrificar la calidad, el testing ni las convenciones de los equipos.\n\nLos agentes nos permiten trabajar con sistemas cada vez más sofisticados, pero también pueden disparar el consumo de tokens. Manuel nos mostrará cómo optimizar el contexto, utilizar diferentes modelos según la tarea y aplicar técnicas como pruning, Progressive Disclosure y Prompt Caching para conseguir flujos de desarrollo más eficientes.\n\n**Raúl López Caña — Fullstack Engineer @ Galp** \\- Anatomía de un MCP: construyendo la capa de IA de una organización\n\nIngeniero fullstack especializado en tecnologías frontend y apasionado por mejorar la Developer Experience de los equipos.\n¿Qué hace falta para que un LLM deje de ser un chatbot y empiece a entender cómo funciona una organización? Raúl abrirá un MCP construido para un ecosistema de productos y repasará su arquitectura, herramientas, contexto, seguridad, observabilidad e integraciones con sistemas corporativos.\n\n**Osmani Redondo** \\- ¿Quién controla a los agentes?\nSeguridad y gobernanza en la era de la IA\n\nA medida que los agentes ganan autonomía y acceso a herramientas, la seguridad y la gobernanza dejan de ser un añadido para convertirse en parte fundamental de la arquitectura.\nEn esta sesión veremos cómo abordar estos retos y qué necesitamos para mantener bajo control sistemas cada vez más capaces.\n\n# ⚙️ ¿Para quién es este evento?\n\nEste meetup está pensado para:\n\n* Desarrolladores e ingenieros de software que ya utilizan IA en su día a día.\n* Arquitectos y perfiles técnicos interesados en sistemas agentic.\n* Profesionales que estén explorando MCP y otras formas de conectar LLMs con herramientas y sistemas internos.\n* Tech Leads, DevOps y responsables de plataformas que quieran entender qué implica llevar agentes a producción.\n* Cualquier persona interesada en la arquitectura, seguridad y evolución de los sistemas basados en IA.\n\nNo necesitas ser especialista en agentes para venir. Si ya te estás preguntando qué pasa cuando dejamos de usar la IA como chatbot y empezamos a integrarla en nuestros sistemas, aquí encontrarás algunas respuestas.\n\n# 🔔 Agenda\n\n18:30 — Check-in\n\n18:45 — Bienvenida y presentación de comunidades\n\n18:50 — De Cajas Negras a Facturas Infladas: Ingeniería de Contexto y Agentes para ahorrar Tokens al programar con IA -\nManuel Fernández\n\n19:20 — Anatomía de un MCP: construyendo la capa de IA de una organización -\nRaúl López Caña\n\n19:50 — ¿Quién controla a los agentes? Seguridad y gobernanza en la era de la IA -\nOsmani Redondo\n\n20:20 — Cierre\n\n20:25 — Networking 🍻\n\nDespués del evento nos tomaremos algo por la zona así que quédate hasta el final para conocer a la gente de la comunidad\n\n# 📍 Información del evento\n\n📅 Jueves, 17 de septiembre de 2026\n🕡 18:30\n📍 Madrid\n🎟️ Entrada gratuita hasta completar aforo\n[\\[RESERVA TU ENTRADA\\]](https://community.codemotion.com/codemotion-espana/meetups/codemeet-madrid-quin-controla-a-los-agentes-de-ahorrar-tokens-a-construir-mcps)\n\nLa IA ya puede actuar. La pregunta es si nuestra ingeniería está preparada para dejarla hacerlo.",
-    "start_at": "2026-09-17T18:30:00+02:00",
-    "end_at": null,
-    "url": "https://www.meetup.com/codemotion-espana/events/316210308/",
-    "city": "Madrid",
-    "address": "Plaza de Manuel Gómez-Moreno, 2, Tetuán, 28020",
-    "organizer": "Codemotion Meetup en España",
-    "extra": {
-      "attendees": 14,
-      "max_tickets": 0,
-      "spots_left": null
-    },
-    "found_on_platforms": [
-      "meetup"
-    ],
-    "duplicate_ids": []
-  },
-  {
     "id": "meetup:316482240",
     "source": "meetup",
     "source_id": "316482240",
@@ -504,19 +482,19 @@
     ]
   },
   {
-    "id": "meetup:316496763",
+    "id": "meetup:316454208",
     "source": "meetup",
-    "source_id": "316496763",
-    "name": "¿Demasiado perfeccionista? Suelta la Autoexigencia",
-    "description": "**¿Sientes que nunca es suficiente, que siempre podrías haberlo hecho mejor o que la presión interna te agota?**\n\nTe invitamos a esta **charla-coloquio** guiada por **Diana Esteban** (Terapeuta de Escenas Matrices), un espacio cercano para conversar, compartir experiencias y aprender a mirarnos de otra manera, liberándonos de la trampa del perfeccionismo.\n**Información clave del evento:**\n\n* **Fecha:** Lunes, 21 de Septiembre\n* **Hora:** 19:00h - 20:30h\n* **Ubicación:** Biblioteca Pública Municipal Mario Vargas Llosa (Barrio de Malasaña, Madrid)\n* **Ponente:** Diana Esteban\n* **Entrada:** Gratuita / Libre hasta completar aforo\n\n**¿Qué haremos?** Un encuentro dinámico e interactivo donde reflexionaremos sobre el origen de la autoexigencia y compartiremos herramientas prácticas para cultivar una relación más amable con nosotros mismos.\n¡Trae tus ganas de participar y compartir!",
-    "start_at": "2026-09-21T19:00:00+02:00",
+    "source_id": "316454208",
+    "name": "Charla: El despertar de la Conciencia. La Flor de Loto",
+    "description": "Charla: El despertar de la conciencia | La flor de loto ✨\n\n¿Cómo florecer y encontrar paz en medio del caos actual? 🪷\n\nAl igual que la flor de loto echa sus raíces en el barro para abrirse paso hacia la luz, las dificultades y crisis cotidianas pueden convertirse en la materia prima de nuestra transformación interior.\n\nTe invitamos a compartir una tarde de reflexión en la que exploraremos cómo transformar los momentos de incertidumbre en crecimiento, presencia y unión.\n\n📅 ¿Cuándo? Sábado 12 de septiembre\n⏰ Hora: 12:30 h\n📍 Lugar: Hotel Francisco I. Calle Arenal 15\n🎟️ Entrada: Libre hasta completar aforo\n\n⚠️ Imprescindible confirmar asistencia previo al evento con Juan:\n📞 WhatsApp / Teléfono: 664 70 20 77\n\n¡Te esperamos para compartir esta experiencia! 🙏\n\n📸 Instagram: @juandelaserna7\n\nVideos de Charlas 👇🏻\n\nhttps://youtu.be/Os5k48SZD0Q?is=HyPYZj2JLX8gizeX",
+    "start_at": "2026-09-12T12:30:00+02:00",
     "end_at": null,
-    "url": "https://www.meetup.com/viaje-hacia-ti/events/316496763/",
+    "url": "https://www.meetup.com/eventos-de-consciencia/events/316454208/",
     "city": "Madrid",
-    "address": "Calle Barceló, 4",
-    "organizer": "Viaje hacia Ti: Crecimiento Personal",
+    "address": "C. del Arenal, 15, Centro, 28013 Madrid,",
+    "organizer": "Eventos de Consciencia | Desarrollo Personal & Ciencia",
     "extra": {
-      "attendees": 1,
+      "attendees": 6,
       "max_tickets": 0,
       "spots_left": null
     },
@@ -565,6 +543,28 @@
       "attendees": 30,
       "max_tickets": 30,
       "spots_left": 0
+    },
+    "found_on_platforms": [
+      "meetup"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "meetup:316210308",
+    "source": "meetup",
+    "source_id": "316210308",
+    "name": "#CodeMeet: ¿Quién controla a los agentes? De ahorrar tokens a construir MCPs",
+    "description": "# **#CodeMeet Madrid: ¿Quién controla a los agentes? De ahorrar tokens a construir MCPs: la ingeniería detrás de la IA que actúa.**\n\nLa IA ya no solo responde preguntas. Ahora puede consultar información, utilizar herramientas, interactuar con nuestros sistemas y ejecutar tareas.\nPero cuanto más capaces son los agentes, más preguntas aparecen: ¿cómo hacemos que sean eficientes? ¿Cómo los integramos de verdad en una organización? ¿Y cómo mantenemos el control cuando empiezan a tomar decisiones y ejecutar acciones?\n\nEn este CodeMeet junto a la comunidad de Arcasiles exploraremos la ingeniería que hay detrás de los sistemas agentic desde tres perspectivas: eficiencia, infraestructura y seguridad.\n\n[RESERVA TU PLAZA AQUÍ](https://community.codemotion.com/codemotion-espana/meetups/codemeet-madrid-quin-controla-a-los-agentes-de-ahorrar-tokens-a-construir-mcps)\n\nEste es el form oficial donde apuntarse\n\nHablaremos de cómo optimizar el contexto y el consumo de tokens, de cómo construir un MCP conectado con los sistemas reales de una organización y de qué necesitamos para mantener seguros y bajo control a unos agentes cada vez más autónomos.\nTres charlas, tres perspectivas y una misma pregunta: cuando la IA empieza a actuar, ¿está preparada nuestra ingeniería para ello?\n\n# 🧠 ¿Qué veremos?\n\n* Cómo reducir el consumo de tokens en nuestros flujos de desarrollo con IA sin perder calidad.\n* Model routing, skills, subagentes y técnicas para optimizar el contexto.\n* Cómo construir un MCP capaz de conectar un LLM con herramientas y sistemas corporativos.\n* Qué problemas aparecen cuando un MCP deja de ser una demo y pasa a formar parte de la infraestructura de una organización.\n* Seguridad, observabilidad y gobernanza en sistemas basados en agentes.\n* Cómo mantener el control sobre agentes que cada vez tienen más herramientas y capacidad de acción.\n\n# 🎤 Ponentes\n\n**Manuel Fernández — Software Engineer @ Thoughtworks** \\- De Cajas Negras a Facturas Infladas: Ingeniería de Contexto y Agentes para ahorrar Tokens al programar con IA\n\nIngeniero de Software con más de 6 años de experiencia, especializado en arquitectura de software y desarrollo asistido por IA. Actualmente trabaja en cómo integrar agentes y LLMs en pipelines de desarrollo reales sin sacrificar la calidad, el testing ni las convenciones de los equipos.\n\nLos agentes nos permiten trabajar con sistemas cada vez más sofisticados, pero también pueden disparar el consumo de tokens. Manuel nos mostrará cómo optimizar el contexto, utilizar diferentes modelos según la tarea y aplicar técnicas como pruning, Progressive Disclosure y Prompt Caching para conseguir flujos de desarrollo más eficientes.\n\n**Raúl López Caña — Fullstack Engineer @ Galp** \\- Anatomía de un MCP: construyendo la capa de IA de una organización\n\nIngeniero fullstack especializado en tecnologías frontend y apasionado por mejorar la Developer Experience de los equipos.\n¿Qué hace falta para que un LLM deje de ser un chatbot y empiece a entender cómo funciona una organización? Raúl abrirá un MCP construido para un ecosistema de productos y repasará su arquitectura, herramientas, contexto, seguridad, observabilidad e integraciones con sistemas corporativos.\n\n**Osmani Redondo** \\- ¿Quién controla a los agentes?\nSeguridad y gobernanza en la era de la IA\n\nA medida que los agentes ganan autonomía y acceso a herramientas, la seguridad y la gobernanza dejan de ser un añadido para convertirse en parte fundamental de la arquitectura.\nEn esta sesión veremos cómo abordar estos retos y qué necesitamos para mantener bajo control sistemas cada vez más capaces.\n\n# ⚙️ ¿Para quién es este evento?\n\nEste meetup está pensado para:\n\n* Desarrolladores e ingenieros de software que ya utilizan IA en su día a día.\n* Arquitectos y perfiles técnicos interesados en sistemas agentic.\n* Profesionales que estén explorando MCP y otras formas de conectar LLMs con herramientas y sistemas internos.\n* Tech Leads, DevOps y responsables de plataformas que quieran entender qué implica llevar agentes a producción.\n* Cualquier persona interesada en la arquitectura, seguridad y evolución de los sistemas basados en IA.\n\nNo necesitas ser especialista en agentes para venir. Si ya te estás preguntando qué pasa cuando dejamos de usar la IA como chatbot y empezamos a integrarla en nuestros sistemas, aquí encontrarás algunas respuestas.\n\n# 🔔 Agenda\n\n18:30 — Check-in\n\n18:45 — Bienvenida y presentación de comunidades\n\n18:50 — De Cajas Negras a Facturas Infladas: Ingeniería de Contexto y Agentes para ahorrar Tokens al programar con IA -\nManuel Fernández\n\n19:20 — Anatomía de un MCP: construyendo la capa de IA de una organización -\nRaúl López Caña\n\n19:50 — ¿Quién controla a los agentes? Seguridad y gobernanza en la era de la IA -\nOsmani Redondo\n\n20:20 — Cierre\n\n20:25 — Networking 🍻\n\nDespués del evento nos tomaremos algo por la zona así que quédate hasta el final para conocer a la gente de la comunidad\n\n# 📍 Información del evento\n\n📅 Jueves, 17 de septiembre de 2026\n🕡 18:30\n📍 Madrid\n🎟️ Entrada gratuita hasta completar aforo\n[\\[RESERVA TU ENTRADA\\]](https://community.codemotion.com/codemotion-espana/meetups/codemeet-madrid-quin-controla-a-los-agentes-de-ahorrar-tokens-a-construir-mcps)\n\nLa IA ya puede actuar. La pregunta es si nuestra ingeniería está preparada para dejarla hacerlo.",
+    "start_at": "2026-09-17T18:30:00+02:00",
+    "end_at": null,
+    "url": "https://www.meetup.com/codemotion-espana/events/316210308/",
+    "city": "Madrid",
+    "address": "Plaza de Manuel Gómez-Moreno, 2, Tetuán, 28020",
+    "organizer": "Codemotion Meetup en España",
+    "extra": {
+      "attendees": 14,
+      "max_tickets": 0,
+      "spots_left": null
     },
     "found_on_platforms": [
       "meetup"

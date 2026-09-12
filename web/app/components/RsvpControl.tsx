@@ -35,15 +35,16 @@ export default function RsvpControl({
           e.stopPropagation();
           onToggle();
         }}
-        className={`rounded-full border px-3 py-1 text-xs font-medium transition-colors ${
+        className={`flex items-center gap-1.5 border px-3 py-1 text-[11px] font-medium uppercase tracking-wider transition-colors ${
           blocked
-            ? "cursor-not-allowed border-line text-muted opacity-60"
+            ? "cursor-not-allowed border-line/60 text-muted/60"
             : summary.isGoing
               ? "border-ok bg-ok text-background"
-              : "border-line text-muted hover:border-foreground hover:text-foreground"
+              : "border-foreground text-foreground hover:bg-foreground hover:text-background"
         }`}
       >
-        {blocked ? "Sin plazas" : summary.isGoing ? "Voy ✓" : signedIn ? "Voy" : "Voy (entrar)"}
+        {summary.isGoing && <span aria-hidden>✓</span>}
+        {blocked ? "Sin plazas" : summary.isGoing ? "Voy" : signedIn ? "Voy" : "Voy · entrar"}
       </button>
 
       {summary.count > 0 && (
@@ -53,9 +54,9 @@ export default function RsvpControl({
             e.stopPropagation();
             setExpanded((v) => !v);
           }}
-          className="text-[11px] text-muted underline decoration-1 underline-offset-2 hover:text-foreground"
+          className="font-mono text-[11px] tracking-tight text-muted underline decoration-dotted underline-offset-2 hover:text-foreground"
         >
-          {summary.count} {summary.count === 1 ? "va" : "van"}
+          {String(summary.count).padStart(2, "0")} {summary.count === 1 ? "va" : "van"}
         </button>
       )}
 

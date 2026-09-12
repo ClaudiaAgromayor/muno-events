@@ -48,7 +48,7 @@ export default function AuthButton() {
             options: { redirectTo: `${window.location.origin}/auth/callback` },
           })
         }
-        className="rounded-full border border-foreground px-4 py-1.5 text-xs uppercase tracking-wider transition-colors hover:bg-foreground hover:text-background"
+        className="border border-foreground px-4 py-1.5 text-[11px] font-medium uppercase tracking-wider transition-colors hover:bg-foreground hover:text-background"
       >
         Entrar con GitHub
       </button>
@@ -68,15 +68,24 @@ export default function AuthButton() {
   };
 
   return (
-    <div className="flex items-center gap-3">
-      <span className="text-xs text-muted">{name}</span>
-      <label className="flex cursor-pointer items-center gap-1.5 text-xs text-muted">
-        <input type="checkbox" checked={showName} onChange={toggleShowName} className="cursor-pointer" />
-        Mostrar mi nombre a otros asistentes
-      </label>
+    <div className="flex items-center gap-4">
+      <span className="font-mono text-[11px] tracking-tight text-muted">{name}</span>
+      <button
+        onClick={toggleShowName}
+        className="flex items-center gap-1.5 text-[11px] uppercase tracking-wider text-muted transition-colors hover:text-foreground"
+      >
+        <span
+          className={`flex h-3.5 w-3.5 items-center justify-center border ${
+            showName ? "border-foreground bg-foreground text-background" : "border-line"
+          }`}
+        >
+          {showName && <span className="text-[9px] leading-none">✓</span>}
+        </span>
+        Mostrar mi nombre
+      </button>
       <button
         onClick={() => supabase.auth.signOut()}
-        className="text-xs uppercase tracking-wider text-muted underline decoration-1 underline-offset-2 hover:text-foreground"
+        className="text-[11px] uppercase tracking-wider text-muted underline decoration-1 underline-offset-2 hover:text-foreground"
       >
         Salir
       </button>

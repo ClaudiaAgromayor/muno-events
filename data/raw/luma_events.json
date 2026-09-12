@@ -39,7 +39,8 @@
     "is_free": true,
     "cover_image": "https://images.lumacdn.com/uploads/ym/cf9e4ca7-2b8a-4599-8726-86ac2c69f2f9.png",
     "found_in": [
-      "madrid"
+      "madrid",
+      "claudecommunity"
     ],
     "description": "Ven al primer evento oficial de Claude Community Madrid! \nSerá el 16 de Septiembre a las 6:30 pm en el centro de Madrid (ISDI).\nPresentaremos a todos los embajadores y sus verticales, te contaremos de qué va esta comunidad y cómo puedes formar parte, y te adelantaremos el tipo de eventos que iremos organizando a partir de ahora.\nHabrá tiempo para preguntas y, después de la presentación, te animamos a quedarte a hacer networking con los embajadores y con el resto de asistentes.\nEl espacio co-patrocina las bebidas y además te llevarás un pequeño regalo ;)\nEl registro está abierto hasta el viernes 4 de septiembre. Seleccionaremos a los asistentes buscando una mezcla variada de perfiles, para que las conversaciones sean lo más interesantes posible; no hace falta ser técnico ni usuario avanzado. Te confirmaremos si tienes plaza antes del lunes 7 de septiembre.\nRegístrate solo si estás seguro de que puedes venir: las plazas son limitadas y cada sitio vacío es alguien que se quedó fuera.\n------\nJoin Claude Community Madrid for our first official event!\nWe'll introduce all the ambassadors and their verticals, explain what this community is about and how you can be part of it, and give you a preview of the kinds of events we'll be running from here on.\nThere will be time for questions, and after the presentation we encourage you to stay and network with the ambassadors and the other attendees.\nThe venue is co-sponsoring drinks, and you'll get a small gift ;)\nRegistration is open until Friday, September 4th. We'll select attendees looking for a varied mix of profiles and levels of experience with Claude, so the conversations are as interesting as possible — you don't need to be technical or an advanced user. We'll let you know whether you have a spot by Monday, September 7th.\nPlease only register if you're sure you can make it: spots are limited, and every empty seat is someone who was left out.",
     "categories": [
@@ -122,6 +123,31 @@
       "Tech"
     ],
     "guest_count": 0,
+    "sold_out": false,
+    "waitlist_active": false
+  },
+  {
+    "source": "luma",
+    "source_slug": "madrid",
+    "source_id": "evt-d0oxiWOhHGeMQv8",
+    "name": "Cafe Compute: Madrid",
+    "start_at": "2026-09-19T08:30:00.000Z",
+    "end_at": "2026-09-19T16:00:00.000Z",
+    "timezone": "Europe/Madrid",
+    "url": "https://lu.ma/stmnfvqi",
+    "city": "Madrid",
+    "address": "CaféOlé! Clubworking - Chamberí",
+    "organizer": "Personal",
+    "is_free": true,
+    "cover_image": "https://images.lumacdn.com/uploads/iz/4d74be53-5f63-4bf0-a99f-49aa9c74bd52.png",
+    "found_in": [
+      "madrid"
+    ],
+    "description": "What if your favorite coffee shop came with great Wi-Fi, cutting-edge AI talks, free credits, and a room full of people building interesting things?\nWelcome to Cafe Compute: Madrid ☕️💻\nWe’re taking over a coffee shop for the entire day and turning it into a home base for Madrid’s AI community. Bring your laptop, grab a coffee, and spend the day working, experimenting, meeting fellow builders, or finally shipping that idea you’ve been thinking about.\nAlongside plenty of time to cowork and connect, we’ll have talks, demos, and conversations featuring  Cerebras, OpenAI, Mastra and members of the local community.\nExpect:\n☕ A coffee shop reserved for our community all day💻 Space to work, code, and collaborate⚡ Talks and demos from Mastra, Cerebras, and OpenAI🎤 Community-led sessions and project showcases🎁 OpenAI credits for attendees🤝 Founders, engineers, researchers, and AI-curious builders\nThis isn’t a traditional conference. Come for one session or settle in for the whole day. Meet new collaborators, exchange ideas, get feedback on what you’re building, and enjoy a productive Saturday with Madrid’s AI community.\nBring your laptop and charger. We’ll take care of the coffee, compute, and good company.\n\nThe detailed talk schedule and speakers will be announced soon.",
+    "categories": [
+      "AI"
+    ],
+    "guest_count": 52,
     "sold_out": false,
     "waitlist_active": false
   },

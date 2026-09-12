@@ -311,7 +311,7 @@
     "city": "Madrid",
     "address": "Cale Ibiza",
     "organizer": "NUEVOS AMIGOS",
-    "attendees": 12,
+    "attendees": 14,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -330,9 +330,9 @@
     "city": "Madrid",
     "address": "C. de Toledo, 110, Centro, 28005 Madrid",
     "organizer": "MadRust",
-    "attendees": 17,
+    "attendees": 16,
     "max_tickets": 35,
-    "spots_left": 18,
+    "spots_left": 19,
     "found_in": [
       "DevOps",
       "Hackathon"
@@ -350,9 +350,9 @@
     "city": "Madrid",
     "address": "Calle de Pradillo, 42, 28002 Madrid, Spain",
     "organizer": "ProductTank Madrid",
-    "attendees": 42,
+    "attendees": 43,
     "max_tickets": 80,
-    "spots_left": 38,
+    "spots_left": 37,
     "found_in": [
       "DevOps",
       "Startups"
@@ -370,9 +370,9 @@
     "city": "Madrid",
     "address": "Paseo de la castellana 81, 28046",
     "organizer": "MadridJUG",
-    "attendees": 16,
+    "attendees": 17,
     "max_tickets": 40,
-    "spots_left": 24,
+    "spots_left": 23,
     "found_in": [
       "DevOps"
     ]

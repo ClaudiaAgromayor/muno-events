@@ -130,6 +130,32 @@
     "duplicate_ids": []
   },
   {
+    "id": "luma:evt-d0oxiWOhHGeMQv8",
+    "source": "luma",
+    "source_id": "evt-d0oxiWOhHGeMQv8",
+    "name": "Cafe Compute: Madrid",
+    "description": "What if your favorite coffee shop came with great Wi-Fi, cutting-edge AI talks, free credits, and a room full of people building interesting things?\nWelcome to Cafe Compute: Madrid ☕️💻\nWe’re taking over a coffee shop for the entire day and turning it into a home base for Madrid’s AI community. Bring your laptop, grab a coffee, and spend the day working, experimenting, meeting fellow builders, or finally shipping that idea you’ve been thinking about.\nAlongside plenty of time to cowork and connect, we’ll have talks, demos, and conversations featuring  Cerebras, OpenAI, Mastra and members of the local community.\nExpect:\n☕ A coffee shop reserved for our community all day💻 Space to work, code, and collaborate⚡ Talks and demos from Mastra, Cerebras, and OpenAI🎤 Community-led sessions and project showcases🎁 OpenAI credits for attendees🤝 Founders, engineers, researchers, and AI-curious builders\nThis isn’t a traditional conference. Come for one session or settle in for the whole day. Meet new collaborators, exchange ideas, get feedback on what you’re building, and enjoy a productive Saturday with Madrid’s AI community.\nBring your laptop and charger. We’ll take care of the coffee, compute, and good company.\n\nThe detailed talk schedule and speakers will be announced soon.",
+    "start_at": "2026-09-19T08:30:00.000Z",
+    "end_at": "2026-09-19T16:00:00.000Z",
+    "url": "https://lu.ma/stmnfvqi",
+    "city": "Madrid",
+    "address": "CaféOlé! Clubworking - Chamberí",
+    "organizer": "Personal",
+    "extra": {
+      "categories": [
+        "AI"
+      ],
+      "is_free": true,
+      "guest_count": 52,
+      "sold_out": false,
+      "waitlist_active": false
+    },
+    "found_on_platforms": [
+      "luma"
+    ],
+    "duplicate_ids": []
+  },
+  {
     "id": "luma:evt-9vTrr960qGUwFgG",
     "source": "luma",
     "source_id": "evt-9vTrr960qGUwFgG",
@@ -558,7 +584,7 @@
     "address": "Cale Ibiza",
     "organizer": "NUEVOS AMIGOS",
     "extra": {
-      "attendees": 12,
+      "attendees": 14,
       "max_tickets": 0,
       "spots_left": null
     },
@@ -580,9 +606,9 @@
     "address": "C. de Toledo, 110, Centro, 28005 Madrid",
     "organizer": "MadRust",
     "extra": {
-      "attendees": 17,
+      "attendees": 16,
       "max_tickets": 35,
-      "spots_left": 18
+      "spots_left": 19
     },
     "found_on_platforms": [
       "meetup"
@@ -602,9 +628,9 @@
     "address": "Calle de Pradillo, 42, 28002 Madrid, Spain",
     "organizer": "ProductTank Madrid",
     "extra": {
-      "attendees": 42,
+      "attendees": 43,
       "max_tickets": 80,
-      "spots_left": 38
+      "spots_left": 37
     },
     "found_on_platforms": [
       "meetup"
@@ -624,9 +650,9 @@
     "address": "Paseo de la castellana 81, 28046",
     "organizer": "MadridJUG",
     "extra": {
-      "attendees": 16,
+      "attendees": 17,
       "max_tickets": 40,
-      "spots_left": 24
+      "spots_left": 23
     },
     "found_on_platforms": [
       "meetup"

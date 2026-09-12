@@ -11,9 +11,9 @@
     "city": "Madrid",
     "address": "C. de San Bernardo, 2, Centro, 28013 Madrid",
     "organizer": "Madrid Networking Club",
-    "attendees": 37,
+    "attendees": 38,
     "max_tickets": 120,
-    "spots_left": 83,
+    "spots_left": 82,
     "found_in": [
       "Artificial Intelligence",
       "Startups"
@@ -31,9 +31,9 @@
     "city": "Madrid",
     "address": "P.º de La Habana, 9, 11, Chamartín, 28036 Madrid, Spain",
     "organizer": "Sirviendo Código",
-    "attendees": 16,
+    "attendees": 17,
     "max_tickets": 30,
-    "spots_left": 14,
+    "spots_left": 13,
     "found_in": [
       "Artificial Intelligence"
     ]
@@ -150,9 +150,9 @@
     "city": "Madrid",
     "address": "de la comunidad, C. de Bravo Murillo, 39, Local interior, Chamberí, 28015 Madrid, Spain",
     "organizer": "Madrid Machine Learning Meetup",
-    "attendees": 8,
+    "attendees": 11,
     "max_tickets": 60,
-    "spots_left": 52,
+    "spots_left": 49,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning"
@@ -310,7 +310,7 @@
     "city": "Madrid",
     "address": "Cale Ibiza",
     "organizer": "NUEVOS AMIGOS",
-    "attendees": 14,
+    "attendees": 17,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -349,9 +349,9 @@
     "city": "Madrid",
     "address": "Calle de Pradillo, 42, 28002 Madrid, Spain",
     "organizer": "ProductTank Madrid",
-    "attendees": 43,
+    "attendees": 44,
     "max_tickets": 80,
-    "spots_left": 37,
+    "spots_left": 36,
     "found_in": [
       "DevOps",
       "Startups"
@@ -503,9 +503,9 @@
     "city": "Madrid",
     "address": "https://maps.app.goo.gl/A2pbJ1RsdwyDv84VA",
     "organizer": "Healing Crystal Bowl Sound Bath",
-    "attendees": 1,
+    "attendees": 4,
     "max_tickets": 10,
-    "spots_left": 9,
+    "spots_left": 6,
     "found_in": [
       "Hackathon"
     ]

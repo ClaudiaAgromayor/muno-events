@@ -70,6 +70,23 @@ def _normalize_eventbrite(events: list[dict]) -> list[dict]:
     } for e in events]
 
 
+def _normalize_manual(events: list[dict]) -> list[dict]:
+    return [{
+        "id": f"manual:{e['source_id']}",
+        "source": "manual",
+        "source_id": e["source_id"],
+        "name": e["name"],
+        "description": e.get("description"),
+        "start_at": e.get("start_at"),
+        "end_at": None,  # el Form no pide hora de fin
+        "url": e.get("url"),
+        "city": e.get("city"),
+        "address": e.get("address"),
+        "organizer": e.get("organizer"),
+        "extra": {},
+    } for e in events]
+
+
 def _similar(a: str, b: str) -> float:
     return SequenceMatcher(None, a.lower().strip(), b.lower().strip()).ratio()
 
@@ -109,10 +126,11 @@ if __name__ == "__main__":
     luma = _normalize_luma(_load("data/raw/luma_events.json"))
     meetup = _normalize_meetup(_load("data/raw/meetup_events.json"))
     eventbrite = _normalize_eventbrite(_load("data/raw/eventbrite_events.json"))
+    manual = _normalize_manual(_load("data/raw/manual_events.json"))
 
-    print(f"Luma: {len(luma)} | Meetup: {len(meetup)} | Eventbrite: {len(eventbrite)}")
+    print(f"Luma: {len(luma)} | Meetup: {len(meetup)} | Eventbrite: {len(eventbrite)} | Manual: {len(manual)}")
 
-    all_events = luma + meetup + eventbrite
+    all_events = luma + meetup + eventbrite + manual
     print(f"Total combinado: {len(all_events)}")
 
     unified = dedupe_cross_platform(all_events)

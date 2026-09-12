@@ -699,9 +699,12 @@
       "spots_left": 8
     },
     "found_on_platforms": [
+      "eventbrite",
       "meetup"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [
+      "eventbrite:2000269590190"
+    ]
   },
   {
     "id": "meetup:311781960",
@@ -854,6 +857,584 @@
     },
     "found_on_platforms": [
       "meetup"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:1988983807109",
+    "source": "eventbrite",
+    "source_id": "1988983807109",
+    "name": "Madrid Tech Job Fair Autumn 2026 (Feria de Empleo de Tecnología de Madrid)",
+    "description": "La Feria de Empleo de Tecnología de Madrid, una velada dedicada a la contratación, el networking y la captación de talento diverso",
+    "start_at": "2026-10-01",
+    "end_at": "2026-10-01",
+    "url": "https://www.eventbrite.co.uk/e/entradas-madrid-tech-job-fair-autumn-2026-feria-de-empleo-de-tecnologia-de-madrid-1988983807109",
+    "city": "Madrid",
+    "address": "15 Calle de Juan de Mariana",
+    "organizer": "Talent Garden Madrid",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:1991763208373",
+    "source": "eventbrite",
+    "source_id": "1991763208373",
+    "name": "Tecnocrática Tech Day: Focus on Proxmox",
+    "description": "El encuentro técnico de referencia para profesionales que administran infraestructura con Proxmox VE y Proxmox Backup Server.",
+    "start_at": "2026-10-15",
+    "end_at": "2026-10-15",
+    "url": "https://www.eventbrite.es/e/entradas-tecnocratica-tech-day-focus-on-proxmox-1991763208373",
+    "city": "Madrid",
+    "address": "3 Calle de Juan Bravo",
+    "organizer": "CaixaBank Store",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:2000043433750",
+    "source": "eventbrite",
+    "source_id": "2000043433750",
+    "name": "Presentación de la Semana Tecnológica de Madrid - Madrid Tech Week",
+    "description": "Ven a descubrir lo último en innovación y tecnología que trae la Semana Tecnológica de Madrid - Madrid Tech Week, ¡no te lo pierdas!",
+    "start_at": "2026-09-22",
+    "end_at": "2026-09-22",
+    "url": "https://www.eventbrite.es/e/entradas-presentacion-de-la-semana-tecnologica-de-madrid-madrid-tech-week-2000043433750",
+    "city": "Madrid",
+    "address": "181 Calle de Embajadores",
+    "organizer": "C. de Embajadores, 181",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:1998647546614",
+    "source": "eventbrite",
+    "source_id": "1998647546614",
+    "name": "Madrid Tech Startup & VC – Rooftop Networking",
+    "description": "Founders, investors, and the deals of tomorrow all on one rooftop.",
+    "start_at": "2026-09-15",
+    "end_at": "2026-09-15",
+    "url": "https://www.eventbrite.co.uk/e/madrid-tech-startup-vc-rooftop-networking-registration-1998647546614",
+    "city": "Madrid",
+    "address": "10 Calle de Alcántara",
+    "organizer": "Calle de Alcántara, 10",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:1987855264608",
+    "source": "eventbrite",
+    "source_id": "1987855264608",
+    "name": "Tech and Business Networking | Elevating Your Potential - Madrid",
+    "description": "Strive welcomes you to 'Tech and Business Networking', an event for tenured and newcomers at Areia Club! Event is 18+. Limited Tickets.",
+    "start_at": "2026-10-21",
+    "end_at": "2026-10-21",
+    "url": "https://www.eventbrite.com/e/tech-and-business-networking-elevating-your-potential-madrid-tickets-1987855264608",
+    "city": "Madrid",
+    "address": "92 Calle de Hortaleza",
+    "organizer": "Areia Club",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:1984035318045",
+    "source": "eventbrite",
+    "source_id": "1984035318045",
+    "name": "Horizon Deep Tech Summit 2026",
+    "description": "Join the Horizon Deep Tech Summit 2026. Connect with global leaders and innovators. Talks, roundtables, competitions, and networking await!",
+    "start_at": "2026-11-10",
+    "end_at": "2026-11-12",
+    "url": "https://www.eventbrite.es/e/horizon-deep-tech-summit-2026-tickets-1984035318045",
+    "city": "Madrid",
+    "address": "5 Calle Cifuentes",
+    "organizer": "La Nave (Nov 10 & 11) & Palacio de Santoña (Nov 12)",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:1995465432826",
+    "source": "eventbrite",
+    "source_id": "1995465432826",
+    "name": "IE Tech Masters Experience Day",
+    "description": "Join us!",
+    "start_at": "2026-11-27",
+    "end_at": "2026-11-27",
+    "url": "https://www.eventbrite.es/e/ie-tech-masters-experience-day-tickets-1995465432826",
+    "city": "Madrid",
+    "address": "madrid",
+    "organizer": "IE TBC- Hybrid event (Online & In person)",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:1998205079182",
+    "source": "eventbrite",
+    "source_id": "1998205079182",
+    "name": "Step4ward Madrid: Girls, Tech and Beers: ¡No vuelvas a ir sola a un evento!",
+    "description": "Un espacio relajado para mujeres en tech: conocernos, crear comunidad y ganar aliadas para ir juntas a eventos del sector.",
+    "start_at": "2026-09-16",
+    "end_at": "2026-09-16",
+    "url": "https://www.eventbrite.es/e/step4ward-madrid-girls-tech-and-beers-no-vuelvas-a-ir-sola-a-un-evento-tickets-1998205079182",
+    "city": "Madrid",
+    "address": "5 Calle Lola de Membrives",
+    "organizer": "Montreal",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:2000391455693",
+    "source": "eventbrite",
+    "source_id": "2000391455693",
+    "name": "Tech the chance!  Deep Tech para la competitividad y generación de negocio",
+    "description": "Un encuentro dedicado a la deep tech y a su capacidad para transformar la competitividad empresarial, impulsar la innovación....",
+    "start_at": "2026-09-24",
+    "end_at": "2026-09-24",
+    "url": "https://www.eventbrite.es/e/tech-the-chance-deep-tech-para-la-competitividad-y-generacion-de-negocio-tickets-2000391455693",
+    "city": "Madrid",
+    "address": "71 Calle de Serrano",
+    "organizer": "Banco Sabadell",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:1993542268590",
+    "source": "eventbrite",
+    "source_id": "1993542268590",
+    "name": "IE Sci-Tech Masters Open Day | \"AI Builders\" or Why Learning to Code is Even More Relevant Now",
+    "description": "IE Sci-Tech Masters Open Day | \"AI Builders\" or Why Learning to Code is Even More Relevant Now",
+    "start_at": "2026-10-21",
+    "end_at": "2026-10-21",
+    "url": "https://www.eventbrite.es/e/ie-sci-tech-masters-open-day-ai-builders-or-why-learning-to-code-is-even-more-relevant-now-tickets-1993542268590",
+    "city": "Madrid",
+    "address": "Maria de Molina, 31",
+    "organizer": "María de Molina",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:1980045387054",
+    "source": "eventbrite",
+    "source_id": "1980045387054",
+    "name": "WomenHack - Madrid - Employer Ticket - September 22, 2026",
+    "description": "WomenHack - Madrid - Employer Ticket - November 3, 2026",
+    "start_at": "2026-09-22",
+    "end_at": "2026-09-22",
+    "url": "https://www.eventbrite.com/e/entradas-womenhack-madrid-employer-ticket-september-22-2026-1980045387054",
+    "city": "Madrid",
+    "address": "Job Fair",
+    "organizer": "Madrid",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:1993527994897",
+    "source": "eventbrite",
+    "source_id": "1993527994897",
+    "name": "THE SIGN 2.0 Hackathon: CASCADE Critical Infrastructure CTF",
+    "description": "Critical infrastructure Capture the Flag exercise: a full day simulating real cyberattacks against energy, water, transport.",
+    "start_at": "2026-10-29",
+    "end_at": "2026-10-29",
+    "url": "https://www.eventbrite.es/e/entradas-the-sign-20-hackathon-cascade-critical-infrastructure-ctf-1993527994897",
+    "city": "Madrid",
+    "address": "181 Calle de Embajadores",
+    "organizer": "Madrid Digital",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:1987855279653",
+    "source": "eventbrite",
+    "source_id": "1987855279653",
+    "name": "Engineering and Business Networking | Elevating Your Potential - Madrid",
+    "description": "Strive welcomes you to 'Engineering and Business Networking', an event for tenured and newcomers at Areia Club! Event is 18+.",
+    "start_at": "2026-10-21",
+    "end_at": "2026-10-21",
+    "url": "https://www.eventbrite.com/e/engineering-and-business-networking-elevating-your-potential-madrid-tickets-1987855279653",
+    "city": "Madrid",
+    "address": "92 Calle de Hortaleza",
+    "organizer": "Areia Club",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:1985907372410",
+    "source": "eventbrite",
+    "source_id": "1985907372410",
+    "name": "#TRG26",
+    "description": "Un punto de encuentro para gente que «hace cosas» alrededor del software, la innovación tecnológica, los negocios digitales e Internet.",
+    "start_at": "2026-10-22",
+    "end_at": "2026-10-24",
+    "url": "https://www.eventbrite.es/e/entradas-trg26-1985907372410",
+    "city": "Madrid",
+    "address": "5 Calle Cifuentes",
+    "organizer": "La Nave",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:1991778548255",
+    "source": "eventbrite",
+    "source_id": "1991778548255",
+    "name": "Bizz Summit 2026",
+    "description": "¡Ya está aquí Bizz Summit! El evento internacional de referencia sobre Soluciones Empresariales  de Microsoft en España. ¡Te esperamos!",
+    "start_at": "2026-10-02",
+    "end_at": "2026-10-03",
+    "url": "https://www.eventbrite.es/e/registro-bizz-summit-2026-1991778548255",
+    "city": "Las Rozas de Madrid",
+    "address": "2 bis Calle Playa de Liencres",
+    "organizer": "U-tad | Centro Universitario de Tecnología y Arte Digital",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:1975223769466",
+    "source": "eventbrite",
+    "source_id": "1975223769466",
+    "name": "ClackyFest 2026 - Mechanical Keyboard Meet Up",
+    "description": "Come hang out with fellow keyboard enthusiasts at ClackyFest 2026 - it's gonna be thocky, clacky, and totally rad!",
+    "start_at": "2026-10-03",
+    "end_at": "2026-10-03",
+    "url": "https://www.eventbrite.es/e/clackyfest-2026-mechanical-keyboard-meet-up-tickets-1975223769466",
+    "city": "Madrid",
+    "address": "5 Calle Juan Rizi",
+    "organizer": "Eurostars Puerta Madrid",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:1992757733023",
+    "source": "eventbrite",
+    "source_id": "1992757733023",
+    "name": "Curso | La muerte tiene permiso. Iconografía en el arte mexicano",
+    "description": "Curso de 3 sesiones \nTemario: \n-Panorama general del arte mexicano moderno.  \n-Muralismo. \n-Surrealismo.",
+    "start_at": "2026-11-03",
+    "end_at": "2026-11-05",
+    "url": "https://www.eventbrite.com/e/curso-la-muerte-tiene-permiso-iconografia-en-el-arte-mexicano-tickets-1992757733023",
+    "city": "Madrid",
+    "address": "20 Calle de Alberto Aguilera",
+    "organizer": "Fundación Casa de México en España, Calle de Alberto Aguilera, Madrid, España",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:2000172225971",
+    "source": "eventbrite",
+    "source_id": "2000172225971",
+    "name": "Female Founders Day Madrid 26",
+    "description": "Female Founders Day es un evento para visibilizar y conectar referentes femeninos en el ecosistema del emprendimiento innovador.",
+    "start_at": "2026-11-24",
+    "end_at": "2026-11-24",
+    "url": "https://www.eventbrite.es/e/entradas-female-founders-day-madrid-26-2000172225971",
+    "city": "Madrid",
+    "address": "21 Calle del Prado",
+    "organizer": "Ateneo de Madrid",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:1999782672807",
+    "source": "eventbrite",
+    "source_id": "1999782672807",
+    "name": "Innova Table Talk | Tokenización: nuevas vías de financiación para startups",
+    "description": "Una mesa redonda sobre tokenización y nuevas vías de financiación para startups.",
+    "start_at": "2026-09-29",
+    "end_at": "2026-09-29",
+    "url": "https://www.eventbrite.es/e/innova-table-talk-tokenizacion-nuevas-vias-de-financiacion-para-startups-tickets-1999782672807",
+    "city": "Madrid",
+    "address": "110 Calle de Toledo",
+    "organizer": "Puerta Innovación",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:1994240556187",
+    "source": "eventbrite",
+    "source_id": "1994240556187",
+    "name": "FormaDOOR | Cómo validar si tu startup resuelve un problema real",
+    "description": "En esta sesión aprenderás una metodología para validar tu modelo de negocio y realizar entrevistas con clientes potenciales.",
+    "start_at": "2026-10-01",
+    "end_at": "2026-10-01",
+    "url": "https://www.eventbrite.es/e/entradas-formadoor-como-validar-si-tu-startup-resuelve-un-problema-real-1994240556187",
+    "city": "Madrid",
+    "address": "110 Calle de Toledo",
+    "organizer": "Puerta Innovación",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:1989175716114",
+    "source": "eventbrite",
+    "source_id": "1989175716114",
+    "name": "Madrid 2027 Venture Capital World Summit",
+    "description": "Madrid Spain Venture Capital World Summit,  World Series Season of Investment Conferences",
+    "start_at": "2027-04-27",
+    "end_at": "2027-04-27",
+    "url": "https://www.eventbrite.com/e/madrid-2027-venture-capital-world-summit-tickets-1989175716114",
+    "city": "Madrid",
+    "address": "259C Paseo de la Castellana",
+    "organizer": "Regus - Torre de Cristal",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:1995455172136",
+    "source": "eventbrite",
+    "source_id": "1995455172136",
+    "name": "Innobar: Financiación pública para startups",
+    "description": "Asiste al 5º Innobar enfocado en conocer las ayudas, incentivos e instrumentos pueden encajar mejor con diferentes proyectos",
+    "start_at": "2027-01-21",
+    "end_at": "2027-01-21",
+    "url": "https://www.eventbrite.es/e/entradas-innobar-financiacion-publica-para-startups-1995455172136",
+    "city": "Madrid",
+    "address": "6 Calle del Maestro Ángel Llorca",
+    "organizer": "Fundación para el Conocimiento madri+d",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:1995435273619",
+    "source": "eventbrite",
+    "source_id": "1995435273619",
+    "name": "Innobar: Talento joven y emprendimiento",
+    "description": "Asiste al 2º Innobar enfocado en el talento emprendedor joven y las oportunidades que pueden encontrar en empresas innovadoras",
+    "start_at": "2026-09-17",
+    "end_at": "2026-09-17",
+    "url": "https://www.eventbrite.es/e/entradas-innobar-talento-joven-y-emprendimiento-1995435273619",
+    "city": "Madrid",
+    "address": "28 Calle de San Mateo",
+    "organizer": "Lola 09",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:1995449445006",
+    "source": "eventbrite",
+    "source_id": "1995449445006",
+    "name": "Innoday: Innovación agroalimentaria y FoodTech",
+    "description": "Asiste al tercer Innoday sobre agrifood y foodtech: descubre las novedades en torno a la producción, distribución y consumo de alimentos",
+    "start_at": "2026-10-01",
+    "end_at": "2026-10-01",
+    "url": "https://www.eventbrite.es/e/entradas-innoday-innovacion-agroalimentaria-y-foodtech-1995449445006",
+    "city": "Madrid",
+    "address": "6 Calle del Maestro Ángel Llorca",
+    "organizer": "Fundación para el Conocimiento madri+d",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:1987855416061",
+    "source": "eventbrite",
+    "source_id": "1987855416061",
+    "name": "Blockchain and Business Networking | Elevating Your Potential - Madrid",
+    "description": "Strive welcomes you to 'Blockchain and Business Networking', an event for tenured and newcomers at Areia Club! Event is 18+.",
+    "start_at": "2026-10-21",
+    "end_at": "2026-10-21",
+    "url": "https://www.eventbrite.com/e/blockchain-and-business-networking-elevating-your-potential-madrid-tickets-1987855416061",
+    "city": "Madrid",
+    "address": "92 Calle de Hortaleza",
+    "organizer": "Areia Club",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:1992651474200",
+    "source": "eventbrite",
+    "source_id": "1992651474200",
+    "name": "DISRUPTORES Innovation Awards 2026",
+    "description": "El gran evento que reúne a la industria tecnológica, al ecosistema de startups y a la comunidad investigadora de España y América Latina.",
+    "start_at": "2026-10-15",
+    "end_at": "2026-10-15",
+    "url": "https://www.eventbrite.es/e/entradas-disruptores-innovation-awards-2026-1992651474200",
+    "city": "Madrid",
+    "address": "42 Calle de Cervantes",
+    "organizer": "Palacio Neptuno",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:1998630931919",
+    "source": "eventbrite",
+    "source_id": "1998630931919",
+    "name": "LANZAMIENTO NEGOCIO DIGITAL SEP 26",
+    "description": "Ven a conocer este gran oportunidad de un negocio que esta dando la vuelta al mundo y esta permitiendo a muchas personas a lograr cosas....",
+    "start_at": "2026-09-26",
+    "end_at": "2026-09-26",
+    "url": "https://www.eventbrite.es/e/lanzamiento-negocio-digital-sep-26-tickets-1998630931919",
+    "city": "Madrid",
+    "address": "269 Calle Alcalá",
+    "organizer": "1881 Madrid Ventas Hotel",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "eventbrite:1998477205118",
+    "source": "eventbrite",
+    "source_id": "1998477205118",
+    "name": "Summit Alcobendas: IV edición del  evento de innovación y emprendimiento",
+    "description": "Vuelve el evento anual con un encuentro entre emprendedores, inversiones, medios y todos los agentes del ecosistema emprendedor.",
+    "start_at": "2026-09-29",
+    "end_at": "2026-09-29",
+    "url": "https://www.eventbrite.es/e/summit-alcobendas-iv-edicion-del-evento-de-innovacion-y-emprendimiento-tickets-1998477205118",
+    "city": "Alcobendas",
+    "address": "9 Calle de Mariano Sebastian Izuel",
+    "organizer": "Centro de Arte Alcobendas",
+    "extra": {
+      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
+    },
+    "found_on_platforms": [
+      "eventbrite"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "manual:12-9-2026_160344",
+    "source": "manual",
+    "source_id": "12-9-2026_160344",
+    "name": "Test MUNO",
+    "description": "Comida gratis!!",
+    "start_at": "2026-09-24T10:00:00",
+    "end_at": null,
+    "url": "https://docs.google.com/forms/d/1sTJJdvGNmwgL6pPGkhoQsiHlfc2SIT6OMHygUnAMdvI/edit#responses",
+    "city": "Madrid",
+    "address": "Calle Alberto Aguilera",
+    "organizer": null,
+    "extra": {},
+    "found_on_platforms": [
+      "manual"
     ],
     "duplicate_ids": []
   }

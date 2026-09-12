@@ -76,6 +76,7 @@ if __name__ == "__main__":
     ]
 
     all_events = []
+    any_errors = False
     for path in categories:
         try:
             events = fetch_eventbrite_category(path)
@@ -83,13 +84,19 @@ if __name__ == "__main__":
             all_events.extend(events)
         except Exception as e:
             print(f"{path}: ERROR ({e})")
+            any_errors = True
 
     print(f"\nTotal antes de deduplicar: {len(all_events)}")
     unique_events = dedupe_events(all_events)
     print(f"Total después de deduplicar: {len(unique_events)}")
 
-    os.makedirs("data/raw", exist_ok=True)
     output_path = "data/raw/eventbrite_events.json"
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(unique_events, f, ensure_ascii=False, indent=2)
-    print(f"Guardado en {output_path}")
+    if not unique_events and any_errors:
+        # todas las categorias fallaron a la vez (bloqueo puntual, timeout...):
+        # mejor conservar el archivo del dia anterior que sobrescribirlo con una lista vacia
+        print(f"Todas las categorías fallaron y no hay eventos — no se sobrescribe {output_path}")
+    else:
+        os.makedirs("data/raw", exist_ok=True)
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(unique_events, f, ensure_ascii=False, indent=2)
+        print(f"Guardado en {output_path}")

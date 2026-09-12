@@ -41,25 +41,6 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
-    "source_id": "316335741",
-    "name": "MARCHA POR LA LONGEVIDAD DE MADRID: Jueves 1 de octubre, 14:00 - 15:30, CET",
-    "description": "MARCHA POR LA LONGEVIDAD DE MADRID\nJueves 1 de octubre, 14:00 - 15:30, CET\n\nINSCRIPCIÓN: https://www.MeetUp.com/MadridSingularity/\nMARCHA 2024: https://www.youtube.com/watch?v=OnWDEAVFWpI\n\n14:00 - Real Academia Nacional de Medicina de España (RANME)\n14:15 - Puerta del Sol (Comunidad de Madrid)\n14:35 - Plaza de las Cortes (Congreso de Diputados)\n14:50 - Plaza de Cibeles (Ayuntamiento de Madrid)\n15:30 - Real Academia Nacional de Medicina de España (RANME)\n\nSalida a 14:00 desde la RANME, lectura del Manifiesto a 14:15 en el Km. 0, durante INTERNATIONAL LONGEVITY SUMMIT, October 1, 2026 https://www.LongevitySummit. Madrid/\n\nMeetUp: https://www.meetup.com/madridsingularity/\nFacebook: https://www.facebook.com/TransVisionMadrid2021\nTwitter: https://twitter.com/transvisionmad1\nYT: https://www.youtube.com/channel/UC3TSgLLvmKCeqwTD7nX4MNg\nLinkedIn: https://www.linkedin.com/company/transvisionconferences/\nInstagram: https://www.instagram.com/p/CLyt6YRg8Ov/\n\nInternational Longevity Sumnmit: www.LongevitySummit.Madrid/\nInternational Longevity Alliance: www.LongevityAlliance.org/\n\nCronología de la Vida: https://lifeboat.com/ex/big.chronology.of.life.on.earth",
-    "start_at": "2026-10-01T14:00:00+02:00",
-    "url": "https://www.meetup.com/madridsingularity/events/316335741/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "Calle Arrieta, número 12, 28013 Madrid",
-    "organizer": "Madrid Singularity",
-    "attendees": 120,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
     "source_id": "316153101",
     "name": "BLACKBOXAI - Construyendo un adversario autónomo",
     "description": "# 🚀 AiSec Eng Spain x Madrid DevOps x HackerDreams x Valkyrias\n\n📅 Próximamente\n🕖 18:00h (CEST) (Comenzaremos Puntal)\n📍 Lugar: Fundación Juan XXIII-Roncalli\n📍 Dirección: Av. Gran Vía del Este, 1, Vicálvaro, 28032 Madrid · Madrid, es\nⓂ️ Metro: Vicálvaro línea 9\n\n## 🧠\n\n### 🎯 BLACKBOXAI - Construyendo un adversario autónomo\n\n**Donde la Inteligencia Artificial toma el control de la consola.**\n**Deja que la IA piense. Tú observa el compromiso.**\nTHE TALK WILL BE IN SPANISH\nLA CHARLA SERÁ EN ESPAÑOL\n\n### 👨‍💻 Ponente\n\n**Kneda**\n\n### 🧾 Mini-biografía\n\nKneda es especialista en ingeniería social, intrusión física y ciberseguridad ofensiva, con una amplia trayectoria participando en comunidades y eventos de seguridad informática tanto nacionales como internacionales.\nMiembro activo de la comunidad HackerDreams y coorganizador de HackMadrid, participa habitualmente en la creación de desafíos Capture The Flag (CTF) para diferentes competiciones y eventos. Su experiencia diseñando entornos vulnerables para todos los niveles de conocimiento le ha permitido formar y desafiar a cientos de profesionales y entusiastas de la seguridad.\nEs una presencia habitual en conferencias, talleres y formaciones especializadas, donde comparte conocimientos sobre hacking ofensivo, ingeniería social, campañas de phishing, intrusión física y metodologías avanzadas de auditoría de seguridad.\nEn 2019 participó en las finales de DefCon junto a Rod Soto (HackMiami), obteniendo el tercer puesto en la categoría de Redes, uno de los mayores reconocimientos dentro de la comunidad internacional de hacking.\nActualmente trabaja desarrollando estrategias ofensivas y defensivas, combinando herramientas tradicionales de pentesting con nuevas capacidades impulsadas por Inteligencia Artificial para simular amenazas reales y mejorar la resiliencia de las organizaciones frente a ataques modernos.\n\n### 📚 Descripción del evento\n\n**SESIÓN 1 — El Salto Evolutivo: De Scripts a Conciencia Ofensiva (Gratuita)**\n¿Estamos presenciando el fin del pentesting tal como lo conocemos?\nDurante décadas, la auditoría de seguridad ha dependido de herramientas aisladas y de la intuición humana para encadenarlas. Pero el panorama ha cambiado. El pentesting tradicional es a menudo lento, predecible y difícil de escalar.\nEn esta primera sesión abriremos la \"caja negra\" para mostrar cómo se ha conseguido convertir un modelo de IA en un agente autónomo de auditoría ofensiva capaz de razonar, decidir y ejecutar acciones de forma independiente.\nNo hablaremos de teoría académica ni de automatización básica. Veremos el origen de una idea radical: el diseño de un prompt capaz de imitar la mentalidad de un atacante real. Descubriremos cómo una IA, operando desde una interfaz de línea de comandos, puede analizar, justificar y ejecutar cada acción mediante un modelo de decisión crítico.\n\n### 🔍 En esta sesión exploraremos:\n\n• La crisis del modelo tradicional: por qué la enumeración por inercia es el mayor enemigo del pentester moderno.\n• El despertar del agente: cómo se diseñó el \"cerebro\" capaz de operar en modalidad Black Box partiendo únicamente de una IP o dominio.\n• Razonamiento vs. ejecución: la capacidad de la IA para analizar vulnerabilidades, calcular riesgos y decidir cuándo actuar de forma sigilosa o agresiva.\n• El futuro de la ofensiva: las implicaciones de sistemas autónomos que no descansan y que priorizan el compromiso real por encima del volumen de hallazgos.\n\n### 🚨 Lo que verás en directo\n\n• Enumeración autónoma.\n• Toma de decisiones basada en contexto.\n• Priorización inteligente de vectores de ataque.\n• Cadena de pensamiento ofensiva aplicada a escenarios reales.\n• IA operando desde consola como un adversario estratégico.\nPrepárate para ver el inicio de una nueva generación de ciberseguridad.\nUna donde la IA deja de ser una herramienta para convertirse en un adversario capaz de pensar, decidir y actuar.\n\n## 🌐 Comunidad\n\n👉 Únete a Discord:\n[https://devseccon.io/discordcommunity](https://devseccon.io/discordcommunity)\n📢 Telegram:\n[https://t.me/hackerdreamsdcomm](https://t.me/hackerdreamsdcomm)\n[https://t.me/hackbcn](https://t.me/hackbcn)\n[https://t.me/+EQXjdGyWYPAotmLG](https://t.me/+EQXjdGyWYPAotmLG)\n[https://t.me/xopsnoticias](https://t.me/xopsnoticias)\n[https://t.me/xopshispano](https://t.me/xopshispano)\n🐦 X (Twitter):\n@JR_kneda\n@hunters_flag\n@hackerdreamsorg\n@hackbcn\n@xopsconference\n\n## 🤝 Colaboración y patrocinio\n\nSi tu empresa quiere colaborar o patrocinar futuros eventos:\n📩 Email: [info@hackerdreams.org](mailto:info@hackerdreams.org)\n📝 Formulario: [https://forms.gle/JbBwUGY26fAeLqJ78](https://forms.gle/JbBwUGY26fAeLqJ78)\n💸 Donaciones:\n[https://www.paypal.com/donate/?hosted_button_id=8UHV5UN47J3DY](https://www.paypal.com/donate/?hosted_button_id=8UHV5UN47J3DY)\n[https://bmc.link/hackerdreams](https://bmc.link/hackerdreams)",
@@ -117,25 +98,6 @@
       "Artificial Intelligence",
       "Machine Learning",
       "DevOps"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
-    "source_id": "316314307",
-    "name": "Hello World! Lanzamiento Oficial de Cloudflare User Group España",
-    "description": "¡Arrancamos el **Cloudflare User Group España**! Únete a nuestra sesión inaugural para conocer a la comunidad, descubrir cómo empresas locales están escalando sus proyectos y conectar con otros creadores.\n\n¡Reserva tu plaza y ven a trastear con nosotros! 🚀\n\n**Localización:** NH Collection Madrid Suecia",
-    "start_at": "2026-10-01T19:00:00+02:00",
-    "url": "https://www.meetup.com/cloudflare-user-group-espana-ia-cyber/events/316314307/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "C. del Marqués de Casa Riera, 4, Centro, 28014 Madrid, Spain",
-    "organizer": "Cloudflare User Group España (IA, CyberSecurity & Edge Dev)",
-    "attendees": 30,
-    "max_tickets": 50,
-    "spots_left": 20,
-    "found_in": [
-      "Artificial Intelligence"
     ]
   },
   {
@@ -199,25 +161,6 @@
       "Machine Learning",
       "Data Science",
       "DevOps"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Data Science",
-    "source_id": "316454208",
-    "name": "Charla: El despertar de la Conciencia. La Flor de Loto",
-    "description": "Charla: El despertar de la conciencia | La flor de loto ✨\n\n¿Cómo florecer y encontrar paz en medio del caos actual? 🪷\n\nAl igual que la flor de loto echa sus raíces en el barro para abrirse paso hacia la luz, las dificultades y crisis cotidianas pueden convertirse en la materia prima de nuestra transformación interior.\n\nTe invitamos a compartir una tarde de reflexión en la que exploraremos cómo transformar los momentos de incertidumbre en crecimiento, presencia y unión.\n\n📅 ¿Cuándo? Sábado 12 de septiembre\n⏰ Hora: 12:30 h\n📍 Lugar: Hotel Francisco I. Calle Arenal 15\n🎟️ Entrada: Libre hasta completar aforo\n\n⚠️ Imprescindible confirmar asistencia previo al evento con Juan:\n📞 WhatsApp / Teléfono: 664 70 20 77\n\n¡Te esperamos para compartir esta experiencia! 🙏\n\n📸 Instagram: @juandelaserna7\n\nVideos de Charlas 👇🏻\n\nhttps://youtu.be/Os5k48SZD0Q?is=HyPYZj2JLX8gizeX",
-    "start_at": "2026-09-12T12:30:00+02:00",
-    "url": "https://www.meetup.com/eventos-de-consciencia/events/316454208/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "C. del Arenal, 15, Centro, 28013 Madrid,",
-    "organizer": "Eventos de Consciencia | Desarrollo Personal & Ciencia",
-    "attendees": 6,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Data Science"
     ]
   },
   {
@@ -293,45 +236,6 @@
     "attendees": 14,
     "max_tickets": 0,
     "spots_left": null,
-    "found_in": [
-      "DevOps",
-      "Hackathon"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "DevOps",
-    "source_id": "316329116",
-    "name": "*CONOCER GENTE NUEVA CERVECEO+FLORIDA GALERIA*",
-    "description": "**\\*CONOCER GENTE NUEVA CERVECEO+FLORIDA GALERIA\\***\n***¡¡Anímate y ven a pasarlo bien conociendo gente nueva!!***\n\n● Empezamos tomando algo para romper el hielo y conocer a l@s demás.\n● **Si vienes sol@,** no te preocupes te recibimos y presentamos a l@s demás y empiezas a disfrutar de la noche. Así de fácil.\n\n**\\- DIRECCION:** Te informamos el punto de encuentro al confirmar tu asistencia por whatsapp abajo indicado. ¡¡Anímate!! - **\\- ZONA:** Metro Ibiza\n\n● **DESPUÉS 12:00 FLORIDA GALERIA**\nPata continuar disfrutando de la noche nos vamos a \"Florida Galería\" uno de los mejores locales de moda en la noche de Madrid. ¡¡No te lo puedes perder!!\n**-VESTIMENTA:** Arreglado\n**✅●PARA ASISTIR:** Confirmar asistencia solo por whatsapp indicando nombre y el meetup al que vas asistir al 604136338 .\n**✅● COSTE:** 5€ entrega al coordinador al llegar, (intenta traerlo justo).\n**● GASTOS APARTE:** Cada uno paga lo suyo.\n● **Si vienes con invitad@s** , informales de todo y nos avisas al confirmar.\n**-VESTIMENTA:** Arreglado\n\n¡¡¡Lo pasaremos genial!!!\n**\\- CONTACTO Y CONFIRMACION DE ASISTENCIA SOLO POR WHATSAPP**",
-    "start_at": "2026-09-12T22:00:00+02:00",
-    "url": "https://www.meetup.com/meetup-group-erboswim/events/316329116/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "Cale Ibiza",
-    "organizer": "NUEVOS AMIGOS",
-    "attendees": 17,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "DevOps"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "DevOps",
-    "source_id": "316361267",
-    "name": "Tras la Máscara de Async Rust",
-    "description": "Después de un tiempo de inactividad volvemos a la carga con otra sesión de [Herme García](https://github.com/hermeGarcia).\n\n**¿Qué sucede realmente por debajo de \\`async/await\\` en Rust?**\n\nEn esta charla vamos a explorar cómo Rust construye su modelo de computación asíncrona combinando piezas fundamentales del lenguaje. Veremos cómo Rust **se apoya en su sistema de tipos y el ownership model** para ejecutar trabajo de forma asíncrona. Partiendo de estos fundamentos, iremos construyendo una intuición de **cómo funciona un executor** y cómo estas mismas piezas **permiten llegar a un runtime completo como Tokio**.\n\n*El evento tiene espíritu inclusivo y de respeto, todos son bienvenidos. Este evento se organiza bajo el paraguas del [código de conducta de la comunidad de Rust](https://rust-lang.org/es/policies/code-of-conduct/).*",
-    "start_at": "2026-09-15T18:00:00+02:00",
-    "url": "https://www.meetup.com/madrust/events/316361267/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "C. de Toledo, 110, Centro, 28005 Madrid",
-    "organizer": "MadRust",
-    "attendees": 16,
-    "max_tickets": 35,
-    "spots_left": 19,
     "found_in": [
       "DevOps",
       "Hackathon"
@@ -494,68 +398,11 @@
   {
     "source": "meetup",
     "source_slug": "Hackathon",
-    "source_id": "316444822",
-    "name": "Crystal Bowl Sound Bath",
-    "description": "Hello there,\n\nYou're so welcome to this 90-minute crystal singing bowl, healing sound bath in nature, where you can relax, disconnect, release any heavy burdens or emotions, restore and heal while connecting to these magical healing sound frequencies.\n€10 suggested donation, not obligatory.\n\nNo experience needed. I suggest wearing comfortable clothes.\nThe duration is 1.5 hours in total to give us time to settle in, set an intention and then comfortably come back to the world rejuvenated.\n\nPlease let me know if you have any questions at all: [info@sarah-egan.com](mailto:info@sarah-egan.com)\n\nYou’re very welcome to join the Crystal Bowl Healing Sound Bath Whatsapp group, if you'd like to join our whatsapp group, please message me or email me first here so I know it's not spam.\n[https://chat.whatsapp.com/FkzmPbz4z27DsIsJUMcRpv?mode=gi_t](https://chat.whatsapp.com/FkzmPbz4z27DsIsJUMcRpv?mode=gi_t)\nLooking forward to creating this healing space with you 😊\n🌸💚✨🤍\n\nHola! Estas muy bienvenida a venir al baño de sonido con cuencos de cristales de 90 minutos, baño de sonido curativo, donde puedes relajarte en la naturaleza, desconectarte, liberar cualquier carga o emoción pesada, restaurar y sanar mientras te conectas a estas frecuencias mágicas de sonido curativo.\n\n**(10€ / persona donación sugerida, no obligatoria 😊)**\nSe puede pagar en persona o a través de Bizum.\n\n*No se necesita experiencia previa y te recomiendo que lleves ropa cómoda.*\nLa duración es de 1,5 horas en total para darnos tiempo para encontrarnos, establecer una intención y luego volver cómodamente al mundo rejuvenecidos. Por favor, avisame si tienes alguna pregunta: [info@sarah-egan.com](mailto:info@sarah-egan.com)\n\nTe invitamos a unirte al grupo de WhatsApp del baño de sonido curativo con cuencos de cristal, Por favor, envíame un mensaje primero aquí para que sepa que no es spam, si quires unir al grupo.[https://chat.whatsapp.com/FkzmPbz4z27DsIsJUMcRpv?mode=gi_t](https://chat.whatsapp.com/FkzmPbz4z27DsIsJUMcRpv?mode=gi_t)\nEspero con mucho illusion crear este espacio de sonido sanado contigo 😊\n🌸💚✨🤍",
-    "start_at": "2026-09-13T11:00:00+02:00",
-    "url": "https://www.meetup.com/healing-crystal-bowl-sound-bath/events/316444822/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "https://maps.app.goo.gl/A2pbJ1RsdwyDv84VA",
-    "organizer": "Healing Crystal Bowl Sound Bath",
-    "attendees": 4,
-    "max_tickets": 10,
-    "spots_left": 6,
-    "found_in": [
-      "Hackathon"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Hackathon",
     "source_id": "316328092",
     "name": "CRAFT NIGHT",
     "description": "https://hacklab.laenre.net/eventos.html\n\nCRAFT NIGHT\nA.K.A HACKATON\n\nVen y construye con mas personas proyectos e ideas creativas.\nDesarrolla tu creatividad y une fuerzas con desarrollador@s de todo tipo, juntamos tecnologia, hardware, software libre, periodismo, hacking, filosofia, fisica, matematicas.\n\nhttps://hacklab.laenre.net/projects.html\n\nJulioVerne@Hacklab \\~: Todo lo que una persona puede imaginar, otra persona podra hacerlo.",
     "start_at": "2026-09-18T18:30:00+02:00",
     "url": "https://www.meetup.com/hacklab/events/316328092/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "calle coruña 5",
-    "organizer": "Hacklab La Raiz",
-    "attendees": 1,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Hackathon"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Hackathon",
-    "source_id": "316382056",
-    "name": "El juego de tu voz (LinkedIn) - taller boutique",
-    "description": "**Taller El Juego de Tu Voz · Comunica mejor lo que haces en LinkedIn**\n\n**IMPORTANTE: el botón «Asistir» de Meetup no reserva una plaza ni funciona como entrada al taller. La inscripción queda confirmada únicamente al completar el pago en el enlace de Stripe indicado más abajo.**\n\n¿Cómo cuentas lo que haces cuando detrás hay años de experiencia y muchas ideas que no caben en dos líneas?\n\nSi investigas, escribes, emprendes o estás dando forma a un proyecto, quizá te hayas encontrado buscando las palabras para explicar qué aportas y conectar con personas a las que puede interesar tu trabajo.\n\nDesde la Red de Inteligencia Colectiva compartimos El Juego de Tu Voz, un taller presencial para dedicar tiempo a esas preguntas y llevar lo que descubras a tu presentación profesional y a tu perfil de LinkedIn.\n\nDurante dos días trabajaréis sobre tu trayectoria, tu manera de contarla y la imagen que transmites. Lo haréis con juegos, ejercicios, conversaciones y las aportaciones del grupo, que muchas veces nos ayudan a reconocer algo valioso que nosotros mismos pasamos por alto.\n\nSerá también una oportunidad para conocer a otras personas, compartir experiencias y descubrir intereses comunes.\n\nEl taller está creado y dirigido por Francis García Cedeño, de la escuela Amo Tu Voz, con la participación de Fernando Santiago, Paula A. Giraldo Gómez y María S. Beltrán. Entre ellos abordarán el relato personal, la creatividad, las distintas formas de comunicarnos y la imagen profesional.\n\nFrancis y Fernando forman parte de nuestra Red y participan en sus actividades. De hecho, se conocieron en uno de los talleres que Fernando organizó aquí: era la primera actividad de la Red a la que asistía Francis. Al descubrir su manera de trabajar con las historias y el juego, tuvo claro que quería contar con él en sus propios talleres. Hoy colaboran en El Juego de Tu Voz.\n\nTe llevarás orientaciones para mejorar tu perfil de LinkedIn, un cuaderno de trabajo digital y una hoja de ruta para seguir avanzando. La experiencia incluye certificado de participación y dos encuentros grupales por internet, a los 30 y 60 días, para compartir avances y resolver dudas.\n\n**Información del taller**\n\n24 y 25 de septiembre de 2026, de 10:00 a 14:00 y de 15:30 a 19:00, ambos días.\n\nTRIPLE · Calle de Ferraz, 56 · Madrid.\n\nLa inscripción incluye las dos jornadas completas, con un total de 15 horas presenciales. Trae tu ordenador portátil para trabajar durante las sesiones.\n\n**Precio para nuestra comunidad: 350 €, frente al precio general de 390 €.**\n\nReserva tu plaza con el precio de RED:\n[https://buy.stripe.com/8x24gA2lMa769ko3lhb7y03?client_reference_id=RED350](https://buy.stripe.com/8x24gA2lMa769ko3lhb7y03?client_reference_id=RED350)\n\n**El descuento ya está aplicado en el enlace; no necesitas introducir ningún código. Tu plaza se confirma únicamente cuando el pago se completa en Stripe. Marcar «Asistir» en Meetup no sustituye la compra.**\n\nSi tienes alguna duda, puedes escribir a Francis por WhatsApp al +34 657 28 25 42.\n\n**En la entrada comprobaremos las inscripciones confirmadas en Stripe. La confirmación o el QR generado por Meetup no son entradas válidas y no permiten acceder al taller.**",
-    "start_at": "2026-09-24T10:00:00+02:00",
-    "url": "https://www.meetup.com/collective-intelligence-inteligencia-colectiva/events/316382056/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "calle Ferraz 56",
-    "organizer": "Inteligencia colectiva",
-    "attendees": 2,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Hackathon"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Hackathon",
-    "source_id": "316433462",
-    "name": "GAME NIGHT",
-    "description": "# Muy buenas ! Este proximo Viernes os esperamos para una noche de juegos en el Hacklab ! Juegos de mesa, retro, arcade, billar, futbolin, ajedrez. Tráe el tuyo y participa con nosotras : - ).[@la_enredadera_de_tetuan](https://www.instagram.com/la_enredadera_de_tetuan/) [@hacklab_la_raiz](https://www.instagram.com/hacklab_la_raiz/)",
-    "start_at": "2026-09-25T19:00:00+02:00",
-    "url": "https://www.meetup.com/hacklab/events/316433462/",
     "event_type": "PHYSICAL",
     "city": "Madrid",
     "address": "calle coruña 5",

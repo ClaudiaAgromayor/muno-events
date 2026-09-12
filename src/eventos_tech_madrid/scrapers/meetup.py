@@ -1,5 +1,6 @@
 import httpx
 import json
+import re
 from bs4 import BeautifulSoup
 import urllib.parse
 import os
@@ -110,6 +111,27 @@ def dedupe_events(events: list[dict]) -> list[dict]:
             deduped[key]["found_in"].append(ev["source_slug"])
     return list(deduped.values())
 
+# Meetup busca por palabra clave pero no es una coincidencia exacta: devuelve resultados
+# "relacionados" con bastante manga ancha (verificado con datos reales: una busqueda de
+# "Data Science" trajo una charla de "despertar de la conciencia", y "DevOps" trajo un
+# evento de "conocer gente nueva" en un bar). Filtramos por contenido real del evento,
+# no solo por que haya salido de una de nuestras keywords de busqueda.
+_TECH_PATTERNS = [
+    r"\bia\b", r"\bai\b", r"\bapi\b", r"inteligencia artificial", r"machine learning",
+    r"aprendizaje autom", r"data science", r"ciencia de datos", r"big data",
+    r"deep learning", r"\bllm\b", r"\bgpt\b", r"software", r"desarroll", r"programaci",
+    r"\bpython\b", r"\bjavascript\b", r"\bcloud\b", r"devops", r"startup", r"hackathon",
+    r"tecnolog", r"\btech\b", r"engineer", r"ingenier", r"backend", r"frontend",
+    r"fullstack", r"\bsaas\b", r"\bweb3\b", r"blockchain",
+]
+_TECH_RE = re.compile("|".join(_TECH_PATTERNS), re.IGNORECASE)
+
+
+def is_tech_relevant(event: dict) -> bool:
+    text = f"{event.get('name', '')} {event.get('description', '')}"
+    return bool(_TECH_RE.search(text))
+
+
 def filter_madrid(events: list[dict]) -> tuple[list[dict], list[dict]]:
     """Devuelve (eventos_validos, eventos_para_revisar_a_mano)."""
     valid = []
@@ -147,9 +169,17 @@ if __name__ == "__main__":
     unique_events = dedupe_events(all_events)
     print(f"Total después de deduplicar: {len(unique_events)}")
 
-    valid_events, needs_review = filter_madrid(unique_events)
-    print(f"Eventos válidos (Madrid): {len(valid_events)}")
-    print(f"Para revisión manual (ciudad ambigua): {len(needs_review)}")
+    madrid_events, needs_review = filter_madrid(unique_events)
+
+    valid_events = []
+    for ev in madrid_events:
+        if is_tech_relevant(ev):
+            valid_events.append(ev)
+        else:
+            needs_review.append(ev)
+
+    print(f"Eventos válidos (Madrid + relevancia tech): {len(valid_events)}")
+    print(f"Para revisión manual (ciudad ambigua o relevancia dudosa): {len(needs_review)}")
 
     os.makedirs("data/raw", exist_ok=True)
     with open("data/raw/meetup_events.json", "w", encoding="utf-8") as f:

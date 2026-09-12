@@ -12,6 +12,8 @@
     "address": "15 Calle de Juan de Mariana",
     "venue": "Talent Garden Madrid",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.398326,
+    "lng": -3.6863441,
     "found_in": [
       "spain--madrid/tech",
       "spain--madrid/startup"
@@ -30,6 +32,8 @@
     "address": "3 Calle de Juan Bravo",
     "venue": "CaixaBank Store",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.4330964,
+    "lng": -3.684839,
     "found_in": [
       "spain--madrid/tech"
     ]
@@ -47,6 +51,8 @@
     "address": "181 Calle de Embajadores",
     "venue": "C. de Embajadores, 181",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.39165939999999,
+    "lng": -3.6926738,
     "found_in": [
       "spain--madrid/tech"
     ]
@@ -64,6 +70,8 @@
     "address": "10 Calle de Alcántara",
     "venue": "Calle de Alcántara, 10",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.4259081,
+    "lng": -3.6738632,
     "found_in": [
       "spain--madrid/tech",
       "spain--madrid/startup"
@@ -82,6 +90,8 @@
     "address": "92 Calle de Hortaleza",
     "venue": "Areia Club",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.4245406,
+    "lng": -3.6980344,
     "found_in": [
       "spain--madrid/tech"
     ]
@@ -99,6 +109,8 @@
     "address": "5 Calle Cifuentes",
     "venue": "La Nave (Nov 10 & 11) & Palacio de Santoña (Nov 12)",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.3474905,
+    "lng": -3.6959936,
     "found_in": [
       "spain--madrid/tech",
       "spain--madrid/science-and-tech--events",
@@ -118,6 +130,8 @@
     "address": "madrid",
     "venue": "IE TBC- Hybrid event (Online & In person)",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.4351996,
+    "lng": -3.68134,
     "found_in": [
       "spain--madrid/tech"
     ]
@@ -135,6 +149,8 @@
     "address": "5 Calle Lola de Membrives",
     "venue": "Montreal",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.39656799999999,
+    "lng": -3.71665,
     "found_in": [
       "spain--madrid/tech"
     ]
@@ -152,6 +168,8 @@
     "address": "71 Calle de Serrano",
     "venue": "Banco Sabadell",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.4338617,
+    "lng": -3.686950199999999,
     "found_in": [
       "spain--madrid/tech"
     ]
@@ -169,6 +187,8 @@
     "address": "Maria de Molina, 31",
     "venue": "María de Molina",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.437836,
+    "lng": -3.6821721,
     "found_in": [
       "spain--madrid/tech"
     ]
@@ -186,6 +206,8 @@
     "address": "Job Fair",
     "venue": "Madrid",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.41672790000001,
+    "lng": -3.7032905,
     "found_in": [
       "spain--madrid/tech"
     ]
@@ -203,6 +225,8 @@
     "address": "181 Calle de Embajadores",
     "venue": "Madrid Digital",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.3917045,
+    "lng": -3.6925945,
     "found_in": [
       "spain--madrid/tech"
     ]
@@ -220,6 +244,8 @@
     "address": "92 Calle de Hortaleza",
     "venue": "Areia Club",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.4245406,
+    "lng": -3.6980344,
     "found_in": [
       "spain--madrid/tech"
     ]
@@ -237,6 +263,8 @@
     "address": "5 Calle Cifuentes",
     "venue": "La Nave",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.3478149,
+    "lng": -3.6963605999999345,
     "found_in": [
       "spain--madrid/science-and-tech--events"
     ]
@@ -254,6 +282,8 @@
     "address": "2 bis Calle Playa de Liencres",
     "venue": "U-tad | Centro Universitario de Tecnología y Arte Digital",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.5392277,
+    "lng": -3.8932693,
     "found_in": [
       "spain--madrid/science-and-tech--events"
     ]
@@ -271,6 +301,8 @@
     "address": "5 Calle Juan Rizi",
     "venue": "Eurostars Puerta Madrid",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.4477946,
+    "lng": -3.6359873,
     "found_in": [
       "spain--madrid/science-and-tech--events"
     ]
@@ -288,6 +320,8 @@
     "address": "20 Calle de Alberto Aguilera",
     "venue": "Fundación Casa de México en España, Calle de Alberto Aguilera, Madrid, España",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.4301007,
+    "lng": -3.7093041,
     "found_in": [
       "spain--madrid/science-and-tech--events"
     ]
@@ -305,6 +339,8 @@
     "address": "41 Calle de Bailén",
     "venue": "International Lab",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.4120122,
+    "lng": -3.7137224,
     "found_in": [
       "spain--madrid/science-and-tech--events"
     ]
@@ -322,6 +358,8 @@
     "address": "21 Calle del Prado",
     "venue": "Ateneo de Madrid",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.415082,
+    "lng": -3.698212299999999,
     "found_in": [
       "spain--madrid/startup"
     ]
@@ -339,6 +377,8 @@
     "address": "110 Calle de Toledo",
     "venue": "Puerta Innovación",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.4074994,
+    "lng": -3.7114533,
     "found_in": [
       "spain--madrid/startup"
     ]
@@ -356,6 +396,8 @@
     "address": "110 Calle de Toledo",
     "venue": "Puerta Innovación",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.4074994,
+    "lng": -3.7114533,
     "found_in": [
       "spain--madrid/startup"
     ]
@@ -373,6 +415,8 @@
     "address": "259C Paseo de la Castellana",
     "venue": "Regus - Torre de Cristal",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.4781919,
+    "lng": -3.6874821,
     "found_in": [
       "spain--madrid/startup"
     ]
@@ -390,6 +434,8 @@
     "address": "6 Calle del Maestro Ángel Llorca",
     "venue": "Fundación para el Conocimiento madri+d",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.4434302,
+    "lng": -3.714019699999999,
     "found_in": [
       "spain--madrid/startup"
     ]
@@ -407,6 +453,8 @@
     "address": "28 Calle de San Mateo",
     "venue": "Lola 09",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.4260406,
+    "lng": -3.6981039,
     "found_in": [
       "spain--madrid/startup"
     ]
@@ -424,6 +472,8 @@
     "address": "6 Calle del Maestro Ángel Llorca",
     "venue": "Fundación para el Conocimiento madri+d",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.4434302,
+    "lng": -3.714019699999999,
     "found_in": [
       "spain--madrid/startup"
     ]
@@ -441,6 +491,8 @@
     "address": "92 Calle de Hortaleza",
     "venue": "Areia Club",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.4245406,
+    "lng": -3.6980344,
     "found_in": [
       "spain--madrid/startup"
     ]
@@ -458,6 +510,8 @@
     "address": "42 Calle de Cervantes",
     "venue": "Palacio Neptuno",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.4145462,
+    "lng": -3.695085,
     "found_in": [
       "spain--madrid/startup"
     ]
@@ -475,23 +529,8 @@
     "address": "269 Calle Alcalá",
     "venue": "1881 Madrid Ventas Hotel",
     "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
-    "found_in": [
-      "spain--madrid/startup"
-    ]
-  },
-  {
-    "source": "eventbrite",
-    "source_slug": "spain--madrid/startup",
-    "source_id": "1998477205118",
-    "name": "Summit Alcobendas: IV edición del  evento de innovación y emprendimiento",
-    "description": "Vuelve el evento anual con un encuentro entre emprendedores, inversiones, medios y todos los agentes del ecosistema emprendedor.",
-    "start_at": "2026-09-29",
-    "end_at": "2026-09-29",
-    "url": "https://www.eventbrite.es/e/summit-alcobendas-iv-edicion-del-evento-de-innovacion-y-emprendimiento-tickets-1998477205118",
-    "city": "Alcobendas",
-    "address": "9 Calle de Mariano Sebastian Izuel",
-    "venue": "Centro de Arte Alcobendas",
-    "attendance_mode": "https://schema.org/OfflineEventAttendanceMode",
+    "lat": 40.4320781,
+    "lng": -3.6566173,
     "found_in": [
       "spain--madrid/startup"
     ]

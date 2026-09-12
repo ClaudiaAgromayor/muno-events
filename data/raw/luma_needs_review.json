@@ -20,7 +20,9 @@
     "categories": [],
     "guest_count": 23,
     "sold_out": true,
-    "waitlist_active": false
+    "waitlist_active": false,
+    "lat": 40.4266637,
+    "lng": -3.7078357
   },
   {
     "source": "luma",
@@ -43,6 +45,8 @@
     "categories": [],
     "guest_count": 0,
     "sold_out": true,
-    "waitlist_active": false
+    "waitlist_active": false,
+    "lat": 40.42134197784673,
+    "lng": -3.6844421801838605
   }
 ]

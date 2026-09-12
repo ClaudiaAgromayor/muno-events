@@ -11,6 +11,8 @@
     "city": "Madrid",
     "address": "AZCA",
     "organizer": "Codex Community Events",
+    "lat": 40.45062691819926,
+    "lng": -3.691532701148131,
     "extra": {
       "categories": [
         "AI"
@@ -23,7 +25,8 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "luma:evt-7BhPBkQDwbUIgjC",
@@ -37,6 +40,8 @@
     "city": "Madrid",
     "address": "ISDI Escuela de Negocios - Sede Madrid",
     "organizer": "Claude Community Events",
+    "lat": 40.435848299999996,
+    "lng": -3.7014762,
     "extra": {
       "categories": [
         "AI"
@@ -49,7 +54,8 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "luma:evt-IdxgSQa7FCJQK66",
@@ -63,6 +69,8 @@
     "city": "Madrid",
     "address": "Pl. del Callao, 1",
     "organizer": "Personal",
+    "lat": 40.419722,
+    "lng": -3.7061105000000003,
     "extra": {
       "categories": [
         "Tech"
@@ -75,7 +83,8 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "luma:evt-f8aWVrUa03CilAr",
@@ -89,6 +98,8 @@
     "city": "Madrid",
     "address": "Puerta Innovación",
     "organizer": "MadAi",
+    "lat": 40.4074994,
+    "lng": -3.7114533,
     "extra": {
       "categories": [
         "AI"
@@ -101,7 +112,8 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "luma:evt-4CyxQ9e8PYIlEAk",
@@ -115,6 +127,8 @@
     "city": "Madrid",
     "address": "Justicia",
     "organizer": "LSE Generate Events",
+    "lat": 40.425734109115254,
+    "lng": -3.699198857205722,
     "extra": {
       "categories": [
         "Tech"
@@ -127,7 +141,8 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "luma:evt-d0oxiWOhHGeMQv8",
@@ -141,6 +156,8 @@
     "city": "Madrid",
     "address": "CaféOlé! Clubworking - Chamberí",
     "organizer": "Personal",
+    "lat": 40.43492,
+    "lng": -3.7049099999999995,
     "extra": {
       "categories": [
         "AI"
@@ -153,7 +170,8 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "luma:evt-9vTrr960qGUwFgG",
@@ -167,19 +185,22 @@
     "city": "Madrid",
     "address": "Mad Tech Campus",
     "organizer": "Helmcode Community",
+    "lat": 40.392235899999996,
+    "lng": -3.699101,
     "extra": {
       "categories": [
         "AI"
       ],
       "is_free": true,
-      "guest_count": 192,
+      "guest_count": 191,
       "sold_out": true,
       "waitlist_active": true
     },
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "luma:evt-1JvWiMDTEj9lY89",
@@ -193,6 +214,8 @@
     "city": "Madrid",
     "address": "Hispanoamérica",
     "organizer": "PagerDuty Community Events",
+    "lat": 40.45623344565284,
+    "lng": -3.6870295799477137,
     "extra": {
       "categories": [
         "Tech"
@@ -205,7 +228,8 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "luma:evt-w0TeDPIBFDGUvbJ",
@@ -219,6 +243,8 @@
     "city": "Madrid",
     "address": "Espacio Rastro Madrid",
     "organizer": "Personal",
+    "lat": 40.4090771,
+    "lng": -3.7068435999999996,
     "extra": {
       "categories": [
         "Tech"
@@ -231,7 +257,8 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "luma:evt-x62zPTK7EILE9XK",
@@ -245,6 +272,8 @@
     "city": "Madrid",
     "address": "Experience Design Lab",
     "organizer": "AI Socratic - Madrid",
+    "lat": 40.5150103,
+    "lng": -3.6629359999999997,
     "extra": {
       "categories": [
         "AI"
@@ -257,7 +286,8 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "meetup:316442332",
@@ -271,6 +301,8 @@
     "city": "Madrid",
     "address": "C. de San Bernardo, 2, Centro, 28013 Madrid",
     "organizer": "Madrid Networking Club",
+    "lat": 40.4207507,
+    "lng": -3.708179,
     "extra": {
       "attendees": 38,
       "max_tickets": 120,
@@ -279,7 +311,8 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "meetup:316482502",
@@ -293,6 +326,8 @@
     "city": "Madrid",
     "address": "P.º de La Habana, 9, 11, Chamartín, 28036 Madrid, Spain",
     "organizer": "Sirviendo Código",
+    "lat": null,
+    "lng": null,
     "extra": {
       "attendees": 17,
       "max_tickets": 30,
@@ -301,7 +336,8 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "meetup:316153101",
@@ -315,6 +351,8 @@
     "city": "Madrid",
     "address": "Av. Gran Vía del Este, 1, Vicálvaro, 28032 Madrid",
     "organizer": "AI Security Engineers - Madrid, ES",
+    "lat": null,
+    "lng": null,
     "extra": {
       "attendees": 19,
       "max_tickets": 50,
@@ -323,7 +361,8 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "meetup:316468176",
@@ -337,6 +376,8 @@
     "city": "madrid",
     "address": "C. de Espoz y Mina, 22, Centro, 28012 Madrid",
     "organizer": "Arjé: Club de Lectura de Ética y Política de la IA",
+    "lat": 40.4152649,
+    "lng": -3.7023992,
     "extra": {
       "attendees": 10,
       "max_tickets": 10,
@@ -345,7 +386,8 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "meetup:316470797",
@@ -359,6 +401,8 @@
     "city": "Madrid",
     "address": "C. de Cronos, 63",
     "organizer": "Elixir Madrid",
+    "lat": 40.4410744,
+    "lng": -3.6187568,
     "extra": {
       "attendees": 10,
       "max_tickets": 0,
@@ -367,7 +411,8 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "meetup:316511396",
@@ -381,6 +426,8 @@
     "city": "Madrid",
     "address": "de la comunidad, C. de Bravo Murillo, 39, Local interior, Chamberí, 28015 Madrid, Spain",
     "organizer": "Madrid Machine Learning Meetup",
+    "lat": null,
+    "lng": null,
     "extra": {
       "attendees": 11,
       "max_tickets": 60,
@@ -389,7 +436,8 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "meetup:315789520",
@@ -403,6 +451,8 @@
     "city": "Madrid",
     "address": "Calle Jorge Juan, 17",
     "organizer": "The Vibe Coding Club Madrid",
+    "lat": 38.9879607,
+    "lng": -1.845739,
     "extra": {
       "attendees": 20,
       "max_tickets": 20,
@@ -411,7 +461,8 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "meetup:316482240",
@@ -425,6 +476,8 @@
     "city": "Madrid",
     "address": "Pl. de Manuel Gómez-Moreno, 2",
     "organizer": "Celonis Tech Meetups Madrid",
+    "lat": 40.4485287,
+    "lng": -3.6940143,
     "extra": {
       "attendees": 1,
       "max_tickets": 0,
@@ -435,7 +488,8 @@
     ],
     "duplicate_ids": [
       "meetup:316300285"
-    ]
+    ],
+    "enrichment": null
   },
   {
     "id": "meetup:316482252",
@@ -449,6 +503,8 @@
     "city": "Madrid",
     "address": "Pl. de Manuel Gómez-Moreno, 2",
     "organizer": "Celonis Tech Meetups Madrid",
+    "lat": 40.4485287,
+    "lng": -3.6940143,
     "extra": {
       "attendees": 1,
       "max_tickets": 0,
@@ -459,7 +515,8 @@
     ],
     "duplicate_ids": [
       "meetup:316152297"
-    ]
+    ],
+    "enrichment": null
   },
   {
     "id": "meetup:316450466",
@@ -473,6 +530,8 @@
     "city": "Madrid",
     "address": "C/Toledo 110",
     "organizer": "DevMad! Developers in Madrid",
+    "lat": 39.6839393,
+    "lng": -3.9773332,
     "extra": {
       "attendees": 30,
       "max_tickets": 30,
@@ -481,7 +540,8 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "meetup:316210308",
@@ -495,6 +555,8 @@
     "city": "Madrid",
     "address": "Plaza de Manuel Gómez-Moreno, 2, Tetuán, 28020",
     "organizer": "Codemotion Meetup en España",
+    "lat": 40.4485287,
+    "lng": -3.6940143,
     "extra": {
       "attendees": 14,
       "max_tickets": 0,
@@ -503,7 +565,8 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "meetup:316446627",
@@ -517,6 +580,8 @@
     "city": "Madrid",
     "address": "Calle de Pradillo, 42, 28002 Madrid, Spain",
     "organizer": "ProductTank Madrid",
+    "lat": 40.4490059,
+    "lng": -3.6708446,
     "extra": {
       "attendees": 44,
       "max_tickets": 80,
@@ -525,7 +590,8 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "meetup:316404047",
@@ -539,6 +605,8 @@
     "city": "Madrid",
     "address": "Paseo de la castellana 81, 28046",
     "organizer": "MadridJUG",
+    "lat": 40.4697189,
+    "lng": -3.6884207,
     "extra": {
       "attendees": 17,
       "max_tickets": 40,
@@ -547,7 +615,8 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "meetup:315675863",
@@ -561,6 +630,8 @@
     "city": "Madrid",
     "address": "C/ del Alcalde Sainz de Baranda, 32, Retiro, 28009 Madrid",
     "organizer": "Startup Oasis - Tech, Founders, nomads, devs, UI/UX, Product",
+    "lat": 40.4166565,
+    "lng": -3.6742879,
     "extra": {
       "attendees": 15,
       "max_tickets": 0,
@@ -569,7 +640,8 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "meetup:316486466",
@@ -583,6 +655,8 @@
     "city": "Madrid",
     "address": "41 Calle de Bailén",
     "organizer": "NWC10Lab: Innovación WEB3, CRIPTO y blockchain para todos",
+    "lat": 40.4120034,
+    "lng": -3.7137386,
     "extra": {
       "attendees": 2,
       "max_tickets": 10,
@@ -594,7 +668,8 @@
     ],
     "duplicate_ids": [
       "eventbrite:2000269590190"
-    ]
+    ],
+    "enrichment": null
   },
   {
     "id": "meetup:311781960",
@@ -608,6 +683,8 @@
     "city": "Madrid",
     "address": "C. de Belén, 7",
     "organizer": "Out in Tech - Madrid",
+    "lat": 40.4242298,
+    "lng": -3.6963366,
     "extra": {
       "attendees": 8,
       "max_tickets": 0,
@@ -616,7 +693,8 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "meetup:316382510",
@@ -630,6 +708,8 @@
     "city": "Madrid",
     "address": "Bailén, 41",
     "organizer": "Quantum Madrid by Entangle",
+    "lat": -31.4124189,
+    "lng": -64.1505784,
     "extra": {
       "attendees": 26,
       "max_tickets": 90,
@@ -638,7 +718,8 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "meetup:316484729",
@@ -652,6 +733,8 @@
     "city": "Madrid",
     "address": "C. de Claudio Coello, 124",
     "organizer": "Out in Tech - Madrid",
+    "lat": 40.4369411,
+    "lng": -3.6851673,
     "extra": {
       "attendees": 6,
       "max_tickets": 0,
@@ -660,7 +743,8 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "meetup:316328092",
@@ -674,6 +758,8 @@
     "city": "Madrid",
     "address": "calle coruña 5",
     "organizer": "Hacklab La Raiz",
+    "lat": 37.7786423,
+    "lng": -3.8006506,
     "extra": {
       "attendees": 1,
       "max_tickets": 0,
@@ -682,7 +768,8 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:1988983807109",
@@ -696,13 +783,16 @@
     "city": "Madrid",
     "address": "15 Calle de Juan de Mariana",
     "organizer": "Talent Garden Madrid",
+    "lat": 40.398326,
+    "lng": -3.6863441,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:1991763208373",
@@ -716,13 +806,16 @@
     "city": "Madrid",
     "address": "3 Calle de Juan Bravo",
     "organizer": "CaixaBank Store",
+    "lat": 40.4330964,
+    "lng": -3.684839,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:2000043433750",
@@ -736,13 +829,16 @@
     "city": "Madrid",
     "address": "181 Calle de Embajadores",
     "organizer": "C. de Embajadores, 181",
+    "lat": 40.39165939999999,
+    "lng": -3.6926738,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:1998647546614",
@@ -756,13 +852,16 @@
     "city": "Madrid",
     "address": "10 Calle de Alcántara",
     "organizer": "Calle de Alcántara, 10",
+    "lat": 40.4259081,
+    "lng": -3.6738632,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:1987855264608",
@@ -776,13 +875,16 @@
     "city": "Madrid",
     "address": "92 Calle de Hortaleza",
     "organizer": "Areia Club",
+    "lat": 40.4245406,
+    "lng": -3.6980344,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:1984035318045",
@@ -796,13 +898,16 @@
     "city": "Madrid",
     "address": "5 Calle Cifuentes",
     "organizer": "La Nave (Nov 10 & 11) & Palacio de Santoña (Nov 12)",
+    "lat": 40.3474905,
+    "lng": -3.6959936,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:1995465432826",
@@ -816,13 +921,16 @@
     "city": "Madrid",
     "address": "madrid",
     "organizer": "IE TBC- Hybrid event (Online & In person)",
+    "lat": 40.4351996,
+    "lng": -3.68134,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:1998205079182",
@@ -836,13 +944,16 @@
     "city": "Madrid",
     "address": "5 Calle Lola de Membrives",
     "organizer": "Montreal",
+    "lat": 40.39656799999999,
+    "lng": -3.71665,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:2000391455693",
@@ -856,13 +967,16 @@
     "city": "Madrid",
     "address": "71 Calle de Serrano",
     "organizer": "Banco Sabadell",
+    "lat": 40.4338617,
+    "lng": -3.686950199999999,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:1993542268590",
@@ -876,13 +990,16 @@
     "city": "Madrid",
     "address": "Maria de Molina, 31",
     "organizer": "María de Molina",
+    "lat": 40.437836,
+    "lng": -3.6821721,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:1980045387054",
@@ -896,13 +1013,16 @@
     "city": "Madrid",
     "address": "Job Fair",
     "organizer": "Madrid",
+    "lat": 40.41672790000001,
+    "lng": -3.7032905,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:1993527994897",
@@ -916,13 +1036,16 @@
     "city": "Madrid",
     "address": "181 Calle de Embajadores",
     "organizer": "Madrid Digital",
+    "lat": 40.3917045,
+    "lng": -3.6925945,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:1987855279653",
@@ -936,13 +1059,16 @@
     "city": "Madrid",
     "address": "92 Calle de Hortaleza",
     "organizer": "Areia Club",
+    "lat": 40.4245406,
+    "lng": -3.6980344,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:1985907372410",
@@ -956,13 +1082,16 @@
     "city": "Madrid",
     "address": "5 Calle Cifuentes",
     "organizer": "La Nave",
+    "lat": 40.3478149,
+    "lng": -3.6963605999999345,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:1991778548255",
@@ -976,13 +1105,16 @@
     "city": "Las Rozas de Madrid",
     "address": "2 bis Calle Playa de Liencres",
     "organizer": "U-tad | Centro Universitario de Tecnología y Arte Digital",
+    "lat": 40.5392277,
+    "lng": -3.8932693,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:1975223769466",
@@ -996,13 +1128,16 @@
     "city": "Madrid",
     "address": "5 Calle Juan Rizi",
     "organizer": "Eurostars Puerta Madrid",
+    "lat": 40.4477946,
+    "lng": -3.6359873,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:1992757733023",
@@ -1016,13 +1151,16 @@
     "city": "Madrid",
     "address": "20 Calle de Alberto Aguilera",
     "organizer": "Fundación Casa de México en España, Calle de Alberto Aguilera, Madrid, España",
+    "lat": 40.4301007,
+    "lng": -3.7093041,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:2000172225971",
@@ -1036,13 +1174,16 @@
     "city": "Madrid",
     "address": "21 Calle del Prado",
     "organizer": "Ateneo de Madrid",
+    "lat": 40.415082,
+    "lng": -3.698212299999999,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:1999782672807",
@@ -1056,13 +1197,16 @@
     "city": "Madrid",
     "address": "110 Calle de Toledo",
     "organizer": "Puerta Innovación",
+    "lat": 40.4074994,
+    "lng": -3.7114533,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:1994240556187",
@@ -1076,13 +1220,16 @@
     "city": "Madrid",
     "address": "110 Calle de Toledo",
     "organizer": "Puerta Innovación",
+    "lat": 40.4074994,
+    "lng": -3.7114533,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:1989175716114",
@@ -1096,13 +1243,16 @@
     "city": "Madrid",
     "address": "259C Paseo de la Castellana",
     "organizer": "Regus - Torre de Cristal",
+    "lat": 40.4781919,
+    "lng": -3.6874821,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:1995455172136",
@@ -1116,13 +1266,16 @@
     "city": "Madrid",
     "address": "6 Calle del Maestro Ángel Llorca",
     "organizer": "Fundación para el Conocimiento madri+d",
+    "lat": 40.4434302,
+    "lng": -3.714019699999999,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:1995435273619",
@@ -1136,13 +1289,16 @@
     "city": "Madrid",
     "address": "28 Calle de San Mateo",
     "organizer": "Lola 09",
+    "lat": 40.4260406,
+    "lng": -3.6981039,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:1995449445006",
@@ -1156,13 +1312,16 @@
     "city": "Madrid",
     "address": "6 Calle del Maestro Ángel Llorca",
     "organizer": "Fundación para el Conocimiento madri+d",
+    "lat": 40.4434302,
+    "lng": -3.714019699999999,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:1987855416061",
@@ -1176,13 +1335,16 @@
     "city": "Madrid",
     "address": "92 Calle de Hortaleza",
     "organizer": "Areia Club",
+    "lat": 40.4245406,
+    "lng": -3.6980344,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:1992651474200",
@@ -1196,13 +1358,16 @@
     "city": "Madrid",
     "address": "42 Calle de Cervantes",
     "organizer": "Palacio Neptuno",
+    "lat": 40.4145462,
+    "lng": -3.695085,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:1998630931919",
@@ -1216,33 +1381,16 @@
     "city": "Madrid",
     "address": "269 Calle Alcalá",
     "organizer": "1881 Madrid Ventas Hotel",
+    "lat": 40.4320781,
+    "lng": -3.6566173,
     "extra": {
       "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
     },
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": []
-  },
-  {
-    "id": "eventbrite:1998477205118",
-    "source": "eventbrite",
-    "source_id": "1998477205118",
-    "name": "Summit Alcobendas: IV edición del  evento de innovación y emprendimiento",
-    "description": "Vuelve el evento anual con un encuentro entre emprendedores, inversiones, medios y todos los agentes del ecosistema emprendedor.",
-    "start_at": "2026-09-29",
-    "end_at": "2026-09-29",
-    "url": "https://www.eventbrite.es/e/summit-alcobendas-iv-edicion-del-evento-de-innovacion-y-emprendimiento-tickets-1998477205118",
-    "city": "Alcobendas",
-    "address": "9 Calle de Mariano Sebastian Izuel",
-    "organizer": "Centro de Arte Alcobendas",
-    "extra": {
-      "attendance_mode": "https://schema.org/OfflineEventAttendanceMode"
-    },
-    "found_on_platforms": [
-      "eventbrite"
-    ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "manual:12-9-2026_160344",
@@ -1256,10 +1404,13 @@
     "city": "Madrid",
     "address": "Calle Alberto Aguilera",
     "organizer": null,
+    "lat": null,
+    "lng": null,
     "extra": {},
     "found_on_platforms": [
       "manual"
     ],
-    "duplicate_ids": []
+    "duplicate_ids": [],
+    "enrichment": null
   }
 ]

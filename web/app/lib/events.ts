@@ -24,6 +24,8 @@ export type MunoEvent = {
   city: string | null;
   address: string | null;
   organizer: string | null;
+  lat: number | null;
+  lng: number | null;
   extra: EventExtra;
   found_on_platforms: EventSource[];
   duplicate_ids: string[];

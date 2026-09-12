@@ -17,7 +17,9 @@
     "found_in": [
       "Artificial Intelligence",
       "Startups"
-    ]
+    ],
+    "lat": 40.4207507,
+    "lng": -3.708179
   },
   {
     "source": "meetup",
@@ -36,7 +38,9 @@
     "spots_left": 13,
     "found_in": [
       "Artificial Intelligence"
-    ]
+    ],
+    "lat": null,
+    "lng": null
   },
   {
     "source": "meetup",
@@ -58,7 +62,9 @@
       "Machine Learning",
       "DevOps",
       "Hackathon"
-    ]
+    ],
+    "lat": null,
+    "lng": null
   },
   {
     "source": "meetup",
@@ -77,7 +83,9 @@
     "spots_left": 0,
     "found_in": [
       "Artificial Intelligence"
-    ]
+    ],
+    "lat": 40.4152649,
+    "lng": -3.7023992
   },
   {
     "source": "meetup",
@@ -98,7 +106,9 @@
       "Artificial Intelligence",
       "Machine Learning",
       "DevOps"
-    ]
+    ],
+    "lat": 40.4410744,
+    "lng": -3.6187568
   },
   {
     "source": "meetup",
@@ -118,7 +128,9 @@
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning"
-    ]
+    ],
+    "lat": null,
+    "lng": null
   },
   {
     "source": "meetup",
@@ -140,7 +152,9 @@
       "Machine Learning",
       "Startups",
       "Hackathon"
-    ]
+    ],
+    "lat": 38.9879607,
+    "lng": -1.845739
   },
   {
     "source": "meetup",
@@ -161,7 +175,9 @@
       "Machine Learning",
       "Data Science",
       "DevOps"
-    ]
+    ],
+    "lat": 40.4485287,
+    "lng": -3.6940143
   },
   {
     "source": "meetup",
@@ -181,7 +197,9 @@
     "found_in": [
       "Data Science",
       "DevOps"
-    ]
+    ],
+    "lat": 40.4485287,
+    "lng": -3.6940143
   },
   {
     "source": "meetup",
@@ -200,7 +218,9 @@
     "spots_left": null,
     "found_in": [
       "DevOps"
-    ]
+    ],
+    "lat": 40.4485287,
+    "lng": -3.6940143
   },
   {
     "source": "meetup",
@@ -219,7 +239,9 @@
     "spots_left": 0,
     "found_in": [
       "DevOps"
-    ]
+    ],
+    "lat": 39.6839393,
+    "lng": -3.9773332
   },
   {
     "source": "meetup",
@@ -239,7 +261,9 @@
     "found_in": [
       "DevOps",
       "Hackathon"
-    ]
+    ],
+    "lat": 40.4485287,
+    "lng": -3.6940143
   },
   {
     "source": "meetup",
@@ -259,7 +283,9 @@
     "found_in": [
       "DevOps",
       "Startups"
-    ]
+    ],
+    "lat": 40.4490059,
+    "lng": -3.6708446
   },
   {
     "source": "meetup",
@@ -278,7 +304,9 @@
     "spots_left": 23,
     "found_in": [
       "DevOps"
-    ]
+    ],
+    "lat": 40.4697189,
+    "lng": -3.6884207
   },
   {
     "source": "meetup",
@@ -297,7 +325,9 @@
     "spots_left": null,
     "found_in": [
       "Startups"
-    ]
+    ],
+    "lat": 40.4166565,
+    "lng": -3.6742879
   },
   {
     "source": "meetup",
@@ -316,7 +346,9 @@
     "spots_left": 8,
     "found_in": [
       "Startups"
-    ]
+    ],
+    "lat": 40.4120034,
+    "lng": -3.7137386
   },
   {
     "source": "meetup",
@@ -335,7 +367,9 @@
     "spots_left": null,
     "found_in": [
       "Startups"
-    ]
+    ],
+    "lat": 40.4242298,
+    "lng": -3.6963366
   },
   {
     "source": "meetup",
@@ -355,7 +389,9 @@
     "found_in": [
       "Startups",
       "Hackathon"
-    ]
+    ],
+    "lat": -31.4124189,
+    "lng": -64.1505784
   },
   {
     "source": "meetup",
@@ -374,7 +410,9 @@
     "spots_left": null,
     "found_in": [
       "Startups"
-    ]
+    ],
+    "lat": 40.4369411,
+    "lng": -3.6851673
   },
   {
     "source": "meetup",
@@ -393,7 +431,9 @@
     "spots_left": 0,
     "found_in": [
       "Hackathon"
-    ]
+    ],
+    "lat": 40.4485287,
+    "lng": -3.6940143
   },
   {
     "source": "meetup",
@@ -412,6 +452,8 @@
     "spots_left": null,
     "found_in": [
       "Hackathon"
-    ]
+    ],
+    "lat": 37.7786423,
+    "lng": -3.8006506
   }
 ]

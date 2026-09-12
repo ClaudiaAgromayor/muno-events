@@ -22,7 +22,9 @@
     ],
     "guest_count": 62,
     "sold_out": true,
-    "waitlist_active": true
+    "waitlist_active": true,
+    "lat": 40.45062691819926,
+    "lng": -3.691532701148131
   },
   {
     "source": "luma",
@@ -48,7 +50,9 @@
     ],
     "guest_count": 0,
     "sold_out": true,
-    "waitlist_active": false
+    "waitlist_active": false,
+    "lat": 40.435848299999996,
+    "lng": -3.7014762
   },
   {
     "source": "luma",
@@ -73,7 +77,9 @@
     ],
     "guest_count": 50,
     "sold_out": true,
-    "waitlist_active": true
+    "waitlist_active": true,
+    "lat": 40.419722,
+    "lng": -3.7061105000000003
   },
   {
     "source": "luma",
@@ -99,7 +105,9 @@
     ],
     "guest_count": 40,
     "sold_out": true,
-    "waitlist_active": true
+    "waitlist_active": true,
+    "lat": 40.4074994,
+    "lng": -3.7114533
   },
   {
     "source": "luma",
@@ -124,7 +132,9 @@
     ],
     "guest_count": 0,
     "sold_out": false,
-    "waitlist_active": false
+    "waitlist_active": false,
+    "lat": 40.425734109115254,
+    "lng": -3.699198857205722
   },
   {
     "source": "luma",
@@ -149,7 +159,9 @@
     ],
     "guest_count": 52,
     "sold_out": false,
-    "waitlist_active": false
+    "waitlist_active": false,
+    "lat": 40.43492,
+    "lng": -3.7049099999999995
   },
   {
     "source": "luma",
@@ -173,9 +185,11 @@
     "categories": [
       "AI"
     ],
-    "guest_count": 192,
+    "guest_count": 191,
     "sold_out": true,
-    "waitlist_active": true
+    "waitlist_active": true,
+    "lat": 40.392235899999996,
+    "lng": -3.699101
   },
   {
     "source": "luma",
@@ -200,7 +214,9 @@
     ],
     "guest_count": 38,
     "sold_out": false,
-    "waitlist_active": false
+    "waitlist_active": false,
+    "lat": 40.45623344565284,
+    "lng": -3.6870295799477137
   },
   {
     "source": "luma",
@@ -225,7 +241,9 @@
     ],
     "guest_count": 0,
     "sold_out": false,
-    "waitlist_active": false
+    "waitlist_active": false,
+    "lat": 40.4090771,
+    "lng": -3.7068435999999996
   },
   {
     "source": "luma",
@@ -251,6 +269,8 @@
     ],
     "guest_count": 0,
     "sold_out": true,
-    "waitlist_active": true
+    "waitlist_active": true,
+    "lat": 40.5150103,
+    "lng": -3.6629359999999997
   }
 ]

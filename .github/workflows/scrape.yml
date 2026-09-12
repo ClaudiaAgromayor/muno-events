@@ -37,8 +37,18 @@ jobs:
         run: uv run python src/eventos_tech_madrid/scrapers/manual.py
         continue-on-error: true
 
+      - name: Geocodificar direcciones de Meetup (Nominatim)
+        run: uv run python src/eventos_tech_madrid/pipeline/geocode.py
+        continue-on-error: true
+
       - name: Unificar y deduplicar
         run: uv run python src/eventos_tech_madrid/pipeline/unify.py
+
+      - name: Enriquecer con LLM (nivel, idioma, comida, grabacion)
+        run: uv run python src/eventos_tech_madrid/pipeline/enrich.py
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        continue-on-error: true
 
       - name: Guardar cambios en el repo
         run: |

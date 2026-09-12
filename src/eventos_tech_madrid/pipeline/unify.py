@@ -20,6 +20,8 @@ def _normalize_luma(events: list[dict]) -> list[dict]:
         "city": e.get("city"),
         "address": e.get("address"),
         "organizer": e.get("organizer"),
+        "lat": e.get("lat"),
+        "lng": e.get("lng"),
         "extra": {
             "categories": e.get("categories"),
             "is_free": e.get("is_free"),
@@ -43,6 +45,8 @@ def _normalize_meetup(events: list[dict]) -> list[dict]:
         "city": e.get("city"),
         "address": e.get("address"),
         "organizer": e.get("organizer"),
+        "lat": e.get("lat"),
+        "lng": e.get("lng"),
         "extra": {
             "attendees": e.get("attendees"),
             "max_tickets": e.get("max_tickets"),
@@ -64,6 +68,8 @@ def _normalize_eventbrite(events: list[dict]) -> list[dict]:
         "city": e.get("city"),
         "address": e.get("address"),
         "organizer": e.get("venue"),  # eventbrite no da organizador, usamos el recinto
+        "lat": e.get("lat"),
+        "lng": e.get("lng"),
         "extra": {
             "attendance_mode": e.get("attendance_mode"),
         },
@@ -83,6 +89,8 @@ def _normalize_manual(events: list[dict]) -> list[dict]:
         "city": e.get("city"),
         "address": e.get("address"),
         "organizer": e.get("organizer"),
+        "lat": None,  # el Form no pide coordenadas
+        "lng": None,
         "extra": {},
     } for e in events]
 

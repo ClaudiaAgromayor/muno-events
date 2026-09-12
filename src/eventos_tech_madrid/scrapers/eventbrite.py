@@ -37,6 +37,9 @@ def fetch_eventbrite_category(path: str) -> list[dict]:
             continue
         location = ev.get("location", {})
         address = location.get("address", {})
+        geo = location.get("geo") or {}
+        lat = geo.get("latitude")
+        lng = geo.get("longitude")
         events.append({
             "source": "eventbrite",
             "source_slug": path,
@@ -50,6 +53,8 @@ def fetch_eventbrite_category(path: str) -> list[dict]:
             "address": address.get("streetAddress"),
             "venue": location.get("name"),
             "attendance_mode": ev.get("eventAttendanceMode"),
+            "lat": float(lat) if lat else None,
+            "lng": float(lng) if lng else None,
         })
     return events
     

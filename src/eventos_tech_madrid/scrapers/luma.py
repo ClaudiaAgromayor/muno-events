@@ -90,6 +90,7 @@ def fetch_luma_event_detail(url_slug: str) -> dict:
 
     description = _extract_text_from_doc(data.get("description_mirror") or {}).strip()
     categories = [c.get("name") for c in (data.get("categories") or [])]
+    coordinate = (data.get("event") or {}).get("coordinate") or {}
 
     return {
         "description": description,
@@ -97,6 +98,8 @@ def fetch_luma_event_detail(url_slug: str) -> dict:
         "guest_count": data.get("guest_count"),
         "sold_out": data.get("sold_out"),
         "waitlist_active": data.get("waitlist_active"),
+        "lat": coordinate.get("latitude"),
+        "lng": coordinate.get("longitude"),
     }
 
 

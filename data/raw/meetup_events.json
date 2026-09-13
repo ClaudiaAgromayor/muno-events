@@ -11,9 +11,9 @@
     "city": "Madrid",
     "address": "C. de San Bernardo, 2, Centro, 28013 Madrid",
     "organizer": "Madrid Networking Club",
-    "attendees": 46,
+    "attendees": 48,
     "max_tickets": 120,
-    "spots_left": 74,
+    "spots_left": 72,
     "found_in": [
       "Artificial Intelligence",
       "Startups"
@@ -158,6 +158,29 @@
   },
   {
     "source": "meetup",
+    "source_slug": "Machine Learning",
+    "source_id": "316482240",
+    "name": "#CodeMeet Madrid: ¿Quién controla a los agentes?",
+    "description": "**CodeMeet Madrid: ¿Quién controla a los agentes?** *De ahorrar tokens a construir MCPs: la ingeniería detrás de la IA que actúa.*\nLa IA ha dejado de ser un simple chatbot para convertirse en un actor que ejecuta, conecta herramientas y toma decisiones en nuestros sistemas. Pero a mayor autonomía, mayores son los retos: **¿Cómo los hacemos eficientes sin disparar la factura? ¿Cómo los integramos en producción? Y sobre todo, ¿cómo mantenemos el control?**\nJunto a la comunidad de **Arcasiles**, analizaremos la ingeniería tras los sistemas *agentic* desde tres ángulos clave: eficiencia, infraestructura y seguridad.\n\n💡 **Lo que vas a descubrir**\n\n* **Optimización de contexto:** Pruning, *Progressive Disclosure* y *Prompt Caching* para reducir el consumo de tokens sin perder calidad.\n* **MCPs en el mundo real:** Arquitectura, observabilidad y conexión de LLMs con sistemas corporativos más allá de la demo.\n* **Gobernanza y seguridad:** Técnicas para auditar y controlar agentes autónomos con acceso a herramientas críticas.\n\n🎤 **Ponencias y Speakers**\n\n* **De Cajas Negras a Facturas Infladas: Ingeniería de Contexto y Agentes** **Manuel Fernández** \\| *Software Engineer @ Thoughtworks* Cómo aplicar *model routing*, subagentes y técnicas avanzadas para optimizar el contexto y evitar que el uso de IA en tus pipelines se traduzca en costos desmedidos.\n* **Anatomía de un MCP: Construyendo la capa de IA de una organización** **Raúl López Caña** \\| *Fullstack Engineer @ Galp* Análisis técnico de un Protocolo de Contexto de Modelo (MCP) real: su arquitectura, herramientas, observabilidad e integración profunda en un ecosistema de productos.\n* **¿Quién controla a los agentes? Seguridad y gobernanza en la era de la IA** **Osmani Redondo** \\| *Especialista en Seguridad e IA* A medida que la IA gana autonomía, la seguridad pasa a ser la piedra angular de la arquitectura. Descubre cómo mantener bajo control a los agentes más capaces.\n\n🎯 **¿Para quién es este meetup?**\nDiseñado para **desarrolladores, arquitectos de software, Tech Leads y DevOps** que ya usan IA en su día a día o están explorando cómo llevar sistemas basados en MCP y agentes a producción. *No necesitas ser un experto en agentes, solo tener curiosidad por ver qué pasa cuando la IA empieza a actuar.*\n\n🗓️ **Agenda del evento**\n**18:30 — Check-in**\n**18:45 — Bienvenida y presentación de comunidades**\n**18:50 — De Cajas Negras a Facturas Infladas: Ingeniería de Contexto y Agentes para ahorrar Tokens al programar con IA**\nManuel Fernández\n**19:20 — Anatomía de un MCP: construyendo la capa de IA de una organización**\nRaúl López Caña\n**19:50 — ¿Quién controla a los agentes? Seguridad y gobernanza en la era de la IA**\nOsmani Redondo\n**20:20 — Cierre**\n**20:25 — Networking 🍻**\n\n**[RESERVA TU ENTRADA AQUÍ](https://docs.google.com/forms/d/e/1FAIpQLSfB26vM6eZI9U1y0aknB0Wmxzml54WxzLRkrGsiK3iv03Mozw/closedform)**",
+    "start_at": "2026-09-17T18:30:00+02:00",
+    "url": "https://www.meetup.com/celonis-tech-meetups-madrid/events/316482240/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Pl. de Manuel Gómez-Moreno, 2",
+    "organizer": "Celonis Tech Meetups Madrid",
+    "attendees": 1,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Machine Learning",
+      "Data Science",
+      "DevOps"
+    ],
+    "lat": 40.4485287,
+    "lng": -3.6940143
+  },
+  {
+    "source": "meetup",
     "source_slug": "Data Science",
     "source_id": "316482252",
     "name": "Escalando con el particionado de postgresql y releases inmutables",
@@ -175,28 +198,6 @@
       "Data Science",
       "DevOps",
       "Startups"
-    ],
-    "lat": 40.4485287,
-    "lng": -3.6940143
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Data Science",
-    "source_id": "316482240",
-    "name": "#CodeMeet Madrid: ¿Quién controla a los agentes?",
-    "description": "**CodeMeet Madrid: ¿Quién controla a los agentes?** *De ahorrar tokens a construir MCPs: la ingeniería detrás de la IA que actúa.*\nLa IA ha dejado de ser un simple chatbot para convertirse en un actor que ejecuta, conecta herramientas y toma decisiones en nuestros sistemas. Pero a mayor autonomía, mayores son los retos: **¿Cómo los hacemos eficientes sin disparar la factura? ¿Cómo los integramos en producción? Y sobre todo, ¿cómo mantenemos el control?**\nJunto a la comunidad de **Arcasiles**, analizaremos la ingeniería tras los sistemas *agentic* desde tres ángulos clave: eficiencia, infraestructura y seguridad.\n\n💡 **Lo que vas a descubrir**\n\n* **Optimización de contexto:** Pruning, *Progressive Disclosure* y *Prompt Caching* para reducir el consumo de tokens sin perder calidad.\n* **MCPs en el mundo real:** Arquitectura, observabilidad y conexión de LLMs con sistemas corporativos más allá de la demo.\n* **Gobernanza y seguridad:** Técnicas para auditar y controlar agentes autónomos con acceso a herramientas críticas.\n\n🎤 **Ponencias y Speakers**\n\n* **De Cajas Negras a Facturas Infladas: Ingeniería de Contexto y Agentes** **Manuel Fernández** \\| *Software Engineer @ Thoughtworks* Cómo aplicar *model routing*, subagentes y técnicas avanzadas para optimizar el contexto y evitar que el uso de IA en tus pipelines se traduzca en costos desmedidos.\n* **Anatomía de un MCP: Construyendo la capa de IA de una organización** **Raúl López Caña** \\| *Fullstack Engineer @ Galp* Análisis técnico de un Protocolo de Contexto de Modelo (MCP) real: su arquitectura, herramientas, observabilidad e integración profunda en un ecosistema de productos.\n* **¿Quién controla a los agentes? Seguridad y gobernanza en la era de la IA** **Osmani Redondo** \\| *Especialista en Seguridad e IA* A medida que la IA gana autonomía, la seguridad pasa a ser la piedra angular de la arquitectura. Descubre cómo mantener bajo control a los agentes más capaces.\n\n🎯 **¿Para quién es este meetup?**\nDiseñado para **desarrolladores, arquitectos de software, Tech Leads y DevOps** que ya usan IA en su día a día o están explorando cómo llevar sistemas basados en MCP y agentes a producción. *No necesitas ser un experto en agentes, solo tener curiosidad por ver qué pasa cuando la IA empieza a actuar.*\n\n🗓️ **Agenda del evento**\n**18:30 — Check-in**\n**18:45 — Bienvenida y presentación de comunidades**\n**18:50 — De Cajas Negras a Facturas Infladas: Ingeniería de Contexto y Agentes para ahorrar Tokens al programar con IA**\nManuel Fernández\n**19:20 — Anatomía de un MCP: construyendo la capa de IA de una organización**\nRaúl López Caña\n**19:50 — ¿Quién controla a los agentes? Seguridad y gobernanza en la era de la IA**\nOsmani Redondo\n**20:20 — Cierre**\n**20:25 — Networking 🍻**\n\n**[RESERVA TU ENTRADA AQUÍ](https://docs.google.com/forms/d/e/1FAIpQLSfB26vM6eZI9U1y0aknB0Wmxzml54WxzLRkrGsiK3iv03Mozw/closedform)**",
-    "start_at": "2026-09-17T18:30:00+02:00",
-    "url": "https://www.meetup.com/celonis-tech-meetups-madrid/events/316482240/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "Pl. de Manuel Gómez-Moreno, 2",
-    "organizer": "Celonis Tech Meetups Madrid",
-    "attendees": 1,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Data Science",
-      "DevOps"
     ],
     "lat": 40.4485287,
     "lng": -3.6940143
@@ -405,7 +406,7 @@
     "city": "Madrid",
     "address": "C. de Claudio Coello, 124",
     "organizer": "Out in Tech - Madrid",
-    "attendees": 6,
+    "attendees": 7,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

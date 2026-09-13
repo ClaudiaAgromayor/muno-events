@@ -238,6 +238,36 @@
     }
   },
   {
+    "id": "luma:evt-VgbazrqX9Ef4PBv",
+    "source": "luma",
+    "source_id": "evt-VgbazrqX9Ef4PBv",
+    "name": "Premiere · Contanimation x Magnific Originals",
+    "description": "Un caballero ve gigantes donde todos ven molinos. Nos hemos tomado su versión en serio.\nEstrenamos en Madrid La Triste Figura, primer episodio de Contanimation TV, la antología creada por Contanimation Films y producida por Magnific Originals. Después de la proyección, el equipo cuenta cómo se hizo: dirección de animación con IA y la batalla con los molinos.\nSinopsis\nSancho sospecha que su señor está mucho más loco de lo que parecía. La certeza llega con una fila de gigantes en el horizonte que solo Don Quijote ve. Y su señor, lanza en ristre, carga contra ellos.\nPara quién es\nDirectores, animadores, guionistas y curiosos que quieran ver de cerca cómo se produce animación con IA hoy.\nPrograma\n18:15 – 18:45 · Check-inPuertas abiertas, palomitas y saludos.\n18:45 – 19:15 · BienvenidaContanimation y Magnific Originals presentan la antología y el episodio.\n19:15 – 20:00 · Proyección + Q&ALa Triste Figura, y a continuación el equipo respondiendo.\n20:00 – 21:00 · NetworkingPicoteo en la mano y charla.\n📍 UbicaciónSala EQUIS, Madrid.\n🧠 RSVP obligatorioAforo limitado. Revisamos las solicitudes una a una para mantener la sala pequeña y las conversaciones reales.",
+    "start_at": "2026-09-23T16:15:00.000Z",
+    "end_at": "2026-09-23T19:00:00.000Z",
+    "url": "https://lu.ma/magnific-contanimation",
+    "city": "Madrid",
+    "address": "SALA EQUIS",
+    "organizer": "Magnific",
+    "lat": 40.4119879,
+    "lng": -3.7058726,
+    "extra": {
+      "categories": [
+        "AI",
+        "Arts & Culture"
+      ],
+      "is_free": true,
+      "guest_count": 3,
+      "sold_out": false,
+      "waitlist_active": false
+    },
+    "found_on_platforms": [
+      "luma"
+    ],
+    "duplicate_ids": [],
+    "enrichment": null
+  },
+  {
     "id": "luma:evt-1JvWiMDTEj9lY89",
     "source": "luma",
     "source_id": "evt-1JvWiMDTEj9lY89",
@@ -354,9 +384,9 @@
     "lat": 40.4207507,
     "lng": -3.708179,
     "extra": {
-      "attendees": 46,
+      "attendees": 48,
       "max_tickets": 120,
-      "spots_left": 74
+      "spots_left": 72
     },
     "found_on_platforms": [
       "meetup"
@@ -550,33 +580,6 @@
     }
   },
   {
-    "id": "meetup:316482252",
-    "source": "meetup",
-    "source_id": "316482252",
-    "name": "Escalando con el particionado de postgresql y releases inmutables",
-    "description": "**🚀 Madrid DevOps x AiSec Eng Spain x PostgreSQL España**\nNada mejor para retomar la rutina tras las vacaciones que un caso real de ingeniería al límite. En esta edición conjunta, **Jorge Argente Ferrero** (Staff Engineer en Clarity AI) compartirá el *post-mortem* de un incidente crítico de datos y la arquitectura que construyeron para resolverlo.\n👉 **[RESERVA TU PLAZA AQUÍ]**\n📍 **Detalles de la cita**\n\n* **Fecha:** 28 de septiembre de 2026 \\| 18:50 \\(CEST\\)\n* **Lugar:** Celonis — Plaza de Manuel Gómez-Moreno, 2, Tetuán (Madrid)\n\n💡 **¿Qué aprenderás en esta sesión?**\n\n* **Análisis de un desastre:** Cómo la interacción entre cargas masivas de datos y los procesos asíncronos de `VACUUM` y `ANALYZE` generó condiciones de carrera que corrompieron los metadatos del *query planner*.\n* **De monolito a inmutabilidad:** El rediseño que permitió pasar de tablas monolíticas y operaciones mutables a un modelo de **Particionado Declarativo** y *releases* inmutables.\n* **Impacto en producción:** Cómo convertir las cargas masivas en operaciones atómicas a nivel de sistema de archivos, eliminar el *bloat* de almacenamiento y exprimir la optimización de *Partition Pruning*.\n\n🎤 **Ponente** **Jorge Argente Ferrero** \\| *Staff Engineer en Clarity AI*\n\n18:30 — Check-in\n18:50 — Bienvenida\n19:00 — Talk: Agentic Thinking for Humans: Build Your Own Skills for the Future\n19:45 — Cierre\n19:50— Networking\n\n**[RESERVA TU SITIO AQUÍ](https://www.meetup.com/madrid-devops/events/316152297/?eventOrigin=home_page_upcoming_events%24all)**",
-    "start_at": "2026-09-28T18:50:00+02:00",
-    "end_at": null,
-    "url": "https://www.meetup.com/celonis-tech-meetups-madrid/events/316482252/",
-    "city": "Madrid",
-    "address": "Pl. de Manuel Gómez-Moreno, 2",
-    "organizer": "Celonis Tech Meetups Madrid",
-    "lat": 40.4485287,
-    "lng": -3.6940143,
-    "extra": {
-      "attendees": 1,
-      "max_tickets": 0,
-      "spots_left": null
-    },
-    "found_on_platforms": [
-      "meetup"
-    ],
-    "duplicate_ids": [
-      "meetup:316152297"
-    ],
-    "enrichment": null
-  },
-  {
     "id": "meetup:316482240",
     "source": "meetup",
     "source_id": "316482240",
@@ -607,6 +610,33 @@
       "comida_gratis": "no_especificado",
       "se_graba": "no_especificado"
     }
+  },
+  {
+    "id": "meetup:316482252",
+    "source": "meetup",
+    "source_id": "316482252",
+    "name": "Escalando con el particionado de postgresql y releases inmutables",
+    "description": "**🚀 Madrid DevOps x AiSec Eng Spain x PostgreSQL España**\nNada mejor para retomar la rutina tras las vacaciones que un caso real de ingeniería al límite. En esta edición conjunta, **Jorge Argente Ferrero** (Staff Engineer en Clarity AI) compartirá el *post-mortem* de un incidente crítico de datos y la arquitectura que construyeron para resolverlo.\n👉 **[RESERVA TU PLAZA AQUÍ]**\n📍 **Detalles de la cita**\n\n* **Fecha:** 28 de septiembre de 2026 \\| 18:50 \\(CEST\\)\n* **Lugar:** Celonis — Plaza de Manuel Gómez-Moreno, 2, Tetuán (Madrid)\n\n💡 **¿Qué aprenderás en esta sesión?**\n\n* **Análisis de un desastre:** Cómo la interacción entre cargas masivas de datos y los procesos asíncronos de `VACUUM` y `ANALYZE` generó condiciones de carrera que corrompieron los metadatos del *query planner*.\n* **De monolito a inmutabilidad:** El rediseño que permitió pasar de tablas monolíticas y operaciones mutables a un modelo de **Particionado Declarativo** y *releases* inmutables.\n* **Impacto en producción:** Cómo convertir las cargas masivas en operaciones atómicas a nivel de sistema de archivos, eliminar el *bloat* de almacenamiento y exprimir la optimización de *Partition Pruning*.\n\n🎤 **Ponente** **Jorge Argente Ferrero** \\| *Staff Engineer en Clarity AI*\n\n18:30 — Check-in\n18:50 — Bienvenida\n19:00 — Talk: Agentic Thinking for Humans: Build Your Own Skills for the Future\n19:45 — Cierre\n19:50— Networking\n\n**[RESERVA TU SITIO AQUÍ](https://www.meetup.com/madrid-devops/events/316152297/?eventOrigin=home_page_upcoming_events%24all)**",
+    "start_at": "2026-09-28T18:50:00+02:00",
+    "end_at": null,
+    "url": "https://www.meetup.com/celonis-tech-meetups-madrid/events/316482252/",
+    "city": "Madrid",
+    "address": "Pl. de Manuel Gómez-Moreno, 2",
+    "organizer": "Celonis Tech Meetups Madrid",
+    "lat": 40.4485287,
+    "lng": -3.6940143,
+    "extra": {
+      "attendees": 1,
+      "max_tickets": 0,
+      "spots_left": null
+    },
+    "found_on_platforms": [
+      "meetup"
+    ],
+    "duplicate_ids": [
+      "meetup:316152297"
+    ],
+    "enrichment": null
   },
   {
     "id": "meetup:316450466",
@@ -866,7 +896,7 @@
     "lat": 40.4369411,
     "lng": -3.6851673,
     "extra": {
-      "attendees": 6,
+      "attendees": 7,
       "max_tickets": 0,
       "spots_left": null
     },

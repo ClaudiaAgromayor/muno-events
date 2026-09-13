@@ -194,6 +194,34 @@
   {
     "source": "luma",
     "source_slug": "madrid",
+    "source_id": "evt-VgbazrqX9Ef4PBv",
+    "name": "Premiere · Contanimation x Magnific Originals",
+    "start_at": "2026-09-23T16:15:00.000Z",
+    "end_at": "2026-09-23T19:00:00.000Z",
+    "timezone": "Europe/Madrid",
+    "url": "https://lu.ma/magnific-contanimation",
+    "city": "Madrid",
+    "address": "SALA EQUIS",
+    "organizer": "Magnific",
+    "is_free": true,
+    "cover_image": "https://images.lumacdn.com/uploads/jv/e33fce89-93fc-432b-a755-c51fb9e93b91.png",
+    "found_in": [
+      "madrid"
+    ],
+    "description": "Un caballero ve gigantes donde todos ven molinos. Nos hemos tomado su versión en serio.\nEstrenamos en Madrid La Triste Figura, primer episodio de Contanimation TV, la antología creada por Contanimation Films y producida por Magnific Originals. Después de la proyección, el equipo cuenta cómo se hizo: dirección de animación con IA y la batalla con los molinos.\nSinopsis\nSancho sospecha que su señor está mucho más loco de lo que parecía. La certeza llega con una fila de gigantes en el horizonte que solo Don Quijote ve. Y su señor, lanza en ristre, carga contra ellos.\nPara quién es\nDirectores, animadores, guionistas y curiosos que quieran ver de cerca cómo se produce animación con IA hoy.\nPrograma\n18:15 – 18:45 · Check-inPuertas abiertas, palomitas y saludos.\n18:45 – 19:15 · BienvenidaContanimation y Magnific Originals presentan la antología y el episodio.\n19:15 – 20:00 · Proyección + Q&ALa Triste Figura, y a continuación el equipo respondiendo.\n20:00 – 21:00 · NetworkingPicoteo en la mano y charla.\n📍 UbicaciónSala EQUIS, Madrid.\n🧠 RSVP obligatorioAforo limitado. Revisamos las solicitudes una a una para mantener la sala pequeña y las conversaciones reales.",
+    "categories": [
+      "AI",
+      "Arts & Culture"
+    ],
+    "guest_count": 3,
+    "sold_out": false,
+    "waitlist_active": false,
+    "lat": 40.4119879,
+    "lng": -3.7058726
+  },
+  {
+    "source": "luma",
+    "source_slug": "madrid",
     "source_id": "evt-1JvWiMDTEj9lY89",
     "name": "Beers & Reliability",
     "start_at": "2026-09-23T16:30:00.000Z",
@@ -247,7 +275,7 @@
   },
   {
     "source": "luma",
-    "source_slug": "madrid",
+    "source_slug": "aimadrid",
     "source_id": "evt-x62zPTK7EILE9XK",
     "name": "AI Socratic Madrid - September",
     "start_at": "2026-09-24T15:30:00.000Z",
@@ -260,7 +288,6 @@
     "is_free": true,
     "cover_image": "https://images.lumacdn.com/uploads/mk/a2f9fed1-ea37-4de2-a937-30ba0e5c6041.png",
     "found_in": [
-      "madrid",
       "aimadrid"
     ],
     "description": "AI Socratic Madrid is a monthly gathering for AI practitioners, researchers, founders, educators, and builders in the Madrid AI scene.\nWe run Socratic dialogues on the last AI topics: new models and tools, research papers, AGI alignment, philosophy, geopolitics, and more.We believe the best conversations happen when diverse perspectives are in the room. Whether you come from engineering, research, product, policy, or education, if you think seriously about AI, you belong here.\nTo keep discussions meaningful, every application is reviewed. We look for curiosity, depth of thought, and a genuine willingness to contribute, not a specific job title or background.\nThe event runs in English 🇬🇧, unless everyone in the room speaks Spanish 🇪🇸.\nAgenda\n17:30 – 18:00 Welcome & networking\n\n18:00 – 19:00 Socratic dialogues\n\n19:00 – 20:00 Demos and presentations\n\nSocratic Conversations\nWe open with networking, time to meet the people in the room before the conversation starts.\nThe main session is structured around the latest AI Socratic monthly post, with room for the threads and topics that matter most to attendees.Everyone is encouraged to contribute. Jorge Ordovás and Alfonso de la Rocha moderate to keep things flowing and make sure every voice gets heard.\nWe close with demos and short presentations. Submit yours here.\nAI Socratic Madrid — Code of Conduct\nAI Socratic is built on the premise that better ideas come from more perspectives. This Code of Conduct exists to make that real, not aspirational.\nWho this is for:\nEveryone: attendees, speakers, organisers, and guests. No exceptions.\n\nWhat we expect:\nBe curious, not combative. Challenge ideas, not people. The Socratic method works because it assumes good faith on all sides.\n\nMake room. If you tend to speak a lot, listen more. If you see someone being talked over, say something.\n\nRespect identities and expertise. Don't make assumptions about what someone knows (or doesn't) based on how they look, their accent, or their background.\n\nNo unsolicited advice or feedback. If someone didn't ask for your opinion on their work, keep it.\n\nWhat we won't tolerate:\nHarassment of any kind: including comments related to gender, gender identity, sexual orientation, disability, ethnicity, religion, or age. This applies to talks, conversations, online channels, and side events.\n\nSpecifically off-limits: sexualised language or imagery, deliberate intimidation, interrupting or talking over speakers, and taking photos or recording without consent.\n\nIf something happens:\nTell an organiser directly, or send an email. Reports are handled confidentially.\n\nAnyone asked to stop a behaviour is expected to do so immediately. Persistent violations result in removal from the event and future editions.\n\nWe follow up on every report.\n\nThe short version:\nTreat people the way you'd want to be treated if you were the only person who didn't look like everyone else, or the only person defending an opinion in the room.",

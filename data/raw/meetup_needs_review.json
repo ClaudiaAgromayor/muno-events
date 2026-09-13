@@ -11,7 +11,7 @@
     "city": "",
     "address": "",
     "organizer": "IA para Agencias, Freelancers y Consultores",
-    "attendees": 30,
+    "attendees": 32,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -244,26 +244,6 @@
   {
     "source": "meetup",
     "source_slug": "Machine Learning",
-    "source_id": "316064663",
-    "name": "Sept 30 - Building Composable Vision Workflows in FiftyOne",
-    "description": "This workshop explores the [FiftyOne](https://docs.voxel51.com/index.html) plugin framework to build custom computer vision applications. You’ll learn to extend the FiftyOne App with Python based panels and server side operators, as well as integrate external tools for labeling, vector search, and model inference into your dataset views.\n\n**Date, Time and Location**\n\nSep 30, 2026\n9 AM - 10 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/building-composable-vision-workflows-in-fiftyone-september-30-2026)**\n\nYou’ll also automate repetitive tasks by writing custom workflows executing within the FiftyOne environment. Attendees will learn to transform FiftyOne from a visualization tool into a central hub for your vision stack.\n\nWhat you'll learn:\n\n* **Build Python plugins.** Define plugin manifests and directory structures to register custom functionality within the FiftyOne ecosystem.\n* **Develop server side operators.** Write functions to execute model inference, data cleaning, or metadata updates from the App interface.\n* **Build interactive panels.** Create custom UI dashboards using to visualize model metrics or specialized dataset distributions.\n* **Manage operator execution contexts.** Pass data between the App front end and your backend to build dynamic user workflows.\n* **Implement delegated execution.** Configure background workers to handle long running data processing tasks without blocking the user interface.\n* **Build labeling integrations.** Streamline the flow of data between FiftyOne and annotation platforms through custom triggers and ingestion scripts.\n* **Extend vector database support.** Program custom connectors for external vector stores to enable semantic search across large sample datasets.\n* **Package and share plugins.** Distribute your extensions internally and externally",
-    "start_at": "2026-09-30T18:00:00+02:00",
-    "url": "https://www.meetup.com/madrid-ai-machine-learning-and-computer-vision-meetup/events/316064663/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
-    "attendees": 1,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Machine Learning",
-      "Data Science"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Machine Learning",
     "source_id": "316418129",
     "name": "AIDataTech Connect: Global Virtual Networking Event for AI, Data & Tech Pros",
     "description": "Are you working in artificial intelligence, data science, or machine learning? Whether you're a developer, researcher, startup founder, or aspiring tech enthusiast — **AIDataTech Connect** is your go-to **AI networking event online** designed to foster career growth, real-time collaboration, and innovation exchange in a dynamic, community-driven environment.\n\nThis event brings together a global **virtual AI community meetup** hosted on a flexible Slack-style platform that supports group discussions and **1-1 video or text chats**, making it perfect for professionals looking to connect, collaborate, and build with others in the AI ecosystem.\n\n🎥 **Watch how it works:**\n👉 [https://www.youtube.com/watch?v=NRUTXUOFKm4](https://www.youtube.com/watch?v=NRUTXUOFKm4)\n\n**💬 What to Expect:**\nAt AIDataTech Connect, attendees are encouraged to explore, share, and engage across multiple interactive channels designed to support learning, networking, and opportunity discovery:\n\n* **General** – A central hub for orientation, announcements, and community-wide discussions.\n* **Intros** – Introduce yourself, your background, and your AI/tech journey. Spark meaningful introductions.\n* **Networking** – Share your resume, startup, or project pitch. Meet employers, peers, or collaborators.\n* **Help Wanted** – Ask for help or offer support on coding, data, research, or AI model deployment.\n* **Industry Room Tech** – Discuss AI frameworks, tools, and the latest tech trends in data and development.\n* **Project Showcase** – Perfect for those seeking a **machine learning career fair** experience or showcasing real-world work through our **AI project showcase platform**.\n* **Collaboration Pods** – Jump into discussions around **collaboration for AI specialists**, including open-source partnerships, research pods, and co-building opportunities.\n\n**📍 Where:**\nJoin virtually at:\n👉 [https://events.tao.ai/pod/analytics.club/q4j5imq9qjs9](https://events.tao.ai/pod/analytics.club/q4j5imq9qjs9)\n**🕔 When:**\nEvent runs globally from **5:00 PM – 7:00 PM local time** — designed for participation across time zones.\n\n**👥 Who Should Join:**\n\n* AI professionals, ML engineers, and data scientists\n* Tech founders, entrepreneurs, and product leaders\n* Students, job seekers, and aspiring AI talent\n* Recruiters, employers, and hiring managers in AI/tech\n* Researchers, open-source contributors, and peer mentors\n\n**🧠 Why Attend:**\n\n* Engage in a truly global **virtual tech networking event**\n* Discover AI jobs, freelance gigs, or partnership opportunities\n* Connect with experts and peers in AI, ML, and data\n* Explore AI applications and get feedback on your models or tools\n* Network directly via 1-on-1 video or text chats\n* Collaborate on new ideas, research papers, or open-source projects\n\n**❓ Questions or Suggestions?**\nWe’re here to help. Drop us a note at:\n👉 [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**🔖 Hashtags:**\n#AIDataTechConnect #AINetworkingEventOnline #VirtualAICommunityMeetup #MachineLearningCareerFair #AIProjectShowcasePlatform #CollaborationForAISpecialists #DataScienceMeetup #MLJobs #AIResearchNetworking #GlobalTechNetworking #TechCollaborationEvent",
@@ -314,6 +294,25 @@
     "address": "",
     "organizer": "Analytics.CLUB Madrid",
     "attendees": 2,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Data Science",
+    "source_id": "316064663",
+    "name": "Sept 30 - Building Composable Vision Workflows in FiftyOne",
+    "description": "This workshop explores the [FiftyOne](https://docs.voxel51.com/index.html) plugin framework to build custom computer vision applications. You’ll learn to extend the FiftyOne App with Python based panels and server side operators, as well as integrate external tools for labeling, vector search, and model inference into your dataset views.\n\n**Date, Time and Location**\n\nSep 30, 2026\n9 AM - 10 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/building-composable-vision-workflows-in-fiftyone-september-30-2026)**\n\nYou’ll also automate repetitive tasks by writing custom workflows executing within the FiftyOne environment. Attendees will learn to transform FiftyOne from a visualization tool into a central hub for your vision stack.\n\nWhat you'll learn:\n\n* **Build Python plugins.** Define plugin manifests and directory structures to register custom functionality within the FiftyOne ecosystem.\n* **Develop server side operators.** Write functions to execute model inference, data cleaning, or metadata updates from the App interface.\n* **Build interactive panels.** Create custom UI dashboards using to visualize model metrics or specialized dataset distributions.\n* **Manage operator execution contexts.** Pass data between the App front end and your backend to build dynamic user workflows.\n* **Implement delegated execution.** Configure background workers to handle long running data processing tasks without blocking the user interface.\n* **Build labeling integrations.** Streamline the flow of data between FiftyOne and annotation platforms through custom triggers and ingestion scripts.\n* **Extend vector database support.** Program custom connectors for external vector stores to enable semantic search across large sample datasets.\n* **Package and share plugins.** Distribute your extensions internally and externally",
+    "start_at": "2026-09-30T18:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-ai-machine-learning-and-computer-vision-meetup/events/316064663/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
+    "attendees": 1,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -427,9 +426,9 @@
     "city": "Madrid",
     "address": "C. del Marqués de Casa Riera, 4, Centro, 28014 Madrid, Spain",
     "organizer": "Cloudflare User Group España (IA, CyberSecurity & Edge Dev)",
-    "attendees": 31,
+    "attendees": 33,
     "max_tickets": 50,
-    "spots_left": 19,
+    "spots_left": 17,
     "found_in": [
       "Artificial Intelligence"
     ]
@@ -495,18 +494,18 @@
   {
     "source": "meetup",
     "source_slug": "Hackathon",
-    "source_id": "316283031",
-    "name": "Yoga in Retiro – Breathe, Flow & Connect",
-    "description": "Welcome to **Yoga in Retiro – Breathe, Flow & Connect** 🌿\n\nJoin us every **Tuesday at 6:00 pm** for a relaxing outdoor yoga class in the beautiful surroundings of Retiro Park.\n\nThese 60-minute sessions combine mindful movement, breathing and a gentle flow to help you release the stress of the day, reconnect with your body and enjoy some time outdoors.\n\nThis group is also about connection. It’s a welcoming, international community for anyone who would like to practise yoga, meet new people and bring a little more calm and positive energy into their week.\nPlease bring:\n\n* Your own yoga mat\n* Comfortable clothes\n* Water\n* A warm layer for the final relaxation as autumn approaches\n\nThe exact meeting point in Retiro will be shared with registered participants.\n\nCome move, breathe and reset with us. See you on Tuesday! 🧘‍♂️✨",
-    "start_at": "2026-09-15T18:30:00+02:00",
-    "url": "https://www.meetup.com/yoga-in-retiro-breathe-flow-connect/events/316283031/",
+    "source_id": "316444822",
+    "name": "Crystal Bowl Sound Bath",
+    "description": "Hello there,\n\nYou're so welcome to this 90-minute crystal singing bowl, healing sound bath in nature, where you can relax, disconnect, release any heavy burdens or emotions, restore and heal while connecting to these magical healing sound frequencies.\n€10 suggested donation, not obligatory.\n\nNo experience needed. I suggest wearing comfortable clothes.\nThe duration is 1.5 hours in total to give us time to settle in, set an intention and then comfortably come back to the world rejuvenated.\n\nPlease let me know if you have any questions at all: [info@sarah-egan.com](mailto:info@sarah-egan.com)\n\nYou’re very welcome to join the Crystal Bowl Healing Sound Bath Whatsapp group, if you'd like to join our whatsapp group, please message me or email me first here so I know it's not spam.\n[https://chat.whatsapp.com/FkzmPbz4z27DsIsJUMcRpv?mode=gi_t](https://chat.whatsapp.com/FkzmPbz4z27DsIsJUMcRpv?mode=gi_t)\nLooking forward to creating this healing space with you 😊\n🌸💚✨🤍\n\nHola! Estas muy bienvenida a venir al baño de sonido con cuencos de cristales de 90 minutos, baño de sonido curativo, donde puedes relajarte en la naturaleza, desconectarte, liberar cualquier carga o emoción pesada, restaurar y sanar mientras te conectas a estas frecuencias mágicas de sonido curativo.\n\n**(10€ / persona donación sugerida, no obligatoria 😊)**\nSe puede pagar en persona o a través de Bizum.\n\n*No se necesita experiencia previa y te recomiendo que lleves ropa cómoda.*\nLa duración es de 1,5 horas en total para darnos tiempo para encontrarnos, establecer una intención y luego volver cómodamente al mundo rejuvenecidos. Por favor, avisame si tienes alguna pregunta: [info@sarah-egan.com](mailto:info@sarah-egan.com)\n\nTe invitamos a unirte al grupo de WhatsApp del baño de sonido curativo con cuencos de cristal, Por favor, envíame un mensaje primero aquí para que sepa que no es spam, si quires unir al grupo.[https://chat.whatsapp.com/FkzmPbz4z27DsIsJUMcRpv?mode=gi_t](https://chat.whatsapp.com/FkzmPbz4z27DsIsJUMcRpv?mode=gi_t)\nEspero con mucho illusion crear este espacio de sonido sanado contigo 😊\n🌸💚✨🤍",
+    "start_at": "2026-09-13T11:00:00+02:00",
+    "url": "https://www.meetup.com/healing-crystal-bowl-sound-bath/events/316444822/",
     "event_type": "PHYSICAL",
     "city": "Madrid",
-    "address": "Puerta de El Niño Jesús",
-    "organizer": "Yoga in Retiro – Breathe, Flow & Connect",
-    "attendees": 1,
-    "max_tickets": 0,
-    "spots_left": null,
+    "address": "https://maps.app.goo.gl/A2pbJ1RsdwyDv84VA",
+    "organizer": "Healing Crystal Bowl Sound Bath",
+    "attendees": 5,
+    "max_tickets": 10,
+    "spots_left": 5,
     "found_in": [
       "Hackathon"
     ]

@@ -11,9 +11,9 @@
     "city": "Madrid",
     "address": "C. de San Bernardo, 2, Centro, 28013 Madrid",
     "organizer": "Madrid Networking Club",
-    "attendees": 38,
+    "attendees": 40,
     "max_tickets": 120,
-    "spots_left": 82,
+    "spots_left": 80,
     "found_in": [
       "Artificial Intelligence",
       "Startups"

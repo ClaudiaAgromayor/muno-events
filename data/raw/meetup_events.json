@@ -11,9 +11,9 @@
     "city": "Madrid",
     "address": "C. de San Bernardo, 2, Centro, 28013 Madrid",
     "organizer": "Madrid Networking Club",
-    "attendees": 40,
+    "attendees": 41,
     "max_tickets": 120,
-    "spots_left": 80,
+    "spots_left": 79,
     "found_in": [
       "Artificial Intelligence",
       "Startups"
@@ -99,7 +99,7 @@
     "city": "Madrid",
     "address": "C. de Cronos, 63",
     "organizer": "Elixir Madrid",
-    "attendees": 10,
+    "attendees": 11,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -122,9 +122,9 @@
     "city": "Madrid",
     "address": "de la comunidad, C. de Bravo Murillo, 39, Local interior, Chamberí, 28015 Madrid, Spain",
     "organizer": "Madrid Machine Learning Meetup",
-    "attendees": 11,
+    "attendees": 12,
     "max_tickets": 60,
-    "spots_left": 49,
+    "spots_left": 48,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning"
@@ -278,9 +278,9 @@
     "city": "Madrid",
     "address": "Calle de Pradillo, 42, 28002 Madrid, Spain",
     "organizer": "ProductTank Madrid",
-    "attendees": 44,
+    "attendees": 47,
     "max_tickets": 80,
-    "spots_left": 36,
+    "spots_left": 33,
     "found_in": [
       "DevOps",
       "Startups"
@@ -300,9 +300,9 @@
     "city": "Madrid",
     "address": "Paseo de la castellana 81, 28046",
     "organizer": "MadridJUG",
-    "attendees": 17,
+    "attendees": 18,
     "max_tickets": 40,
-    "spots_left": 23,
+    "spots_left": 22,
     "found_in": [
       "DevOps"
     ],

@@ -18,7 +18,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 62,
+      "guest_count": 61,
       "sold_out": true,
       "waitlist_active": true
     },
@@ -188,7 +188,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 59,
+      "guest_count": 62,
       "sold_out": false,
       "waitlist_active": false
     },
@@ -354,9 +354,9 @@
     "lat": 40.4207507,
     "lng": -3.708179,
     "extra": {
-      "attendees": 40,
+      "attendees": 41,
       "max_tickets": 120,
-      "spots_left": 80
+      "spots_left": 79
     },
     "found_on_platforms": [
       "meetup"
@@ -474,7 +474,7 @@
     "lat": 40.4410744,
     "lng": -3.6187568,
     "extra": {
-      "attendees": 10,
+      "attendees": 11,
       "max_tickets": 0,
       "spots_left": null
     },
@@ -504,9 +504,9 @@
     "lat": null,
     "lng": null,
     "extra": {
-      "attendees": 11,
+      "attendees": 12,
       "max_tickets": 60,
-      "spots_left": 49
+      "spots_left": 48
     },
     "found_on_platforms": [
       "meetup"
@@ -683,9 +683,9 @@
     "lat": 40.4490059,
     "lng": -3.6708446,
     "extra": {
-      "attendees": 44,
+      "attendees": 47,
       "max_tickets": 80,
-      "spots_left": 36
+      "spots_left": 33
     },
     "found_on_platforms": [
       "meetup"
@@ -713,9 +713,9 @@
     "lat": 40.4697189,
     "lng": -3.6884207,
     "extra": {
-      "attendees": 17,
+      "attendees": 18,
       "max_tickets": 40,
-      "spots_left": 23
+      "spots_left": 22
     },
     "found_on_platforms": [
       "meetup"

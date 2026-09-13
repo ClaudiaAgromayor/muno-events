@@ -219,7 +219,6 @@
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence",
-      "Data Science",
       "DevOps"
     ]
   },
@@ -284,6 +283,25 @@
   },
   {
     "source": "meetup",
+    "source_slug": "Data Science",
+    "source_id": "316064663",
+    "name": "Sept 30 - Building Composable Vision Workflows in FiftyOne",
+    "description": "This workshop explores the [FiftyOne](https://docs.voxel51.com/index.html) plugin framework to build custom computer vision applications. You’ll learn to extend the FiftyOne App with Python based panels and server side operators, as well as integrate external tools for labeling, vector search, and model inference into your dataset views.\n\n**Date, Time and Location**\n\nSep 30, 2026\n9 AM - 10 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/building-composable-vision-workflows-in-fiftyone-september-30-2026)**\n\nYou’ll also automate repetitive tasks by writing custom workflows executing within the FiftyOne environment. Attendees will learn to transform FiftyOne from a visualization tool into a central hub for your vision stack.\n\nWhat you'll learn:\n\n* **Build Python plugins.** Define plugin manifests and directory structures to register custom functionality within the FiftyOne ecosystem.\n* **Develop server side operators.** Write functions to execute model inference, data cleaning, or metadata updates from the App interface.\n* **Build interactive panels.** Create custom UI dashboards using to visualize model metrics or specialized dataset distributions.\n* **Manage operator execution contexts.** Pass data between the App front end and your backend to build dynamic user workflows.\n* **Implement delegated execution.** Configure background workers to handle long running data processing tasks without blocking the user interface.\n* **Build labeling integrations.** Streamline the flow of data between FiftyOne and annotation platforms through custom triggers and ingestion scripts.\n* **Extend vector database support.** Program custom connectors for external vector stores to enable semantic search across large sample datasets.\n* **Package and share plugins.** Distribute your extensions internally and externally",
+    "start_at": "2026-09-30T18:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-ai-machine-learning-and-computer-vision-meetup/events/316064663/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
+    "attendees": 1,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
     "source_slug": "Startups",
     "source_id": "316271071",
     "name": "Silicon Valley Business Networking (Online) ",
@@ -304,25 +322,6 @@
   {
     "source": "meetup",
     "source_slug": "Startups",
-    "source_id": "316349046",
-    "name": "How to Build AI Skills For Your Career",
-    "description": "This event is being promoted by many groups.\n\nOur meetup group is participating by promoting this event.\n\nThis event is organized by Albert's List.\n\nOur meetup group is collaborating by promoting this event.\n\nThis is an online event.\n\nAttendees can be located anywhere in the world!\n\nThis event is FREE to attend!\n\nIn order to attend, please register here:\n[https://www.eventbrite.com/e/how-to-build-ai-skills-for-your-career-tickets-1999078866704?aff=ideatoipo](https://www.eventbrite.com/e/how-to-build-ai-skills-for-your-career-tickets-1999078866704?aff=ideatoipo)\nAI is reshaping work. But most professionals don't know where to start. Do you build an agent to improve your job search? Automate repetitive work in your current role? Or create a side project to generate income?\n**The Session**\nIn this webinar, Albert of Albert's List walks through how professionals across different situations are using vibe coding and AI agents to move faster, land better roles, and create leverage. You'll see:\n\n* What \"vibe coding\" actually is (and why it works for non-technical builders)\n* Why agents matter at work, and what they actually do\n* Real examples: job seekers building search tools, operators automating workflows, builders shipping side projects\n* How to pick the right path for your situation\n\nThis isn't a technical tutorial. It's a framework for deciding what you should build and why.\n**Who This Is For**\n\n* Job seekers who want to differentiate themselves and move faster\n* Professionals in roles who want to automate friction\n* People interested in building a side project or consulting practice\n\n**What Happens Next**\nAt the end, you'll vote on what you'd actually build. Based on community demand, we'll announce workshops and training in the areas that matter most to our audience.",
-    "start_at": "2026-09-29T00:00:00+02:00",
-    "url": "https://www.meetup.com/spain-startup-idea-to-ipo/events/316349046/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Spain  Startup: Idea to IPO",
-    "attendees": 2,
-    "max_tickets": 50,
-    "spots_left": 48,
-    "found_in": [
-      "Startups"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Startups",
     "source_id": "316350269",
     "name": "How to Strategize and Execute Your Job Search with AI in One Hour",
     "description": "There are many groups promoting this event.\n\nOur meetup group is participating by promoting this event.\n\nThis event is organized by Albert's List.\n\nThis is an online event.\n\nAttendees can be located anywhere in the world!\n\nThere is a cost to attend this event ($5+)\n\nIn order to attend, please register here:\n[https://www.eventbrite.com/e/how-to-strategize-and-execute-your-job-search-with-ai-in-one-hour-tickets-1995041486792?aff=ideatoipo](https://www.eventbrite.com/e/how-to-strategize-and-execute-your-job-search-with-ai-in-one-hour-tickets-1995041486792?aff=ideatoipo)\nMost people take weeks or even months to organize their job search. In the AI era, the market moves so fast that by the time you’ve figured out your plan, everything has changed—and you’re stuck pivoting again. The result? Job seekers are always chasing the market instead of leading it.\nIt doesn’t have to be this way.\n\nAI isn’t just for recruiters and hiring managers—it’s for you too. If you’re stuck figuring out where to start, how to build a strategy, or just want to get back into the market faster, this one-hour webinar is your solution.\nUsing AI, you’ll learn how to plan, organize, and execute your job search with clarity and speed—without the burnout—with a real resume and LinkedIn profile from a peer.\n\nThis isn’t about quick answers from AI. It’s about using AI as a thinking partner to help you take control and move forward confidently.\n\n### We'll cover how you can use AI to:\n\n* Serve as your personalized career advisor with your existing resume and LinkedIn profile.\n* Act as an accountability partner for your job search, including with daily tasks.\n* Edit your resume and LinkedIn so it can be more visible, including tailored for individual job listings.\n* Identify where you need more experience or education so you can become a better candidate.\n* Develop a company application strategy, including reading the trends and seeing what's hot and what's not.\n* Improve your interviewing, including creating interview answers and as a mock interviewer.\n* Build your personal brand in your voice.\n* And much more!\n\n### **What you’ll walk away with:**\n\n* A repeatable system for job searching in 2026\n* Custom AI prompts you can use immediately to: Organize your thoughts into a clear strategy, create compelling, tailored content for every stage of the process, prepare with confidence for networking and interviews\n\nFinally, this session will be recorded. If you sign up and cannot make it, a recording will be sent to you.",
@@ -335,6 +334,25 @@
     "attendees": 1,
     "max_tickets": 100,
     "spots_left": 99,
+    "found_in": [
+      "Startups"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Startups",
+    "source_id": "316349046",
+    "name": "How to Build AI Skills For Your Career",
+    "description": "This event is being promoted by many groups.\n\nOur meetup group is participating by promoting this event.\n\nThis event is organized by Albert's List.\n\nOur meetup group is collaborating by promoting this event.\n\nThis is an online event.\n\nAttendees can be located anywhere in the world!\n\nThis event is FREE to attend!\n\nIn order to attend, please register here:\n[https://www.eventbrite.com/e/how-to-build-ai-skills-for-your-career-tickets-1999078866704?aff=ideatoipo](https://www.eventbrite.com/e/how-to-build-ai-skills-for-your-career-tickets-1999078866704?aff=ideatoipo)\nAI is reshaping work. But most professionals don't know where to start. Do you build an agent to improve your job search? Automate repetitive work in your current role? Or create a side project to generate income?\n**The Session**\nIn this webinar, Albert of Albert's List walks through how professionals across different situations are using vibe coding and AI agents to move faster, land better roles, and create leverage. You'll see:\n\n* What \"vibe coding\" actually is (and why it works for non-technical builders)\n* Why agents matter at work, and what they actually do\n* Real examples: job seekers building search tools, operators automating workflows, builders shipping side projects\n* How to pick the right path for your situation\n\nThis isn't a technical tutorial. It's a framework for deciding what you should build and why.\n**Who This Is For**\n\n* Job seekers who want to differentiate themselves and move faster\n* Professionals in roles who want to automate friction\n* People interested in building a side project or consulting practice\n\n**What Happens Next**\nAt the end, you'll vote on what you'd actually build. Based on community demand, we'll announce workshops and training in the areas that matter most to our audience.",
+    "start_at": "2026-09-29T00:00:00+02:00",
+    "url": "https://www.meetup.com/spain-startup-idea-to-ipo/events/316349046/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Spain  Startup: Idea to IPO",
+    "attendees": 2,
+    "max_tickets": 50,
+    "spots_left": 48,
     "found_in": [
       "Startups"
     ]
@@ -389,9 +407,9 @@
     "city": "Madrid",
     "address": "C. del Marqués de Casa Riera, 4, Centro, 28014 Madrid, Spain",
     "organizer": "Cloudflare User Group España (IA, CyberSecurity & Edge Dev)",
-    "attendees": 30,
+    "attendees": 31,
     "max_tickets": 50,
-    "spots_left": 20,
+    "spots_left": 19,
     "found_in": [
       "Artificial Intelligence"
     ]

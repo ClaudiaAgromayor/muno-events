@@ -157,6 +157,7 @@ if __name__ == "__main__":
     ]
 
     all_events = []
+    any_errors = False
     for kw in keywords:
         try:
             events = fetch_meetup_search(kw)
@@ -164,6 +165,14 @@ if __name__ == "__main__":
             all_events.extend(events)
         except Exception as e:
             print(f"{kw}: ERROR ({e})")
+            any_errors = True
+
+    if not all_events and any_errors:
+        # todas las busquedas fallaron a la vez: mejor no tocar los archivos del dia
+        # anterior que sobrescribirlos con listas vacias (mismo caso que ya se dio en
+        # Eventbrite con GitHub Actions bloqueado por IP).
+        print("\nTodas las búsquedas fallaron y no hay eventos — no se sobrescribe data/raw/meetup_events.json")
+        raise SystemExit(0)
 
     print(f"\nTotal antes de deduplicar: {len(all_events)}")
     unique_events = dedupe_events(all_events)

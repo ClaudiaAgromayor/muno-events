@@ -149,6 +149,7 @@ if __name__ == "__main__":
     ]
 
     all_events = []
+    any_errors = False
     for slug in sources:
         try:
             events = fetch_luma_source(slug)
@@ -156,6 +157,14 @@ if __name__ == "__main__":
             all_events.extend(events)
         except Exception as e:
             print(f"{slug}: ERROR ({e})")
+            any_errors = True
+
+    if not all_events and any_errors:
+        # todas las fuentes fallaron a la vez: mejor no tocar los archivos del dia
+        # anterior que sobrescribirlos con listas vacias (mismo caso que ya se dio en
+        # Eventbrite con GitHub Actions bloqueado por IP).
+        print("\nTodas las fuentes fallaron y no hay eventos — no se sobrescribe data/raw/luma_events.json")
+        raise SystemExit(0)
 
     print(f"\nTotal antes de deduplicar: {len(all_events)}")
     unique_events = dedupe_events(all_events)

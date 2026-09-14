@@ -199,18 +199,31 @@ create table public.group_members (
 alter table public.groups enable row level security;
 alter table public.group_members enable row level security;
 
-create policy "Ves grupos de los que eres miembro" on public.groups
-  for select using (
-    exists (select 1 from public.group_members gm where gm.group_id = groups.id and gm.user_id = auth.uid())
+-- SECURITY DEFINER: una politica de group_members que consulta group_members dentro de
+-- si misma provoca "infinite recursion detected in policy" (verificado en produccion) --
+-- Postgres vuelve a aplicar la misma politica sobre la subconsulta, sin fin. Esta
+-- funcion se ejecuta saltandose RLS (igual que get_group_name/join_group/rsvp_group),
+-- asi que romper el ciclo.
+create or replace function public.is_group_member(p_group_id uuid)
+returns boolean
+language sql
+security definer
+set search_path = public
+as $$
+  select exists (
+    select 1 from public.group_members
+    where group_id = p_group_id and user_id = auth.uid()
   );
+$$;
+
+create policy "Ves grupos de los que eres miembro" on public.groups
+  for select using (public.is_group_member(groups.id));
 
 create policy "Creas tus propios grupos" on public.groups
   for insert with check (auth.uid() = owner_id);
 
 create policy "Ves los miembros de tus grupos" on public.group_members
-  for select using (
-    exists (select 1 from public.group_members gm2 where gm2.group_id = group_members.group_id and gm2.user_id = auth.uid())
-  );
+  for select using (public.is_group_member(group_members.group_id));
 
 -- Solo el dueno puede insertarse a si mismo como miembro directamente (justo despues
 -- de crear el grupo). Unirse por invitacion pasa por join_group() mas abajo, porque
@@ -287,6 +300,7 @@ begin
 end;
 $$;
 
+grant execute on function public.is_group_member(uuid) to authenticated;
 grant execute on function public.get_group_name(uuid) to authenticated;
 grant execute on function public.join_group(uuid) to authenticated;
 grant execute on function public.rsvp_group(uuid, text, text, text, text, text) to authenticated;

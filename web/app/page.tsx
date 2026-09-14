@@ -5,6 +5,10 @@ import FeaturedEvents from "@/app/components/FeaturedEvents";
 import { getEvents } from "@/app/lib/data";
 import { getFeaturedEvents } from "@/app/lib/events";
 
+// Formulario publico de envio de eventos (Google Form) -- lo rellena cualquiera, no
+// hace falta cuenta. Las respuestas las recoge el scraper manual.py via el CSV publicado.
+const SUBMIT_EVENT_URL = "https://docs.google.com/forms/d/1sTJJdvGNmwgL6pPGkhoQsiHlfc2SIT6OMHygUnAMdvI/viewform";
+
 export default function Home() {
   const events = getEvents();
   const featured = getFeaturedEvents(events);
@@ -12,8 +16,18 @@ export default function Home() {
   return (
     <main className="mx-auto w-full max-w-5xl px-6 py-12 sm:px-10 sm:py-16">
       <header className="flex flex-col gap-3 border-b-2 border-foreground pb-8">
-        <div className="flex flex-wrap items-baseline justify-between gap-2">
-          <h1 className="font-display text-6xl leading-none sm:text-7xl">muno</h1>
+        <div className="flex flex-wrap items-start justify-between gap-4">
+          <div className="flex flex-col gap-2">
+            <h1 className="font-display text-6xl leading-none sm:text-7xl">muno</h1>
+            <a
+              href={SUBMIT_EVENT_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-fit border border-accent px-3 py-1 text-[11px] font-medium uppercase tracking-wider text-accent transition-colors hover:bg-accent hover:text-background"
+            >
+              Apunta tu evento
+            </a>
+          </div>
           <div className="flex flex-col items-end gap-1.5">
             <p className="text-xs uppercase tracking-wider text-muted">Madrid</p>
             <AuthButton />

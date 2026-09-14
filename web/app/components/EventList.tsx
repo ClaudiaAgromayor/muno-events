@@ -56,7 +56,7 @@ export default function EventList({ events }: { events: MunoEvent[] }) {
     return map;
   }, [rsvpRows, user]);
 
-  const toggleRsvp = async (eventId: string, isGoing: boolean) => {
+  const toggleRsvp = async (event: MunoEvent, isGoing: boolean) => {
     if (!user) {
       const { error } = await supabase.auth.signInWithOAuth({
         provider: "github",
@@ -65,9 +65,19 @@ export default function EventList({ events }: { events: MunoEvent[] }) {
       if (error) alert(`Error al entrar con GitHub: ${error.message}`);
       return;
     }
+    // Copiamos nombre/fecha/direccion/url del evento tal cual esta ahora: el pipeline
+    // solo guarda eventos futuros, asi que en cuanto pase la fecha este sera el unico
+    // sitio donde queda constancia de como se llamaba (ver "Mis eventos" -> Pasados).
     const { error } = isGoing
-      ? await supabase.from("rsvps").delete().eq("event_id", eventId).eq("user_id", user.id)
-      : await supabase.from("rsvps").insert({ event_id: eventId, user_id: user.id });
+      ? await supabase.from("rsvps").delete().eq("event_id", event.id).eq("user_id", user.id)
+      : await supabase.from("rsvps").insert({
+          event_id: event.id,
+          user_id: user.id,
+          event_name: event.name,
+          event_start_at: event.start_at,
+          event_address: event.address,
+          event_url: event.url,
+        });
     if (error) {
       alert(`Error al marcar "voy": ${error.message}`);
       return;
@@ -92,7 +102,7 @@ export default function EventList({ events }: { events: MunoEvent[] }) {
                 summary={summaries.get(event.id) ?? EMPTY_SUMMARY}
                 signedIn={!!user}
                 full={spotsUrgent(event)}
-                onToggleRsvp={() => toggleRsvp(event.id, (summaries.get(event.id) ?? EMPTY_SUMMARY).isGoing)}
+                onToggleRsvp={() => toggleRsvp(event, (summaries.get(event.id) ?? EMPTY_SUMMARY).isGoing)}
               />
             ))}
           </div>

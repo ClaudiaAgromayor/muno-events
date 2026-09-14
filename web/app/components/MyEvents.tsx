@@ -3,17 +3,24 @@
 import { useCallback, useEffect, useMemo, useState } from "react";
 import type { User } from "@supabase/supabase-js";
 import { createClient } from "@/app/lib/supabase/client";
-import type { MunoEvent } from "@/app/lib/events";
 import { formatEventDate } from "@/app/lib/events";
+
+type MyEventEntry = {
+  event_id: string;
+  event_name: string | null;
+  event_start_at: string | null;
+  event_address: string | null;
+  event_url: string | null;
+};
 
 type Attendee = { user_id: string; display_name: string };
 type ConnectionRow = { event_id: string; user_id: string; other_user_id: string };
 
-export default function MyEvents({ events }: { events: MunoEvent[] }) {
+export default function MyEvents() {
   const supabase = useMemo(() => createClient(), []);
   const [user, setUser] = useState<User | null>(null);
   const [loaded, setLoaded] = useState(false);
-  const [myEventIds, setMyEventIds] = useState<Set<string>>(new Set());
+  const [myEvents, setMyEvents] = useState<MyEventEntry[]>([]);
   const [attendeesByEvent, setAttendeesByEvent] = useState<Map<string, Attendee[]>>(new Map());
   const [connections, setConnections] = useState<ConnectionRow[]>([]);
 
@@ -29,20 +36,23 @@ export default function MyEvents({ events }: { events: MunoEvent[] }) {
   const load = useCallback(async () => {
     if (!user) return;
 
-    const { data: mine, error: mineError } = await supabase.from("rsvps").select("event_id").eq("user_id", user.id);
+    const { data: mine, error: mineError } = await supabase
+      .from("rsvps")
+      .select("event_id, event_name, event_start_at, event_address, event_url")
+      .eq("user_id", user.id);
     if (mineError) {
       alert(`Error cargando tus eventos: ${mineError.message}`);
       return;
     }
-    const ids = new Set((mine ?? []).map((r) => r.event_id));
-    setMyEventIds(ids);
+    setMyEvents(mine ?? []);
 
-    if (ids.size === 0) return;
+    const ids = (mine ?? []).map((r) => r.event_id);
+    if (ids.length === 0) return;
 
     const { data: allRows, error: allError } = await supabase
       .from("rsvps")
       .select("event_id, user_id, profiles(display_name, show_name)")
-      .in("event_id", Array.from(ids));
+      .in("event_id", ids);
     if (allError) {
       alert(`Error cargando asistentes: ${allError.message}`);
       return;
@@ -64,7 +74,7 @@ export default function MyEvents({ events }: { events: MunoEvent[] }) {
     const { data: conns, error: connError } = await supabase
       .from("connections")
       .select("event_id, user_id, other_user_id")
-      .in("event_id", Array.from(ids));
+      .in("event_id", ids);
     if (connError) {
       alert(`Error cargando conexiones: ${connError.message}`);
       return;
@@ -106,13 +116,12 @@ export default function MyEvents({ events }: { events: MunoEvent[] }) {
     );
   }
 
-  const myEvents = events.filter((e) => myEventIds.has(e.id));
   const now = new Date();
-  const upcoming = myEvents.filter((e) => !e.start_at || new Date(e.start_at) >= now);
-  const past = myEvents.filter((e) => e.start_at && new Date(e.start_at) < now);
+  const upcoming = myEvents.filter((e) => !e.event_start_at || new Date(e.event_start_at) >= now);
+  const past = myEvents.filter((e) => e.event_start_at && new Date(e.event_start_at) < now);
 
   if (myEvents.length === 0) {
-    return <p className="text-sm text-muted">Todavía no has marcado "voy" en ningún evento.</p>;
+    return <p className="text-sm text-muted">Todavía no has marcado &quot;voy&quot; en ningún evento.</p>;
   }
 
   return (
@@ -122,13 +131,19 @@ export default function MyEvents({ events }: { events: MunoEvent[] }) {
           <h2 className="font-display text-2xl italic text-muted">Próximos</h2>
           <div className="mt-4 flex flex-col">
             {upcoming.map((event) => (
-              <div key={event.id} className="border-b border-line py-4">
-                <div className="font-body text-lg font-semibold">{event.name}</div>
+              <a
+                key={event.event_id}
+                href={event.event_url ? `/ir/${encodeURIComponent(event.event_id)}` : "#"}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="block border-b border-line py-4 hover:underline"
+              >
+                <div className="font-body text-lg font-semibold">{event.event_name}</div>
                 <div className="text-sm text-muted">
-                  {event.start_at && formatWhen(event.start_at)}
-                  {event.address && ` · ${event.address}`}
+                  {event.event_start_at && formatWhen(event.event_start_at)}
+                  {event.event_address && ` · ${event.event_address}`}
                 </div>
-              </div>
+              </a>
             ))}
           </div>
         </section>
@@ -139,23 +154,27 @@ export default function MyEvents({ events }: { events: MunoEvent[] }) {
           <h2 className="font-display text-2xl italic text-muted">Pasados</h2>
           <div className="mt-4 flex flex-col gap-8">
             {past.map((event) => {
-              const attendees = attendeesByEvent.get(event.id) ?? [];
+              const attendees = attendeesByEvent.get(event.event_id) ?? [];
               const myOutgoing = new Set(
-                connections.filter((c) => c.event_id === event.id && c.user_id === user.id).map((c) => c.other_user_id)
+                connections
+                  .filter((c) => c.event_id === event.event_id && c.user_id === user.id)
+                  .map((c) => c.other_user_id)
               );
               const myIncoming = new Set(
-                connections.filter((c) => c.event_id === event.id && c.other_user_id === user.id).map((c) => c.user_id)
+                connections
+                  .filter((c) => c.event_id === event.event_id && c.other_user_id === user.id)
+                  .map((c) => c.user_id)
               );
 
               return (
-                <div key={event.id} className="border-b border-line pb-8">
-                  <div className="font-body text-lg font-semibold">{event.name}</div>
-                  <div className="text-sm text-muted">{event.start_at && formatWhen(event.start_at)}</div>
+                <div key={event.event_id} className="border-b border-line pb-8">
+                  <div className="font-body text-lg font-semibold">{event.event_name}</div>
+                  <div className="text-sm text-muted">
+                    {event.event_start_at && formatWhen(event.event_start_at)}
+                  </div>
 
                   {attendees.length === 0 ? (
-                    <p className="mt-3 text-xs text-muted">
-                      Nadie más que mostrara su nombre marcó "voy" aquí.
-                    </p>
+                    <p className="mt-3 text-xs text-muted">Nadie más que mostrara su nombre marcó &quot;voy&quot; aquí.</p>
                   ) : (
                     <div className="mt-3 flex flex-col gap-2">
                       <p className="text-xs uppercase tracking-wider text-muted">¿Con quién coincidiste?</p>
@@ -178,7 +197,7 @@ export default function MyEvents({ events }: { events: MunoEvent[] }) {
                               <span className="text-[11px] uppercase tracking-wider text-muted">Pendiente de confirmar</span>
                             ) : (
                               <button
-                                onClick={() => markConnection(event.id, person.user_id)}
+                                onClick={() => markConnection(event.event_id, person.user_id)}
                                 className="border border-line px-2.5 py-1 text-[11px] uppercase tracking-wider text-muted hover:border-foreground hover:text-foreground"
                               >
                                 Marcar que coincidimos

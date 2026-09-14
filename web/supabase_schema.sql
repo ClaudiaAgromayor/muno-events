@@ -35,14 +35,23 @@ create trigger on_auth_user_created
   for each row execute procedure public.handle_new_user();
 
 -- Quien marca "voy" a un evento. event_id es el id que ya usamos en el pipeline
--- (ej. "luma:evt-xxx"), no hace falta duplicar los datos del evento aqui.
--- user_id referencia profiles(id), no auth.users(id): asi Supabase puede resolver el
--- join "rsvps -> profiles" para traer el nombre en la misma consulta (profiles.id ya
--- esta enlazado con auth.users, asi que la cadena de integridad no se pierde).
+-- (ej. "luma:evt-xxx"). user_id referencia profiles(id), no auth.users(id): asi
+-- Supabase puede resolver el join "rsvps -> profiles" para traer el nombre en la misma
+-- consulta (profiles.id ya esta enlazado con auth.users, la integridad no se pierde).
+--
+-- event_name/event_start_at/event_address/event_url son una COPIA de los datos del
+-- evento en el momento de marcar "voy" -- el pipeline de scraping solo guarda eventos
+-- futuros, asi que en cuanto un evento pasa desaparece de data/processed/events.json.
+-- Sin esta copia, "Mis eventos" no podria mostrar nada de los eventos pasados a los
+-- que fuiste, porque ya no quedaria ningun rastro de como se llamaban.
 create table public.rsvps (
   id uuid primary key default gen_random_uuid(),
   event_id text not null,
   user_id uuid not null references public.profiles(id) on delete cascade,
+  event_name text,
+  event_start_at text,
+  event_address text,
+  event_url text,
   created_at timestamptz not null default now(),
   unique (event_id, user_id)
 );

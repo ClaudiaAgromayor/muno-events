@@ -118,6 +118,11 @@ export default function EventList({ events }: { events: MunoEvent[] }) {
       alert(`Error marcando "vamos" para el grupo: ${error.message}`);
       return;
     }
+    // rsvp_group no dice cuantas filas nuevas creo (usa "on conflict do nothing"), asi
+    // que sin este aviso no hay forma de saber si la accion hizo algo quien la pulsa --
+    // sobre todo si ya estabas apuntada tu sola, como en el caso mas comun de prueba.
+    const groupName = myGroups.find((g) => g.id === groupId)?.name ?? "el grupo";
+    alert(`Hecho: "${groupName}" marcado en este evento (los que ya estaban apuntados no cambian).`);
     loadRsvps();
   };
 

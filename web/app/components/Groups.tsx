@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useMemo, useState } from "react";
 import type { User } from "@supabase/supabase-js";
 import { createClient } from "@/app/lib/supabase/client";
+import { formatEventDate } from "@/app/lib/events";
 
 type Group = {
   id: string;
@@ -13,12 +14,21 @@ type Group = {
 
 type Member = { user_id: string; display_name: string | null };
 
+type GroupEvent = {
+  event_id: string;
+  event_name: string | null;
+  event_start_at: string | null;
+  event_url: string | null;
+  goingCount: number;
+};
+
 export default function Groups() {
   const supabase = useMemo(() => createClient(), []);
   const [user, setUser] = useState<User | null>(null);
   const [loaded, setLoaded] = useState(false);
   const [groups, setGroups] = useState<Group[]>([]);
   const [membersByGroup, setMembersByGroup] = useState<Map<string, Member[]>>(new Map());
+  const [eventsByGroup, setEventsByGroup] = useState<Map<string, GroupEvent[]>>(new Map());
   const [newName, setNewName] = useState("");
   const [copiedId, setCopiedId] = useState<string | null>(null);
 
@@ -60,6 +70,47 @@ export default function Groups() {
       map.set(row.group_id, list);
     }
     setMembersByGroup(map);
+
+    const allMemberIds = Array.from(new Set((members ?? []).map((m) => (m as { user_id: string }).user_id)));
+    const { data: rsvpRows, error: rsvpError } = await supabase
+      .from("rsvps")
+      .select("user_id, event_id, event_name, event_start_at, event_url")
+      .in("user_id", allMemberIds);
+    if (rsvpError) {
+      alert(`Error cargando la agenda del grupo: ${rsvpError.message}`);
+      return;
+    }
+    const eventsMap = new Map<string, GroupEvent[]>();
+    for (const [groupId, groupMembers] of map.entries()) {
+      const memberIds = new Set(groupMembers.map((m) => m.user_id));
+      const byEvent = new Map<string, GroupEvent>();
+      for (const row of (rsvpRows ?? []) as {
+        user_id: string;
+        event_id: string;
+        event_name: string | null;
+        event_start_at: string | null;
+        event_url: string | null;
+      }[]) {
+        if (!memberIds.has(row.user_id)) continue;
+        const existing = byEvent.get(row.event_id);
+        if (existing) {
+          existing.goingCount += 1;
+        } else {
+          byEvent.set(row.event_id, {
+            event_id: row.event_id,
+            event_name: row.event_name,
+            event_start_at: row.event_start_at,
+            event_url: row.event_url,
+            goingCount: 1,
+          });
+        }
+      }
+      eventsMap.set(
+        groupId,
+        Array.from(byEvent.values()).sort((a, b) => (a.event_start_at ?? "").localeCompare(b.event_start_at ?? ""))
+      );
+    }
+    setEventsByGroup(eventsMap);
   }, [supabase, user]);
 
   useEffect(() => {
@@ -138,6 +189,7 @@ export default function Groups() {
         <div className="flex flex-col gap-6">
           {groups.map((group) => {
             const members = membersByGroup.get(group.id) ?? [];
+            const groupEvents = eventsByGroup.get(group.id) ?? [];
             return (
               <div key={group.id} className="border-b border-line pb-6">
                 <div className="flex items-center justify-between">
@@ -157,6 +209,26 @@ export default function Groups() {
                       .filter(Boolean)
                       .join(", ")}`}
                 </p>
+
+                {groupEvents.length > 0 && (
+                  <div className="mt-4 flex flex-col gap-2">
+                    <p className="text-xs uppercase tracking-wider text-muted">A dónde va el grupo</p>
+                    {groupEvents.map((ev) => (
+                      <a
+                        key={ev.event_id}
+                        href={ev.event_url ? `/ir/${encodeURIComponent(ev.event_id)}` : "#"}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="flex items-center justify-between gap-3 text-sm hover:underline"
+                      >
+                        <span>{ev.event_name}</span>
+                        <span className="flex-shrink-0 font-mono text-[11px] text-muted">
+                          {ev.event_start_at && formatWhen(ev.event_start_at)} · {ev.goingCount}/{members.length}
+                        </span>
+                      </a>
+                    ))}
+                  </div>
+                )}
               </div>
             );
           })}
@@ -164,4 +236,9 @@ export default function Groups() {
       )}
     </div>
   );
+}
+
+function formatWhen(startAt: string): string {
+  const d = formatEventDate(startAt);
+  return `${d.weekday} ${d.day} ${d.monthLabel}`;
 }

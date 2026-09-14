@@ -225,14 +225,28 @@ create policy "Creas tus propios grupos" on public.groups
 create policy "Ves los miembros de tus grupos" on public.group_members
   for select using (public.is_group_member(group_members.group_id));
 
+-- Otra vez el mismo "huevo y gallina" que is_group_member, un nivel mas adentro: para
+-- comprobar "eres el dueno" hay que consultar groups, pero la politica de SELECT de
+-- groups exige ya ser miembro -- y ese es justo el insert que todavia no ha pasado.
+-- Misma solucion, una funcion SECURITY DEFINER que salta RLS al consultar groups.
+create or replace function public.is_group_owner(p_group_id uuid)
+returns boolean
+language sql
+security definer
+set search_path = public
+as $$
+  select exists (
+    select 1 from public.groups where id = p_group_id and owner_id = auth.uid()
+  );
+$$;
+
+grant execute on function public.is_group_owner(uuid) to authenticated;
+
 -- Solo el dueno puede insertarse a si mismo como miembro directamente (justo despues
 -- de crear el grupo). Unirse por invitacion pasa por join_group() mas abajo, porque
 -- quien se une todavia no es miembro y por tanto no puede ni ver el grupo via RLS.
 create policy "El dueno se anade como miembro al crear el grupo" on public.group_members
-  for insert with check (
-    auth.uid() = user_id
-    and exists (select 1 from public.groups g where g.id = group_members.group_id and g.owner_id = auth.uid())
-  );
+  for insert with check (auth.uid() = user_id and public.is_group_owner(group_members.group_id));
 
 grant select, insert on public.groups to authenticated;
 grant select, insert on public.group_members to authenticated;

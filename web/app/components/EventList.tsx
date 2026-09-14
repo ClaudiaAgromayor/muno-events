@@ -173,21 +173,28 @@ function EventRow({
   const categories = event.extra.categories;
   const time = event.start_at ? formatEventDate(event.start_at).time : null;
 
+  // El enlace SOLO envuelve la parte que debe llevar al evento (fecha/titulo/direccion).
+  // Antes el <select> de grupos vivia dentro del <a>, y abrir un <select> nativo no se
+  // puede "cancelar" de forma fiable con preventDefault/stopPropagation -- el navegador
+  // seguia navegando. Sacar los controles fuera del enlace evita el problema de raiz en
+  // vez de parchear el evento de clic.
   return (
-    <a
-      href={event.url ? `/ir/${encodeURIComponent(event.id)}` : "#"}
-      target="_blank"
-      rel="noopener noreferrer"
-      className="group flex items-start gap-6 border-b border-line py-5 sm:gap-8"
-    >
-      <div className="w-14 flex-shrink-0 pt-1 text-sm text-muted sm:w-16">{time ?? ""}</div>
+    <div className="group flex items-start gap-6 border-b border-line py-5 sm:gap-8">
+      <a
+        href={event.url ? `/ir/${encodeURIComponent(event.id)}` : "#"}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="flex min-w-0 flex-grow gap-6 sm:gap-8"
+      >
+        <div className="w-14 flex-shrink-0 pt-1 text-sm text-muted sm:w-16">{time ?? ""}</div>
 
-      <div className="flex min-w-0 flex-grow flex-col gap-1.5">
-        <div className="font-body text-lg font-semibold group-hover:underline group-hover:decoration-1 group-hover:underline-offset-4 sm:text-xl">
-          {event.name}
+        <div className="flex min-w-0 flex-grow flex-col gap-1.5">
+          <div className="font-body text-lg font-semibold group-hover:underline group-hover:decoration-1 group-hover:underline-offset-4 sm:text-xl">
+            {event.name}
+          </div>
+          {event.address && <div className="text-sm text-muted">{event.address}</div>}
         </div>
-        {event.address && <div className="text-sm text-muted">{event.address}</div>}
-      </div>
+      </a>
 
       <div className="flex flex-shrink-0 flex-col items-end gap-2">
         {categories?.map((c) => (
@@ -211,6 +218,6 @@ function EventRow({
           onGroupRsvp={onGroupRsvp}
         />
       </div>
-    </a>
+    </div>
   );
 }

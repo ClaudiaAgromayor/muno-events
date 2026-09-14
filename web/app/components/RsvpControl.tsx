@@ -6,6 +6,8 @@ export type RsvpSummary = {
   count: number;
   names: string[];
   isGoing: boolean;
+  /** Nombres de gente que va Y esta en alguno de tus grupos -- prueba social con gente conocida. */
+  groupmates: string[];
 };
 
 type MyGroup = { id: string; name: string };
@@ -93,16 +95,42 @@ export default function RsvpControl({
       )}
 
       {summary.count > 0 && (
-        <button
-          onClick={(e) => {
-            e.preventDefault();
-            e.stopPropagation();
-            setExpanded((v) => !v);
-          }}
-          className="font-mono text-[11px] tracking-tight text-muted underline decoration-dotted underline-offset-2 hover:text-foreground"
-        >
-          {String(summary.count).padStart(2, "0")} {summary.count === 1 ? "va" : "van"}
-        </button>
+        <div className="flex items-center gap-1.5">
+          <div className="flex -space-x-1.5">
+            {summary.names.slice(0, 3).map((name, i) => (
+              <span
+                key={`${name}-${i}`}
+                style={{ zIndex: 3 - i }}
+                className="flex h-5 w-5 items-center justify-center rounded-full border border-background bg-foreground text-[10px] font-medium text-background"
+              >
+                {name.charAt(0).toUpperCase()}
+              </span>
+            ))}
+            {summary.names.length > 3 && (
+              <span className="flex h-5 w-5 items-center justify-center rounded-full border border-background bg-muted text-[9px] font-medium text-background">
+                +{summary.names.length - 3}
+              </span>
+            )}
+          </div>
+          <button
+            onClick={(e) => {
+              e.preventDefault();
+              e.stopPropagation();
+              setExpanded((v) => !v);
+            }}
+            className="font-mono text-[11px] tracking-tight text-muted underline decoration-dotted underline-offset-2 hover:text-foreground"
+          >
+            {String(summary.count).padStart(2, "0")} {summary.count === 1 ? "va" : "van"}
+          </button>
+        </div>
+      )}
+
+      {summary.groupmates.length > 0 && (
+        <div className="max-w-[180px] text-right text-[11px] font-medium text-accent">
+          {summary.groupmates.length === 1
+            ? `Va ${summary.groupmates[0]} · tu grupo`
+            : `Van ${summary.groupmates.length} de tu grupo`}
+        </div>
       )}
 
       {expanded && summary.count > 0 && (

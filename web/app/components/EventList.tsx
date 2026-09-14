@@ -8,6 +8,7 @@ import { formatEventDate, groupEventsByDay, registrationDeadlineLabel, spotsLabe
 import RsvpControl, { type RsvpSummary } from "@/app/components/RsvpControl";
 import { useToast } from "@/app/components/Toast";
 import EventMiniMapLoader from "@/app/components/EventMiniMapLoader";
+import ShareEvent from "@/app/components/ShareEvent";
 
 type RsvpRow = {
   event_id: string;
@@ -15,7 +16,7 @@ type RsvpRow = {
   profiles: { display_name: string | null; show_name: boolean } | null;
 };
 
-const EMPTY_SUMMARY: RsvpSummary = { count: 0, names: [], isGoing: false };
+const EMPTY_SUMMARY: RsvpSummary = { count: 0, names: [], isGoing: false, groupmates: [] };
 
 type MyGroup = { id: string; name: string };
 
@@ -25,6 +26,7 @@ export default function EventList({ events }: { events: MunoEvent[] }) {
   const [user, setUser] = useState<User | null>(null);
   const [rsvpRows, setRsvpRows] = useState<RsvpRow[]>([]);
   const [myGroups, setMyGroups] = useState<MyGroup[]>([]);
+  const [groupMates, setGroupMates] = useState<Map<string, string>>(new Map());
 
   useEffect(() => {
     supabase.auth.getUser().then(({ data }) => setUser(data.user));
@@ -48,6 +50,36 @@ export default function EventList({ events }: { events: MunoEvent[] }) {
         setMyGroups(groups);
       });
   }, [supabase, user]);
+
+  useEffect(() => {
+    // Companeros de grupo (de cualquiera de tus grupos, no solo uno): se usan para
+    // destacar "va alguien de tu grupo" en la fila del evento. Los nombres vienen de la
+    // politica "Ves nombres de miembros de tus grupos" (se ve siempre dentro del grupo,
+    // aunque esa persona tenga show_name desactivado de cara al publico).
+    if (!user || myGroups.length === 0) {
+      setGroupMates(new Map());
+      return;
+    }
+    supabase
+      .from("group_members")
+      .select("user_id, profiles(display_name)")
+      .in(
+        "group_id",
+        myGroups.map((g) => g.id)
+      )
+      .then(({ data }) => {
+        const map = new Map<string, string>();
+        for (const row of (data ?? []) as unknown as {
+          user_id: string;
+          profiles: { display_name: string | null } | null;
+        }[]) {
+          if (row.user_id !== user.id && row.profiles?.display_name) {
+            map.set(row.user_id, row.profiles.display_name);
+          }
+        }
+        setGroupMates(map);
+      });
+  }, [supabase, user, myGroups]);
 
   const loadRsvps = useCallback(async () => {
     // profiles(display_name, show_name) es un join -- si show_name es false para esa
@@ -84,16 +116,18 @@ export default function EventList({ events }: { events: MunoEvent[] }) {
   const summaries = useMemo(() => {
     const map = new Map<string, RsvpSummary>();
     for (const row of rsvpRows) {
-      const existing = map.get(row.event_id) ?? { count: 0, names: [], isGoing: false };
+      const existing = map.get(row.event_id) ?? { count: 0, names: [], isGoing: false, groupmates: [] };
       existing.count += 1;
       if (row.profiles?.show_name && row.profiles.display_name) {
         existing.names.push(row.profiles.display_name);
       }
       if (user && row.user_id === user.id) existing.isGoing = true;
+      const groupmateName = groupMates.get(row.user_id);
+      if (groupmateName) existing.groupmates.push(groupmateName);
       map.set(row.event_id, existing);
     }
     return map;
-  }, [rsvpRows, user]);
+  }, [rsvpRows, user, groupMates]);
 
   const toggleRsvp = async (event: MunoEvent, isGoing: boolean) => {
     if (!user) {
@@ -242,6 +276,7 @@ function EventRow({
                   {showMap ? "Ocultar mapa" : "Ver ubicación"}
                 </button>
               )}
+              <ShareEvent event={event} />
             </div>
           </div>
         </a>

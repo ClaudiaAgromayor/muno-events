@@ -8,6 +8,8 @@ export type RsvpSummary = {
   isGoing: boolean;
   /** Nombres de gente que va Y esta en alguno de tus grupos -- prueba social con gente conocida. */
   groupmates: string[];
+  /** Nombres de gente que va Y con quien ya coincidiste (match mutuo) en un evento pasado. */
+  knownFromBefore: string[];
 };
 
 type MyGroup = { id: string; name: string };
@@ -130,6 +132,14 @@ export default function RsvpControl({
           {summary.groupmates.length === 1
             ? `Va ${summary.groupmates[0]} · tu grupo`
             : `Van ${summary.groupmates.length} de tu grupo`}
+        </div>
+      )}
+
+      {summary.knownFromBefore.length > 0 && (
+        <div className="max-w-[180px] text-right text-[11px] font-medium text-ok">
+          {summary.knownFromBefore.length === 1
+            ? `Va ${summary.knownFromBefore[0]} · coincidisteis antes`
+            : `Van ${summary.knownFromBefore.length} con quien coincidiste antes`}
         </div>
       )}
 

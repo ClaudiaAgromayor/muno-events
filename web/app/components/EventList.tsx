@@ -16,7 +16,7 @@ type RsvpRow = {
   profiles: { display_name: string | null; show_name: boolean } | null;
 };
 
-const EMPTY_SUMMARY: RsvpSummary = { count: 0, names: [], isGoing: false, groupmates: [] };
+const EMPTY_SUMMARY: RsvpSummary = { count: 0, names: [], isGoing: false, groupmates: [], knownFromBefore: [] };
 
 type MyGroup = { id: string; name: string };
 
@@ -27,6 +27,7 @@ export default function EventList({ events }: { events: MunoEvent[] }) {
   const [rsvpRows, setRsvpRows] = useState<RsvpRow[]>([]);
   const [myGroups, setMyGroups] = useState<MyGroup[]>([]);
   const [groupMates, setGroupMates] = useState<Map<string, string>>(new Map());
+  const [mutualConnections, setMutualConnections] = useState<Set<string>>(new Set());
 
   useEffect(() => {
     supabase.auth.getUser().then(({ data }) => setUser(data.user));
@@ -81,6 +82,34 @@ export default function EventList({ events }: { events: MunoEvent[] }) {
       });
   }, [supabase, user, myGroups]);
 
+  useEffect(() => {
+    // "Tambien va alguien con quien coincidiste antes": reutiliza el match mutuo de
+    // "Mis eventos" > Pasados (las dos partes tuvieron que marcar "coincidimos" para el
+    // mismo evento pasado), pero aqui cruzado contra TODOS los eventos futuros, no solo
+    // aquel en el que os conocisteis. RLS de "connections" ya limita esta consulta a las
+    // filas en las que participas, no hace falta filtrar por usuario aqui.
+    if (!user) {
+      setMutualConnections(new Set());
+      return;
+    }
+    supabase
+      .from("connections")
+      .select("event_id, user_id, other_user_id")
+      .then(({ data }) => {
+        const rows = (data ?? []) as { event_id: string; user_id: string; other_user_id: string }[];
+        const outgoingKeys = new Set(
+          rows.filter((r) => r.user_id === user.id).map((r) => `${r.event_id}:${r.other_user_id}`)
+        );
+        const mutual = new Set<string>();
+        for (const r of rows) {
+          if (r.other_user_id === user.id && outgoingKeys.has(`${r.event_id}:${r.user_id}`)) {
+            mutual.add(r.user_id);
+          }
+        }
+        setMutualConnections(mutual);
+      });
+  }, [supabase, user]);
+
   const loadRsvps = useCallback(async () => {
     // profiles(display_name, show_name) es un join -- si show_name es false para esa
     // fila y no es tu propio usuario, la RLS de "profiles" hace que venga null aqui,
@@ -116,10 +145,11 @@ export default function EventList({ events }: { events: MunoEvent[] }) {
   const summaries = useMemo(() => {
     const map = new Map<string, RsvpSummary>();
     for (const row of rsvpRows) {
-      const existing = map.get(row.event_id) ?? { count: 0, names: [], isGoing: false, groupmates: [] };
+      const existing = map.get(row.event_id) ?? { count: 0, names: [], isGoing: false, groupmates: [], knownFromBefore: [] };
       existing.count += 1;
       if (row.profiles?.show_name && row.profiles.display_name) {
         existing.names.push(row.profiles.display_name);
+        if (mutualConnections.has(row.user_id)) existing.knownFromBefore.push(row.profiles.display_name);
       }
       if (user && row.user_id === user.id) existing.isGoing = true;
       const groupmateName = groupMates.get(row.user_id);
@@ -127,7 +157,7 @@ export default function EventList({ events }: { events: MunoEvent[] }) {
       map.set(row.event_id, existing);
     }
     return map;
-  }, [rsvpRows, user, groupMates]);
+  }, [rsvpRows, user, groupMates, mutualConnections]);
 
   const toggleRsvp = async (event: MunoEvent, isGoing: boolean) => {
     if (!user) {

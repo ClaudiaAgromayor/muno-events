@@ -22,8 +22,8 @@ export default function EventMiniMap({ lat, lng }: { lat: number; lng: number })
       center={[lat, lng]}
       zoom={15}
       scrollWheelZoom={false}
-      dragging={false}
-      zoomControl={false}
+      dragging={true}
+      zoomControl={true}
       style={{ height: "160px", width: "100%" }}
     >
       <TileLayer

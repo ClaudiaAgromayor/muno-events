@@ -25,13 +25,7 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "luma:evt-7BhPBkQDwbUIgjC",
@@ -53,19 +47,13 @@
       ],
       "is_free": true,
       "guest_count": 0,
-      "sold_out": true,
+      "sold_out": false,
       "waitlist_active": false
     },
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "principiante",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "luma:evt-IdxgSQa7FCJQK66",
@@ -93,13 +81,7 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "luma:evt-f8aWVrUa03CilAr",
@@ -127,13 +109,7 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "intermedio",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "luma:evt-4CyxQ9e8PYIlEAk",
@@ -161,13 +137,35 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
+  },
+  {
+    "id": "luma:evt-nwJahx4qrbVlEMN",
+    "source": "luma",
+    "source_id": "evt-nwJahx4qrbVlEMN",
+    "name": "The Final Pitch: baby vc Madrid Meetup",
+    "description": "Tick-tock... The baby vc bootcamp applications are almost closing! ⏳ apply here\nJoin us on Thursday, September 17th, for an exclusive, laid-back evening with the baby vc Madrid organizers and alumni.\nWhether you’re still polishing your application or you’ve already hit \"submit\", this is the perfect chance to connect with the local venture capital ecosystem over some cañas and good conversation.\nWhy should you join us?\nStill finishing your application? Get your last-minute questions answered directly by people who have been through the bootcamp. Find out exactly what the 10-week fellowship is like and what we look for in candidates.\n\nAlready applied? Amazing! Come meet the team face-to-face and show us your passion for VC. We love seeing our applicants go the extra mile to engage with the community, consider this a great way to stand out!\n\nWant to build your network? Meet like-minded peers who are also navigating their way into the venture capital world.\n\nJust bring yourself and whatever questions are on your mind!\nAbout baby vc: baby vc is a free 10-week fellowship designed to help driven individuals from all backgrounds break into venture capital.\nReminder: Applications for the upcoming bootcamp close September 21. Don't miss your chance!",
+    "start_at": "2026-09-17T17:30:00.000Z",
+    "end_at": "2026-09-17T19:30:00.000Z",
+    "url": "https://lu.ma/hltkmgc4",
+    "city": "Madrid",
+    "address": "Justicia",
+    "organizer": "Personal",
+    "lat": 40.42486032568642,
+    "lng": -3.69474995742306,
+    "extra": {
+      "categories": [
+        "Tech"
+      ],
+      "is_free": true,
+      "guest_count": 53,
+      "sold_out": false,
+      "waitlist_active": false
+    },
+    "found_on_platforms": [
+      "luma"
+    ],
+    "duplicate_ids": []
   },
   {
     "id": "luma:evt-d0oxiWOhHGeMQv8",
@@ -195,13 +193,7 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "luma:evt-9vTrr960qGUwFgG",
@@ -229,13 +221,7 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "luma:evt-VgbazrqX9Ef4PBv",
@@ -264,8 +250,7 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": [],
-    "enrichment": null
+    "duplicate_ids": []
   },
   {
     "id": "luma:evt-1JvWiMDTEj9lY89",
@@ -293,47 +278,7 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "en",
-      "comida_gratis": "si",
-      "se_graba": "no_especificado"
-    }
-  },
-  {
-    "id": "luma:evt-w0TeDPIBFDGUvbJ",
-    "source": "luma",
-    "source_id": "evt-w0TeDPIBFDGUvbJ",
-    "name": "FredCon'26 by Google Cloud",
-    "description": "La FredCon es la conferencia de liderazgo técnico y gestión de equipos técnicos de Manfred para la Comunidad. Un espacio para aprender y compartir. Desde cómo crear un plan de equilibrio salarial a mejorar en la gestión de personas. Una conferencia pensada para que técnicos y recursos humanos se entiendan mejor. Este no es un evento de negocios. Es un evento de Comunidad. De compartir. De aprender.  Las relaciones que se crean en la FredCon no se miden en leads o aplicaciones a ofertas de empleo. Se mide en estar y formar parte o no estar.",
-    "start_at": "2026-09-24T07:30:00.000Z",
-    "end_at": "2026-09-24T17:00:00.000Z",
-    "url": "https://lu.ma/4vot95mb",
-    "city": "Madrid",
-    "address": "Espacio Rastro Madrid",
-    "organizer": "Personal",
-    "lat": 40.4090771,
-    "lng": -3.7068435999999996,
-    "extra": {
-      "categories": [
-        "Tech"
-      ],
-      "is_free": true,
-      "guest_count": 0,
-      "sold_out": false,
-      "waitlist_active": false
-    },
-    "found_on_platforms": [
-      "luma"
-    ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "luma:evt-x62zPTK7EILE9XK",
@@ -361,13 +306,7 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "en",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:316442332",
@@ -391,13 +330,7 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:316482502",
@@ -421,13 +354,7 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:316153101",
@@ -451,13 +378,7 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:316468176",
@@ -481,13 +402,7 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "principiante",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:316470797",
@@ -511,13 +426,7 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:316511396",
@@ -541,13 +450,7 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:315789520",
@@ -571,45 +474,7 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "si"
-    }
-  },
-  {
-    "id": "meetup:316482240",
-    "source": "meetup",
-    "source_id": "316482240",
-    "name": "#CodeMeet Madrid: ¿Quién controla a los agentes?",
-    "description": "**CodeMeet Madrid: ¿Quién controla a los agentes?** *De ahorrar tokens a construir MCPs: la ingeniería detrás de la IA que actúa.*\nLa IA ha dejado de ser un simple chatbot para convertirse en un actor que ejecuta, conecta herramientas y toma decisiones en nuestros sistemas. Pero a mayor autonomía, mayores son los retos: **¿Cómo los hacemos eficientes sin disparar la factura? ¿Cómo los integramos en producción? Y sobre todo, ¿cómo mantenemos el control?**\nJunto a la comunidad de **Arcasiles**, analizaremos la ingeniería tras los sistemas *agentic* desde tres ángulos clave: eficiencia, infraestructura y seguridad.\n\n💡 **Lo que vas a descubrir**\n\n* **Optimización de contexto:** Pruning, *Progressive Disclosure* y *Prompt Caching* para reducir el consumo de tokens sin perder calidad.\n* **MCPs en el mundo real:** Arquitectura, observabilidad y conexión de LLMs con sistemas corporativos más allá de la demo.\n* **Gobernanza y seguridad:** Técnicas para auditar y controlar agentes autónomos con acceso a herramientas críticas.\n\n🎤 **Ponencias y Speakers**\n\n* **De Cajas Negras a Facturas Infladas: Ingeniería de Contexto y Agentes** **Manuel Fernández** \\| *Software Engineer @ Thoughtworks* Cómo aplicar *model routing*, subagentes y técnicas avanzadas para optimizar el contexto y evitar que el uso de IA en tus pipelines se traduzca en costos desmedidos.\n* **Anatomía de un MCP: Construyendo la capa de IA de una organización** **Raúl López Caña** \\| *Fullstack Engineer @ Galp* Análisis técnico de un Protocolo de Contexto de Modelo (MCP) real: su arquitectura, herramientas, observabilidad e integración profunda en un ecosistema de productos.\n* **¿Quién controla a los agentes? Seguridad y gobernanza en la era de la IA** **Osmani Redondo** \\| *Especialista en Seguridad e IA* A medida que la IA gana autonomía, la seguridad pasa a ser la piedra angular de la arquitectura. Descubre cómo mantener bajo control a los agentes más capaces.\n\n🎯 **¿Para quién es este meetup?**\nDiseñado para **desarrolladores, arquitectos de software, Tech Leads y DevOps** que ya usan IA en su día a día o están explorando cómo llevar sistemas basados en MCP y agentes a producción. *No necesitas ser un experto en agentes, solo tener curiosidad por ver qué pasa cuando la IA empieza a actuar.*\n\n🗓️ **Agenda del evento**\n**18:30 — Check-in**\n**18:45 — Bienvenida y presentación de comunidades**\n**18:50 — De Cajas Negras a Facturas Infladas: Ingeniería de Contexto y Agentes para ahorrar Tokens al programar con IA**\nManuel Fernández\n**19:20 — Anatomía de un MCP: construyendo la capa de IA de una organización**\nRaúl López Caña\n**19:50 — ¿Quién controla a los agentes? Seguridad y gobernanza en la era de la IA**\nOsmani Redondo\n**20:20 — Cierre**\n**20:25 — Networking 🍻**\n\n**[RESERVA TU ENTRADA AQUÍ](https://docs.google.com/forms/d/e/1FAIpQLSfB26vM6eZI9U1y0aknB0Wmxzml54WxzLRkrGsiK3iv03Mozw/closedform)**",
-    "start_at": "2026-09-17T18:30:00+02:00",
-    "end_at": null,
-    "url": "https://www.meetup.com/celonis-tech-meetups-madrid/events/316482240/",
-    "city": "Madrid",
-    "address": "Pl. de Manuel Gómez-Moreno, 2",
-    "organizer": "Celonis Tech Meetups Madrid",
-    "lat": 40.4485287,
-    "lng": -3.6940143,
-    "extra": {
-      "attendees": 1,
-      "max_tickets": 0,
-      "spots_left": null
-    },
-    "found_on_platforms": [
-      "meetup"
-    ],
-    "duplicate_ids": [
-      "meetup:316300285"
-    ],
-    "enrichment": {
-      "nivel": "intermedio",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:316482252",
@@ -635,8 +500,33 @@
     ],
     "duplicate_ids": [
       "meetup:316152297"
+    ]
+  },
+  {
+    "id": "meetup:316482240",
+    "source": "meetup",
+    "source_id": "316482240",
+    "name": "#CodeMeet Madrid: ¿Quién controla a los agentes?",
+    "description": "**CodeMeet Madrid: ¿Quién controla a los agentes?** *De ahorrar tokens a construir MCPs: la ingeniería detrás de la IA que actúa.*\nLa IA ha dejado de ser un simple chatbot para convertirse en un actor que ejecuta, conecta herramientas y toma decisiones en nuestros sistemas. Pero a mayor autonomía, mayores son los retos: **¿Cómo los hacemos eficientes sin disparar la factura? ¿Cómo los integramos en producción? Y sobre todo, ¿cómo mantenemos el control?**\nJunto a la comunidad de **Arcasiles**, analizaremos la ingeniería tras los sistemas *agentic* desde tres ángulos clave: eficiencia, infraestructura y seguridad.\n\n💡 **Lo que vas a descubrir**\n\n* **Optimización de contexto:** Pruning, *Progressive Disclosure* y *Prompt Caching* para reducir el consumo de tokens sin perder calidad.\n* **MCPs en el mundo real:** Arquitectura, observabilidad y conexión de LLMs con sistemas corporativos más allá de la demo.\n* **Gobernanza y seguridad:** Técnicas para auditar y controlar agentes autónomos con acceso a herramientas críticas.\n\n🎤 **Ponencias y Speakers**\n\n* **De Cajas Negras a Facturas Infladas: Ingeniería de Contexto y Agentes** **Manuel Fernández** \\| *Software Engineer @ Thoughtworks* Cómo aplicar *model routing*, subagentes y técnicas avanzadas para optimizar el contexto y evitar que el uso de IA en tus pipelines se traduzca en costos desmedidos.\n* **Anatomía de un MCP: Construyendo la capa de IA de una organización** **Raúl López Caña** \\| *Fullstack Engineer @ Galp* Análisis técnico de un Protocolo de Contexto de Modelo (MCP) real: su arquitectura, herramientas, observabilidad e integración profunda en un ecosistema de productos.\n* **¿Quién controla a los agentes? Seguridad y gobernanza en la era de la IA** **Osmani Redondo** \\| *Especialista en Seguridad e IA* A medida que la IA gana autonomía, la seguridad pasa a ser la piedra angular de la arquitectura. Descubre cómo mantener bajo control a los agentes más capaces.\n\n🎯 **¿Para quién es este meetup?**\nDiseñado para **desarrolladores, arquitectos de software, Tech Leads y DevOps** que ya usan IA en su día a día o están explorando cómo llevar sistemas basados en MCP y agentes a producción. *No necesitas ser un experto en agentes, solo tener curiosidad por ver qué pasa cuando la IA empieza a actuar.*\n\n🗓️ **Agenda del evento**\n**18:30 — Check-in**\n**18:45 — Bienvenida y presentación de comunidades**\n**18:50 — De Cajas Negras a Facturas Infladas: Ingeniería de Contexto y Agentes para ahorrar Tokens al programar con IA**\nManuel Fernández\n**19:20 — Anatomía de un MCP: construyendo la capa de IA de una organización**\nRaúl López Caña\n**19:50 — ¿Quién controla a los agentes? Seguridad y gobernanza en la era de la IA**\nOsmani Redondo\n**20:20 — Cierre**\n**20:25 — Networking 🍻**\n\n**[RESERVA TU ENTRADA AQUÍ](https://docs.google.com/forms/d/e/1FAIpQLSfB26vM6eZI9U1y0aknB0Wmxzml54WxzLRkrGsiK3iv03Mozw/closedform)**",
+    "start_at": "2026-09-17T18:30:00+02:00",
+    "end_at": null,
+    "url": "https://www.meetup.com/celonis-tech-meetups-madrid/events/316482240/",
+    "city": "Madrid",
+    "address": "Pl. de Manuel Gómez-Moreno, 2",
+    "organizer": "Celonis Tech Meetups Madrid",
+    "lat": 40.4485287,
+    "lng": -3.6940143,
+    "extra": {
+      "attendees": 1,
+      "max_tickets": 0,
+      "spots_left": null
+    },
+    "found_on_platforms": [
+      "meetup"
     ],
-    "enrichment": null
+    "duplicate_ids": [
+      "meetup:316300285"
+    ]
   },
   {
     "id": "meetup:316450466",
@@ -660,13 +550,7 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "principiante",
-      "idioma": "en",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:316210308",
@@ -690,13 +574,7 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "intermedio",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:316446627",
@@ -713,20 +591,14 @@
     "lat": 40.4490059,
     "lng": -3.6708446,
     "extra": {
-      "attendees": 49,
+      "attendees": 52,
       "max_tickets": 80,
-      "spots_left": 31
+      "spots_left": 28
     },
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "principiante",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:316404047",
@@ -750,13 +622,7 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "en",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:315675863",
@@ -780,13 +646,7 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:316486466",
@@ -813,13 +673,7 @@
     ],
     "duplicate_ids": [
       "eventbrite:2000269590190"
-    ],
-    "enrichment": {
-      "nivel": "intermedio",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    ]
   },
   {
     "id": "meetup:311781960",
@@ -843,13 +697,7 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:316382510",
@@ -866,20 +714,14 @@
     "lat": -31.4124189,
     "lng": -64.1505784,
     "extra": {
-      "attendees": 26,
+      "attendees": 25,
       "max_tickets": 90,
-      "spots_left": 64
+      "spots_left": 65
     },
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "intermedio",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:316484729",
@@ -903,13 +745,7 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:316328092",
@@ -933,13 +769,7 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1988983807109",
@@ -961,13 +791,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1991763208373",
@@ -989,13 +813,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "intermedio",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:2000043433750",
@@ -1017,13 +835,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1998647546614",
@@ -1045,13 +857,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1987855264608",
@@ -1073,13 +879,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1984035318045",
@@ -1101,13 +901,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1995465432826",
@@ -1129,13 +923,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1998205079182",
@@ -1157,13 +945,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:2000391455693",
@@ -1185,13 +967,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1993542268590",
@@ -1213,13 +989,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1980045387054",
@@ -1241,13 +1011,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1993527994897",
@@ -1269,13 +1033,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1987855279653",
@@ -1297,8 +1055,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": null
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1985907372410",
@@ -1320,13 +1077,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1991778548255",
@@ -1348,13 +1099,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1975223769466",
@@ -1376,13 +1121,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1992757733023",
@@ -1404,13 +1143,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:2000172225971",
@@ -1432,13 +1165,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1999782672807",
@@ -1460,13 +1187,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1994240556187",
@@ -1488,13 +1209,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "principiante",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1989175716114",
@@ -1516,13 +1231,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1995455172136",
@@ -1544,13 +1253,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1995435273619",
@@ -1572,13 +1275,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1995449445006",
@@ -1600,13 +1297,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1987855416061",
@@ -1628,13 +1319,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "principiante",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1992651474200",
@@ -1656,13 +1341,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1998630931919",
@@ -1684,13 +1363,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "manual:12-9-2026_160344",
@@ -1710,12 +1383,6 @@
     "found_on_platforms": [
       "manual"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "si",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   }
 ]

@@ -49,7 +49,7 @@
       "AI"
     ],
     "guest_count": 0,
-    "sold_out": true,
+    "sold_out": false,
     "waitlist_active": false,
     "lat": 40.435848299999996,
     "lng": -3.7014762
@@ -135,6 +135,33 @@
     "waitlist_active": false,
     "lat": 40.425734109115254,
     "lng": -3.699198857205722
+  },
+  {
+    "source": "luma",
+    "source_slug": "madrid",
+    "source_id": "evt-nwJahx4qrbVlEMN",
+    "name": "The Final Pitch: baby vc Madrid Meetup",
+    "start_at": "2026-09-17T17:30:00.000Z",
+    "end_at": "2026-09-17T19:30:00.000Z",
+    "timezone": "Europe/Madrid",
+    "url": "https://lu.ma/hltkmgc4",
+    "city": "Madrid",
+    "address": "Justicia",
+    "organizer": "Personal",
+    "is_free": true,
+    "cover_image": "https://images.lumacdn.com/uploads/1f/8d670e06-a88a-452b-b890-cd59491e9a56.png",
+    "found_in": [
+      "madrid"
+    ],
+    "description": "Tick-tock... The baby vc bootcamp applications are almost closing! ⏳ apply here\nJoin us on Thursday, September 17th, for an exclusive, laid-back evening with the baby vc Madrid organizers and alumni.\nWhether you’re still polishing your application or you’ve already hit \"submit\", this is the perfect chance to connect with the local venture capital ecosystem over some cañas and good conversation.\nWhy should you join us?\nStill finishing your application? Get your last-minute questions answered directly by people who have been through the bootcamp. Find out exactly what the 10-week fellowship is like and what we look for in candidates.\n\nAlready applied? Amazing! Come meet the team face-to-face and show us your passion for VC. We love seeing our applicants go the extra mile to engage with the community, consider this a great way to stand out!\n\nWant to build your network? Meet like-minded peers who are also navigating their way into the venture capital world.\n\nJust bring yourself and whatever questions are on your mind!\nAbout baby vc: baby vc is a free 10-week fellowship designed to help driven individuals from all backgrounds break into venture capital.\nReminder: Applications for the upcoming bootcamp close September 21. Don't miss your chance!",
+    "categories": [
+      "Tech"
+    ],
+    "guest_count": 53,
+    "sold_out": false,
+    "waitlist_active": false,
+    "lat": 40.42486032568642,
+    "lng": -3.69474995742306
   },
   {
     "source": "luma",
@@ -245,33 +272,6 @@
     "waitlist_active": false,
     "lat": 40.45623344565284,
     "lng": -3.6870295799477137
-  },
-  {
-    "source": "luma",
-    "source_slug": "madrid",
-    "source_id": "evt-w0TeDPIBFDGUvbJ",
-    "name": "FredCon'26 by Google Cloud",
-    "start_at": "2026-09-24T07:30:00.000Z",
-    "end_at": "2026-09-24T17:00:00.000Z",
-    "timezone": "Europe/Madrid",
-    "url": "https://lu.ma/4vot95mb",
-    "city": "Madrid",
-    "address": "Espacio Rastro Madrid",
-    "organizer": "Personal",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/km/ee74adc9-bac6-4359-86ed-fd3026182648.png",
-    "found_in": [
-      "madrid"
-    ],
-    "description": "La FredCon es la conferencia de liderazgo técnico y gestión de equipos técnicos de Manfred para la Comunidad. Un espacio para aprender y compartir. Desde cómo crear un plan de equilibrio salarial a mejorar en la gestión de personas. Una conferencia pensada para que técnicos y recursos humanos se entiendan mejor. Este no es un evento de negocios. Es un evento de Comunidad. De compartir. De aprender.  Las relaciones que se crean en la FredCon no se miden en leads o aplicaciones a ofertas de empleo. Se mide en estar y formar parte o no estar.",
-    "categories": [
-      "Tech"
-    ],
-    "guest_count": 0,
-    "sold_out": false,
-    "waitlist_active": false,
-    "lat": 40.4090771,
-    "lng": -3.7068435999999996
   },
   {
     "source": "luma",

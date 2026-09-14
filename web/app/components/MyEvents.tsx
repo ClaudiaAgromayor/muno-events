@@ -91,15 +91,19 @@ export default function MyEvents() {
 
   const markConnection = async (eventId: string, otherUserId: string) => {
     if (!user) return;
+    // Optimista: el boton cambia a "pendiente de confirmar" al instante, sin esperar
+    // la respuesta del servidor.
+    const previous = connections;
+    setConnections((prev) => [...prev, { event_id: eventId, user_id: user.id, other_user_id: otherUserId }]);
     const { error } = await supabase
       .from("connections")
       .insert({ event_id: eventId, user_id: user.id, other_user_id: otherUserId });
     if (error) {
+      setConnections(previous);
       toast.error(`Error al marcar la conexion: ${error.message}`);
       return;
     }
     toast.success("Conexión marcada");
-    load();
   };
 
   if (!loaded) return null;
@@ -125,7 +129,11 @@ export default function MyEvents() {
   const past = myEvents.filter((e) => e.event_start_at && new Date(e.event_start_at) < now);
 
   if (myEvents.length === 0) {
-    return <p className="text-sm text-muted">Todavía no has marcado &quot;voy&quot; en ningún evento.</p>;
+    return (
+      <p className="font-display text-xl italic text-muted">
+        Ni un &quot;voy&quot; todavía — la cartelera de arriba está esperando.
+      </p>
+    );
   }
 
   return (
@@ -178,7 +186,7 @@ export default function MyEvents() {
                   </div>
 
                   {attendees.length === 0 ? (
-                    <p className="mt-3 text-xs text-muted">Nadie más que mostrara su nombre marcó &quot;voy&quot; aquí.</p>
+                    <p className="mt-3 text-xs text-muted">O fuiste la única, o nadie más enseñó su nombre.</p>
                   ) : (
                     <div className="mt-3 flex flex-col gap-2">
                       <p className="text-xs uppercase tracking-wider text-muted">¿Con quién coincidiste?</p>

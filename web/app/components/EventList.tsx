@@ -64,6 +64,22 @@ export default function EventList({ events }: { events: MunoEvent[] }) {
     loadRsvps();
   }, [loadRsvps]);
 
+  useEffect(() => {
+    // Realtime: si OTRA persona marca o quita un "voy" mientras tienes la pagina
+    // abierta, el contador se actualiza solo, sin que nadie tenga que recargar.
+    // Hace falta tener activado Realtime para la tabla "rsvps" en Supabase (no viene
+    // activado por defecto: alter publication supabase_realtime add table rsvps;).
+    const channel = supabase
+      .channel("rsvps-live")
+      .on("postgres_changes", { event: "*", schema: "public", table: "rsvps" }, () => {
+        loadRsvps();
+      })
+      .subscribe();
+    return () => {
+      supabase.removeChannel(channel);
+    };
+  }, [supabase, loadRsvps]);
+
   const summaries = useMemo(() => {
     const map = new Map<string, RsvpSummary>();
     for (const row of rsvpRows) {
@@ -87,6 +103,17 @@ export default function EventList({ events }: { events: MunoEvent[] }) {
       if (error) toast.error(`Error al entrar con GitHub: ${error.message}`);
       return;
     }
+    // Optimista: cambia la pantalla ya, sin esperar la ida y vuelta al servidor. Si
+    // falla, se revierte trayendo el estado real; si funciona, el canal de Realtime de
+    // arriba acabara confirmando lo mismo (sin nombre/show_name todavia si es un alta,
+    // eso llega con esa confirmacion).
+    const previousRows = rsvpRows;
+    setRsvpRows((prev) =>
+      isGoing
+        ? prev.filter((r) => !(r.event_id === event.id && r.user_id === user.id))
+        : [...prev, { event_id: event.id, user_id: user.id, profiles: null }]
+    );
+
     // Copiamos nombre/fecha/direccion/url del evento tal cual esta ahora: el pipeline
     // solo guarda eventos futuros, asi que en cuanto pase la fecha este sera el unico
     // sitio donde queda constancia de como se llamaba (ver "Mis eventos" -> Pasados).
@@ -101,10 +128,9 @@ export default function EventList({ events }: { events: MunoEvent[] }) {
           event_url: event.url,
         });
     if (error) {
+      setRsvpRows(previousRows);
       toast.error(`Error al marcar "voy": ${error.message}`);
-      return;
     }
-    loadRsvps();
   };
 
   const rsvpGroup = async (event: MunoEvent, groupId: string) => {

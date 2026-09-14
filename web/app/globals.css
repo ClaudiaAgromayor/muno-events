@@ -44,3 +44,26 @@ a {
 .animate-toast-in {
   animation: toast-in 0.2s ease-out;
 }
+
+@keyframes stamp {
+  0% {
+    opacity: 0;
+    transform: rotate(-12deg) scale(1.6);
+  }
+  15% {
+    opacity: 1;
+    transform: rotate(-12deg) scale(1);
+  }
+  75% {
+    opacity: 1;
+    transform: rotate(-12deg) scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: rotate(-12deg) scale(1);
+  }
+}
+
+.animate-stamp {
+  animation: stamp 0.9s ease-out;
+}

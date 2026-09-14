@@ -138,9 +138,19 @@ export default function Groups() {
       toast.error(`Error uniendote a tu propio grupo: ${memberError.message}`);
       return;
     }
+    // En vez de recargar todo (grupos + miembros + agenda de cada uno), anadimos el
+    // grupo nuevo directamente al estado local -- ya sabemos su forma exacta (tu como
+    // unico miembro, sin eventos todavia), no hace falta volver a preguntarselo al
+    // servidor para algo que ya conocemos.
+    setGroups((prev) => [...prev, { id: groupId, name: newName.trim(), invite_code: "", owner_id: user.id }]);
+    setMembersByGroup((prev) => {
+      const next = new Map(prev);
+      next.set(groupId, [{ user_id: user.id, display_name: null }]);
+      return next;
+    });
     setNewName("");
     toast.success("Grupo creado");
-    load();
+    load(); // en segundo plano, para traer el invite_code real generado por la base de datos
   };
 
   const copyInviteLink = (group: Group) => {
@@ -187,7 +197,7 @@ export default function Groups() {
       </div>
 
       {groups.length === 0 ? (
-        <p className="text-sm text-muted">Todavía no tienes ningún grupo.</p>
+        <p className="font-display text-xl italic text-muted">Ningún grupo por aquí — crea el primero y manda el link.</p>
       ) : (
         <div className="flex flex-col gap-6">
           {groups.map((group) => {

@@ -55,16 +55,25 @@ export default function EventPosts({ eventId, user }: { eventId: string; user: U
 
   const submitNote = async () => {
     if (!note.trim()) return;
+    const text = note.trim();
+    // Optimista: la nota aparece en la lista al instante, con un id temporal que se
+    // sustituye por el real en cuanto responde el servidor (o se quita si falla).
+    const tempId = `temp-${Date.now()}`;
+    setPosts((prev) => [
+      ...prev,
+      { id: tempId, user_id: user.id, kind: "nota", text_content: text, storage_path: null, created_at: new Date().toISOString() },
+    ]);
+    setNote("");
     const { error } = await supabase
       .from("posts")
-      .insert({ event_id: eventId, user_id: user.id, kind: "nota", text_content: note.trim() });
+      .insert({ event_id: eventId, user_id: user.id, kind: "nota", text_content: text });
     if (error) {
+      setPosts((prev) => prev.filter((p) => p.id !== tempId));
       toast.error(`Error al publicar la nota: ${error.message}`);
       return;
     }
-    setNote("");
     toast.success("Nota publicada");
-    load();
+    load(); // sustituye la nota temporal por la real (con su id definitivo)
   };
 
   const uploadFile = async (file: File) => {
@@ -93,7 +102,7 @@ export default function EventPosts({ eventId, user }: { eventId: string; user: U
     <div className="mt-4 flex flex-col gap-3 border-t border-line pt-4">
       <p className="text-xs uppercase tracking-wider text-muted">Fotos, notas y documentos</p>
 
-      {posts.length === 0 && <p className="text-xs text-muted">Nadie ha compartido nada todavía.</p>}
+      {posts.length === 0 && <p className="text-xs text-muted">Silencio absoluto — sé la primera en dejar algo.</p>}
 
       {posts.map((post) => (
         <div key={post.id} className="text-sm">

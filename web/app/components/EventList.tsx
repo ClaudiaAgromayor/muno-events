@@ -15,16 +15,36 @@ type RsvpRow = {
 
 const EMPTY_SUMMARY: RsvpSummary = { count: 0, names: [], isGoing: false };
 
+type MyGroup = { id: string; name: string };
+
 export default function EventList({ events }: { events: MunoEvent[] }) {
   const supabase = useMemo(() => createClient(), []);
   const [user, setUser] = useState<User | null>(null);
   const [rsvpRows, setRsvpRows] = useState<RsvpRow[]>([]);
+  const [myGroups, setMyGroups] = useState<MyGroup[]>([]);
 
   useEffect(() => {
     supabase.auth.getUser().then(({ data }) => setUser(data.user));
     const { data: listener } = supabase.auth.onAuthStateChange((_event, session) => setUser(session?.user ?? null));
     return () => listener.subscription.unsubscribe();
   }, [supabase]);
+
+  useEffect(() => {
+    if (!user) {
+      setMyGroups([]);
+      return;
+    }
+    supabase
+      .from("group_members")
+      .select("groups(id, name)")
+      .eq("user_id", user.id)
+      .then(({ data }) => {
+        const groups = ((data ?? []) as unknown as { groups: MyGroup | null }[])
+          .map((r) => r.groups)
+          .filter((g): g is MyGroup => g !== null);
+        setMyGroups(groups);
+      });
+  }, [supabase, user]);
 
   const loadRsvps = useCallback(async () => {
     // profiles(display_name, show_name) es un join -- si show_name es false para esa
@@ -85,24 +105,42 @@ export default function EventList({ events }: { events: MunoEvent[] }) {
     loadRsvps();
   };
 
-  const groups = groupEventsByDay(events);
+  const rsvpGroup = async (event: MunoEvent, groupId: string) => {
+    const { error } = await supabase.rpc("rsvp_group", {
+      p_group_id: groupId,
+      p_event_id: event.id,
+      p_event_name: event.name,
+      p_event_start_at: event.start_at,
+      p_event_address: event.address,
+      p_event_url: event.url,
+    });
+    if (error) {
+      alert(`Error marcando "vamos" para el grupo: ${error.message}`);
+      return;
+    }
+    loadRsvps();
+  };
+
+  const dayGroups = groupEventsByDay(events);
 
   return (
     <div className="flex flex-col">
-      {groups.map((group) => (
-        <section key={group.label}>
+      {dayGroups.map((dayGroup) => (
+        <section key={dayGroup.label}>
           <h2 className="sticky top-0 bg-background pt-2 pb-2 font-display text-2xl italic text-muted">
-            {group.label}
+            {dayGroup.label}
           </h2>
           <div className="flex flex-col">
-            {group.events.map((event) => (
+            {dayGroup.events.map((event) => (
               <EventRow
                 key={event.id}
                 event={event}
                 summary={summaries.get(event.id) ?? EMPTY_SUMMARY}
                 signedIn={!!user}
                 full={spotsUrgent(event)}
+                myGroups={myGroups}
                 onToggleRsvp={() => toggleRsvp(event, (summaries.get(event.id) ?? EMPTY_SUMMARY).isGoing)}
+                onGroupRsvp={(groupId) => rsvpGroup(event, groupId)}
               />
             ))}
           </div>
@@ -117,13 +155,17 @@ function EventRow({
   summary,
   signedIn,
   full,
+  myGroups,
   onToggleRsvp,
+  onGroupRsvp,
 }: {
   event: MunoEvent;
   summary: RsvpSummary;
   signedIn: boolean;
   full: boolean;
+  myGroups: MyGroup[];
   onToggleRsvp: () => void;
+  onGroupRsvp: (groupId: string) => void;
 }) {
   const spots = spotsLabel(event);
   const urgent = spotsUrgent(event);
@@ -160,7 +202,14 @@ function EventRow({
           <span className={`text-xs font-medium ${urgent ? "text-accent" : "text-ok"}`}>{spots}</span>
         )}
         {deadline && <span className="text-[11px] text-muted">{deadline}</span>}
-        <RsvpControl summary={summary} signedIn={signedIn} full={full} onToggle={onToggleRsvp} />
+        <RsvpControl
+          summary={summary}
+          signedIn={signedIn}
+          full={full}
+          myGroups={myGroups}
+          onToggle={onToggleRsvp}
+          onGroupRsvp={onGroupRsvp}
+        />
       </div>
     </a>
   );

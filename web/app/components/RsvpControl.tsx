@@ -8,17 +8,23 @@ export type RsvpSummary = {
   isGoing: boolean;
 };
 
+type MyGroup = { id: string; name: string };
+
 export default function RsvpControl({
   summary,
   signedIn,
   full,
+  myGroups,
   onToggle,
+  onGroupRsvp,
 }: {
   summary: RsvpSummary;
   signedIn: boolean;
   /** true si la fuente dice que no quedan plazas (Meetup spots_left<=0, Luma sold_out) */
   full: boolean;
+  myGroups: MyGroup[];
   onToggle: () => void;
+  onGroupRsvp: (groupId: string) => void;
 }) {
   const [expanded, setExpanded] = useState(false);
 
@@ -46,6 +52,29 @@ export default function RsvpControl({
         {summary.isGoing && <span aria-hidden>✓</span>}
         {blocked ? "Cerrado" : summary.isGoing ? "Voy" : signedIn ? "Voy" : "Voy · entrar"}
       </button>
+
+      {signedIn && !blocked && myGroups.length > 0 && (
+        <select
+          defaultValue=""
+          onClick={(e) => e.stopPropagation()}
+          onChange={(e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            if (e.target.value) onGroupRsvp(e.target.value);
+            e.target.value = "";
+          }}
+          className="border border-line bg-transparent px-1.5 py-0.5 text-[10px] uppercase tracking-wider text-muted hover:border-foreground"
+        >
+          <option value="" disabled>
+            Vamos con...
+          </option>
+          {myGroups.map((g) => (
+            <option key={g.id} value={g.id}>
+              {g.name}
+            </option>
+          ))}
+        </select>
+      )}
 
       {summary.count > 0 && (
         <button

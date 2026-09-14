@@ -84,6 +84,12 @@ export default function AuthButton() {
       >
         Mis eventos
       </a>
+      <a
+        href="/grupos"
+        className="text-[11px] uppercase tracking-wider text-muted underline decoration-1 underline-offset-2 hover:text-foreground"
+      >
+        Grupos
+      </a>
       <button
         onClick={() => setShowSettings((v) => !v)}
         className="text-[11px] uppercase tracking-wider text-muted underline decoration-1 underline-offset-2 hover:text-foreground"

@@ -290,3 +290,16 @@ $$;
 grant execute on function public.get_group_name(uuid) to authenticated;
 grant execute on function public.join_group(uuid) to authenticated;
 grant execute on function public.rsvp_group(uuid, text, text, text, text, text) to authenticated;
+
+-- Dentro de tu propio grupo se ve el nombre de las demas SIEMPRE, aunque no hayan
+-- activado "mostrar mi nombre" de cara al publico -- unirse a un grupo privado ya es
+-- un contexto distinto del listado publico de asistentes a un evento. Esta politica se
+-- SUMA a la de mas arriba (Postgres las combina con OR), no la sustituye.
+create policy "Ves nombres de miembros de tus grupos" on public.profiles
+  for select using (
+    exists (
+      select 1 from public.group_members gm1
+      join public.group_members gm2 on gm1.group_id = gm2.group_id
+      where gm1.user_id = auth.uid() and gm2.user_id = profiles.id
+    )
+  );

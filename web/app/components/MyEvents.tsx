@@ -4,6 +4,7 @@ import { useCallback, useEffect, useMemo, useState } from "react";
 import type { User } from "@supabase/supabase-js";
 import { createClient } from "@/app/lib/supabase/client";
 import { formatEventDate } from "@/app/lib/events";
+import EventPosts from "@/app/components/EventPosts";
 
 type MyEventEntry = {
   event_id: string;
@@ -13,7 +14,7 @@ type MyEventEntry = {
   event_url: string | null;
 };
 
-type Attendee = { user_id: string; display_name: string };
+type Attendee = { user_id: string; display_name: string; linkedin_url: string | null };
 type ConnectionRow = { event_id: string; user_id: string; other_user_id: string };
 
 export default function MyEvents() {
@@ -51,7 +52,7 @@ export default function MyEvents() {
 
     const { data: allRows, error: allError } = await supabase
       .from("rsvps")
-      .select("event_id, user_id, profiles(display_name, show_name)")
+      .select("event_id, user_id, profiles(display_name, show_name, linkedin_url)")
       .in("event_id", ids);
     if (allError) {
       alert(`Error cargando asistentes: ${allError.message}`);
@@ -61,12 +62,12 @@ export default function MyEvents() {
     for (const row of (allRows ?? []) as unknown as {
       event_id: string;
       user_id: string;
-      profiles: { display_name: string | null; show_name: boolean } | null;
+      profiles: { display_name: string | null; show_name: boolean; linkedin_url: string | null } | null;
     }[]) {
       if (row.user_id === user.id) continue;
       if (!row.profiles?.show_name || !row.profiles.display_name) continue;
       const list = map.get(row.event_id) ?? [];
-      list.push({ user_id: row.user_id, display_name: row.profiles.display_name });
+      list.push({ user_id: row.user_id, display_name: row.profiles.display_name, linkedin_url: row.profiles.linkedin_url });
       map.set(row.event_id, list);
     }
     setAttendeesByEvent(map);
@@ -185,14 +186,26 @@ export default function MyEvents() {
                           <div key={person.user_id} className="flex items-center justify-between gap-3">
                             <span className="text-sm">{person.display_name}</span>
                             {mutual ? (
-                              <a
-                                href={`https://github.com/${person.display_name}`}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="border border-ok bg-ok px-2.5 py-1 text-[11px] font-medium uppercase tracking-wider text-background"
-                              >
-                                Coincidisteis · ver contacto
-                              </a>
+                              <span className="flex gap-2">
+                                <a
+                                  href={`https://github.com/${person.display_name}`}
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                  className="border border-ok bg-ok px-2.5 py-1 text-[11px] font-medium uppercase tracking-wider text-background"
+                                >
+                                  GitHub
+                                </a>
+                                {person.linkedin_url && (
+                                  <a
+                                    href={person.linkedin_url}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="border border-ok bg-ok px-2.5 py-1 text-[11px] font-medium uppercase tracking-wider text-background"
+                                  >
+                                    LinkedIn
+                                  </a>
+                                )}
+                              </span>
                             ) : iMarked ? (
                               <span className="text-[11px] uppercase tracking-wider text-muted">Pendiente de confirmar</span>
                             ) : (
@@ -208,6 +221,8 @@ export default function MyEvents() {
                       })}
                     </div>
                   )}
+
+                  <EventPosts eventId={event.event_id} user={user} />
                 </div>
               );
             })}

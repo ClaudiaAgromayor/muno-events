@@ -3,6 +3,7 @@ create table public.profiles (
   id uuid primary key references auth.users(id) on delete cascade,
   display_name text,
   show_name boolean not null default false,
+  linkedin_url text,
   created_at timestamptz not null default now()
 );
 
@@ -110,3 +111,68 @@ create policy "Borras tus propias conexiones" on public.connections
   for delete using (auth.uid() = user_id);
 
 grant select, insert, delete on public.connections to authenticated;
+
+-- Fotos, notas, documentos y enlaces de video que la gente comparte de un evento
+-- despues de que pase. Solo lo ven quienes tambien marcaron "voy" a ese mismo evento
+-- (no es publico para cualquiera, es un recuerdo compartido entre quienes fueron).
+create table public.posts (
+  id uuid primary key default gen_random_uuid(),
+  event_id text not null,
+  user_id uuid not null references public.profiles(id) on delete cascade,
+  kind text not null check (kind in ('nota', 'foto', 'documento', 'video')),
+  text_content text,
+  storage_path text,
+  created_at timestamptz not null default now(),
+  check (text_content is not null or storage_path is not null)
+);
+
+alter table public.posts enable row level security;
+
+create policy "Ves publicaciones de eventos a los que fuiste" on public.posts
+  for select using (
+    exists (select 1 from public.rsvps r where r.event_id = posts.event_id and r.user_id = auth.uid())
+  );
+
+create policy "Publicas en eventos a los que fuiste" on public.posts
+  for insert with check (
+    auth.uid() = user_id
+    and exists (select 1 from public.rsvps r where r.event_id = posts.event_id and r.user_id = auth.uid())
+  );
+
+create policy "Borras tus propias publicaciones" on public.posts
+  for delete using (auth.uid() = user_id);
+
+grant select, insert, delete on public.posts to authenticated;
+
+-- Bucket de almacenamiento privado para las fotos/documentos/videos de arriba (las
+-- notas de solo texto no necesitan archivo). Los objetos se guardan con la ruta
+-- "<event_id>/<user_id>/<nombre-archivo>" para que las politicas de abajo puedan
+-- comprobar el event_id sin tocar la tabla posts.
+insert into storage.buckets (id, name, public)
+values ('event-posts', 'event-posts', false)
+on conflict (id) do nothing;
+
+create policy "Ves archivos de eventos a los que fuiste"
+  on storage.objects for select
+  using (
+    bucket_id = 'event-posts'
+    and exists (
+      select 1 from public.rsvps r
+      where r.event_id = (storage.foldername(name))[1] and r.user_id = auth.uid()
+    )
+  );
+
+create policy "Subes archivos a eventos a los que fuiste"
+  on storage.objects for insert
+  with check (
+    bucket_id = 'event-posts'
+    and (storage.foldername(name))[2] = auth.uid()::text
+    and exists (
+      select 1 from public.rsvps r
+      where r.event_id = (storage.foldername(name))[1] and r.user_id = auth.uid()
+    )
+  );
+
+create policy "Borras tus propios archivos"
+  on storage.objects for delete
+  using (bucket_id = 'event-posts' and (storage.foldername(name))[2] = auth.uid()::text);

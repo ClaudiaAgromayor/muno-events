@@ -148,6 +148,34 @@ export function registrationDeadlineLabel(event: MunoEvent): string | null {
   return `Apúntate antes del ${d.day} ${d.monthLabel}`;
 }
 
+/**
+ * Selecciona un punado de eventos para destacar en portada: los de los proximos `days`
+ * dias, ordenados por senales de interes ya presentes en los datos (guest_count de Luma,
+ * attendees de Meetup) y, si no hay ninguna, por cercania de fecha. No es una newsletter
+ * ni pide datos nuevos -- solo resalta lo que ya tenemos, para dar un motivo de visitar
+ * la portada sin tener que desplazarse por toda la agenda.
+ */
+export function getFeaturedEvents(events: MunoEvent[], limit = 4, days = 7, now: Date = new Date()): MunoEvent[] {
+  const nowMs = now.getTime();
+  const cutoffMs = nowMs + days * 86400000;
+
+  const upcoming = events.filter((event) => {
+    if (!event.start_at) return false;
+    const t = new Date(event.start_at).getTime();
+    return !Number.isNaN(t) && t >= nowMs && t <= cutoffMs;
+  });
+
+  const popularity = (event: MunoEvent) => Math.max(event.extra.attendees ?? 0, event.extra.guest_count ?? 0);
+
+  return [...upcoming]
+    .sort((a, b) => {
+      const byPopularity = popularity(b) - popularity(a);
+      if (byPopularity !== 0) return byPopularity;
+      return new Date(a.start_at!).getTime() - new Date(b.start_at!).getTime();
+    })
+    .slice(0, limit);
+}
+
 export type EventGroup = { label: string; events: MunoEvent[] };
 
 /**

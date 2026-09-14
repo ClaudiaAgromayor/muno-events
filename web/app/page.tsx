@@ -1,10 +1,13 @@
 import AuthButton from "@/app/components/AuthButton";
 import EventList from "@/app/components/EventList";
 import EventMapLoader from "@/app/components/EventMapLoader";
+import FeaturedEvents from "@/app/components/FeaturedEvents";
 import { getEvents } from "@/app/lib/data";
+import { getFeaturedEvents } from "@/app/lib/events";
 
 export default function Home() {
   const events = getEvents();
+  const featured = getFeaturedEvents(events);
 
   return (
     <main className="mx-auto w-full max-w-5xl px-6 py-12 sm:px-10 sm:py-16">
@@ -20,6 +23,12 @@ export default function Home() {
           Todo el tech de Madrid en un sitio. Lo demás es ruido.
         </p>
       </header>
+
+      {featured.length > 0 && (
+        <section className="pt-10">
+          <FeaturedEvents events={featured} />
+        </section>
+      )}
 
       <section className="mx-auto max-w-3xl pt-10">
         <EventList events={events} />

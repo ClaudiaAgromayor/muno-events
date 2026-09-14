@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useState } from "react";
 
 export type RsvpSummary = {
   count: number;
@@ -28,20 +28,6 @@ export default function RsvpControl({
 }) {
   const [expanded, setExpanded] = useState(false);
   const [stamped, setStamped] = useState(false);
-  const wasGoing = useRef(summary.isGoing);
-
-  useEffect(() => {
-    // El sello de "APUNTADA" solo cuando pasa de no-ir a ir (no al cargar la pagina ni
-    // al desmarcarlo) -- un guino a la estetica de cartelera/programa impreso del resto
-    // del sitio, en vez de una animacion generica de check verde como en cualquier app.
-    if (summary.isGoing && !wasGoing.current) {
-      setStamped(true);
-      const t = setTimeout(() => setStamped(false), 900);
-      wasGoing.current = summary.isGoing;
-      return () => clearTimeout(t);
-    }
-    wasGoing.current = summary.isGoing;
-  }, [summary.isGoing]);
 
   // Si no hay plazas segun la plataforma original, no dejamos marcar "voy" de nuevas --
   // pero si alguien ya lo habia marcado antes, le dejamos quitarselo sin problema.
@@ -63,6 +49,12 @@ export default function RsvpControl({
         onClick={(e) => {
           e.preventDefault();
           e.stopPropagation();
+          // El sello solo salta por el propio clic que marca "voy" (no al desmarcarlo,
+          // ni al cargar la pagina si ya estabas apuntada -- eso NO es una accion nueva).
+          if (!summary.isGoing) {
+            setStamped(true);
+            setTimeout(() => setStamped(false), 900);
+          }
           onToggle();
         }}
         className={`flex items-center gap-1.5 border px-3 py-1 text-[11px] font-medium uppercase tracking-wider transition-colors ${

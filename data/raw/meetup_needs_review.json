@@ -2,25 +2,6 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
-    "source_id": "316211287",
-    "name": "IA aplicada: convierte procesos en servicios para tus clientes ",
-    "description": "La IA no solo permite ahorrar tiempo y automatizar tareas. También está creando nuevas oportunidades para profesionales, freelancers y agencias que quieren incorporar nuevas soluciones a los servicios que ya ofrecen a sus clientes.\n\nEn este encuentro online veremos **cómo identificar procesos con potencial para aplicar IA, transformarlos en soluciones concretas y convertirlos en servicios que puedas ofrecer de forma clara y repetible a diferentes clientes.**\n\nHablaremos de casos aplicados a marketing, ventas, atención al cliente, operaciones y otras áreas, con ejemplos concretos y un framework práctico para pasar de una necesidad real a una propuesta de servicio.\n\n## Qué veremos\n\n* Dónde están las oportunidades reales para crear servicios con IA.\n* Qué puedes ofrecer con IA en áreas como marketing, ventas, atención al cliente y operaciones.\n* Cómo detectar problemas y procesos de tus clientes que pueden convertirse en una solución.\n* Cómo pasar de una automatización o agente a una oferta concreta y fácil de entender.\n* Qué necesitas para empezar sin tener que desarrollar todo desde cero.\n* Cómo crear soluciones que puedas adaptar y reutilizar con distintos clientes.\n* Errores habituales al crear una oferta basada en IA.\n* Un framework práctico: **problema → solución → proceso → cliente → propuesta → delivery.**\n* Ejemplos aplicados a prospección B2B, lead scoring, generación de propuestas, onboarding, reporting, contenido, recepción virtual y otras aplicaciones.\n\n🎓 **Encuentro online gratuito**\n⏱️ **Duración aproximada: 90 min + Q&A**\n🤝 **Impulsado por InvokeApp para la comunidad PNM – Professional Network Madrid**",
-    "start_at": "2026-09-15T18:00:00+02:00",
-    "url": "https://www.meetup.com/ia-para-agencias-freelancers-y-consultores/events/316211287/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "IA para Agencias, Freelancers y Consultores",
-    "attendees": 39,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
     "source_id": "316209512",
     "name": "Build you own intelligent corporate raw assistant",
     "description": "Ever wondered what it actually takes to build an AI assistant that understands your company's data, messy files, weird formats and all? Join us for a hands-on workshop where we'll build our own intelligent corporate assistant from scratch.\n\nWe'll take on a real-world challenge: given a chaotic mix of unstructured data (PDFs, logs, office docs, etc...), we'll build a context-aware Agentic System using modern Retrieval-Augmented Generation (RAG) techniques.\n\nExpect practical coding, honest discussion, and a chance to connect with other data and AI practitioners in Madrid.\n\n**WARNING**: Expect hands-on coding, we'll build the assistant from scratch using technologies like LangGraph, Langfuse, Quadrant, etc...\n\n**Agenda:**\n\n* 18:30 – Welcome, intro\n* 18:45 – Kickoff\n* 19:00 – Workshop\n* 21:15 – Wrap-up & networking\n\n**What to bring:**\n\n* A laptop\n* Python Coding experience\n* Curiosity - no prior RAG/vector DB experience required\n\n**How to find the group:**\nWe'll meet somewhere nice in the center of Madrid.\nMore details will be shared soon!",
@@ -37,6 +18,25 @@
       "Artificial Intelligence",
       "Machine Learning",
       "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316211287",
+    "name": "IA aplicada: convierte procesos en servicios para tus clientes ",
+    "description": "La IA no solo permite ahorrar tiempo y automatizar tareas. También está creando nuevas oportunidades para profesionales, freelancers y agencias que quieren incorporar nuevas soluciones a los servicios que ya ofrecen a sus clientes.\n\nEn este encuentro online veremos **cómo identificar procesos con potencial para aplicar IA, transformarlos en soluciones concretas y convertirlos en servicios que puedas ofrecer de forma clara y repetible a diferentes clientes.**\n\nHablaremos de casos aplicados a marketing, ventas, atención al cliente, operaciones y otras áreas, con ejemplos concretos y un framework práctico para pasar de una necesidad real a una propuesta de servicio.\n\n## Qué veremos\n\n* Dónde están las oportunidades reales para crear servicios con IA.\n* Qué puedes ofrecer con IA en áreas como marketing, ventas, atención al cliente y operaciones.\n* Cómo detectar problemas y procesos de tus clientes que pueden convertirse en una solución.\n* Cómo pasar de una automatización o agente a una oferta concreta y fácil de entender.\n* Qué necesitas para empezar sin tener que desarrollar todo desde cero.\n* Cómo crear soluciones que puedas adaptar y reutilizar con distintos clientes.\n* Errores habituales al crear una oferta basada en IA.\n* Un framework práctico: **problema → solución → proceso → cliente → propuesta → delivery.**\n* Ejemplos aplicados a prospección B2B, lead scoring, generación de propuestas, onboarding, reporting, contenido, recepción virtual y otras aplicaciones.\n\n🎓 **Encuentro online gratuito**\n⏱️ **Duración aproximada: 90 min + Q&A**\n🤝 **Impulsado por InvokeApp para la comunidad PNM – Professional Network Madrid**",
+    "start_at": "2026-09-15T18:00:00+02:00",
+    "url": "https://www.meetup.com/ia-para-agencias-freelancers-y-consultores/events/316211287/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "IA para Agencias, Freelancers y Consultores",
+    "attendees": 39,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence"
     ]
   },
   {
@@ -217,8 +217,7 @@
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence",
-      "Machine Learning",
-      "Data Science"
+      "Machine Learning"
     ]
   },
   {
@@ -302,6 +301,25 @@
   },
   {
     "source": "meetup",
+    "source_slug": "Data Science",
+    "source_id": "316514403",
+    "name": "AI For Work | Webinar",
+    "description": "**AI for Work \\| Free Live Webinar**\n\n**Pre-Registration is REQUIRED. Joining link -**\n[https://streamyard.com/watch/QnfhUjb7qQXs](https://streamyard.com/watch/QnfhUjb7qQXs?utm_source=luma)\n\n## ​WHEN\n\n​**September 30 at 1:00 PM ET**\n**45-minute live webinar**\n\n## ​WHO SHOULD JOIN?\n\n​This session is for people who already use tools like ChatGPT or Claude, but want to go beyond asking questions and start using AI to actually get work done.\n​It’s especially useful for:\n\n* ​Product and project managers\n* ​Operations and process leads\n* ​Marketing and admin professionals\n* ​Founders and small business teams\n* ​Career changers and AI beginners\n* ​Anyone looking to automate everyday work without coding\n\n​Come curious. No coding, setup, or technical background required.\n\nWHAT YOU’LL LEARN\n\nIn this free, 45-minute hands-on session, ODSC's Sheamus McGovern shows you the difference between chatting with AI and putting it to work.\n\nYou'll watch Cowork sort a messy folder of files into order, turn raw notes and spreadsheets into a polished, ready-to-send document, and set up recurring work that runs on its own, no prompting required.\n\nJust the everyday tasks you can hand off to AI that eat your week: filing, formatting, summarizing, following up, etc.\n\nLeave with one task you can delegate this week, and a clear next step for what to automate after that.\n\n**​Stay Connected**\n\n* ​**Learn:** Free talks and trainings on the [Ai+ Training platform](https://aiplus.training/?utm_source=luma).\n* ​**Read:** The latest in AI research on the [ODSC Blog](https://opendatascience.com/?utm_source=luma).\n* ​**Chat:** Join the conversation in our [Slack Channel](https://www.google.com/search?q=https%3A%2F%2Fodsc.com%2Fslack&utm_source=luma).\n* ​**Community:** Review our [Code of Conduct](https://odsc.com/code-of-conduct/?utm_source=luma).",
+    "start_at": "2026-09-30T19:00:00+02:00",
+    "url": "https://www.meetup.com/odsc-madrid-data-science/events/316514403/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "ODSC AI Madrid",
+    "attendees": 0,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
     "source_slug": "DevOps",
     "source_id": "316397919",
     "name": "AI Deep Dive Webinar - Taking LangGraph to production",
@@ -317,25 +335,6 @@
     "spots_left": null,
     "found_in": [
       "DevOps"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Startups",
-    "source_id": "316271071",
-    "name": "Silicon Valley Business Networking (Online) ",
-    "description": "This event is organized in collaboration with many groups!\n\n**Organizational Sponsor:**\n\n**Startup House**\n\n**Need a place to stay short term in Silicon Valley?**\n\n**Stay at Startup House in Palo Alto - the heart of Silicon Valley - for as low as $50 a night!**\n\n**-Network, socialize and connect with entrepreneurs all over the world!**\n\n**-Enjoy social events and startup and venture capital-related programming!**\n\n**\\- Have access to world class amenities\\, iconic tech companies\\, top tier venture capital firms\\, Stanford University\\, etc\\. \\- all within walking or biking distance\\!**\n\n**For more info, send an email message to:**\n\n**siliconvalleystartuphousing@gmail.com**\n\n**Put this in the subject header:**\n\n**Silicon Valley Startup Housing**\n\nThis event is 100% online.\n\nParticipants can be located anywhere in the world!\n\nThis event is FREE to attend!\n\nIn order to attend, please register here:\n\n[https://www.eventbrite.com/e/silicon-valley-business-networking-online-tickets-712802279807?aff=oddtdtcreator](https://www.eventbrite.com/e/silicon-valley-business-networking-online-tickets-712802279807?aff=oddtdtcreator)\n\n(The login link will be sent via email to Eventbrite registrants right before the start of the event.)\n\nHurry! Slots are limited!\n\nThere's no content or speaker at this event -- just business networking.\n\nBuild your business network - face to face (online)!\n\nJoin a virtual gathering of professionals from all walks of life from all over the world!\n\nYou may meet your next business collaborator, client, employer, employee or friend!\n\nMeet Silicon Valley movers and shakers and influencers from all over the world - tech entrepreneurs, developers, engineers, attorneys, bloggers, academics, thought leaders, community organizers, artists, financiers, and investors!\n\nN﻿etwork, socialize and connect!\n\nFor more info on Idea to IPO events, visit:\n\n[www.idea-to-ipo.com](www.idea-to-ipo.com) (our main meetup group among 160 meetup groups globally)\n\n[https://www.youtube.com/@ideatoipo2 ](https://www.youtube.com/@ideatoipo2)(videos of online events)\n\n[@﻿ideatoipo](@%EF%BB%BFideatoipo)",
-    "start_at": "2026-09-14T21:00:00+02:00",
-    "url": "https://www.meetup.com/spain-startup-idea-to-ipo/events/316271071/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Spain  Startup: Idea to IPO",
-    "attendees": 1,
-    "max_tickets": 80,
-    "spots_left": 79,
-    "found_in": [
-      "Startups"
     ]
   },
   {
@@ -407,7 +406,7 @@
     "city": "",
     "address": "",
     "organizer": "Hack The Box Meetup: Salamanca, ES",
-    "attendees": 18,
+    "attendees": 20,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -464,9 +463,9 @@
     "city": "Madrid",
     "address": "C. del Marqués de Casa Riera, 4, Centro, 28014 Madrid, Spain",
     "organizer": "Cloudflare User Group España (IA, CyberSecurity & Edge Dev)",
-    "attendees": 34,
+    "attendees": 35,
     "max_tickets": 50,
-    "spots_left": 16,
+    "spots_left": 15,
     "found_in": [
       "Artificial Intelligence",
       "Hackathon"
@@ -504,6 +503,25 @@
     "address": "C. de Serrano, 1",
     "organizer": "NUEVOS AMIGOS",
     "attendees": 14,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "316329118",
+    "name": "*CONOCER GENTE NUEVA CERVECEO+FLORIDA GALERIA*",
+    "description": "**\\*CONOCER GENTE NUEVA CERVECEO+FLORIDA GALERIA\\***\n***¡¡Anímate y ven a pasarlo bien conociendo gente nueva!!***\n\n● Empezamos tomando algo para romper el hielo y conocer a l@s demás.\n● **Si vienes sol@,** no te preocupes te recibimos y presentamos a l@s demás y empiezas a disfrutar de la noche. Así de fácil.\n\n**\\- DIRECCION:** Te informamos el punto de encuentro al confirmar tu asistencia por whatsapp abajo indicado. ¡¡Anímate!! - **\\- ZONA:** Metro Ibiza\n\n● **DESPUÉS 12:00 FLORIDA GALERIA**\nPata continuar disfrutando de la noche nos vamos a \"Florida Galería\" uno de los mejores locales de moda en la noche de Madrid. ¡¡No te lo puedes perder!!\n**-VESTIMENTA:** Arreglado\n**✅●PARA ASISTIR:** Confirmar asistencia solo por whatsapp indicando nombre y el meetup al que vas asistir al 604136338 .\n**✅● COSTE:** 5€ entrega al coordinador al llegar, (intenta traerlo justo).\n**● GASTOS APARTE:** Cada uno paga lo suyo.\n● **Si vienes con invitad@s** , informales de todo y nos avisas al confirmar.\n**-VESTIMENTA:** Arreglado\n\n¡¡¡Lo pasaremos genial!!!\n**\\- CONTACTO Y CONFIRMACION DE ASISTENCIA SOLO POR WHATSAPP**",
+    "start_at": "2026-09-19T22:00:00+02:00",
+    "url": "https://www.meetup.com/meetup-group-erboswim/events/316329118/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Cale Ibiza",
+    "organizer": "NUEVOS AMIGOS",
+    "attendees": 10,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

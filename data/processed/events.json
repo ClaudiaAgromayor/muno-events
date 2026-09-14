@@ -18,7 +18,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 61,
+      "guest_count": 83,
       "sold_out": true,
       "waitlist_active": true,
       "registration_deadline": null
@@ -163,7 +163,7 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 53,
+      "guest_count": 55,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -192,7 +192,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 80,
+      "guest_count": 83,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -252,35 +252,6 @@
       ],
       "is_free": true,
       "guest_count": 0,
-      "sold_out": false,
-      "waitlist_active": false,
-      "registration_deadline": null
-    },
-    "found_on_platforms": [
-      "luma"
-    ],
-    "duplicate_ids": []
-  },
-  {
-    "id": "luma:evt-1JvWiMDTEj9lY89",
-    "source": "luma",
-    "source_id": "evt-1JvWiMDTEj9lY89",
-    "name": "Beers & Reliability",
-    "description": "ENGJoin us for an evening of after-work drinks and real talk about building resilient systems. PagerDuty's Senior Developer Advocate, Daniel Afonso, will walk us through Chaos Engineering: how top teams break things on purpose to build more reliable software. Casual, hands-on, and open bar.Session will be delivered in English.\nAgenda18:30: Doors open; say hi, grab a seat, and eat some food19:00: Talk - Chaos Engineering, with Daniel Afonso. Sr. Developer Advocate (PagerDuty) + Q&A20:00: Networking time with food & drinks21:00: Wrap upPagerDuty is an incident management and real-time operations platform powered by AI designed to help teams detect, respond to, and resolve critical issues faster. For developers, PagerDuty streamlines on-call management, automates alerting, and integrates seamlessly with popular tools like Slack, GitHub, and AWS. Whether you’re building, deploying, or maintaining services, PagerDuty empowers engineering teams to minimise downtime, collaborate efficiently, and deliver reliable digital experiences. Learn more at https://www.pagerduty.com/.__________________________________________________________________ESPÚnete a nosotros para una tarde de after-work con cervezas y una charla sobre cómo construir sistemas más resilientes. Daniel Afonso, Senior Developer Advocate de PagerDuty, nos hablará de Chaos Engineering: cómo los mejores equipos rompen cosas a propósito para mejorar la fiabilidad de su software. Ambiente informal, cercano, y barra libre.La sesión será en inglés.Agenda\n18:30: Apertura de puertas: saluda, coge sitio y pilla algo de comer\n\n19:00: Charla: Chaos Engineering, con Daniel Afonso, Sr. Developer Advocate (PagerDuty) + Turno de preguntas\n\n20:00: Tiempo de networking con comida y bebida\n\n21:00: Cierre del evento\n\nPagerDuty es una plataforma de gestión de incidentes y operaciones en tiempo real impulsada por IA, diseñada para ayudar a los equipos a detectar, responder y resolver problemas críticos de forma más rápida. Para los desarrolladores, PagerDuty agiliza la gestión de las guardias (on-call), automatiza las alertas y se integra sin problemas con herramientas populares como Slack, GitHub y AWS. Ya estés construyendo, desplegando o manteniendo servicios, PagerDuty capacita a los equipos de ingeniería para minimizar el tiempo de inactividad, colaborar de manera eficiente y ofrecer experiencias digitales fiables. Más información en https://www.pagerduty.com/.",
-    "start_at": "2026-09-23T16:30:00.000Z",
-    "end_at": "2026-09-23T19:00:00.000Z",
-    "url": "https://lu.ma/zb95bhdg",
-    "city": "Madrid",
-    "address": "Hispanoamérica",
-    "organizer": "PagerDuty Community Events",
-    "lat": 40.45623344565284,
-    "lng": -3.6870295799477137,
-    "extra": {
-      "categories": [
-        "Tech"
-      ],
-      "is_free": true,
-      "guest_count": 42,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -368,30 +339,6 @@
     "duplicate_ids": []
   },
   {
-    "id": "meetup:316153101",
-    "source": "meetup",
-    "source_id": "316153101",
-    "name": "BLACKBOXAI - Construyendo un adversario autónomo",
-    "description": "# 🚀 AiSec Eng Spain x Madrid DevOps x HackerDreams x Valkyrias\n\n📅 Próximamente\n🕖 18:00h (CEST) (Comenzaremos Puntal)\n📍 Lugar: Fundación Juan XXIII-Roncalli\n📍 Dirección: Av. Gran Vía del Este, 1, Vicálvaro, 28032 Madrid · Madrid, es\nⓂ️ Metro: Vicálvaro línea 9\n\n## 🧠\n\n### 🎯 BLACKBOXAI - Construyendo un adversario autónomo\n\n**Donde la Inteligencia Artificial toma el control de la consola.**\n**Deja que la IA piense. Tú observa el compromiso.**\nTHE TALK WILL BE IN SPANISH\nLA CHARLA SERÁ EN ESPAÑOL\n\n### 👨‍💻 Ponente\n\n**Kneda**\n\n### 🧾 Mini-biografía\n\nKneda es especialista en ingeniería social, intrusión física y ciberseguridad ofensiva, con una amplia trayectoria participando en comunidades y eventos de seguridad informática tanto nacionales como internacionales.\nMiembro activo de la comunidad HackerDreams y coorganizador de HackMadrid, participa habitualmente en la creación de desafíos Capture The Flag (CTF) para diferentes competiciones y eventos. Su experiencia diseñando entornos vulnerables para todos los niveles de conocimiento le ha permitido formar y desafiar a cientos de profesionales y entusiastas de la seguridad.\nEs una presencia habitual en conferencias, talleres y formaciones especializadas, donde comparte conocimientos sobre hacking ofensivo, ingeniería social, campañas de phishing, intrusión física y metodologías avanzadas de auditoría de seguridad.\nEn 2019 participó en las finales de DefCon junto a Rod Soto (HackMiami), obteniendo el tercer puesto en la categoría de Redes, uno de los mayores reconocimientos dentro de la comunidad internacional de hacking.\nActualmente trabaja desarrollando estrategias ofensivas y defensivas, combinando herramientas tradicionales de pentesting con nuevas capacidades impulsadas por Inteligencia Artificial para simular amenazas reales y mejorar la resiliencia de las organizaciones frente a ataques modernos.\n\n### 📚 Descripción del evento\n\n**SESIÓN 1 — El Salto Evolutivo: De Scripts a Conciencia Ofensiva (Gratuita)**\n¿Estamos presenciando el fin del pentesting tal como lo conocemos?\nDurante décadas, la auditoría de seguridad ha dependido de herramientas aisladas y de la intuición humana para encadenarlas. Pero el panorama ha cambiado. El pentesting tradicional es a menudo lento, predecible y difícil de escalar.\nEn esta primera sesión abriremos la \"caja negra\" para mostrar cómo se ha conseguido convertir un modelo de IA en un agente autónomo de auditoría ofensiva capaz de razonar, decidir y ejecutar acciones de forma independiente.\nNo hablaremos de teoría académica ni de automatización básica. Veremos el origen de una idea radical: el diseño de un prompt capaz de imitar la mentalidad de un atacante real. Descubriremos cómo una IA, operando desde una interfaz de línea de comandos, puede analizar, justificar y ejecutar cada acción mediante un modelo de decisión crítico.\n\n### 🔍 En esta sesión exploraremos:\n\n• La crisis del modelo tradicional: por qué la enumeración por inercia es el mayor enemigo del pentester moderno.\n• El despertar del agente: cómo se diseñó el \"cerebro\" capaz de operar en modalidad Black Box partiendo únicamente de una IP o dominio.\n• Razonamiento vs. ejecución: la capacidad de la IA para analizar vulnerabilidades, calcular riesgos y decidir cuándo actuar de forma sigilosa o agresiva.\n• El futuro de la ofensiva: las implicaciones de sistemas autónomos que no descansan y que priorizan el compromiso real por encima del volumen de hallazgos.\n\n### 🚨 Lo que verás en directo\n\n• Enumeración autónoma.\n• Toma de decisiones basada en contexto.\n• Priorización inteligente de vectores de ataque.\n• Cadena de pensamiento ofensiva aplicada a escenarios reales.\n• IA operando desde consola como un adversario estratégico.\nPrepárate para ver el inicio de una nueva generación de ciberseguridad.\nUna donde la IA deja de ser una herramienta para convertirse en un adversario capaz de pensar, decidir y actuar.\n\n## 🌐 Comunidad\n\n👉 Únete a Discord:\n[https://devseccon.io/discordcommunity](https://devseccon.io/discordcommunity)\n📢 Telegram:\n[https://t.me/hackerdreamsdcomm](https://t.me/hackerdreamsdcomm)\n[https://t.me/hackbcn](https://t.me/hackbcn)\n[https://t.me/+EQXjdGyWYPAotmLG](https://t.me/+EQXjdGyWYPAotmLG)\n[https://t.me/xopsnoticias](https://t.me/xopsnoticias)\n[https://t.me/xopshispano](https://t.me/xopshispano)\n🐦 X (Twitter):\n@JR_kneda\n@hunters_flag\n@hackerdreamsorg\n@hackbcn\n@xopsconference\n\n## 🤝 Colaboración y patrocinio\n\nSi tu empresa quiere colaborar o patrocinar futuros eventos:\n📩 Email: [info@hackerdreams.org](mailto:info@hackerdreams.org)\n📝 Formulario: [https://forms.gle/JbBwUGY26fAeLqJ78](https://forms.gle/JbBwUGY26fAeLqJ78)\n💸 Donaciones:\n[https://www.paypal.com/donate/?hosted_button_id=8UHV5UN47J3DY](https://www.paypal.com/donate/?hosted_button_id=8UHV5UN47J3DY)\n[https://bmc.link/hackerdreams](https://bmc.link/hackerdreams)",
-    "start_at": "2026-09-24T18:00:00+02:00",
-    "end_at": null,
-    "url": "https://www.meetup.com/aiseceng-spain/events/316153101/",
-    "city": "Madrid",
-    "address": "Av. Gran Vía del Este, 1, Vicálvaro, 28032 Madrid",
-    "organizer": "AI Security Engineers - Madrid, ES",
-    "lat": null,
-    "lng": null,
-    "extra": {
-      "attendees": 19,
-      "max_tickets": 50,
-      "spots_left": 31
-    },
-    "found_on_platforms": [
-      "meetup"
-    ],
-    "duplicate_ids": []
-  },
-  {
     "id": "meetup:316468176",
     "source": "meetup",
     "source_id": "316468176",
@@ -409,6 +356,30 @@
       "attendees": 10,
       "max_tickets": 10,
       "spots_left": 0
+    },
+    "found_on_platforms": [
+      "meetup"
+    ],
+    "duplicate_ids": []
+  },
+  {
+    "id": "meetup:316153101",
+    "source": "meetup",
+    "source_id": "316153101",
+    "name": "BLACKBOXAI - Construyendo un adversario autónomo",
+    "description": "# 🚀 AiSec Eng Spain x Madrid DevOps x HackerDreams x Valkyrias\n\n📅 Próximamente\n🕖 18:00h (CEST) (Comenzaremos Puntal)\n📍 Lugar: Fundación Juan XXIII-Roncalli\n📍 Dirección: Av. Gran Vía del Este, 1, Vicálvaro, 28032 Madrid · Madrid, es\nⓂ️ Metro: Vicálvaro línea 9\n\n## 🧠\n\n### 🎯 BLACKBOXAI - Construyendo un adversario autónomo\n\n**Donde la Inteligencia Artificial toma el control de la consola.**\n**Deja que la IA piense. Tú observa el compromiso.**\nTHE TALK WILL BE IN SPANISH\nLA CHARLA SERÁ EN ESPAÑOL\n\n### 👨‍💻 Ponente\n\n**Kneda**\n\n### 🧾 Mini-biografía\n\nKneda es especialista en ingeniería social, intrusión física y ciberseguridad ofensiva, con una amplia trayectoria participando en comunidades y eventos de seguridad informática tanto nacionales como internacionales.\nMiembro activo de la comunidad HackerDreams y coorganizador de HackMadrid, participa habitualmente en la creación de desafíos Capture The Flag (CTF) para diferentes competiciones y eventos. Su experiencia diseñando entornos vulnerables para todos los niveles de conocimiento le ha permitido formar y desafiar a cientos de profesionales y entusiastas de la seguridad.\nEs una presencia habitual en conferencias, talleres y formaciones especializadas, donde comparte conocimientos sobre hacking ofensivo, ingeniería social, campañas de phishing, intrusión física y metodologías avanzadas de auditoría de seguridad.\nEn 2019 participó en las finales de DefCon junto a Rod Soto (HackMiami), obteniendo el tercer puesto en la categoría de Redes, uno de los mayores reconocimientos dentro de la comunidad internacional de hacking.\nActualmente trabaja desarrollando estrategias ofensivas y defensivas, combinando herramientas tradicionales de pentesting con nuevas capacidades impulsadas por Inteligencia Artificial para simular amenazas reales y mejorar la resiliencia de las organizaciones frente a ataques modernos.\n\n### 📚 Descripción del evento\n\n**SESIÓN 1 — El Salto Evolutivo: De Scripts a Conciencia Ofensiva (Gratuita)**\n¿Estamos presenciando el fin del pentesting tal como lo conocemos?\nDurante décadas, la auditoría de seguridad ha dependido de herramientas aisladas y de la intuición humana para encadenarlas. Pero el panorama ha cambiado. El pentesting tradicional es a menudo lento, predecible y difícil de escalar.\nEn esta primera sesión abriremos la \"caja negra\" para mostrar cómo se ha conseguido convertir un modelo de IA en un agente autónomo de auditoría ofensiva capaz de razonar, decidir y ejecutar acciones de forma independiente.\nNo hablaremos de teoría académica ni de automatización básica. Veremos el origen de una idea radical: el diseño de un prompt capaz de imitar la mentalidad de un atacante real. Descubriremos cómo una IA, operando desde una interfaz de línea de comandos, puede analizar, justificar y ejecutar cada acción mediante un modelo de decisión crítico.\n\n### 🔍 En esta sesión exploraremos:\n\n• La crisis del modelo tradicional: por qué la enumeración por inercia es el mayor enemigo del pentester moderno.\n• El despertar del agente: cómo se diseñó el \"cerebro\" capaz de operar en modalidad Black Box partiendo únicamente de una IP o dominio.\n• Razonamiento vs. ejecución: la capacidad de la IA para analizar vulnerabilidades, calcular riesgos y decidir cuándo actuar de forma sigilosa o agresiva.\n• El futuro de la ofensiva: las implicaciones de sistemas autónomos que no descansan y que priorizan el compromiso real por encima del volumen de hallazgos.\n\n### 🚨 Lo que verás en directo\n\n• Enumeración autónoma.\n• Toma de decisiones basada en contexto.\n• Priorización inteligente de vectores de ataque.\n• Cadena de pensamiento ofensiva aplicada a escenarios reales.\n• IA operando desde consola como un adversario estratégico.\nPrepárate para ver el inicio de una nueva generación de ciberseguridad.\nUna donde la IA deja de ser una herramienta para convertirse en un adversario capaz de pensar, decidir y actuar.\n\n## 🌐 Comunidad\n\n👉 Únete a Discord:\n[https://devseccon.io/discordcommunity](https://devseccon.io/discordcommunity)\n📢 Telegram:\n[https://t.me/hackerdreamsdcomm](https://t.me/hackerdreamsdcomm)\n[https://t.me/hackbcn](https://t.me/hackbcn)\n[https://t.me/+EQXjdGyWYPAotmLG](https://t.me/+EQXjdGyWYPAotmLG)\n[https://t.me/xopsnoticias](https://t.me/xopsnoticias)\n[https://t.me/xopshispano](https://t.me/xopshispano)\n🐦 X (Twitter):\n@JR_kneda\n@hunters_flag\n@hackerdreamsorg\n@hackbcn\n@xopsconference\n\n## 🤝 Colaboración y patrocinio\n\nSi tu empresa quiere colaborar o patrocinar futuros eventos:\n📩 Email: [info@hackerdreams.org](mailto:info@hackerdreams.org)\n📝 Formulario: [https://forms.gle/JbBwUGY26fAeLqJ78](https://forms.gle/JbBwUGY26fAeLqJ78)\n💸 Donaciones:\n[https://www.paypal.com/donate/?hosted_button_id=8UHV5UN47J3DY](https://www.paypal.com/donate/?hosted_button_id=8UHV5UN47J3DY)\n[https://bmc.link/hackerdreams](https://bmc.link/hackerdreams)",
+    "start_at": "2026-09-24T18:00:00+02:00",
+    "end_at": null,
+    "url": "https://www.meetup.com/aiseceng-spain/events/316153101/",
+    "city": "Madrid",
+    "address": "Av. Gran Vía del Este, 1, Vicálvaro, 28032 Madrid",
+    "organizer": "AI Security Engineers - Madrid, ES",
+    "lat": null,
+    "lng": null,
+    "extra": {
+      "attendees": 19,
+      "max_tickets": 50,
+      "spots_left": 31
     },
     "found_on_platforms": [
       "meetup"
@@ -454,9 +425,9 @@
     "lat": null,
     "lng": null,
     "extra": {
-      "attendees": 14,
+      "attendees": 15,
       "max_tickets": 60,
-      "spots_left": 46
+      "spots_left": 45
     },
     "found_on_platforms": [
       "meetup"
@@ -478,9 +449,9 @@
     "lat": 38.9879607,
     "lng": -1.845739,
     "extra": {
-      "attendees": 69,
+      "attendees": 70,
       "max_tickets": 75,
-      "spots_left": 6
+      "spots_left": 5
     },
     "found_on_platforms": [
       "meetup"
@@ -564,30 +535,6 @@
     ]
   },
   {
-    "id": "meetup:316450466",
-    "source": "meetup",
-    "source_id": "316450466",
-    "name": "DevMad! Talks - September 2026",
-    "description": "Hello DevMadders!\n\nFresh off our summer break, we’re back for our last burst of summer energy! Join us at Puerta Innovación as we launch our autumn events with a wonderful introduction to video game creation and VR development (as ever, our talk event is in English 🇬🇧)\n\n**Rocío Tomé** – Creative Technical Director at Patattie Games – will get us started, giving us a look behind the curtain into the world of video game development.\n\n**Arturo Serrano Martínez** – VR Lead Developer at Pandora’s Box – will follow this up with an introduction to VR development.\n\nAfter the presentations, stick around to connect with Madrid’s game development community over casual networking food and drinks!\n\nThese are set to be two incredible talks from two really exciting speakers. We can’t wait to see you there!\n\n\\*\\*\\*\n\n**📋 Agenda**\n\n18:30 - Doors open\n18:40 - Introduction\n18:50 \\- Talk 1 – Rocío Tomé – Creative Technical Director at Patattie Games \\| So\\, You Want to Make Video Games?\n19:20 \\- Talk 2 – Arturo Serrano Martínez – VR Lead Developer at Pandora's Box \\| VR Development Fundamentals: Locomotion and Interaction\n19:50 - Networking\n20:45 - Home time\n\n\\*\\*\\*\n\n**🎙️ Talk #1**\n\n**Rocío Tomé - Creative Technical Director @ Patattie Games**\n\n**So, You Want to Make Video Games?**\n\nHave you ever considered pursuing game development professionally? Maybe just learning it as a hobby? Or simply wanting to know more about how the games you enjoy are made?\nIn this talk, we’ll take a look at the main game engines on the market and which one might be best for you, the various professional roles that make up the industry, and everything you need to keep in mind if you decide to jump into this exciting world.\n\n**🎙️ Talk #2**\n**Arturo Serrano Martínez - VR Lead Developer @ Pandora's Box**\n\n**VR Development Fundamentals: Locomotion and Interaction**\n\nThis talk is an introduction to VR development exploring the main locomotion and interaction techniques used in today’s experiences. We will learn their benefits, limitations, accessibility considerations, and how to design intuitive and engaging VR interactions.\n\n\\*\\*\\*\n\n**📍 Location**\n\nPuerta Innovación, C. de Toledo, 110, Centro, 28005 Madrid\n\n\\*\\*\\*\n\n**Event photography and video**\n\nPlease be aware that photographs and video material are taken at our events. DevMad and venue hosts may use these materials on our respective public channels and social networks to enhance awareness of our events. By attending the event, you agree to the use of these materials for these purposes.\n\n\\*\\*\\*\n\n**Submit a Talk**\n\nIf you want to present at a future DevMad event, don't be shy! We're keeping the Call For Papers open!\n\nJust fill in the form below and let's keep sharing our tech knowledge and experiences!\n\nhttps://forms.gle/vR5dumykYrSD5GWY6",
-    "start_at": "2026-09-14T18:30:00+02:00",
-    "end_at": null,
-    "url": "https://www.meetup.com/devmad/events/316450466/",
-    "city": "Madrid",
-    "address": "C/Toledo 110",
-    "organizer": "DevMad! Developers in Madrid",
-    "lat": 39.6839393,
-    "lng": -3.9773332,
-    "extra": {
-      "attendees": 30,
-      "max_tickets": 30,
-      "spots_left": 0
-    },
-    "found_on_platforms": [
-      "meetup"
-    ],
-    "duplicate_ids": []
-  },
-  {
     "id": "meetup:316446627",
     "source": "meetup",
     "source_id": "316446627",
@@ -602,9 +549,9 @@
     "lat": 40.4490059,
     "lng": -3.6708446,
     "extra": {
-      "attendees": 57,
+      "attendees": 58,
       "max_tickets": 80,
-      "spots_left": 23
+      "spots_left": 22
     },
     "found_on_platforms": [
       "meetup"
@@ -725,9 +672,9 @@
     "lat": -31.4124189,
     "lng": -64.1505784,
     "extra": {
-      "attendees": 30,
+      "attendees": 31,
       "max_tickets": 90,
-      "spots_left": 60
+      "spots_left": 59
     },
     "found_on_platforms": [
       "meetup"

@@ -20,7 +20,7 @@
     "categories": [
       "AI"
     ],
-    "guest_count": 61,
+    "guest_count": 83,
     "sold_out": true,
     "waitlist_active": true,
     "registration_deadline": null,
@@ -162,7 +162,7 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 53,
+    "guest_count": 55,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,
@@ -190,7 +190,7 @@
     "categories": [
       "AI"
     ],
-    "guest_count": 80,
+    "guest_count": 83,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,
@@ -254,34 +254,6 @@
     "registration_deadline": null,
     "lat": 40.4119879,
     "lng": -3.7058726
-  },
-  {
-    "source": "luma",
-    "source_slug": "madrid",
-    "source_id": "evt-1JvWiMDTEj9lY89",
-    "name": "Beers & Reliability",
-    "start_at": "2026-09-23T16:30:00.000Z",
-    "end_at": "2026-09-23T19:00:00.000Z",
-    "timezone": "Europe/Madrid",
-    "url": "https://lu.ma/zb95bhdg",
-    "city": "Madrid",
-    "address": "Hispanoamérica",
-    "organizer": "PagerDuty Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/m4/e59d9964-31f5-41e9-b480-92a3cc7c1a1f.png",
-    "found_in": [
-      "madrid"
-    ],
-    "description": "ENGJoin us for an evening of after-work drinks and real talk about building resilient systems. PagerDuty's Senior Developer Advocate, Daniel Afonso, will walk us through Chaos Engineering: how top teams break things on purpose to build more reliable software. Casual, hands-on, and open bar.Session will be delivered in English.\nAgenda18:30: Doors open; say hi, grab a seat, and eat some food19:00: Talk - Chaos Engineering, with Daniel Afonso. Sr. Developer Advocate (PagerDuty) + Q&A20:00: Networking time with food & drinks21:00: Wrap upPagerDuty is an incident management and real-time operations platform powered by AI designed to help teams detect, respond to, and resolve critical issues faster. For developers, PagerDuty streamlines on-call management, automates alerting, and integrates seamlessly with popular tools like Slack, GitHub, and AWS. Whether you’re building, deploying, or maintaining services, PagerDuty empowers engineering teams to minimise downtime, collaborate efficiently, and deliver reliable digital experiences. Learn more at https://www.pagerduty.com/.__________________________________________________________________ESPÚnete a nosotros para una tarde de after-work con cervezas y una charla sobre cómo construir sistemas más resilientes. Daniel Afonso, Senior Developer Advocate de PagerDuty, nos hablará de Chaos Engineering: cómo los mejores equipos rompen cosas a propósito para mejorar la fiabilidad de su software. Ambiente informal, cercano, y barra libre.La sesión será en inglés.Agenda\n18:30: Apertura de puertas: saluda, coge sitio y pilla algo de comer\n\n19:00: Charla: Chaos Engineering, con Daniel Afonso, Sr. Developer Advocate (PagerDuty) + Turno de preguntas\n\n20:00: Tiempo de networking con comida y bebida\n\n21:00: Cierre del evento\n\nPagerDuty es una plataforma de gestión de incidentes y operaciones en tiempo real impulsada por IA, diseñada para ayudar a los equipos a detectar, responder y resolver problemas críticos de forma más rápida. Para los desarrolladores, PagerDuty agiliza la gestión de las guardias (on-call), automatiza las alertas y se integra sin problemas con herramientas populares como Slack, GitHub y AWS. Ya estés construyendo, desplegando o manteniendo servicios, PagerDuty capacita a los equipos de ingeniería para minimizar el tiempo de inactividad, colaborar de manera eficiente y ofrecer experiencias digitales fiables. Más información en https://www.pagerduty.com/.",
-    "categories": [
-      "Tech"
-    ],
-    "guest_count": 42,
-    "sold_out": false,
-    "waitlist_active": false,
-    "registration_deadline": null,
-    "lat": 40.45623344565284,
-    "lng": -3.6870295799477137
   },
   {
     "source": "luma",

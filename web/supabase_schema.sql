@@ -250,6 +250,12 @@ create policy "El dueno se anade como miembro al crear el grupo" on public.group
 
 grant select, insert on public.groups to authenticated;
 grant select, insert on public.group_members to authenticated;
+-- La politica de "profiles" que comprueba grupos compartidos (mas abajo) consulta
+-- group_members incluso cuando quien mira la pagina no ha iniciado sesion (ej. el
+-- listado publico de eventos, que se ve sin cuenta) -- sin este grant, esa comprobacion
+-- falla con "permission denied" para cualquier visitante anonimo, no solo para quienes
+-- usan grupos.
+grant select on public.group_members to anon;
 
 -- SECURITY DEFINER: se ejecuta saltandose RLS, asi alguien que todavia no es miembro
 -- puede consultar el nombre del grupo (para confirmar antes de unirse) y unirse usando

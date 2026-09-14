@@ -11,9 +11,9 @@
     "city": "Madrid",
     "address": "C. de San Bernardo, 2, Centro, 28013 Madrid",
     "organizer": "Madrid Networking Club",
-    "attendees": 48,
+    "attendees": 50,
     "max_tickets": 120,
-    "spots_left": 72,
+    "spots_left": 70,
     "found_in": [
       "Artificial Intelligence",
       "Startups"
@@ -144,9 +144,9 @@
     "city": "Madrid",
     "address": "Calle Jorge Juan, 17",
     "organizer": "The Vibe Coding Club Madrid",
-    "attendees": 20,
-    "max_tickets": 20,
-    "spots_left": 0,
+    "attendees": 68,
+    "max_tickets": 80,
+    "spots_left": 12,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -173,8 +173,7 @@
     "spots_left": null,
     "found_in": [
       "Data Science",
-      "DevOps",
-      "Startups"
+      "DevOps"
     ],
     "lat": 40.4485287,
     "lng": -3.6940143
@@ -277,9 +276,9 @@
     "city": "Madrid",
     "address": "Calle de Pradillo, 42, 28002 Madrid, Spain",
     "organizer": "ProductTank Madrid",
-    "attendees": 52,
+    "attendees": 55,
     "max_tickets": 80,
-    "spots_left": 28,
+    "spots_left": 25,
     "found_in": [
       "DevOps",
       "Startups"
@@ -320,7 +319,7 @@
     "city": "Madrid",
     "address": "C/ del Alcalde Sainz de Baranda, 32, Retiro, 28009 Madrid",
     "organizer": "Startup Oasis - Tech, Founders, nomads, devs, UI/UX, Product",
-    "attendees": 15,
+    "attendees": 17,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -383,9 +382,9 @@
     "city": "Madrid",
     "address": "Bailén, 41",
     "organizer": "Quantum Madrid by Entangle",
-    "attendees": 25,
+    "attendees": 28,
     "max_tickets": 90,
-    "spots_left": 65,
+    "spots_left": 62,
     "found_in": [
       "Startups",
       "Hackathon"
@@ -447,7 +446,7 @@
     "city": "Madrid",
     "address": "calle coruña 5",
     "organizer": "Hacklab La Raiz",
-    "attendees": 1,
+    "attendees": 2,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

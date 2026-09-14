@@ -47,7 +47,7 @@
       ],
       "is_free": true,
       "guest_count": 0,
-      "sold_out": false,
+      "sold_out": true,
       "waitlist_active": false
     },
     "found_on_platforms": [
@@ -102,7 +102,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 40,
+      "guest_count": 45,
       "sold_out": true,
       "waitlist_active": true
     },
@@ -186,7 +186,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 65,
+      "guest_count": 76,
       "sold_out": false,
       "waitlist_active": false
     },
@@ -271,7 +271,7 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 38,
+      "guest_count": 40,
       "sold_out": false,
       "waitlist_active": false
     },
@@ -323,9 +323,9 @@
     "lat": 40.4207507,
     "lng": -3.708179,
     "extra": {
-      "attendees": 48,
+      "attendees": 50,
       "max_tickets": 120,
-      "spots_left": 72
+      "spots_left": 70
     },
     "found_on_platforms": [
       "meetup"
@@ -467,9 +467,9 @@
     "lat": 38.9879607,
     "lng": -1.845739,
     "extra": {
-      "attendees": 20,
-      "max_tickets": 20,
-      "spots_left": 0
+      "attendees": 68,
+      "max_tickets": 80,
+      "spots_left": 12
     },
     "found_on_platforms": [
       "meetup"
@@ -591,9 +591,9 @@
     "lat": 40.4490059,
     "lng": -3.6708446,
     "extra": {
-      "attendees": 52,
+      "attendees": 55,
       "max_tickets": 80,
-      "spots_left": 28
+      "spots_left": 25
     },
     "found_on_platforms": [
       "meetup"
@@ -639,7 +639,7 @@
     "lat": 40.4166565,
     "lng": -3.6742879,
     "extra": {
-      "attendees": 15,
+      "attendees": 17,
       "max_tickets": 0,
       "spots_left": null
     },
@@ -714,9 +714,9 @@
     "lat": -31.4124189,
     "lng": -64.1505784,
     "extra": {
-      "attendees": 25,
+      "attendees": 28,
       "max_tickets": 90,
-      "spots_left": 65
+      "spots_left": 62
     },
     "found_on_platforms": [
       "meetup"
@@ -762,7 +762,7 @@
     "lat": 37.7786423,
     "lng": -3.8006506,
     "extra": {
-      "attendees": 1,
+      "attendees": 2,
       "max_tickets": 0,
       "spots_left": null
     },

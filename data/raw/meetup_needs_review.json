@@ -11,7 +11,7 @@
     "city": "",
     "address": "",
     "organizer": "IA para Agencias, Freelancers y Consultores",
-    "attendees": 32,
+    "attendees": 33,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -70,11 +70,32 @@
     "city": "",
     "address": "",
     "organizer": "Escuela de Programación e Inteligencia Artificial",
-    "attendees": 1,
+    "attendees": 2,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316003588",
+    "name": "Closing the Continuous Learning Loop: From Agent Traces to Agent Training",
+    "description": "**Zoom link**: [https://us02web.zoom.us/j/82308186562](https://us02web.zoom.us/j/82308186562)\n\n**Talk #0: Introductions and Meetup Updates**\nby Chris Fregly and Antje Barth\n\n**Talk #1: Closing the Continuous Learning Loop: From Agent Traces to Agent Training**\nby Rustem Feyzkhanov, Engineering Manager @ Snorkel.ai\nProduction traces show where agents fail, but how do we turn those failures into learning? This talk explores a practical loop from traces to reproducible simulations, verifiable rewards, and model improvement through fine-tuning or reinforcement learning. We’ll also look at when it’s better to change prompts, tools, or the agent harness instead of updating model weights.\n\n**Zoom link**: [https://us02web.zoom.us/j/82308186562](https://us02web.zoom.us/j/82308186562)\n\n**Related Links**\nGithub Repo: [http://github.com/cfregly/ai-performance-engineering/](http://github.com/cfregly/ai-performance-engineering/)\nO'Reilly Book: [https://www.amazon.com/Systems-Performance-Engineering-Optimizing-Algorithms/dp/B0F47689K8/](https://www.amazon.com/Systems-Performance-Engineering-Optimizing-Algorithms/dp/B0F47689K8/)\nYouTube: [https://www.youtube.com/@AIPerformanceEngineering](https://www.youtube.com/@AIPerformanceEngineering)\nGenerative AI Free Course on DeepLearning.ai: [https://bit.ly/gllm](https://bit.ly/gllm)",
+    "start_at": "2026-09-21T18:00:00+02:00",
+    "url": "https://www.meetup.com/ai-performance-engineering-meetup-madrid/events/316003588/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "AI Performance Engineering Meetup (Madrid)",
+    "attendees": 7,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Science"
     ]
   },
   {
@@ -90,27 +111,6 @@
     "address": "",
     "organizer": "AI Professionals Madrid",
     "attendees": 7,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Data Science"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
-    "source_id": "316003588",
-    "name": "GPU, CUDA, and PyTorch Performance Optimizations",
-    "description": "**Zoom link**: [https://us02web.zoom.us/j/82308186562](https://us02web.zoom.us/j/82308186562)\n\n**Talk #0: Introductions and Meetup Updates**\nby Chris Fregly and Antje Barth\n\n**Talk #1: GPU, PyTorch, and CUDA Performance Optimizations**\n\n**Talk #2: GPU, PyTorch, and CUDA Performance Optimizations**\n\n**Zoom link**: [https://us02web.zoom.us/j/82308186562](https://us02web.zoom.us/j/82308186562)\n\n**Related Links**\nGithub Repo: [http://github.com/cfregly/ai-performance-engineering/](http://github.com/cfregly/ai-performance-engineering/)\nO'Reilly Book: [https://www.amazon.com/Systems-Performance-Engineering-Optimizing-Algorithms/dp/B0F47689K8/](https://www.amazon.com/Systems-Performance-Engineering-Optimizing-Algorithms/dp/B0F47689K8/)\nYouTube: [https://www.youtube.com/@AIPerformanceEngineering](https://www.youtube.com/@AIPerformanceEngineering)\nGenerative AI Free Course on DeepLearning.ai: [https://bit.ly/gllm](https://bit.ly/gllm)",
-    "start_at": "2026-09-21T18:00:00+02:00",
-    "url": "https://www.meetup.com/ai-performance-engineering-meetup-madrid/events/316003588/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "AI Performance Engineering Meetup (Madrid)",
-    "attendees": 5,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -379,6 +379,25 @@
   },
   {
     "source": "meetup",
+    "source_slug": "Startups",
+    "source_id": "316496019",
+    "name": "How to Use AI to Build Your Personal Brand in 2026",
+    "description": "This event is being promoted by many groups.\n\nOur meetup group is participating by promoting this event.\n\nThis event is organized by Albert's List.\n\nOur meetup group is collaborating by promoting this event.\n\nThis is an online event.\n\nAttendees can be located anywhere in the world!\n\nThis event is FREE to attend!\n\nIn order to attend, please register here:\n[https://www.eventbrite.com/e/how-to-use-ai-to-build-your-personal-brand-in-2026-tickets-1999065665218?aff=ideatoipo](https://www.eventbrite.com/e/how-to-use-ai-to-build-your-personal-brand-in-2026-tickets-1999065665218?aff=ideatoipo)\nMost professionals already have the raw material for a strong personal brand. It is sitting inside their resume, LinkedIn profile, portfolio, past projects, presentations, client work, and career stories. The challenge is knowing what to extract, how to package it, and how to share it consistently.\nIn this Albert’s List webinar, we’ll explore how AI workflows can help professionals build visibility online without starting from scratch every week. Whether you are employed, between roles, freelancing, consulting, building a side hustle, or exploring your next move, a stronger personal brand can help others understand your expertise before they ever meet you.\nWe will demonstrate how tools like n8n and ComfyUI can help transform existing career assets into LinkedIn posts, short-form video scripts, content ideas, visual assets, audio concepts, and repeatable workflows.\nAttendees will leave with a clearer understanding of how AI can support personal branding, career visibility, and opportunity creation in 2026.",
+    "start_at": "2026-10-02T00:00:00+02:00",
+    "url": "https://www.meetup.com/spain-startup-idea-to-ipo/events/316496019/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Spain  Startup: Idea to IPO",
+    "attendees": 1,
+    "max_tickets": 50,
+    "spots_left": 49,
+    "found_in": [
+      "Startups"
+    ]
+  },
+  {
+    "source": "meetup",
     "source_slug": "Hackathon",
     "source_id": "316498913",
     "name": "Hack The Box Meetup: El Nuevo Enfoque al Activation Context Hijacking ",
@@ -398,6 +417,25 @@
   },
   {
     "source": "meetup",
+    "source_slug": "Hackathon",
+    "source_id": "316185487",
+    "name": "Open Source Climate Accounting: What Exists, What's Missing+Where To Contribute",
+    "description": "Climate accounting increasingly depends on systems that were never designed to work together. Registries use different standards and data models. The same activity can appear across multiple systems. Measurement data may come from sensors, satellite observations, models, or manual reporting, often with limited provenance or no straightforward way for downstream users to verify how a claim was produced.\n\nThese are not only reporting problems but they are problems of interoperability, provenance, reconciliation and trust between independent systems.\n\nA substantial amount of open-source work already exists to address them, but much of it remains fragmented or little known outside the communities that built it. This session will map that landscape: what is already available, what is mature enough to use today, what remains experimental and where meaningful technical contributions are still needed.\n\nThe aim is not to argue that blockchain is the answer to climate accounting. It is to look practically at where distributed ledgers, verifiable data, open standards and other open-source infrastructure can solve specific problems or where they cannot.\n\nStructure - The session would begin with a short framing of the technical problems behind climate and impact accounting: provenance, reconciliation, double counting, interoperability and verification across organisational boundaries.\n\nFrom there, members of the LF Decentralized Trust community could walk through existing open-source projects and frameworks, explaining what they were built to solve, how mature they are and where they are being used today.\n\nThe final part would focus on the gaps: problems that remain unsolved, areas where maintainers would welcome contributions and practical ways for developers, researchers and organisations to get involved.\n\nThe IEEE ClimateChain Global Hackathon ([https://ieee-climatechain-hack.devpost.com/](https://ieee-climatechain-hack.devpost.com/)) would be introduced as one of those routes to contribution.\n\nThe goal is for participants to leave with a clearer picture of what already exists, which problems are genuinely open and where their time and technical skills could have the greatest value.\n\n**Zoom Meeting Link**: [https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09](https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09)\n\n**Please note: This event is being shared with our entire global community. If you're interested in this content but can't attend the event live, feel free to sign up and we will send you a link to the recording after the meetup is over.**",
+    "start_at": "2026-10-01T18:00:00+02:00",
+    "url": "https://www.meetup.com/lfdt-madrid/events/316185487/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "LFDT Madrid",
+    "attendees": 1,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Hackathon"
+    ]
+  },
+  {
+    "source": "meetup",
     "source_slug": "Artificial Intelligence",
     "source_id": "316335741",
     "name": "MARCHA POR LA LONGEVIDAD DE MADRID: Jueves 1 de octubre, 14:00 - 15:30, CET",
@@ -408,7 +446,7 @@
     "city": "Madrid",
     "address": "Calle Arrieta, número 12, 28013 Madrid",
     "organizer": "Madrid Singularity",
-    "attendees": 120,
+    "attendees": 121,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -495,25 +533,6 @@
   {
     "source": "meetup",
     "source_slug": "Hackathon",
-    "source_id": "316283031",
-    "name": "Yoga in Retiro – Breathe, Flow & Connect",
-    "description": "Welcome to **Yoga in Retiro – Breathe, Flow & Connect** 🌿\n\nJoin us every **Tuesday at 6:00 pm** for a relaxing outdoor yoga class in the beautiful surroundings of Retiro Park.\n\nThese 60-minute sessions combine mindful movement, breathing and a gentle flow to help you release the stress of the day, reconnect with your body and enjoy some time outdoors.\n\nThis group is also about connection. It’s a welcoming, international community for anyone who would like to practise yoga, meet new people and bring a little more calm and positive energy into their week.\nPlease bring:\n\n* Your own yoga mat\n* Comfortable clothes\n* Water\n* A warm layer for the final relaxation as autumn approaches\n\nThe exact meeting point in Retiro will be shared with registered participants.\n\nCome move, breathe and reset with us. See you on Tuesday! 🧘‍♂️✨",
-    "start_at": "2026-09-15T18:30:00+02:00",
-    "url": "https://www.meetup.com/yoga-in-retiro-breathe-flow-connect/events/316283031/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "Puerta de El Niño Jesús",
-    "organizer": "Yoga in Retiro – Breathe, Flow & Connect",
-    "attendees": 1,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Hackathon"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Hackathon",
     "source_id": "316529421",
     "name": "OPEN DAY",
     "description": "[EVENTOS DEL HACKLAB](https://hacklab.laenre.net/eventos)\n\nHACKLAB LA RAIZ OPEN DAY : VIERNES 5 DE DICIEMBRE.\n\nVen a conocer el espacio y el colectivo!!\nTe encantará ; - )\nCalle de la coruña numer 5 , 3ra planta.\n19:00 - 22:00\nPrimer viernes de cada mes:",
@@ -523,7 +542,7 @@
     "city": "Madrid",
     "address": "calle coruña 5",
     "organizer": "Hacklab La Raiz",
-    "attendees": 1,
+    "attendees": 2,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

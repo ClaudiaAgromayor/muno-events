@@ -17,16 +17,17 @@ export default function Home() {
           </div>
         </div>
         <p className="font-display max-w-xl text-xl italic text-muted sm:text-2xl">
-          Eventos de tech, IA y ML en Madrid. Curados a mano, sin genéricos ni relleno.
+          Todo el tech de Madrid en un sitio. Lo demás es ruido.
         </p>
       </header>
 
-      <section className="pt-10">
-        <EventMapLoader events={events} />
-      </section>
-
       <section className="mx-auto max-w-3xl pt-10">
         <EventList events={events} />
+      </section>
+
+      <section className="pt-16">
+        <h2 className="font-display pb-4 text-2xl italic text-muted">Mapa</h2>
+        <EventMapLoader events={events} />
       </section>
     </main>
   );

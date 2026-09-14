@@ -7,6 +7,7 @@ import type { MunoEvent } from "@/app/lib/events";
 import { formatEventDate, groupEventsByDay, registrationDeadlineLabel, spotsLabel, spotsUrgent } from "@/app/lib/events";
 import RsvpControl, { type RsvpSummary } from "@/app/components/RsvpControl";
 import { useToast } from "@/app/components/Toast";
+import EventMiniMapLoader from "@/app/components/EventMiniMapLoader";
 
 type RsvpRow = {
   event_id: string;
@@ -205,6 +206,7 @@ function EventRow({
   const deadline = registrationDeadlineLabel(event);
   const categories = event.extra.categories;
   const time = event.start_at ? formatEventDate(event.start_at).time : null;
+  const [showMap, setShowMap] = useState(false);
 
   // El enlace SOLO envuelve la parte que debe llevar al evento (fecha/titulo/direccion).
   // Antes el <select> de grupos vivia dentro del <a>, y abrir un <select> nativo no se
@@ -212,45 +214,67 @@ function EventRow({
   // seguia navegando. Sacar los controles fuera del enlace evita el problema de raiz en
   // vez de parchear el evento de clic.
   return (
-    <div className="group flex items-start gap-6 border-b border-line py-5 sm:gap-8">
-      <a
-        href={event.url ? `/ir/${encodeURIComponent(event.id)}` : "#"}
-        target="_blank"
-        rel="noopener noreferrer"
-        className="flex min-w-0 flex-grow gap-6 sm:gap-8"
-      >
-        <div className="w-14 flex-shrink-0 pt-1 text-sm text-muted sm:w-16">{time ?? ""}</div>
+    <div className="group flex flex-col gap-3 border-b border-line py-5">
+      <div className="flex items-start gap-6 sm:gap-8">
+        <a
+          href={event.url ? `/ir/${encodeURIComponent(event.id)}` : "#"}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex min-w-0 flex-grow gap-6 sm:gap-8"
+        >
+          <div className="w-14 flex-shrink-0 pt-1 text-sm text-muted sm:w-16">{time ?? ""}</div>
 
-        <div className="flex min-w-0 flex-grow flex-col gap-1.5">
-          <div className="font-body text-lg font-semibold group-hover:underline group-hover:decoration-1 group-hover:underline-offset-4 sm:text-xl">
-            {event.name}
+          <div className="flex min-w-0 flex-grow flex-col gap-1.5">
+            <div className="font-body text-lg font-semibold group-hover:underline group-hover:decoration-1 group-hover:underline-offset-4 sm:text-xl">
+              {event.name}
+            </div>
+            <div className="flex flex-wrap items-center gap-x-2 gap-y-1">
+              {event.address && <span className="text-sm text-muted">{event.address}</span>}
+              {event.lat != null && event.lng != null && (
+                <button
+                  onClick={(e) => {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    setShowMap((v) => !v);
+                  }}
+                  className="text-[11px] uppercase tracking-wider text-muted underline decoration-dotted underline-offset-2 hover:text-foreground"
+                >
+                  {showMap ? "Ocultar mapa" : "Ver ubicación"}
+                </button>
+              )}
+            </div>
           </div>
-          {event.address && <div className="text-sm text-muted">{event.address}</div>}
-        </div>
-      </a>
+        </a>
 
-      <div className="flex flex-shrink-0 flex-col items-end gap-2">
-        {categories?.map((c) => (
-          <span
-            key={c}
-            className="rounded-full border border-foreground px-2.5 py-0.5 text-[11px] uppercase tracking-wider"
-          >
-            {c}
-          </span>
-        ))}
-        {spots && (
-          <span className={`text-xs font-medium ${urgent ? "text-accent" : "text-ok"}`}>{spots}</span>
-        )}
-        {deadline && <span className="text-[11px] text-muted">{deadline}</span>}
-        <RsvpControl
-          summary={summary}
-          signedIn={signedIn}
-          full={full}
-          myGroups={myGroups}
-          onToggle={onToggleRsvp}
-          onGroupRsvp={onGroupRsvp}
-        />
+        <div className="flex flex-shrink-0 flex-col items-end gap-2">
+          {categories?.map((c) => (
+            <span
+              key={c}
+              className="rounded-full border border-foreground px-2.5 py-0.5 text-[11px] uppercase tracking-wider"
+            >
+              {c}
+            </span>
+          ))}
+          {spots && (
+            <span className={`text-xs font-medium ${urgent ? "text-accent" : "text-ok"}`}>{spots}</span>
+          )}
+          {deadline && <span className="text-[11px] text-muted">{deadline}</span>}
+          <RsvpControl
+            summary={summary}
+            signedIn={signedIn}
+            full={full}
+            myGroups={myGroups}
+            onToggle={onToggleRsvp}
+            onGroupRsvp={onGroupRsvp}
+          />
+        </div>
       </div>
+
+      {showMap && event.lat != null && event.lng != null && (
+        <div className="ml-[80px] max-w-xs sm:ml-[104px]">
+          <EventMiniMapLoader lat={event.lat} lng={event.lng} />
+        </div>
+      )}
     </div>
   );
 }

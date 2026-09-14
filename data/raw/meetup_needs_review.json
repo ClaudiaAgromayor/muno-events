@@ -11,7 +11,7 @@
     "city": "",
     "address": "",
     "organizer": "IA para Agencias, Freelancers y Consultores",
-    "attendees": 33,
+    "attendees": 39,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -51,7 +51,7 @@
     "city": "",
     "address": "",
     "organizer": "Power Platform Madrid",
-    "attendees": 7,
+    "attendees": 9,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -89,7 +89,7 @@
     "city": "",
     "address": "",
     "organizer": "AI Performance Engineering Meetup (Madrid)",
-    "attendees": 7,
+    "attendees": 8,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -223,26 +223,6 @@
   },
   {
     "source": "meetup",
-    "source_slug": "Artificial Intelligence",
-    "source_id": "316397919",
-    "name": "AI Deep Dive Webinar - Taking LangGraph to production",
-    "description": "**Important**: Register on the [event website](https://www.aicamp.ai/event/eventdetails/W2026091710) to receive the joining link. (rsvp on meetup will NOT receive anything).\n\nThis is virtual event for our AI global community, please double-check your local time. Can't make it live? Register anyway to receive the webinar recording.\n\nJoin Diagrid to learn taking LangGraph to production\n\n**Tech Talk: Taking LangGraph to production**\n**Speaker:** Mark Fussell\\, Co\\-founder & CEO\\, Diagrid \\| Co\\-creator of Dapr\\. and Yaron Schneider\\, Co\\-founder & CTO\\, Diagrid \\| Co\\-creator of Dapr\n**Abstract:** In this session, Dapr co-creators Mark Fussell and Yaron Schneider draw the line between checkpointing and durable execution, show exactly where LangGraph's persistence stops, and kill a live LangGraph agent mid-run to show Diagrid Catalyst bring it back without any re-architecture or custom recovery code.\nYou'll walk away knowing:\n\n* How to make LangGraph agents failure-proof, even in the face of complete outages\n* How to keep a complete, tamper-proof system of record that proves what your agents did\n* How to secure LangGraph deployments in any environment and specifically on Kubernetes\n\n**Who should attend**\nEngineers and architects running or planning to run LangGraph agents, platform teams responsible for agent reliability, and engineering leaders deciding how much of the reliability stack to build themselves.\n\n**Venue:**\nVirtual, join from anywhere\n\n**More virtual sessions:**\n\n* Sep 22nd: Google Agents in Production for Enterprises (#1). [RSVP](https://www.aicamp.ai/event/eventdetails/W2026081110)\n* Oct 14th: AI Deep Dive with Google Ep 4. [RSVP](https://www.aicamp.ai/event/eventdetails/W2026101410)",
-    "start_at": "2026-09-24T19:00:00+02:00",
-    "url": "https://www.meetup.com/madrid-ai-developers-group/events/316397919/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Madrid AI Developers Group",
-    "attendees": 4,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence",
-      "DevOps"
-    ]
-  },
-  {
-    "source": "meetup",
     "source_slug": "Machine Learning",
     "source_id": "316064663",
     "name": "Sept 30 - Building Composable Vision Workflows in FiftyOne",
@@ -273,7 +253,7 @@
     "city": "",
     "address": "",
     "organizer": "Analytics.CLUB Madrid",
-    "attendees": 2,
+    "attendees": 3,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -318,6 +298,25 @@
     "spots_left": null,
     "found_in": [
       "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "316397919",
+    "name": "AI Deep Dive Webinar - Taking LangGraph to production",
+    "description": "**Important**: Register on the [event website](https://www.aicamp.ai/event/eventdetails/W2026091710) to receive the joining link. (rsvp on meetup will NOT receive anything).\n\nThis is virtual event for our AI global community, please double-check your local time. Can't make it live? Register anyway to receive the webinar recording.\n\nJoin Diagrid to learn taking LangGraph to production\n\n**Tech Talk: Taking LangGraph to production**\n**Speaker:** Mark Fussell\\, Co\\-founder & CEO\\, Diagrid \\| Co\\-creator of Dapr\\. and Yaron Schneider\\, Co\\-founder & CTO\\, Diagrid \\| Co\\-creator of Dapr\n**Abstract:** In this session, Dapr co-creators Mark Fussell and Yaron Schneider draw the line between checkpointing and durable execution, show exactly where LangGraph's persistence stops, and kill a live LangGraph agent mid-run to show Diagrid Catalyst bring it back without any re-architecture or custom recovery code.\nYou'll walk away knowing:\n\n* How to make LangGraph agents failure-proof, even in the face of complete outages\n* How to keep a complete, tamper-proof system of record that proves what your agents did\n* How to secure LangGraph deployments in any environment and specifically on Kubernetes\n\n**Who should attend**\nEngineers and architects running or planning to run LangGraph agents, platform teams responsible for agent reliability, and engineering leaders deciding how much of the reliability stack to build themselves.\n\n**Venue:**\nVirtual, join from anywhere\n\n**More virtual sessions:**\n\n* Sep 22nd: Google Agents in Production for Enterprises (#1). [RSVP](https://www.aicamp.ai/event/eventdetails/W2026081110)\n* Oct 14th: AI Deep Dive with Google Ep 4. [RSVP](https://www.aicamp.ai/event/eventdetails/W2026101410)",
+    "start_at": "2026-09-24T19:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-ai-developers-group/events/316397919/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Madrid AI Developers Group",
+    "attendees": 4,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "DevOps"
     ]
   },
   {
@@ -408,7 +407,7 @@
     "city": "",
     "address": "",
     "organizer": "Hack The Box Meetup: Salamanca, ES",
-    "attendees": 17,
+    "attendees": 18,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -465,11 +464,12 @@
     "city": "Madrid",
     "address": "C. del Marqués de Casa Riera, 4, Centro, 28014 Madrid, Spain",
     "organizer": "Cloudflare User Group España (IA, CyberSecurity & Edge Dev)",
-    "attendees": 33,
+    "attendees": 34,
     "max_tickets": 50,
-    "spots_left": 17,
+    "spots_left": 16,
     "found_in": [
-      "Artificial Intelligence"
+      "Artificial Intelligence",
+      "Hackathon"
     ]
   },
   {
@@ -522,9 +522,9 @@
     "city": "Madrid",
     "address": "C. de Toledo, 110, Centro, 28005 Madrid",
     "organizer": "MadRust",
-    "attendees": 16,
+    "attendees": 17,
     "max_tickets": 35,
-    "spots_left": 19,
+    "spots_left": 18,
     "found_in": [
       "DevOps",
       "Hackathon"
@@ -542,25 +542,6 @@
     "city": "Madrid",
     "address": "calle coruña 5",
     "organizer": "Hacklab La Raiz",
-    "attendees": 2,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Hackathon"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Hackathon",
-    "source_id": "316382056",
-    "name": "El juego de tu voz (LinkedIn) - taller boutique",
-    "description": "**Taller El Juego de Tu Voz · Comunica mejor lo que haces en LinkedIn**\n\n**IMPORTANTE: el botón «Asistir» de Meetup no reserva una plaza ni funciona como entrada al taller. La inscripción queda confirmada únicamente al completar el pago en el enlace de Stripe indicado más abajo.**\n\n¿Cómo cuentas lo que haces cuando detrás hay años de experiencia y muchas ideas que no caben en dos líneas?\n\nSi investigas, escribes, emprendes o estás dando forma a un proyecto, quizá te hayas encontrado buscando las palabras para explicar qué aportas y conectar con personas a las que puede interesar tu trabajo.\n\nDesde la Red de Inteligencia Colectiva compartimos El Juego de Tu Voz, un taller presencial para dedicar tiempo a esas preguntas y llevar lo que descubras a tu presentación profesional y a tu perfil de LinkedIn.\n\nDurante dos días trabajaréis sobre tu trayectoria, tu manera de contarla y la imagen que transmites. Lo haréis con juegos, ejercicios, conversaciones y las aportaciones del grupo, que muchas veces nos ayudan a reconocer algo valioso que nosotros mismos pasamos por alto.\n\nSerá también una oportunidad para conocer a otras personas, compartir experiencias y descubrir intereses comunes.\n\nEl taller está creado y dirigido por Francis García Cedeño, de la escuela Amo Tu Voz, con la participación de Fernando Santiago, Paula A. Giraldo Gómez y María S. Beltrán. Entre ellos abordarán el relato personal, la creatividad, las distintas formas de comunicarnos y la imagen profesional.\n\nFrancis y Fernando forman parte de nuestra Red y participan en sus actividades. De hecho, se conocieron en uno de los talleres que Fernando organizó aquí: era la primera actividad de la Red a la que asistía Francis. Al descubrir su manera de trabajar con las historias y el juego, tuvo claro que quería contar con él en sus propios talleres. Hoy colaboran en El Juego de Tu Voz.\n\nTe llevarás orientaciones para mejorar tu perfil de LinkedIn, un cuaderno de trabajo digital y una hoja de ruta para seguir avanzando. La experiencia incluye certificado de participación y dos encuentros grupales por internet, a los 30 y 60 días, para compartir avances y resolver dudas.\n\n**Información del taller**\n\n24 y 25 de septiembre de 2026, de 10:00 a 14:00 y de 15:30 a 19:00, ambos días.\n\nTRIPLE · Calle de Ferraz, 56 · Madrid.\n\nLa inscripción incluye las dos jornadas completas, con un total de 15 horas presenciales. Trae tu ordenador portátil para trabajar durante las sesiones.\n\n**Precio para nuestra comunidad: 350 €, frente al precio general de 390 €.**\n\nReserva tu plaza con el precio de RED:\n[https://buy.stripe.com/8x24gA2lMa769ko3lhb7y03?client_reference_id=RED350](https://buy.stripe.com/8x24gA2lMa769ko3lhb7y03?client_reference_id=RED350)\n\n**El descuento ya está aplicado en el enlace; no necesitas introducir ningún código. Tu plaza se confirma únicamente cuando el pago se completa en Stripe. Marcar «Asistir» en Meetup no sustituye la compra.**\n\nSi tienes alguna duda, puedes escribir a Francis por WhatsApp al +34 657 28 25 42.\n\n**En la entrada comprobaremos las inscripciones confirmadas en Stripe. La confirmación o el QR generado por Meetup no son entradas válidas y no permiten acceder al taller.**",
-    "start_at": "2026-09-24T10:00:00+02:00",
-    "url": "https://www.meetup.com/collective-intelligence-inteligencia-colectiva/events/316382056/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "calle Ferraz 56",
-    "organizer": "Inteligencia colectiva",
     "attendees": 2,
     "max_tickets": 0,
     "spots_left": null,

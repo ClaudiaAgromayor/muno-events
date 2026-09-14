@@ -33,9 +33,9 @@
     "city": "Madrid",
     "address": "P.º de La Habana, 9, 11, Chamartín, 28036 Madrid, Spain",
     "organizer": "Sirviendo Código",
-    "attendees": 17,
+    "attendees": 18,
     "max_tickets": 30,
-    "spots_left": 13,
+    "spots_left": 12,
     "found_in": [
       "Artificial Intelligence"
     ],
@@ -122,9 +122,9 @@
     "city": "Madrid",
     "address": "de la comunidad, C. de Bravo Murillo, 39, Local interior, Chamberí, 28015 Madrid, Spain",
     "organizer": "Madrid Machine Learning Meetup",
-    "attendees": 12,
+    "attendees": 14,
     "max_tickets": 60,
-    "spots_left": 48,
+    "spots_left": 46,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning"
@@ -144,9 +144,9 @@
     "city": "Madrid",
     "address": "Calle Jorge Juan, 17",
     "organizer": "The Vibe Coding Club Madrid",
-    "attendees": 68,
-    "max_tickets": 80,
-    "spots_left": 12,
+    "attendees": 69,
+    "max_tickets": 75,
+    "spots_left": 6,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -155,6 +155,29 @@
     ],
     "lat": 38.9879607,
     "lng": -1.845739
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316210308",
+    "name": "#CodeMeet: ¿Quién controla a los agentes? De ahorrar tokens a construir MCPs",
+    "description": "# **#CodeMeet Madrid: ¿Quién controla a los agentes? De ahorrar tokens a construir MCPs: la ingeniería detrás de la IA que actúa.**\n\nLa IA ya no solo responde preguntas. Ahora puede consultar información, utilizar herramientas, interactuar con nuestros sistemas y ejecutar tareas.\nPero cuanto más capaces son los agentes, más preguntas aparecen: ¿cómo hacemos que sean eficientes? ¿Cómo los integramos de verdad en una organización? ¿Y cómo mantenemos el control cuando empiezan a tomar decisiones y ejecutar acciones?\n\nEn este CodeMeet junto a la comunidad de Arcasiles exploraremos la ingeniería que hay detrás de los sistemas agentic desde tres perspectivas: eficiencia, infraestructura y seguridad.\n\n[RESERVA TU PLAZA AQUÍ](https://community.codemotion.com/codemotion-espana/meetups/codemeet-madrid-quin-controla-a-los-agentes-de-ahorrar-tokens-a-construir-mcps)\n\nEste es el form oficial donde apuntarse\n\nHablaremos de cómo optimizar el contexto y el consumo de tokens, de cómo construir un MCP conectado con los sistemas reales de una organización y de qué necesitamos para mantener seguros y bajo control a unos agentes cada vez más autónomos.\nTres charlas, tres perspectivas y una misma pregunta: cuando la IA empieza a actuar, ¿está preparada nuestra ingeniería para ello?\n\n# 🧠 ¿Qué veremos?\n\n* Cómo reducir el consumo de tokens en nuestros flujos de desarrollo con IA sin perder calidad.\n* Model routing, skills, subagentes y técnicas para optimizar el contexto.\n* Cómo construir un MCP capaz de conectar un LLM con herramientas y sistemas corporativos.\n* Qué problemas aparecen cuando un MCP deja de ser una demo y pasa a formar parte de la infraestructura de una organización.\n* Seguridad, observabilidad y gobernanza en sistemas basados en agentes.\n* Cómo mantener el control sobre agentes que cada vez tienen más herramientas y capacidad de acción.\n\n# 🎤 Ponentes\n\n**Manuel Fernández — Software Engineer @ Thoughtworks** \\- De Cajas Negras a Facturas Infladas: Ingeniería de Contexto y Agentes para ahorrar Tokens al programar con IA\n\nIngeniero de Software con más de 6 años de experiencia, especializado en arquitectura de software y desarrollo asistido por IA. Actualmente trabaja en cómo integrar agentes y LLMs en pipelines de desarrollo reales sin sacrificar la calidad, el testing ni las convenciones de los equipos.\n\nLos agentes nos permiten trabajar con sistemas cada vez más sofisticados, pero también pueden disparar el consumo de tokens. Manuel nos mostrará cómo optimizar el contexto, utilizar diferentes modelos según la tarea y aplicar técnicas como pruning, Progressive Disclosure y Prompt Caching para conseguir flujos de desarrollo más eficientes.\n\n**Raúl López Caña — Fullstack Engineer @ Galp** \\- Anatomía de un MCP: construyendo la capa de IA de una organización\n\nIngeniero fullstack especializado en tecnologías frontend y apasionado por mejorar la Developer Experience de los equipos.\n¿Qué hace falta para que un LLM deje de ser un chatbot y empiece a entender cómo funciona una organización? Raúl abrirá un MCP construido para un ecosistema de productos y repasará su arquitectura, herramientas, contexto, seguridad, observabilidad e integraciones con sistemas corporativos.\n\n**Osmani Redondo** — Directora de iaS - ¿Quién controla a los agentes? Seguridad y gobernanza en la era de la IA\n\nIngeniera de software y arquitecta cloud, dirige iaS (Inteligencia Artificial Segura), la primera infraestructura de seguridad de la IA en español; compagina esta labor con la dirección del seminario mensual de BlueDot Impact, su rol como profesora invitada en instituciones de prestigio como la UNAM de México, y su participación como socia del Observatorio del Impacto Social y Ético de la IA (OdiseIA).\n\nA medida que los agentes ganan autonomía y acceso a herramientas, la seguridad y la gobernanza dejan de ser un añadido para convertirse en parte fundamental de la arquitectura. En esta sesión veremos cómo abordar estos retos y qué necesitamos para mantener bajo control sistemas cada vez más capaces.\n\n# ⚙️ ¿Para quién es este evento?\n\nEste meetup está pensado para:\n\n* Desarrolladores e ingenieros de software que ya utilizan IA en su día a día.\n* Arquitectos y perfiles técnicos interesados en sistemas agentic.\n* Profesionales que estén explorando MCP y otras formas de conectar LLMs con herramientas y sistemas internos.\n* Tech Leads, DevOps y responsables de plataformas que quieran entender qué implica llevar agentes a producción.\n* Cualquier persona interesada en la arquitectura, seguridad y evolución de los sistemas basados en IA.\n\nNo necesitas ser especialista en agentes para venir. Si ya te estás preguntando qué pasa cuando dejamos de usar la IA como chatbot y empezamos a integrarla en nuestros sistemas, aquí encontrarás algunas respuestas.\n\n# 🔔 Agenda\n\n18:30 — Check-in\n\n18:45 — Bienvenida y presentación de comunidades\n\n18:50 — De Cajas Negras a Facturas Infladas: Ingeniería de Contexto y Agentes para ahorrar Tokens al programar con IA -\nManuel Fernández\n\n19:20 — Anatomía de un MCP: construyendo la capa de IA de una organización -\nRaúl López Caña\n\n19:50 — ¿Quién controla a los agentes? Seguridad y gobernanza en la era de la IA -\nOsmani Redondo\n\n20:20 — Cierre\n\n20:25 — Networking 🍻\n\nDespués del evento nos tomaremos algo por la zona así que quédate hasta el final para conocer a la gente de la comunidad\n\n# 📍 Información del evento\n\n📅 Jueves, 17 de septiembre de 2026\n🕡 18:30\n📍 Madrid\n🎟️ Entrada gratuita hasta completar aforo\n[\\[RESERVA TU ENTRADA\\]](https://community.codemotion.com/codemotion-espana/meetups/codemeet-madrid-quin-controla-a-los-agentes-de-ahorrar-tokens-a-construir-mcps)\n\nLa IA ya puede actuar. La pregunta es si nuestra ingeniería está preparada para dejarla hacerlo.",
+    "start_at": "2026-09-17T18:30:00+02:00",
+    "url": "https://www.meetup.com/codemotion-espana/events/316210308/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Plaza de Manuel Gómez-Moreno, 2, Tetuán, 28020",
+    "organizer": "Codemotion Meetup en España",
+    "attendees": 14,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence",
+      "DevOps",
+      "Hackathon"
+    ],
+    "lat": 40.4485287,
+    "lng": -3.6940143
   },
   {
     "source": "meetup",
@@ -212,7 +235,7 @@
     "city": "Madrid",
     "address": "Plaza de Manuel Gómez-Moreno, 2, Tetuán, 28020",
     "organizer": "Madrid DevOps",
-    "attendees": 24,
+    "attendees": 23,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -245,28 +268,6 @@
   {
     "source": "meetup",
     "source_slug": "DevOps",
-    "source_id": "316210308",
-    "name": "#CodeMeet: ¿Quién controla a los agentes? De ahorrar tokens a construir MCPs",
-    "description": "# **#CodeMeet Madrid: ¿Quién controla a los agentes? De ahorrar tokens a construir MCPs: la ingeniería detrás de la IA que actúa.**\n\nLa IA ya no solo responde preguntas. Ahora puede consultar información, utilizar herramientas, interactuar con nuestros sistemas y ejecutar tareas.\nPero cuanto más capaces son los agentes, más preguntas aparecen: ¿cómo hacemos que sean eficientes? ¿Cómo los integramos de verdad en una organización? ¿Y cómo mantenemos el control cuando empiezan a tomar decisiones y ejecutar acciones?\n\nEn este CodeMeet junto a la comunidad de Arcasiles exploraremos la ingeniería que hay detrás de los sistemas agentic desde tres perspectivas: eficiencia, infraestructura y seguridad.\n\n[RESERVA TU PLAZA AQUÍ](https://community.codemotion.com/codemotion-espana/meetups/codemeet-madrid-quin-controla-a-los-agentes-de-ahorrar-tokens-a-construir-mcps)\n\nEste es el form oficial donde apuntarse\n\nHablaremos de cómo optimizar el contexto y el consumo de tokens, de cómo construir un MCP conectado con los sistemas reales de una organización y de qué necesitamos para mantener seguros y bajo control a unos agentes cada vez más autónomos.\nTres charlas, tres perspectivas y una misma pregunta: cuando la IA empieza a actuar, ¿está preparada nuestra ingeniería para ello?\n\n# 🧠 ¿Qué veremos?\n\n* Cómo reducir el consumo de tokens en nuestros flujos de desarrollo con IA sin perder calidad.\n* Model routing, skills, subagentes y técnicas para optimizar el contexto.\n* Cómo construir un MCP capaz de conectar un LLM con herramientas y sistemas corporativos.\n* Qué problemas aparecen cuando un MCP deja de ser una demo y pasa a formar parte de la infraestructura de una organización.\n* Seguridad, observabilidad y gobernanza en sistemas basados en agentes.\n* Cómo mantener el control sobre agentes que cada vez tienen más herramientas y capacidad de acción.\n\n# 🎤 Ponentes\n\n**Manuel Fernández — Software Engineer @ Thoughtworks** \\- De Cajas Negras a Facturas Infladas: Ingeniería de Contexto y Agentes para ahorrar Tokens al programar con IA\n\nIngeniero de Software con más de 6 años de experiencia, especializado en arquitectura de software y desarrollo asistido por IA. Actualmente trabaja en cómo integrar agentes y LLMs en pipelines de desarrollo reales sin sacrificar la calidad, el testing ni las convenciones de los equipos.\n\nLos agentes nos permiten trabajar con sistemas cada vez más sofisticados, pero también pueden disparar el consumo de tokens. Manuel nos mostrará cómo optimizar el contexto, utilizar diferentes modelos según la tarea y aplicar técnicas como pruning, Progressive Disclosure y Prompt Caching para conseguir flujos de desarrollo más eficientes.\n\n**Raúl López Caña — Fullstack Engineer @ Galp** \\- Anatomía de un MCP: construyendo la capa de IA de una organización\n\nIngeniero fullstack especializado en tecnologías frontend y apasionado por mejorar la Developer Experience de los equipos.\n¿Qué hace falta para que un LLM deje de ser un chatbot y empiece a entender cómo funciona una organización? Raúl abrirá un MCP construido para un ecosistema de productos y repasará su arquitectura, herramientas, contexto, seguridad, observabilidad e integraciones con sistemas corporativos.\n\n**Osmani Redondo** \\- ¿Quién controla a los agentes?\nSeguridad y gobernanza en la era de la IA\n\nA medida que los agentes ganan autonomía y acceso a herramientas, la seguridad y la gobernanza dejan de ser un añadido para convertirse en parte fundamental de la arquitectura.\nEn esta sesión veremos cómo abordar estos retos y qué necesitamos para mantener bajo control sistemas cada vez más capaces.\n\n# ⚙️ ¿Para quién es este evento?\n\nEste meetup está pensado para:\n\n* Desarrolladores e ingenieros de software que ya utilizan IA en su día a día.\n* Arquitectos y perfiles técnicos interesados en sistemas agentic.\n* Profesionales que estén explorando MCP y otras formas de conectar LLMs con herramientas y sistemas internos.\n* Tech Leads, DevOps y responsables de plataformas que quieran entender qué implica llevar agentes a producción.\n* Cualquier persona interesada en la arquitectura, seguridad y evolución de los sistemas basados en IA.\n\nNo necesitas ser especialista en agentes para venir. Si ya te estás preguntando qué pasa cuando dejamos de usar la IA como chatbot y empezamos a integrarla en nuestros sistemas, aquí encontrarás algunas respuestas.\n\n# 🔔 Agenda\n\n18:30 — Check-in\n\n18:45 — Bienvenida y presentación de comunidades\n\n18:50 — De Cajas Negras a Facturas Infladas: Ingeniería de Contexto y Agentes para ahorrar Tokens al programar con IA -\nManuel Fernández\n\n19:20 — Anatomía de un MCP: construyendo la capa de IA de una organización -\nRaúl López Caña\n\n19:50 — ¿Quién controla a los agentes? Seguridad y gobernanza en la era de la IA -\nOsmani Redondo\n\n20:20 — Cierre\n\n20:25 — Networking 🍻\n\nDespués del evento nos tomaremos algo por la zona así que quédate hasta el final para conocer a la gente de la comunidad\n\n# 📍 Información del evento\n\n📅 Jueves, 17 de septiembre de 2026\n🕡 18:30\n📍 Madrid\n🎟️ Entrada gratuita hasta completar aforo\n[\\[RESERVA TU ENTRADA\\]](https://community.codemotion.com/codemotion-espana/meetups/codemeet-madrid-quin-controla-a-los-agentes-de-ahorrar-tokens-a-construir-mcps)\n\nLa IA ya puede actuar. La pregunta es si nuestra ingeniería está preparada para dejarla hacerlo.",
-    "start_at": "2026-09-17T18:30:00+02:00",
-    "url": "https://www.meetup.com/codemotion-espana/events/316210308/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "Plaza de Manuel Gómez-Moreno, 2, Tetuán, 28020",
-    "organizer": "Codemotion Meetup en España",
-    "attendees": 14,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "DevOps",
-      "Hackathon"
-    ],
-    "lat": 40.4485287,
-    "lng": -3.6940143
-  },
-  {
-    "source": "meetup",
-    "source_slug": "DevOps",
     "source_id": "316446627",
     "name": "APIs for the Modern PM",
     "description": "**Introduction**\n\nAPIs are not just an engineering concern.\n\nThey shape the customer experience, determine how products connect with third parties, and create opportunities for new functionality, data sharing and monetisation.\n\nJoin ProductTank Madrid for a practical session designed for product managers and builders who want to work more confidently with APIs.\n\nWe will explore their foundations through real-world examples, use monitoring and observability to understand journeys spanning multiple services, and examine open-data use cases across banking and transport, third-party integrations, and how greater transparency into system behaviour can create value across B2B and B2C products.\n\nWe will also look at how APIs underpin MCPs, which are driving a major shift in how people and AI agents access tools, context and services, before finishing with Q&A and networking.\n\n**Timings**\n\n7:00 - Welcome\n7:10 - Talks begin\n8:00 - Q&A\n8:20 - Networking\n\n**Speakers**\n\n**Marisa Martin Serrano**\n*Engineering Manager / Solutions Architect at EcoVadis*\n\nMarisa is an engineering leader, solutions architect and technical product professional with 20 years of international experience across transport, finance, telecoms, consulting and other complex industries. She specialises in turning business needs into scalable technical architectures and aligning engineering delivery with product goals. She is also a public speaker and mentor with Step4ward and Tech SHEssions Madrid.\n**[LinkedIn](https://www.linkedin.com/in/marisa-martin-serrano/)**\n\n**Paloma Menéndez Palau**\n*Head of Product at Depay*\n\nPaloma is Head of Product at Depay and a computer science graduate specialising in scalable payment infrastructure. Her experience spans product strategy, REST API integrations, checkout and payment processing, and merchant onboarding at Depay, Yuno, AstroPay and Rappi. She works closely with engineering and commercial teams to improve reliability, reduce checkout friction and use data to increase merchant performance.\n**[LinkedIn](https://www.linkedin.com/in/paloma-men%C3%A9ndez-palau-5b4246109/)**\n\n**Who is this event for?**\n\n* Product managers who want real technical fluency, not a glossary\n* PMs working on platforms, integrations, payments or anything API-first\n* Designers and engineers curious about how product decisions shape technical contracts\n* Founders whose product is consumed by other developers\n* Anyone who has ever nodded along in an architecture review and then quietly googled it afterwards\n\nYou do not need to be technical to get value from this evening. You need to be curious.\n\n**About our sponsor — Cabify**\n\nHuge thanks to **Cabify** for hosting us and supporting Madrid's product community.\n\nFounded in Madrid in 2011, Cabify is an Iberoamerican multi-mobility platform connecting passengers, drivers and companies through technology.\n\nIt operates in more than 40 cities across six countries — Spain, Chile, Argentina, Peru, Colombia and Uruguay — serving over 50 million registered users and 40,000 companies, with around 1,000 employees across its offices in Spain and Latin America.\n\nCabify's stated ambition is to transform cities into better living spaces through mobility, built on a sustainable business model and a commitment to the UN Global Compact and the Sustainable Development Goals.\nCabify will kindly be providing drinks during the networking session.\n\n**Networking & Q&A**\n\nAfter the talks we'll open the floor for questions and debate, then stay on for drinks and conversation with Madrid's product community. ProductTank Madrid has sold out edition after edition this past year — come early, meet people, and stick around.\n\n**Join the event**\n\nPlease only RSVP if you intend to come — and if your plans change, update your RSVP so someone else can take your spot.",
@@ -276,9 +277,9 @@
     "city": "Madrid",
     "address": "Calle de Pradillo, 42, 28002 Madrid, Spain",
     "organizer": "ProductTank Madrid",
-    "attendees": 55,
+    "attendees": 57,
     "max_tickets": 80,
-    "spots_left": 25,
+    "spots_left": 23,
     "found_in": [
       "DevOps",
       "Startups"
@@ -319,7 +320,7 @@
     "city": "Madrid",
     "address": "C/ del Alcalde Sainz de Baranda, 32, Retiro, 28009 Madrid",
     "organizer": "Startup Oasis - Tech, Founders, nomads, devs, UI/UX, Product",
-    "attendees": 17,
+    "attendees": 19,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -382,9 +383,9 @@
     "city": "Madrid",
     "address": "Bailén, 41",
     "organizer": "Quantum Madrid by Entangle",
-    "attendees": 28,
+    "attendees": 30,
     "max_tickets": 90,
-    "spots_left": 62,
+    "spots_left": 60,
     "found_in": [
       "Startups",
       "Hackathon"
@@ -404,7 +405,7 @@
     "city": "Madrid",
     "address": "C. de Claudio Coello, 124",
     "organizer": "Out in Tech - Madrid",
-    "attendees": 7,
+    "attendees": 8,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

@@ -73,11 +73,11 @@
     "found_in": [
       "madrid"
     ],
-    "description": "Omarchy Spain 🇪🇸 - Madrid\nThe first Omarchy meetup in Madrid.\nA casual gathering for people who use Omarchy, are curious about it or just love Linux, open source and making computers fun again.\nBring your laptop. Show off your setup. Swap themes and plugins. Help someone install Omarchy. Talk Linux, programming, hardware, AI, agents or whatever you’re building.\n📍 SampliaX! Callao (Pl. del Callao, 1, Centro, 28013 Madrid)🎟️ Free and open to everyone👥 Limited to 50 seats\nBring your machine. Come hang out. 🐧\nAbout the Hosts\nmad.builders - a curated community, and a launchpad for founders building real companies. No coworking fluff. No networking theater. Just building.\nSamplia - We connect brands with people. We are experts in smart sampling with consumer feedback.",
+    "description": "Omarchy Spain 🇪🇸 - Madrid\nThe first Omarchy meetup in Madrid.\nA casual gathering for people who use Omarchy, are curious about it or just love Linux, open source and making computers fun again.\nBring your laptop. Show off your setup. Swap themes and plugins. Help someone install Omarchy. Talk Linux, programming, hardware, AI, agents or whatever you’re building.\n📍 SampliaX! Callao (Pl. del Callao, 1, Centro, 28013 Madrid)🎟️ Free and open to everyone👥 Limited to 55 seats\nBring your machine. Come hang out. 🐧\nAbout the Hosts\nmad.builders - a curated community, and a launchpad for founders building real companies. No coworking fluff. No networking theater. Just building.\nSamplia - We connect brands with people. We are experts in smart sampling with consumer feedback.",
     "categories": [
       "Tech"
     ],
-    "guest_count": 50,
+    "guest_count": 55,
     "sold_out": true,
     "waitlist_active": true,
     "registration_deadline": null,
@@ -106,9 +106,9 @@
     "categories": [
       "AI"
     ],
-    "guest_count": 45,
-    "sold_out": true,
-    "waitlist_active": true,
+    "guest_count": 44,
+    "sold_out": false,
+    "waitlist_active": false,
     "registration_deadline": null,
     "lat": 40.4074994,
     "lng": -3.7114533
@@ -190,7 +190,7 @@
     "categories": [
       "AI"
     ],
-    "guest_count": 76,
+    "guest_count": 80,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,
@@ -248,7 +248,7 @@
       "AI",
       "Arts & Culture"
     ],
-    "guest_count": 3,
+    "guest_count": 0,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,
@@ -276,7 +276,7 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 40,
+    "guest_count": 42,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,

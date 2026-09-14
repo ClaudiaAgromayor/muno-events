@@ -70,6 +70,12 @@ export default function AuthButton() {
   return (
     <div className="flex items-center gap-4">
       <span className="font-mono text-[11px] tracking-tight text-muted">{name}</span>
+      <a
+        href="/mis-eventos"
+        className="text-[11px] uppercase tracking-wider text-muted underline decoration-1 underline-offset-2 hover:text-foreground"
+      >
+        Mis eventos
+      </a>
       <button
         onClick={toggleShowName}
         className="flex items-center gap-1.5 text-[11px] uppercase tracking-wider text-muted transition-colors hover:text-foreground"

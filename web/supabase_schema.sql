@@ -73,3 +73,31 @@ grant select on public.profiles to anon;
 
 grant select, insert, delete on public.rsvps to authenticated;
 grant select on public.rsvps to anon;
+
+-- "¿Con quien coincidiste?" despues del evento. Si A marca que coincidio con B, y B
+-- tambien marca que coincidio con A, hay match mutuo y ambos ven el contacto del otro.
+-- No se revela el gesto de una sola persona como si fuera un match hasta que las dos
+-- partes lo confirmen -- evita presion o incomodidad si solo una quiere conectar.
+create table public.connections (
+  event_id text not null,
+  user_id uuid not null references public.profiles(id) on delete cascade,
+  other_user_id uuid not null references public.profiles(id) on delete cascade,
+  created_at timestamptz not null default now(),
+  primary key (event_id, user_id, other_user_id),
+  check (user_id <> other_user_id)
+);
+
+alter table public.connections enable row level security;
+
+-- Ves las filas donde participas (las que tu marcaste, y las que otros marcaron sobre
+-- ti) -- asi el frontend puede calcular si hay match mutuo sin exponer nada mas.
+create policy "Ves las conexiones donde participas" on public.connections
+  for select using (auth.uid() = user_id or auth.uid() = other_user_id);
+
+create policy "Marcas tus propias conexiones" on public.connections
+  for insert with check (auth.uid() = user_id);
+
+create policy "Borras tus propias conexiones" on public.connections
+  for delete using (auth.uid() = user_id);
+
+grant select, insert, delete on public.connections to authenticated;

@@ -82,32 +82,34 @@ export default function AuthButton() {
   };
 
   return (
-    <div className="relative flex items-center gap-4">
+    <div className="relative flex flex-col items-end gap-1.5">
       <span className="font-mono text-[11px] tracking-tight text-muted">{name}</span>
-      <a
-        href="/mis-eventos"
-        className="text-[11px] uppercase tracking-wider text-muted underline decoration-1 underline-offset-2 hover:text-foreground"
-      >
-        Mis eventos
-      </a>
-      <a
-        href="/grupos"
-        className="text-[11px] uppercase tracking-wider text-muted underline decoration-1 underline-offset-2 hover:text-foreground"
-      >
-        Grupos
-      </a>
-      <button
-        onClick={() => setShowSettings((v) => !v)}
-        className="text-[11px] uppercase tracking-wider text-muted underline decoration-1 underline-offset-2 hover:text-foreground"
-      >
-        Ajustes
-      </button>
-      <button
-        onClick={() => supabase.auth.signOut()}
-        className="text-[11px] uppercase tracking-wider text-muted underline decoration-1 underline-offset-2 hover:text-foreground"
-      >
-        Salir
-      </button>
+      <div className="flex items-center gap-4">
+        <a
+          href="/mis-eventos"
+          className="text-[11px] uppercase tracking-wider text-muted underline decoration-1 underline-offset-2 hover:text-foreground"
+        >
+          Mis eventos
+        </a>
+        <a
+          href="/grupos"
+          className="text-[11px] uppercase tracking-wider text-muted underline decoration-1 underline-offset-2 hover:text-foreground"
+        >
+          Grupos
+        </a>
+        <button
+          onClick={() => setShowSettings((v) => !v)}
+          className="text-[11px] uppercase tracking-wider text-muted underline decoration-1 underline-offset-2 hover:text-foreground"
+        >
+          Ajustes
+        </button>
+        <button
+          onClick={() => supabase.auth.signOut()}
+          className="text-[11px] uppercase tracking-wider text-muted underline decoration-1 underline-offset-2 hover:text-foreground"
+        >
+          Salir
+        </button>
+      </div>
 
       {showSettings && (
         <div className="absolute right-0 top-full z-10 mt-2 flex w-64 flex-col gap-3 border border-foreground bg-background p-4 shadow-lg">

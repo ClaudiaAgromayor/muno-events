@@ -11,7 +11,7 @@ export default function Home() {
       <header className="flex flex-col gap-3 border-b-2 border-foreground pb-8">
         <div className="flex flex-wrap items-baseline justify-between gap-2">
           <h1 className="font-display text-6xl leading-none sm:text-7xl">muno</h1>
-          <div className="flex items-center gap-3">
+          <div className="flex flex-col items-end gap-1.5">
             <p className="text-xs uppercase tracking-wider text-muted">Madrid</p>
             <AuthButton />
           </div>

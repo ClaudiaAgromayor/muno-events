@@ -36,6 +36,7 @@ export async function buildShareCardBlob(event: MunoEvent): Promise<Blob> {
   // fuente todavia no habia terminado de cargar cuando se pinta el lienzo.
   await document.fonts.load("italic 400 80px 'Instrument Serif'");
   await document.fonts.load("600 28px 'Space Grotesk'");
+  await document.fonts.load("500 28px 'JetBrains Mono'");
   await document.fonts.ready;
 
   const canvas = document.createElement("canvas");
@@ -67,7 +68,7 @@ export async function buildShareCardBlob(event: MunoEvent): Promise<Blob> {
     : "";
   if (dateLine) {
     ctx.fillStyle = COLORS.muted;
-    ctx.font = "500 30px 'Space Grotesk'";
+    ctx.font = "500 28px 'JetBrains Mono'";
     ctx.fillText(dateLine, innerX, y);
   }
 
@@ -110,7 +111,7 @@ export async function buildShareCardBlob(event: MunoEvent): Promise<Blob> {
   ctx.fillText("muno", innerX, bottomY + 56);
 
   ctx.fillStyle = COLORS.muted;
-  ctx.font = "500 24px 'Space Grotesk'";
+  ctx.font = "500 22px 'JetBrains Mono'";
   ctx.textAlign = "right";
   ctx.fillText("muno-events.vercel.app", W - innerX, bottomY + 52);
   ctx.textAlign = "left";

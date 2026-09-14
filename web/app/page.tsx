@@ -30,7 +30,7 @@ export default function Home() {
             </a>
           </div>
           <div className="flex flex-col items-end gap-1.5">
-            <p className="text-xs uppercase tracking-wider text-muted">Madrid</p>
+            <p className="font-mono text-xs uppercase tracking-wider text-muted">Madrid</p>
             <AuthButton />
           </div>
         </div>

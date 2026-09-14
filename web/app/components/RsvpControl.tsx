@@ -120,8 +120,10 @@ export default function RsvpControl({
               e.stopPropagation();
               setExpanded((v) => !v);
             }}
-            className="font-mono text-[11px] tracking-tight text-muted underline decoration-dotted underline-offset-2 hover:text-foreground"
+            className="flex items-center gap-1.5 font-mono text-[11px] tracking-tight text-muted underline decoration-dotted underline-offset-2 hover:text-foreground"
           >
+            {/* Confirma visualmente que el contador es en vivo (Realtime), no una foto fija. */}
+            <span aria-hidden className="h-1.5 w-1.5 animate-pulse-dot rounded-full bg-ok" />
             {String(summary.count).padStart(2, "0")} {summary.count === 1 ? "va" : "van"}
           </button>
         </div>

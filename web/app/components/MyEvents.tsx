@@ -271,15 +271,13 @@ function RachaBadge({ myEvents, now }: { myEvents: MyEventEntry[]; now: Date }) 
     ? new Date(since).toLocaleDateString("es-ES", { month: "long", year: "numeric" })
     : null;
 
-  const headline =
-    thisMonthCount > 0
-      ? `Vas a ${thisMonthCount} evento${thisMonthCount === 1 ? "" : "s"} este mes`
-      : `Vas a ${myEvents.length} evento${myEvents.length === 1 ? "" : "s"} en total`;
+  const count = thisMonthCount > 0 ? thisMonthCount : myEvents.length;
+  const suffix = thisMonthCount > 0 ? "este mes" : "en total";
 
   return (
     <div className="border border-foreground px-5 py-4">
       <p className="font-display text-xl italic">
-        {headline}
+        Vas a <span className="font-mono not-italic">{count}</span> evento{count === 1 ? "" : "s"} {suffix}
         {sinceLabel && <span className="text-muted"> · vienes desde {sinceLabel}</span>}
       </p>
     </div>

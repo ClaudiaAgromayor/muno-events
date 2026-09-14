@@ -20,7 +20,7 @@ export default function FeaturedEvents({ events }: { events: MunoEvent[] }) {
               className="group flex w-64 flex-shrink-0 flex-col gap-2 border border-foreground p-4 transition-colors hover:bg-foreground"
             >
               {parts && (
-                <span className="text-[11px] uppercase tracking-wider text-muted group-hover:text-background/70">
+                <span className="font-mono text-[11px] uppercase tracking-wider text-muted group-hover:text-background/70">
                   {parts.weekday} {parts.day} {parts.monthLabel}
                   {parts.time ? ` · ${parts.time}` : ""}
                 </span>
@@ -33,7 +33,7 @@ export default function FeaturedEvents({ events }: { events: MunoEvent[] }) {
               )}
               {spots && (
                 <span
-                  className={`text-xs font-medium group-hover:text-background ${urgent ? "text-accent" : "text-ok"}`}
+                  className={`font-mono text-xs font-medium group-hover:text-background ${urgent ? "text-accent" : "text-ok"}`}
                 >
                   {spots}
                 </span>

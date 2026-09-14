@@ -286,7 +286,7 @@ function EventRow({
           rel="noopener noreferrer"
           className="flex min-w-0 flex-grow gap-6 sm:gap-8"
         >
-          <div className="w-14 flex-shrink-0 pt-1 text-sm text-muted sm:w-16">{time ?? ""}</div>
+          <div className="w-14 flex-shrink-0 pt-1 font-mono text-sm text-muted sm:w-16">{time ?? ""}</div>
 
           <div className="flex min-w-0 flex-grow flex-col gap-1.5">
             <div className="font-body text-lg font-semibold group-hover:underline group-hover:decoration-1 group-hover:underline-offset-4 sm:text-xl">
@@ -313,17 +313,14 @@ function EventRow({
 
         <div className="flex flex-shrink-0 flex-col items-end gap-2">
           {categories?.map((c) => (
-            <span
-              key={c}
-              className="rounded-full border border-foreground px-2.5 py-0.5 text-[11px] uppercase tracking-wider"
-            >
+            <span key={c} className="border border-foreground px-2 py-0.5 font-mono text-[10px] uppercase tracking-wider">
               {c}
             </span>
           ))}
           {spots && (
-            <span className={`text-xs font-medium ${urgent ? "text-accent" : "text-ok"}`}>{spots}</span>
+            <span className={`font-mono text-xs font-medium ${urgent ? "text-accent" : "text-ok"}`}>{spots}</span>
           )}
-          {deadline && <span className="text-[11px] text-muted">{deadline}</span>}
+          {deadline && <span className="font-mono text-[11px] text-muted">{deadline}</span>}
           <RsvpControl
             summary={summary}
             signedIn={signedIn}

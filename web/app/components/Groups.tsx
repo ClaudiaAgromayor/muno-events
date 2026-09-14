@@ -68,18 +68,19 @@ export default function Groups() {
 
   const createGroup = async () => {
     if (!user || !newName.trim()) return;
-    const { data: group, error } = await supabase
-      .from("groups")
-      .insert({ name: newName.trim(), owner_id: user.id })
-      .select("id")
-      .single();
+    // Generamos el id en el navegador en vez de pedirselo de vuelta a la insercion:
+    // justo despues de crear el grupo todavia no eres miembro (eso pasa en el segundo
+    // paso, aqui abajo), y la politica de SELECT de "groups" exige ya serlo -- pedir el
+    // id de vuelta con .select() fallaria por ese mismo motivo de "huevo y gallina".
+    const groupId = crypto.randomUUID();
+    const { error } = await supabase.from("groups").insert({ id: groupId, name: newName.trim(), owner_id: user.id });
     if (error) {
       alert(`Error creando el grupo: ${error.message}`);
       return;
     }
     const { error: memberError } = await supabase
       .from("group_members")
-      .insert({ group_id: group.id, user_id: user.id });
+      .insert({ group_id: groupId, user_id: user.id });
     if (memberError) {
       alert(`Error uniendote a tu propio grupo: ${memberError.message}`);
       return;

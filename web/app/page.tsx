@@ -7,7 +7,8 @@ import { getFeaturedEvents } from "@/app/lib/events";
 
 // Formulario publico de envio de eventos (Google Form) -- lo rellena cualquiera, no
 // hace falta cuenta. Las respuestas las recoge el scraper manual.py via el CSV publicado.
-const SUBMIT_EVENT_URL = "https://docs.google.com/forms/d/1sTJJdvGNmwgL6pPGkhoQsiHlfc2SIT6OMHygUnAMdvI/viewform";
+const SUBMIT_EVENT_URL =
+  "https://docs.google.com/forms/d/e/1FAIpQLSefqlVtLarqYrZVDILwC_Wl_547fR0FQ6yW9ipbhgCUaP2HUg/viewform";
 
 export default function Home() {
   const events = getEvents();

@@ -176,3 +176,117 @@ create policy "Subes archivos a eventos a los que fuiste"
 create policy "Borras tus propios archivos"
   on storage.objects for delete
   using (bucket_id = 'event-posts' and (storage.foldername(name))[2] = auth.uid()::text);
+
+-- Grupos: se crean con nombre, se invita compartiendo el link con el invite_code (un
+-- uuid aleatorio -- adivinarlo es inviable, asi que conocerlo hace de "contrasena" de
+-- invitacion). Cualquier miembro puede marcar "vamos" en nombre de todo el grupo a un
+-- evento de golpe (funcion rsvp_group mas abajo).
+create table public.groups (
+  id uuid primary key default gen_random_uuid(),
+  name text not null,
+  owner_id uuid not null references public.profiles(id) on delete cascade,
+  invite_code uuid not null unique default gen_random_uuid(),
+  created_at timestamptz not null default now()
+);
+
+create table public.group_members (
+  group_id uuid not null references public.groups(id) on delete cascade,
+  user_id uuid not null references public.profiles(id) on delete cascade,
+  joined_at timestamptz not null default now(),
+  primary key (group_id, user_id)
+);
+
+alter table public.groups enable row level security;
+alter table public.group_members enable row level security;
+
+create policy "Ves grupos de los que eres miembro" on public.groups
+  for select using (
+    exists (select 1 from public.group_members gm where gm.group_id = groups.id and gm.user_id = auth.uid())
+  );
+
+create policy "Creas tus propios grupos" on public.groups
+  for insert with check (auth.uid() = owner_id);
+
+create policy "Ves los miembros de tus grupos" on public.group_members
+  for select using (
+    exists (select 1 from public.group_members gm2 where gm2.group_id = group_members.group_id and gm2.user_id = auth.uid())
+  );
+
+-- Solo el dueno puede insertarse a si mismo como miembro directamente (justo despues
+-- de crear el grupo). Unirse por invitacion pasa por join_group() mas abajo, porque
+-- quien se une todavia no es miembro y por tanto no puede ni ver el grupo via RLS.
+create policy "El dueno se anade como miembro al crear el grupo" on public.group_members
+  for insert with check (
+    auth.uid() = user_id
+    and exists (select 1 from public.groups g where g.id = group_members.group_id and g.owner_id = auth.uid())
+  );
+
+grant select, insert on public.groups to authenticated;
+grant select, insert on public.group_members to authenticated;
+
+-- SECURITY DEFINER: se ejecuta saltandose RLS, asi alguien que todavia no es miembro
+-- puede consultar el nombre del grupo (para confirmar antes de unirse) y unirse usando
+-- solo el invite_code, sin necesitar permiso de SELECT sobre la tabla groups completa.
+create or replace function public.get_group_name(p_invite_code uuid)
+returns text
+language sql
+security definer
+set search_path = public
+as $$
+  select name from public.groups where invite_code = p_invite_code;
+$$;
+
+create or replace function public.join_group(p_invite_code uuid)
+returns uuid
+language plpgsql
+security definer
+set search_path = public
+as $$
+declare
+  v_group_id uuid;
+begin
+  select id into v_group_id from public.groups where invite_code = p_invite_code;
+  if v_group_id is null then
+    raise exception 'Codigo de invitacion no valido';
+  end if;
+
+  insert into public.group_members (group_id, user_id)
+  values (v_group_id, auth.uid())
+  on conflict do nothing;
+
+  return v_group_id;
+end;
+$$;
+
+-- Marca "voy" a un evento para TODOS los miembros del grupo de golpe. Solo la puede
+-- llamar alguien que ya es miembro del grupo -- unirse a un grupo implica aceptar que
+-- cualquier miembro pueda apuntar a todo el grupo, no hace falta confirmar cada vez.
+create or replace function public.rsvp_group(
+  p_group_id uuid,
+  p_event_id text,
+  p_event_name text,
+  p_event_start_at text,
+  p_event_address text,
+  p_event_url text
+)
+returns void
+language plpgsql
+security definer
+set search_path = public
+as $$
+begin
+  if not exists (select 1 from public.group_members where group_id = p_group_id and user_id = auth.uid()) then
+    raise exception 'No eres miembro de este grupo';
+  end if;
+
+  insert into public.rsvps (event_id, user_id, event_name, event_start_at, event_address, event_url)
+  select p_event_id, gm.user_id, p_event_name, p_event_start_at, p_event_address, p_event_url
+  from public.group_members gm
+  where gm.group_id = p_group_id
+  on conflict (event_id, user_id) do nothing;
+end;
+$$;
+
+grant execute on function public.get_group_name(uuid) to authenticated;
+grant execute on function public.join_group(uuid) to authenticated;
+grant execute on function public.rsvp_group(uuid, text, text, text, text, text) to authenticated;

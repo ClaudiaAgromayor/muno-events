@@ -44,7 +44,7 @@ export default function RsvpControl({
         }`}
       >
         {summary.isGoing && <span aria-hidden>✓</span>}
-        {blocked ? "Sin plazas" : summary.isGoing ? "Voy" : signedIn ? "Voy" : "Voy · entrar"}
+        {blocked ? "Cerrado" : summary.isGoing ? "Voy" : signedIn ? "Voy" : "Voy · entrar"}
       </button>
 
       {summary.count > 0 && (

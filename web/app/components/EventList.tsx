@@ -4,7 +4,7 @@ import { useCallback, useEffect, useMemo, useState } from "react";
 import type { User } from "@supabase/supabase-js";
 import { createClient } from "@/app/lib/supabase/client";
 import type { MunoEvent } from "@/app/lib/events";
-import { formatEventDate, groupEventsByDay, spotsLabel, spotsUrgent } from "@/app/lib/events";
+import { formatEventDate, groupEventsByDay, registrationDeadlineLabel, spotsLabel, spotsUrgent } from "@/app/lib/events";
 import RsvpControl, { type RsvpSummary } from "@/app/components/RsvpControl";
 
 type RsvpRow = {
@@ -127,6 +127,7 @@ function EventRow({
 }) {
   const spots = spotsLabel(event);
   const urgent = spotsUrgent(event);
+  const deadline = registrationDeadlineLabel(event);
   const categories = event.extra.categories;
   const time = event.start_at ? formatEventDate(event.start_at).time : null;
 
@@ -158,6 +159,7 @@ function EventRow({
         {spots && (
           <span className={`text-xs font-medium ${urgent ? "text-accent" : "text-ok"}`}>{spots}</span>
         )}
+        {deadline && <span className="text-[11px] text-muted">{deadline}</span>}
         <RsvpControl summary={summary} signedIn={signedIn} full={full} onToggle={onToggleRsvp} />
       </div>
     </a>

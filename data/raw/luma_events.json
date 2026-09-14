@@ -23,6 +23,7 @@
     "guest_count": 61,
     "sold_out": true,
     "waitlist_active": true,
+    "registration_deadline": null,
     "lat": 40.45062691819926,
     "lng": -3.691532701148131
   },
@@ -51,6 +52,7 @@
     "guest_count": 0,
     "sold_out": true,
     "waitlist_active": false,
+    "registration_deadline": "2026-09-14T07:30:59.000Z",
     "lat": 40.435848299999996,
     "lng": -3.7014762
   },
@@ -78,6 +80,7 @@
     "guest_count": 50,
     "sold_out": true,
     "waitlist_active": true,
+    "registration_deadline": null,
     "lat": 40.419722,
     "lng": -3.7061105000000003
   },
@@ -106,6 +109,7 @@
     "guest_count": 45,
     "sold_out": true,
     "waitlist_active": true,
+    "registration_deadline": null,
     "lat": 40.4074994,
     "lng": -3.7114533
   },
@@ -133,6 +137,7 @@
     "guest_count": 0,
     "sold_out": false,
     "waitlist_active": false,
+    "registration_deadline": null,
     "lat": 40.425734109115254,
     "lng": -3.699198857205722
   },
@@ -160,6 +165,7 @@
     "guest_count": 53,
     "sold_out": false,
     "waitlist_active": false,
+    "registration_deadline": null,
     "lat": 40.42486032568642,
     "lng": -3.69474995742306
   },
@@ -187,6 +193,7 @@
     "guest_count": 76,
     "sold_out": false,
     "waitlist_active": false,
+    "registration_deadline": null,
     "lat": 40.43492,
     "lng": -3.7049099999999995
   },
@@ -215,6 +222,7 @@
     "guest_count": 190,
     "sold_out": true,
     "waitlist_active": true,
+    "registration_deadline": null,
     "lat": 40.392235899999996,
     "lng": -3.699101
   },
@@ -243,6 +251,7 @@
     "guest_count": 3,
     "sold_out": false,
     "waitlist_active": false,
+    "registration_deadline": null,
     "lat": 40.4119879,
     "lng": -3.7058726
   },
@@ -270,6 +279,7 @@
     "guest_count": 40,
     "sold_out": false,
     "waitlist_active": false,
+    "registration_deadline": null,
     "lat": 40.45623344565284,
     "lng": -3.6870295799477137
   },
@@ -297,6 +307,7 @@
     "guest_count": 0,
     "sold_out": true,
     "waitlist_active": true,
+    "registration_deadline": null,
     "lat": 40.5150103,
     "lng": -3.6629359999999997
   }

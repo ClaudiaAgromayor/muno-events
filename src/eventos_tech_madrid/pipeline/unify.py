@@ -28,6 +28,7 @@ def _normalize_luma(events: list[dict]) -> list[dict]:
             "guest_count": e.get("guest_count"),
             "sold_out": e.get("sold_out"),
             "waitlist_active": e.get("waitlist_active"),
+            "registration_deadline": e.get("registration_deadline"),
         },
     } for e in events]
 

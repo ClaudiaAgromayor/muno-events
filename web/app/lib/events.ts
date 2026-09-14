@@ -6,6 +6,7 @@ export type EventExtra = {
   guest_count?: number;
   sold_out?: boolean;
   waitlist_active?: boolean;
+  registration_deadline?: string | null;
   attendees?: number;
   max_tickets?: number;
   spots_left?: number | null;
@@ -46,7 +47,13 @@ export function spotsLabel(event: MunoEvent): string | null {
   const { source, extra } = event;
 
   if (source === "luma") {
-    if (extra.sold_out) return "Lista de espera";
+    // sold_out=true no siempre significa que hay lista de espera -- Luma deja cerrar
+    // la inscripcion del todo (waitlist_active=false), y ahi no tiene sentido decir
+    // "lista de espera" porque no hay ninguna a la que apuntarse (verificado con datos
+    // reales: Claude Community Madrid Launch Meetup tenia sold_out=true y
+    // waitlist_active=false a la vez).
+    if (extra.sold_out && extra.waitlist_active) return "Lista de espera";
+    if (extra.sold_out && !extra.waitlist_active) return "Inscripción cerrada";
     if (extra.is_free === true || extra.is_free === false) return "Plazas abiertas";
     return null;
   }
@@ -63,7 +70,7 @@ export function spotsLabel(event: MunoEvent): string | null {
 
 export function spotsUrgent(event: MunoEvent): boolean {
   const label = spotsLabel(event);
-  return label === "Lista de espera" || label === "Sin plazas";
+  return label === "Lista de espera" || label === "Sin plazas" || label === "Inscripción cerrada";
 }
 
 const WEEKDAYS = ["Dom", "Lun", "Mar", "Mié", "Jue", "Vie", "Sáb"];
@@ -125,6 +132,20 @@ export function formatEventDate(startAt: string): EventDateParts {
   const weekdayIndex = new Date(Date.UTC(year, month - 1, day)).getUTCDay();
 
   return { year, month, day, weekday: WEEKDAYS[weekdayIndex], monthLabel: MONTHS[month - 1], time };
+}
+
+/**
+ * Algunos eventos de Luma traen una fecha limite de inscripcion fija (separada de si
+ * hay plazas o no); muchos otros no la tienen (solo cierran al llenarse el aforo, sin
+ * fecha programada). Solo se muestra cuando existe y todavia no ha pasado.
+ */
+export function registrationDeadlineLabel(event: MunoEvent): string | null {
+  const deadline = event.extra.registration_deadline;
+  if (!deadline) return null;
+  const date = new Date(deadline);
+  if (date.getTime() <= Date.now()) return null;
+  const d = formatEventDate(deadline);
+  return `Apúntate antes del ${d.day} ${d.monthLabel}`;
 }
 
 export type EventGroup = { label: string; events: MunoEvent[] };

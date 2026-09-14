@@ -20,7 +20,8 @@
       "is_free": true,
       "guest_count": 61,
       "sold_out": true,
-      "waitlist_active": true
+      "waitlist_active": true,
+      "registration_deadline": null
     },
     "found_on_platforms": [
       "luma"
@@ -48,7 +49,8 @@
       "is_free": true,
       "guest_count": 0,
       "sold_out": true,
-      "waitlist_active": false
+      "waitlist_active": false,
+      "registration_deadline": "2026-09-14T07:30:59.000Z"
     },
     "found_on_platforms": [
       "luma"
@@ -76,7 +78,8 @@
       "is_free": true,
       "guest_count": 50,
       "sold_out": true,
-      "waitlist_active": true
+      "waitlist_active": true,
+      "registration_deadline": null
     },
     "found_on_platforms": [
       "luma"
@@ -104,7 +107,8 @@
       "is_free": true,
       "guest_count": 45,
       "sold_out": true,
-      "waitlist_active": true
+      "waitlist_active": true,
+      "registration_deadline": null
     },
     "found_on_platforms": [
       "luma"
@@ -132,7 +136,8 @@
       "is_free": true,
       "guest_count": 0,
       "sold_out": false,
-      "waitlist_active": false
+      "waitlist_active": false,
+      "registration_deadline": null
     },
     "found_on_platforms": [
       "luma"
@@ -160,7 +165,8 @@
       "is_free": true,
       "guest_count": 53,
       "sold_out": false,
-      "waitlist_active": false
+      "waitlist_active": false,
+      "registration_deadline": null
     },
     "found_on_platforms": [
       "luma"
@@ -188,7 +194,8 @@
       "is_free": true,
       "guest_count": 76,
       "sold_out": false,
-      "waitlist_active": false
+      "waitlist_active": false,
+      "registration_deadline": null
     },
     "found_on_platforms": [
       "luma"
@@ -216,7 +223,8 @@
       "is_free": true,
       "guest_count": 190,
       "sold_out": true,
-      "waitlist_active": true
+      "waitlist_active": true,
+      "registration_deadline": null
     },
     "found_on_platforms": [
       "luma"
@@ -245,7 +253,8 @@
       "is_free": true,
       "guest_count": 3,
       "sold_out": false,
-      "waitlist_active": false
+      "waitlist_active": false,
+      "registration_deadline": null
     },
     "found_on_platforms": [
       "luma"
@@ -273,7 +282,8 @@
       "is_free": true,
       "guest_count": 40,
       "sold_out": false,
-      "waitlist_active": false
+      "waitlist_active": false,
+      "registration_deadline": null
     },
     "found_on_platforms": [
       "luma"
@@ -301,7 +311,8 @@
       "is_free": true,
       "guest_count": 0,
       "sold_out": true,
-      "waitlist_active": true
+      "waitlist_active": true,
+      "registration_deadline": null
     },
     "found_on_platforms": [
       "luma"

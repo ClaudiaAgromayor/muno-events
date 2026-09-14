@@ -21,6 +21,7 @@
     "guest_count": 23,
     "sold_out": true,
     "waitlist_active": false,
+    "registration_deadline": "2026-09-06T21:59:59.000Z",
     "lat": 40.4266637,
     "lng": -3.7078357
   },
@@ -46,6 +47,7 @@
     "guest_count": 0,
     "sold_out": true,
     "waitlist_active": false,
+    "registration_deadline": "2026-09-06T21:59:59.000Z",
     "lat": 40.42134197784673,
     "lng": -3.6844421801838605
   }

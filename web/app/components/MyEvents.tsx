@@ -138,6 +138,8 @@ export default function MyEvents() {
 
   return (
     <div className="flex flex-col gap-12">
+      <RachaBadge myEvents={myEvents} now={now} />
+
       {upcoming.length > 0 && (
         <section>
           <h2 className="font-display text-2xl italic text-muted">Próximos</h2>
@@ -247,4 +249,39 @@ export default function MyEvents() {
 function formatWhen(startAt: string): string {
   const d = formatEventDate(startAt);
   return `${d.weekday} ${d.day} ${d.monthLabel}${d.time ? ` · ${d.time}` : ""}`;
+}
+
+// Distintivo ligero de vuelta a la pagina: sin puntuacion ni niveles, solo dos datos que
+// ya tenemos gratis en myEvents (cuenta este mes, fecha del primer evento pasado) para
+// dar una razon emocional de volver sin construir un sistema de gamificacion aparte.
+function RachaBadge({ myEvents, now }: { myEvents: MyEventEntry[]; now: Date }) {
+  const currentMonthKey = `${now.getFullYear()}-${now.getMonth()}`;
+  const thisMonthCount = myEvents.filter((e) => {
+    if (!e.event_start_at) return false;
+    const d = new Date(e.event_start_at);
+    return `${d.getFullYear()}-${d.getMonth()}` === currentMonthKey;
+  }).length;
+
+  const pastDates = myEvents
+    .map((e) => e.event_start_at)
+    .filter((d): d is string => !!d && new Date(d) < now)
+    .sort();
+  const since = pastDates[0] ?? null;
+  const sinceLabel = since
+    ? new Date(since).toLocaleDateString("es-ES", { month: "long", year: "numeric" })
+    : null;
+
+  const headline =
+    thisMonthCount > 0
+      ? `Vas a ${thisMonthCount} evento${thisMonthCount === 1 ? "" : "s"} este mes`
+      : `Vas a ${myEvents.length} evento${myEvents.length === 1 ? "" : "s"} en total`;
+
+  return (
+    <div className="border border-foreground px-5 py-4">
+      <p className="font-display text-xl italic">
+        {headline}
+        {sinceLabel && <span className="text-muted"> · vienes desde {sinceLabel}</span>}
+      </p>
+    </div>
+  );
 }

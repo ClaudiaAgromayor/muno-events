@@ -6,6 +6,7 @@ import { createClient } from "@/app/lib/supabase/client";
 import type { MunoEvent } from "@/app/lib/events";
 import { formatEventDate, groupEventsByDay, registrationDeadlineLabel, spotsLabel, spotsUrgent } from "@/app/lib/events";
 import RsvpControl, { type RsvpSummary } from "@/app/components/RsvpControl";
+import { useToast } from "@/app/components/Toast";
 
 type RsvpRow = {
   event_id: string;
@@ -19,6 +20,7 @@ type MyGroup = { id: string; name: string };
 
 export default function EventList({ events }: { events: MunoEvent[] }) {
   const supabase = useMemo(() => createClient(), []);
+  const toast = useToast();
   const [user, setUser] = useState<User | null>(null);
   const [rsvpRows, setRsvpRows] = useState<RsvpRow[]>([]);
   const [myGroups, setMyGroups] = useState<MyGroup[]>([]);
@@ -52,11 +54,11 @@ export default function EventList({ events }: { events: MunoEvent[] }) {
     // sin exponer el nombre aunque se pida explicitamente en el select.
     const { data, error } = await supabase.from("rsvps").select("event_id, user_id, profiles(display_name, show_name)");
     if (error) {
-      alert(`Error cargando quien va: ${error.message}`);
+      toast.error(`Error cargando quien va: ${error.message}`);
       return;
     }
     setRsvpRows((data as unknown as RsvpRow[]) ?? []);
-  }, [supabase]);
+  }, [supabase, toast]);
 
   useEffect(() => {
     loadRsvps();
@@ -82,7 +84,7 @@ export default function EventList({ events }: { events: MunoEvent[] }) {
         provider: "github",
         options: { redirectTo: `${window.location.origin}/auth/callback` },
       });
-      if (error) alert(`Error al entrar con GitHub: ${error.message}`);
+      if (error) toast.error(`Error al entrar con GitHub: ${error.message}`);
       return;
     }
     // Copiamos nombre/fecha/direccion/url del evento tal cual esta ahora: el pipeline
@@ -99,7 +101,7 @@ export default function EventList({ events }: { events: MunoEvent[] }) {
           event_url: event.url,
         });
     if (error) {
-      alert(`Error al marcar "voy": ${error.message}`);
+      toast.error(`Error al marcar "voy": ${error.message}`);
       return;
     }
     loadRsvps();
@@ -115,14 +117,14 @@ export default function EventList({ events }: { events: MunoEvent[] }) {
       p_event_url: event.url,
     });
     if (error) {
-      alert(`Error marcando "vamos" para el grupo: ${error.message}`);
+      toast.error(`Error marcando "vamos" para el grupo: ${error.message}`);
       return;
     }
     // rsvp_group no dice cuantas filas nuevas creo (usa "on conflict do nothing"), asi
     // que sin este aviso no hay forma de saber si la accion hizo algo quien la pulsa --
     // sobre todo si ya estabas apuntada tu sola, como en el caso mas comun de prueba.
     const groupName = myGroups.find((g) => g.id === groupId)?.name ?? "el grupo";
-    alert(`Hecho: "${groupName}" marcado en este evento (los que ya estaban apuntados no cambian).`);
+    toast.success(`"${groupName}" marcado en este evento`);
     loadRsvps();
   };
 

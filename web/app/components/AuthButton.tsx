@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useState } from "react";
 import type { User } from "@supabase/supabase-js";
 import { createClient } from "@/app/lib/supabase/client";
+import { useToast } from "@/app/components/Toast";
 
 export default function AuthButton() {
   const [user, setUser] = useState<User | null>(null);
@@ -11,18 +12,19 @@ export default function AuthButton() {
   const [showSettings, setShowSettings] = useState(false);
   const [loaded, setLoaded] = useState(false);
   const supabase = createClient();
+  const toast = useToast();
 
   const loadProfile = useCallback(
     async (userId: string) => {
       const { data, error } = await supabase.from("profiles").select("show_name, linkedin_url").eq("id", userId).single();
       if (error) {
-        alert(`Error cargando tu perfil: ${error.message}`);
+        toast.error(`Error cargando tu perfil: ${error.message}`);
         return;
       }
       setShowName(data?.show_name ?? false);
       setLinkedinUrl(data?.linkedin_url ?? "");
     },
-    [supabase]
+    [supabase, toast]
   );
 
   useEffect(() => {
@@ -66,13 +68,17 @@ export default function AuthButton() {
     const { error } = await supabase.from("profiles").update({ show_name: next }).eq("id", user.id);
     if (error) {
       setShowName(!next);
-      alert(`Error guardando el ajuste: ${error.message}`);
+      toast.error(`Error guardando el ajuste: ${error.message}`);
     }
   };
 
   const saveLinkedin = async () => {
     const { error } = await supabase.from("profiles").update({ linkedin_url: linkedinUrl || null }).eq("id", user.id);
-    if (error) alert(`Error guardando LinkedIn: ${error.message}`);
+    if (error) {
+      toast.error(`Error guardando LinkedIn: ${error.message}`);
+      return;
+    }
+    toast.success("LinkedIn guardado");
   };
 
   return (

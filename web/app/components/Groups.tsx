@@ -4,6 +4,7 @@ import { useCallback, useEffect, useMemo, useState } from "react";
 import type { User } from "@supabase/supabase-js";
 import { createClient } from "@/app/lib/supabase/client";
 import { formatEventDate } from "@/app/lib/events";
+import { useToast } from "@/app/components/Toast";
 
 type Group = {
   id: string;
@@ -24,6 +25,7 @@ type GroupEvent = {
 
 export default function Groups() {
   const supabase = useMemo(() => createClient(), []);
+  const toast = useToast();
   const [user, setUser] = useState<User | null>(null);
   const [loaded, setLoaded] = useState(false);
   const [groups, setGroups] = useState<Group[]>([]);
@@ -45,7 +47,7 @@ export default function Groups() {
     if (!user) return;
     const { data, error } = await supabase.from("groups").select("id, name, invite_code, owner_id");
     if (error) {
-      alert(`Error cargando grupos: ${error.message}`);
+      toast.error(`Error cargando grupos: ${error.message}`);
       return;
     }
     setGroups(data ?? []);
@@ -56,7 +58,7 @@ export default function Groups() {
       .select("group_id, user_id, profiles(display_name)")
       .in("group_id", (data ?? []).map((g) => g.id));
     if (membersError) {
-      alert(`Error cargando miembros: ${membersError.message}`);
+      toast.error(`Error cargando miembros: ${membersError.message}`);
       return;
     }
     const map = new Map<string, Member[]>();
@@ -77,7 +79,7 @@ export default function Groups() {
       .select("user_id, event_id, event_name, event_start_at, event_url")
       .in("user_id", allMemberIds);
     if (rsvpError) {
-      alert(`Error cargando la agenda del grupo: ${rsvpError.message}`);
+      toast.error(`Error cargando la agenda del grupo: ${rsvpError.message}`);
       return;
     }
     const eventsMap = new Map<string, GroupEvent[]>();
@@ -111,7 +113,7 @@ export default function Groups() {
       );
     }
     setEventsByGroup(eventsMap);
-  }, [supabase, user]);
+  }, [supabase, user, toast]);
 
   useEffect(() => {
     load();
@@ -126,17 +128,18 @@ export default function Groups() {
     const groupId = crypto.randomUUID();
     const { error } = await supabase.from("groups").insert({ id: groupId, name: newName.trim(), owner_id: user.id });
     if (error) {
-      alert(`Error creando el grupo: ${error.message}`);
+      toast.error(`Error creando el grupo: ${error.message}`);
       return;
     }
     const { error: memberError } = await supabase
       .from("group_members")
       .insert({ group_id: groupId, user_id: user.id });
     if (memberError) {
-      alert(`Error uniendote a tu propio grupo: ${memberError.message}`);
+      toast.error(`Error uniendote a tu propio grupo: ${memberError.message}`);
       return;
     }
     setNewName("");
+    toast.success("Grupo creado");
     load();
   };
 

@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import type { User } from "@supabase/supabase-js";
 import { createClient } from "@/app/lib/supabase/client";
+import { useToast } from "@/app/components/Toast";
 
 type Post = {
   id: string;
@@ -22,6 +23,7 @@ function kindFromMime(mime: string): Post["kind"] {
 
 export default function EventPosts({ eventId, user }: { eventId: string; user: User }) {
   const supabase = createClient();
+  const toast = useToast();
   const [posts, setPosts] = useState<Post[]>([]);
   const [note, setNote] = useState("");
   const [uploading, setUploading] = useState(false);
@@ -34,7 +36,7 @@ export default function EventPosts({ eventId, user }: { eventId: string; user: U
       .eq("event_id", eventId)
       .order("created_at", { ascending: true });
     if (error) {
-      alert(`Error cargando publicaciones: ${error.message}`);
+      toast.error(`Error cargando publicaciones: ${error.message}`);
       return;
     }
     const withUrls = await Promise.all(
@@ -45,7 +47,7 @@ export default function EventPosts({ eventId, user }: { eventId: string; user: U
       })
     );
     setPosts(withUrls);
-  }, [supabase, eventId]);
+  }, [supabase, eventId, toast]);
 
   useEffect(() => {
     load();
@@ -57,10 +59,11 @@ export default function EventPosts({ eventId, user }: { eventId: string; user: U
       .from("posts")
       .insert({ event_id: eventId, user_id: user.id, kind: "nota", text_content: note.trim() });
     if (error) {
-      alert(`Error al publicar la nota: ${error.message}`);
+      toast.error(`Error al publicar la nota: ${error.message}`);
       return;
     }
     setNote("");
+    toast.success("Nota publicada");
     load();
   };
 
@@ -69,7 +72,7 @@ export default function EventPosts({ eventId, user }: { eventId: string; user: U
     const path = `${eventId}/${user.id}/${Date.now()}-${file.name}`;
     const { error: uploadError } = await supabase.storage.from("event-posts").upload(path, file);
     if (uploadError) {
-      alert(`Error subiendo el archivo: ${uploadError.message}`);
+      toast.error(`Error subiendo el archivo: ${uploadError.message}`);
       setUploading(false);
       return;
     }
@@ -78,10 +81,11 @@ export default function EventPosts({ eventId, user }: { eventId: string; user: U
       .insert({ event_id: eventId, user_id: user.id, kind: kindFromMime(file.type), storage_path: path });
     setUploading(false);
     if (insertError) {
-      alert(`Error guardando la publicacion: ${insertError.message}`);
+      toast.error(`Error guardando la publicacion: ${insertError.message}`);
       return;
     }
     if (fileInputRef.current) fileInputRef.current.value = "";
+    toast.success("Subido");
     load();
   };
 

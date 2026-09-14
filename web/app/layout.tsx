@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Instrument_Serif, Space_Grotesk } from "next/font/google";
+import { ToastProvider } from "@/app/components/Toast";
 import "./globals.css";
 
 const instrumentSerif = Instrument_Serif({
@@ -22,7 +23,9 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html lang="es" className={`${instrumentSerif.variable} ${spaceGrotesk.variable} h-full antialiased`}>
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className="min-h-full flex flex-col">
+        <ToastProvider>{children}</ToastProvider>
+      </body>
     </html>
   );
 }

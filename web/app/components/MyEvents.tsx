@@ -5,6 +5,7 @@ import type { User } from "@supabase/supabase-js";
 import { createClient } from "@/app/lib/supabase/client";
 import { formatEventDate } from "@/app/lib/events";
 import EventPosts from "@/app/components/EventPosts";
+import { useToast } from "@/app/components/Toast";
 
 type MyEventEntry = {
   event_id: string;
@@ -19,6 +20,7 @@ type ConnectionRow = { event_id: string; user_id: string; other_user_id: string 
 
 export default function MyEvents() {
   const supabase = useMemo(() => createClient(), []);
+  const toast = useToast();
   const [user, setUser] = useState<User | null>(null);
   const [loaded, setLoaded] = useState(false);
   const [myEvents, setMyEvents] = useState<MyEventEntry[]>([]);
@@ -42,7 +44,7 @@ export default function MyEvents() {
       .select("event_id, event_name, event_start_at, event_address, event_url")
       .eq("user_id", user.id);
     if (mineError) {
-      alert(`Error cargando tus eventos: ${mineError.message}`);
+      toast.error(`Error cargando tus eventos: ${mineError.message}`);
       return;
     }
     setMyEvents(mine ?? []);
@@ -55,7 +57,7 @@ export default function MyEvents() {
       .select("event_id, user_id, profiles(display_name, show_name, linkedin_url)")
       .in("event_id", ids);
     if (allError) {
-      alert(`Error cargando asistentes: ${allError.message}`);
+      toast.error(`Error cargando asistentes: ${allError.message}`);
       return;
     }
     const map = new Map<string, Attendee[]>();
@@ -77,11 +79,11 @@ export default function MyEvents() {
       .select("event_id, user_id, other_user_id")
       .in("event_id", ids);
     if (connError) {
-      alert(`Error cargando conexiones: ${connError.message}`);
+      toast.error(`Error cargando conexiones: ${connError.message}`);
       return;
     }
     setConnections(conns ?? []);
-  }, [supabase, user]);
+  }, [supabase, user, toast]);
 
   useEffect(() => {
     load();
@@ -93,9 +95,10 @@ export default function MyEvents() {
       .from("connections")
       .insert({ event_id: eventId, user_id: user.id, other_user_id: otherUserId });
     if (error) {
-      alert(`Error al marcar la conexion: ${error.message}`);
+      toast.error(`Error al marcar la conexion: ${error.message}`);
       return;
     }
+    toast.success("Conexión marcada");
     load();
   };
 

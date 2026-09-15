@@ -2,6 +2,25 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
+    "source_id": "316211287",
+    "name": "IA aplicada: convierte procesos en servicios para tus clientes ",
+    "description": "La IA no solo permite ahorrar tiempo y automatizar tareas. También está creando nuevas oportunidades para profesionales, freelancers y agencias que quieren incorporar nuevas soluciones a los servicios que ya ofrecen a sus clientes.\n\nEn este encuentro online veremos **cómo identificar procesos con potencial para aplicar IA, transformarlos en soluciones concretas y convertirlos en servicios que puedas ofrecer de forma clara y repetible a diferentes clientes.**\n\nHablaremos de casos aplicados a marketing, ventas, atención al cliente, operaciones y otras áreas, con ejemplos concretos y un framework práctico para pasar de una necesidad real a una propuesta de servicio.\n\n## Qué veremos\n\n* Dónde están las oportunidades reales para crear servicios con IA.\n* Qué puedes ofrecer con IA en áreas como marketing, ventas, atención al cliente y operaciones.\n* Cómo detectar problemas y procesos de tus clientes que pueden convertirse en una solución.\n* Cómo pasar de una automatización o agente a una oferta concreta y fácil de entender.\n* Qué necesitas para empezar sin tener que desarrollar todo desde cero.\n* Cómo crear soluciones que puedas adaptar y reutilizar con distintos clientes.\n* Errores habituales al crear una oferta basada en IA.\n* Un framework práctico: **problema → solución → proceso → cliente → propuesta → delivery.**\n* Ejemplos aplicados a prospección B2B, lead scoring, generación de propuestas, onboarding, reporting, contenido, recepción virtual y otras aplicaciones.\n\n🎓 **Encuentro online gratuito**\n⏱️ **Duración aproximada: 90 min + Q&A**\n🤝 **Impulsado por InvokeApp para la comunidad PNM – Professional Network Madrid**",
+    "start_at": "2026-09-15T18:00:00+02:00",
+    "url": "https://www.meetup.com/ia-para-agencias-freelancers-y-consultores/events/316211287/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "IA para Agencias, Freelancers y Consultores",
+    "attendees": 41,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
     "source_id": "316209512",
     "name": "Build you own intelligent corporate raw assistant",
     "description": "Ever wondered what it actually takes to build an AI assistant that understands your company's data, messy files, weird formats and all? Join us for a hands-on workshop where we'll build our own intelligent corporate assistant from scratch.\n\nWe'll take on a real-world challenge: given a chaotic mix of unstructured data (PDFs, logs, office docs, etc...), we'll build a context-aware Agentic System using modern Retrieval-Augmented Generation (RAG) techniques.\n\nExpect practical coding, honest discussion, and a chance to connect with other data and AI practitioners in Madrid.\n\n**WARNING**: Expect hands-on coding, we'll build the assistant from scratch using technologies like LangGraph, Langfuse, Quadrant, etc...\n\n**Agenda:**\n\n* 18:30 – Welcome, intro\n* 18:45 – Kickoff\n* 19:00 – Workshop\n* 21:15 – Wrap-up & networking\n\n**What to bring:**\n\n* A laptop\n* Python Coding experience\n* Curiosity - no prior RAG/vector DB experience required\n\n**How to find the group:**\nWe'll meet somewhere nice in the center of Madrid.\nMore details will be shared soon!",
@@ -23,25 +42,6 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
-    "source_id": "316211287",
-    "name": "IA aplicada: convierte procesos en servicios para tus clientes ",
-    "description": "La IA no solo permite ahorrar tiempo y automatizar tareas. También está creando nuevas oportunidades para profesionales, freelancers y agencias que quieren incorporar nuevas soluciones a los servicios que ya ofrecen a sus clientes.\n\nEn este encuentro online veremos **cómo identificar procesos con potencial para aplicar IA, transformarlos en soluciones concretas y convertirlos en servicios que puedas ofrecer de forma clara y repetible a diferentes clientes.**\n\nHablaremos de casos aplicados a marketing, ventas, atención al cliente, operaciones y otras áreas, con ejemplos concretos y un framework práctico para pasar de una necesidad real a una propuesta de servicio.\n\n## Qué veremos\n\n* Dónde están las oportunidades reales para crear servicios con IA.\n* Qué puedes ofrecer con IA en áreas como marketing, ventas, atención al cliente y operaciones.\n* Cómo detectar problemas y procesos de tus clientes que pueden convertirse en una solución.\n* Cómo pasar de una automatización o agente a una oferta concreta y fácil de entender.\n* Qué necesitas para empezar sin tener que desarrollar todo desde cero.\n* Cómo crear soluciones que puedas adaptar y reutilizar con distintos clientes.\n* Errores habituales al crear una oferta basada en IA.\n* Un framework práctico: **problema → solución → proceso → cliente → propuesta → delivery.**\n* Ejemplos aplicados a prospección B2B, lead scoring, generación de propuestas, onboarding, reporting, contenido, recepción virtual y otras aplicaciones.\n\n🎓 **Encuentro online gratuito**\n⏱️ **Duración aproximada: 90 min + Q&A**\n🤝 **Impulsado por InvokeApp para la comunidad PNM – Professional Network Madrid**",
-    "start_at": "2026-09-15T18:00:00+02:00",
-    "url": "https://www.meetup.com/ia-para-agencias-freelancers-y-consultores/events/316211287/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "IA para Agencias, Freelancers y Consultores",
-    "attendees": 39,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
     "source_id": "316466866",
     "name": "¿Qué hay de nuevo este 2026 en Power Apps y Power Automate?",
     "description": "**Power Apps** y **Power Automate** siguen evolucionando y este 2026 traen algunas novedades interesantes, muchas de ellas impulsando enfoques más inteligentes, fluidos y apoyados en **inteligencia artificial**, como casi todo este 2026: **Power Platform** no podía ser la excepción.\n\nEn esta sesión veremos estas novedades desde un punto de vista práctico: qué implican, por qué son relevantes y cómo podemos aprovecharlas en proyectos reales.",
@@ -54,6 +54,44 @@
     "attendees": 9,
     "max_tickets": 0,
     "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316551631",
+    "name": "IA Workshop: Automatización para AEC con n8n: de la obra a los datos",
+    "description": "Este próximo **miércoles día 16 de marzo de 2026** (7PM hora de Madrid) tenemos nueva reunión del BIM Technology User Group, una reunión en la que realizaremos un **Workshop gratuito bajo el título de *[Automatización para AEC con n8n: de la obra a los datos](https://butic.es/automatizacion-n8n-datos-obra/)*.**\n\nCorrerá a cargo de **David Moreira**, Arquitecto especializado en transformación digital y automatización de procesos.\n\nEn el día a día de un proyecto AECO se generan constantemente **nuevos datos**: incidencias BIM, fotografías de obra, informes, actas, aprobaciones, cambios, avisos y tareas. El reto no está tanto en disponer de esa información como en **conseguir que llegue, en el momento adecuado**, a quien tiene que actuar sobre ella.\nEn este workshop online veremos cómo transformar ese problema en un flujo de trabajo automatizado utilizando **n8n**, una plataforma que permite conectar aplicaciones y automatizar procesos. A través de un caso práctico, construiremos paso a paso un flujo sencillo para entender qué ocurre desde que se genera un dato hasta que se convierte en una acción dentro del equipo.\nMás que aprender a utilizar todas las posibilidades de n8n, la sesión busca comprender una metodología aplicable a muchos otros procesos: capturar información, estructurarla, analizarla, establecer prioridades y desencadenar respuestas de forma automática y trazable.\nEl propósito es descubrir **qué procesos merece la pena automatizar y por qué**, reduciendo tareas repetitivas y mejorando la circulación de información entre la oficina, la obra y los distintos agentes del proyecto. Una aproximación práctica a la automatización que permite empezar a construir soluciones útiles sin necesidad de ser especialista en programación.\n\nEl registro para acceder en directo vía Zoom, es éste: [https://butic.es/automatizacion-n8n-datos-obra/](https://butic.es/automatizacion-n8n-datos-obra/)\n\n**¿Qué aprenderemos con David?**\n\n1. Una forma clara de leer procesos AEC como flujos de información\n2. Criterios para identificar tareas que pueden automatizarse\n3. Una referencia concreta sobre cómo integrar n8n e IA manteniendo el control profesional\n\n* ​Cómo funciona la lógica básica de n8n: entradas, nodos, datos, condiciones y ejecuciones.\n* ​Cómo conectar una entrada de información con reglas de decisión, notificaciones y registros.\n* ​Cómo transformar tareas repetitivas en flujos trazables sin perder criterio humano.\n* ​Cómo identificar oportunidades de automatización en contextos AEC.\n* ​Qué casos conviene automatizar, cuáles no, y cómo evitar agregar ruido innecesario al equipo.\n* ​Cómo una capa de IA puede apoyar el resumen y priorización de información sin reemplazar la revisión profesional.\n\nEl registro para acceder en directo vía Zoom a esta primera Open BIM Class, es éste: [https://butic.es/automatizacion-n8n-datos-obra/](https://butic.es/automatizacion-n8n-datos-obra/)",
+    "start_at": "2026-09-16T19:00:00+02:00",
+    "url": "https://www.meetup.com/bimtechnologyusergroup/events/316551631/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "BIM Technology User Group",
+    "attendees": 4,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316441163",
+    "name": "AI Virtual Days 2026",
+    "description": "**AI Virtual Days** es un evento online organizado por **Microsoft Speakers Hub en Español** que reúne a la comunidad hispanohablante para compartir conocimiento, experiencias y casos reales relacionados con la Inteligencia Artificial.\n\nSe trata de un **evento 100% en español**, creado por y para la comunidad de habla hispana, donde profesionales, especialistas, creadores y entusiastas de la IA podrán aprender de quienes están aplicando estas tecnologías en proyectos reales y generando impacto en sus organizaciones.\n\nDurante el evento exploraremos temáticas como agentes de IA, Microsoft 365 Copilot, Copilot Studio, Azure AI Foundry, Microsoft Fabric, GitHub Copilot, automatización inteligente, análisis de datos, desarrollo moderno, seguridad, gobierno, adopción y cualquier otro ámbito donde la Inteligencia Artificial esté transformando la forma de trabajar y crear soluciones.\n\nAI Virtual Days está **orientado a compartir conocimiento práctico y experiencias reales**. Queremos acercar a la comunidad sesiones que inspiren, enseñen y ayuden a comprender cómo la Inteligencia Artificial se está aplicando hoy en organizaciones, proyectos y escenarios reales, poniendo especial foco en aprendizajes, casos de uso y experiencias de primera mano.\n\nNuestro objetivo es acercar experiencias prácticas a toda la comunidad, fomentando el aprendizaje, la colaboración y la difusión de conocimiento de calidad en español.\n\n💡 Conocimiento real. Experiencias reales. Inteligencia Artificial para toda la comunidad hispana.",
+    "start_at": "2026-11-13T16:00:00+01:00",
+    "url": "https://www.meetup.com/microsoft-speakers-hub-en-espanol/events/316441163/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Microsoft Speakers Hub en Español",
+    "attendees": 9,
+    "max_tickets": 500,
+    "spots_left": 491,
     "found_in": [
       "Artificial Intelligence"
     ]
@@ -434,6 +472,25 @@
   },
   {
     "source": "meetup",
+    "source_slug": "Hackathon",
+    "source_id": "316524838",
+    "name": "AnalyticsCLUB JobExpo Virtual Business, Data & Technology Job Expo",
+    "description": "**What is FirstFridayFair Monthly Job Fair?**\n\nFirstFridayFair Monthly Job Fair is a **global virtual job fair and remote hiring event** hosted by the Analytics CLUB community. This **online job fair platform** brings together **professionals, employers, recruiters, and career coaches** for an immersive, **self-managed career networking experience**.\n\n🎥 **New to FirstFridayFair? Watch our explainer video here:** [https://youtu.be/NlLaCfOjosk](https://youtu.be/NlLaCfOjosk)\n\n**Where and When?**\n📍 Online at [https://events.tao.ai/pod/analytics.club/6j382kbpcnvd](https://events.tao.ai/pod/analytics.club/6j382kbpcnvd)\n🗓 First Friday of the month\n⏰ 11:00 AM - 2:00 PM (Local Time Zone)\n🌍 Open to participants globally\n\n🌍 **Who should join?**\n\n* **Job Seekers:** Looking for their next big break in **remote or local roles**.\n* **Employers & Recruiters:** Eager to find top talent across industries.\n* **Service Providers & Career Coaches:** Supporting professionals with tools, tips, and resources.\n* **Career Enthusiasts & Explorers:** Wishing to expand their network and knowledge.\n\n💬 **Where does the event take place?**\nThis interactive event is hosted on a **Slack-like community chat platform**, making it easy to **join from anywhere** and interact in **real-time group chats and 1-1 video or text conversations**.\n🚀 **What can you do at the event?**\nAttendees can explore several themed **Slack job fair channels** designed for **job networking, peer-to-peer support, and industry discussions**:\n\n* **General:** Intros, announcements, and casual networking.\n* **Networking:** Showcase your portfolio, startup, or job pitch.\n* **Intros:** Meet others, share your career path, and connect personally.\n* **Help Wanted:** Offer your skills or seek help from others.\n* **Industry Room Tech:** Discuss the latest in programming, software, and tech trends.\n\nAdditionally, attendees can engage in:\n\n* **1-1 video and text chats** with other attendees, recruiters, or service providers.\n* Visit the **virtual job openings board** to browse active listings and **connect with recruiters online**.\n* Participate in **live job fair chat**, where you can ask career-related questions, get **online resume tips**, and explore ways to stand out in the hiring process.\n\n❓ **Why join FirstFridayFair Monthly Job Fair?**\n\n* Access **global job networking events** right from your device.\n* Explore **virtual hiring events** designed for professionals seeking flexibility and growth.\n* Engage in meaningful conversations and discover **remote hiring opportunities**.\n* Take advantage of a **self-managed and open community platform**, allowing you to connect at your own pace.\n* Use the dedicated channels to **showcase your skills, ask questions, and build lasting professional connections**.\n\n**Have Questions or Suggestions?**\nWe’d love to help: [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)",
+    "start_at": "2026-10-02T11:00:00+02:00",
+    "url": "https://www.meetup.com/ac-mad/events/316524838/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Analytics.CLUB Madrid",
+    "attendees": 1,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Hackathon"
+    ]
+  },
+  {
+    "source": "meetup",
     "source_slug": "Artificial Intelligence",
     "source_id": "316335741",
     "name": "MARCHA POR LA LONGEVIDAD DE MADRID: Jueves 1 de octubre, 14:00 - 15:30, CET",
@@ -474,18 +531,18 @@
   {
     "source": "meetup",
     "source_slug": "Data Science",
-    "source_id": "316496763",
-    "name": "¿Demasiado perfeccionista? Suelta la Autoexigencia",
-    "description": "**¿Sientes que nunca es suficiente, que siempre podrías haberlo hecho mejor o que la presión interna te agota?**\n\nTe invitamos a esta **charla-coloquio** guiada por **Diana Esteban** (Terapeuta de Escenas Matrices), un espacio cercano para conversar, compartir experiencias y aprender a mirarnos de otra manera, liberándonos de la trampa del perfeccionismo.\n**Información clave del evento:**\n\n* **Fecha:** Lunes, 21 de Septiembre\n* **Hora:** 19:00h - 20:30h\n* **Ubicación:** Biblioteca Pública Municipal Mario Vargas Llosa (Barrio de Malasaña, Madrid)\n* **Ponente:** Diana Esteban\n* **Entrada:** Gratuita / Libre hasta completar aforo\n\n**¿Qué haremos?** Un encuentro dinámico e interactivo donde reflexionaremos sobre el origen de la autoexigencia y compartiremos herramientas prácticas para cultivar una relación más amable con nosotros mismos.\n¡Trae tus ganas de participar y compartir!",
-    "start_at": "2026-09-21T19:00:00+02:00",
-    "url": "https://www.meetup.com/viaje-hacia-ti/events/316496763/",
+    "source_id": "316564064",
+    "name": "Biohacking: piel, bienestar y autocuidado",
+    "description": "Sabemos que el trabajo emocional que haces no ocurre solo en la mente.El cuerpo también guarda, también procesa, también necesita ser escuchado.\n\nPor eso queremos invitarte a esta experiencia diferente: un espacio para acercarte a tu bienestar físico con la misma atención y respeto con el que trabajas tu mundo interno.\n\nHablaremos de longevidad celular, nutrición y cuidado de la piel, no como una moda estética, sino como otra forma de habitar el cuerpo que sostiene tu proceso.\n\nDurante la sesión podrás:\n* Medir tus niveles de antioxidantes, esa parte silenciosa que protege tus células cada día.\n* Conocer el estado de tu sistema inmunológico, muchas veces reflejo de cómo estamos por dentro.\n* Probar dispositivos pensados para acompañar tu piel, sin presión ni expectativas, solo como un gesto de cuidado.\n\nNo es solo una sesión de belleza ni solo una charla de salud. Es un espacio para conectar con tu cuerpo y entender, desde dentro, cómo cuidarte mejor.\n\nTe esperamos con ganas de compartir este momento contigo.\n\n[Reserva tu plaza AQUÍ](https://forms.gle/sPFRSR943CvgXB1e6)",
+    "start_at": "2026-09-26T11:00:00+02:00",
+    "url": "https://www.meetup.com/sisu-mujeres-en-bienestar-y-consciencia/events/316564064/",
     "event_type": "PHYSICAL",
     "city": "Madrid",
-    "address": "Calle Barceló, 4",
-    "organizer": "Viaje hacia Ti: Crecimiento Personal",
+    "address": "Francisco Silvela 36, planta 1-puerta 3",
+    "organizer": "Sisu · Mujeres en Bienestar y Consciencia",
     "attendees": 1,
-    "max_tickets": 0,
-    "spots_left": null,
+    "max_tickets": 10,
+    "spots_left": 9,
     "found_in": [
       "Data Science"
     ]
@@ -540,9 +597,9 @@
     "city": "Madrid",
     "address": "C. de Toledo, 110, Centro, 28005 Madrid",
     "organizer": "MadRust",
-    "attendees": 17,
+    "attendees": 16,
     "max_tickets": 35,
-    "spots_left": 18,
+    "spots_left": 19,
     "found_in": [
       "DevOps",
       "Hackathon"

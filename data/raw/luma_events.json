@@ -20,7 +20,7 @@
     "categories": [
       "AI"
     ],
-    "guest_count": 84,
+    "guest_count": 86,
     "sold_out": true,
     "waitlist_active": true,
     "registration_deadline": null,
@@ -106,9 +106,9 @@
     "categories": [
       "AI"
     ],
-    "guest_count": 44,
-    "sold_out": false,
-    "waitlist_active": false,
+    "guest_count": 45,
+    "sold_out": true,
+    "waitlist_active": true,
     "registration_deadline": null,
     "lat": 40.4074994,
     "lng": -3.7114533

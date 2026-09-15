@@ -11,9 +11,9 @@
     "city": "Madrid",
     "address": "C. de San Bernardo, 2, Centro, 28013 Madrid",
     "organizer": "Madrid Networking Club",
-    "attendees": 52,
+    "attendees": 56,
     "max_tickets": 120,
-    "spots_left": 68,
+    "spots_left": 64,
     "found_in": [
       "Artificial Intelligence",
       "Startups"
@@ -101,9 +101,9 @@
     "city": "Madrid",
     "address": "de la comunidad, C. de Bravo Murillo, 39, Local interior, Chamberí, 28015 Madrid, Spain",
     "organizer": "Madrid Machine Learning Meetup",
-    "attendees": 17,
+    "attendees": 18,
     "max_tickets": 60,
-    "spots_left": 43,
+    "spots_left": 42,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning"
@@ -123,9 +123,9 @@
     "city": "Madrid",
     "address": "Calle Jorge Juan, 17",
     "organizer": "The Vibe Coding Club Madrid",
-    "attendees": 72,
+    "attendees": 74,
     "max_tickets": 75,
-    "spots_left": 3,
+    "spots_left": 1,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -236,9 +236,9 @@
     "city": "Madrid",
     "address": "Calle de Pradillo, 42, 28002 Madrid, Spain",
     "organizer": "ProductTank Madrid",
-    "attendees": 61,
+    "attendees": 65,
     "max_tickets": 80,
-    "spots_left": 19,
+    "spots_left": 15,
     "found_in": [
       "DevOps",
       "Startups"
@@ -346,7 +346,8 @@
     "max_tickets": 90,
     "spots_left": 59,
     "found_in": [
-      "Startups"
+      "Startups",
+      "Hackathon"
     ],
     "lat": -31.4124189,
     "lng": -64.1505784

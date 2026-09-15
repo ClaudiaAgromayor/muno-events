@@ -2,16 +2,16 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
-    "source_id": "316211287",
-    "name": "IA aplicada: convierte procesos en servicios para tus clientes ",
-    "description": "La IA no solo permite ahorrar tiempo y automatizar tareas. También está creando nuevas oportunidades para profesionales, freelancers y agencias que quieren incorporar nuevas soluciones a los servicios que ya ofrecen a sus clientes.\n\nEn este encuentro online veremos **cómo identificar procesos con potencial para aplicar IA, transformarlos en soluciones concretas y convertirlos en servicios que puedas ofrecer de forma clara y repetible a diferentes clientes.**\n\nHablaremos de casos aplicados a marketing, ventas, atención al cliente, operaciones y otras áreas, con ejemplos concretos y un framework práctico para pasar de una necesidad real a una propuesta de servicio.\n\n## Qué veremos\n\n* Dónde están las oportunidades reales para crear servicios con IA.\n* Qué puedes ofrecer con IA en áreas como marketing, ventas, atención al cliente y operaciones.\n* Cómo detectar problemas y procesos de tus clientes que pueden convertirse en una solución.\n* Cómo pasar de una automatización o agente a una oferta concreta y fácil de entender.\n* Qué necesitas para empezar sin tener que desarrollar todo desde cero.\n* Cómo crear soluciones que puedas adaptar y reutilizar con distintos clientes.\n* Errores habituales al crear una oferta basada en IA.\n* Un framework práctico: **problema → solución → proceso → cliente → propuesta → delivery.**\n* Ejemplos aplicados a prospección B2B, lead scoring, generación de propuestas, onboarding, reporting, contenido, recepción virtual y otras aplicaciones.\n\n🎓 **Encuentro online gratuito**\n⏱️ **Duración aproximada: 90 min + Q&A**\n🤝 **Impulsado por InvokeApp para la comunidad PNM – Professional Network Madrid**",
-    "start_at": "2026-09-15T18:00:00+02:00",
-    "url": "https://www.meetup.com/ia-para-agencias-freelancers-y-consultores/events/316211287/",
+    "source_id": "316466866",
+    "name": "¿Qué hay de nuevo este 2026 en Power Apps y Power Automate?",
+    "description": "**Power Apps** y **Power Automate** siguen evolucionando y este 2026 traen algunas novedades interesantes, muchas de ellas impulsando enfoques más inteligentes, fluidos y apoyados en **inteligencia artificial**, como casi todo este 2026: **Power Platform** no podía ser la excepción.\n\nEn esta sesión veremos estas novedades desde un punto de vista práctico: qué implican, por qué son relevantes y cómo podemos aprovecharlas en proyectos reales.",
+    "start_at": "2026-09-23T19:00:00+02:00",
+    "url": "https://www.meetup.com/power-platform-madrid/events/316466866/",
     "event_type": "ONLINE",
     "city": "",
     "address": "",
-    "organizer": "IA para Agencias, Freelancers y Consultores",
-    "attendees": 41,
+    "organizer": "Power Platform Madrid",
+    "attendees": 9,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -37,25 +37,6 @@
       "Artificial Intelligence",
       "Machine Learning",
       "Data Science"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
-    "source_id": "316466866",
-    "name": "¿Qué hay de nuevo este 2026 en Power Apps y Power Automate?",
-    "description": "**Power Apps** y **Power Automate** siguen evolucionando y este 2026 traen algunas novedades interesantes, muchas de ellas impulsando enfoques más inteligentes, fluidos y apoyados en **inteligencia artificial**, como casi todo este 2026: **Power Platform** no podía ser la excepción.\n\nEn esta sesión veremos estas novedades desde un punto de vista práctico: qué implican, por qué son relevantes y cómo podemos aprovecharlas en proyectos reales.",
-    "start_at": "2026-09-23T19:00:00+02:00",
-    "url": "https://www.meetup.com/power-platform-madrid/events/316466866/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Power Platform Madrid",
-    "attendees": 9,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence"
     ]
   },
   {
@@ -377,6 +358,25 @@
   },
   {
     "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "316267997",
+    "name": "CI/CD con GitHub Actions: de local a producción sin miedo",
+    "description": "¿Sigues realizando despliegues manuales o te preocupa que un cambio inesperado rompa tu proyecto en producción? En esta sesión aprenderás los conceptos fundamentales de **CI/CD** utilizando **GitHub Actions** desde cero.\n\nDescubriremos cómo automatizar tareas, ejecutar pruebas, validar cambios y construir flujos de trabajo que permitan entregar soluciones con mayor confianza y menor esfuerzo manual.\n\nA través de ejemplos paso a paso, conoceremos cómo funciona un archivo YAML de GitHub Actions, cómo crear pipelines básicos y qué buenas prácticas aplicar para comenzar a automatizar procesos desde el primer día.\n\n🗣️ **Speaker:** Jeyson Meuses\n🎤 **Host**: Mike Matamoros",
+    "start_at": "2026-10-01T01:00:00+02:00",
+    "url": "https://www.meetup.com/microsoft-speakers-hub-en-espanol/events/316267997/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Microsoft Speakers Hub en Español",
+    "attendees": 8,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
     "source_slug": "Startups",
     "source_id": "316350269",
     "name": "How to Strategize and Execute Your Job Search with AI in One Hour",
@@ -532,7 +532,7 @@
     "source": "meetup",
     "source_slug": "Data Science",
     "source_id": "316564064",
-    "name": "Biohacking: piel, bienestar y autocuidado",
+    "name": "Invitación: piel, bienestar y autocuidado",
     "description": "Sabemos que el trabajo emocional que haces no ocurre solo en la mente.El cuerpo también guarda, también procesa, también necesita ser escuchado.\n\nPor eso queremos invitarte a esta experiencia diferente: un espacio para acercarte a tu bienestar físico con la misma atención y respeto con el que trabajas tu mundo interno.\n\nHablaremos de longevidad celular, nutrición y cuidado de la piel, no como una moda estética, sino como otra forma de habitar el cuerpo que sostiene tu proceso.\n\nDurante la sesión podrás:\n* Medir tus niveles de antioxidantes, esa parte silenciosa que protege tus células cada día.\n* Conocer el estado de tu sistema inmunológico, muchas veces reflejo de cómo estamos por dentro.\n* Probar dispositivos pensados para acompañar tu piel, sin presión ni expectativas, solo como un gesto de cuidado.\n\nNo es solo una sesión de belleza ni solo una charla de salud. Es un espacio para conectar con tu cuerpo y entender, desde dentro, cómo cuidarte mejor.\n\nTe esperamos con ganas de compartir este momento contigo.\n\n[Reserva tu plaza AQUÍ](https://forms.gle/sPFRSR943CvgXB1e6)",
     "start_at": "2026-09-26T11:00:00+02:00",
     "url": "https://www.meetup.com/sisu-mujeres-en-bienestar-y-consciencia/events/316564064/",
@@ -583,26 +583,6 @@
     "spots_left": null,
     "found_in": [
       "DevOps"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "DevOps",
-    "source_id": "316361267",
-    "name": "Tras la Máscara de Async Rust",
-    "description": "Después de un tiempo de inactividad volvemos a la carga con otra sesión de [Herme García](https://github.com/hermeGarcia).\n\n**¿Qué sucede realmente por debajo de \\`async/await\\` en Rust?**\n\nEn esta charla vamos a explorar cómo Rust construye su modelo de computación asíncrona combinando piezas fundamentales del lenguaje. Veremos cómo Rust **se apoya en su sistema de tipos y el ownership model** para ejecutar trabajo de forma asíncrona. Partiendo de estos fundamentos, iremos construyendo una intuición de **cómo funciona un executor** y cómo estas mismas piezas **permiten llegar a un runtime completo como Tokio**.\n\n*El evento tiene espíritu inclusivo y de respeto, todos son bienvenidos. Este evento se organiza bajo el paraguas del [código de conducta de la comunidad de Rust](https://rust-lang.org/es/policies/code-of-conduct/).*",
-    "start_at": "2026-09-15T18:00:00+02:00",
-    "url": "https://www.meetup.com/madrust/events/316361267/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "C. de Toledo, 110, Centro, 28005 Madrid",
-    "organizer": "MadRust",
-    "attendees": 16,
-    "max_tickets": 35,
-    "spots_left": 19,
-    "found_in": [
-      "DevOps",
-      "Hackathon"
     ]
   },
   {

@@ -11,7 +11,7 @@
     "city": "",
     "address": "",
     "organizer": "Power Platform Madrid",
-    "attendees": 9,
+    "attendees": 10,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -51,7 +51,7 @@
     "city": "",
     "address": "",
     "organizer": "BIM Technology User Group",
-    "attendees": 4,
+    "attendees": 5,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -454,25 +454,6 @@
   {
     "source": "meetup",
     "source_slug": "Hackathon",
-    "source_id": "316185487",
-    "name": "Open Source Climate Accounting: What Exists, What's Missing+Where To Contribute",
-    "description": "Climate accounting increasingly depends on systems that were never designed to work together. Registries use different standards and data models. The same activity can appear across multiple systems. Measurement data may come from sensors, satellite observations, models, or manual reporting, often with limited provenance or no straightforward way for downstream users to verify how a claim was produced.\n\nThese are not only reporting problems but they are problems of interoperability, provenance, reconciliation and trust between independent systems.\n\nA substantial amount of open-source work already exists to address them, but much of it remains fragmented or little known outside the communities that built it. This session will map that landscape: what is already available, what is mature enough to use today, what remains experimental and where meaningful technical contributions are still needed.\n\nThe aim is not to argue that blockchain is the answer to climate accounting. It is to look practically at where distributed ledgers, verifiable data, open standards and other open-source infrastructure can solve specific problems or where they cannot.\n\nStructure - The session would begin with a short framing of the technical problems behind climate and impact accounting: provenance, reconciliation, double counting, interoperability and verification across organisational boundaries.\n\nFrom there, members of the LF Decentralized Trust community could walk through existing open-source projects and frameworks, explaining what they were built to solve, how mature they are and where they are being used today.\n\nThe final part would focus on the gaps: problems that remain unsolved, areas where maintainers would welcome contributions and practical ways for developers, researchers and organisations to get involved.\n\nThe IEEE ClimateChain Global Hackathon ([https://ieee-climatechain-hack.devpost.com/](https://ieee-climatechain-hack.devpost.com/)) would be introduced as one of those routes to contribution.\n\nThe goal is for participants to leave with a clearer picture of what already exists, which problems are genuinely open and where their time and technical skills could have the greatest value.\n\n**Zoom Meeting Link**: [https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09](https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09)\n\n**Please note: This event is being shared with our entire global community. If you're interested in this content but can't attend the event live, feel free to sign up and we will send you a link to the recording after the meetup is over.**",
-    "start_at": "2026-10-01T18:00:00+02:00",
-    "url": "https://www.meetup.com/lfdt-madrid/events/316185487/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "LFDT Madrid",
-    "attendees": 1,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Hackathon"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Hackathon",
     "source_id": "316524838",
     "name": "AnalyticsCLUB JobExpo Virtual Business, Data & Technology Job Expo",
     "description": "**What is FirstFridayFair Monthly Job Fair?**\n\nFirstFridayFair Monthly Job Fair is a **global virtual job fair and remote hiring event** hosted by the Analytics CLUB community. This **online job fair platform** brings together **professionals, employers, recruiters, and career coaches** for an immersive, **self-managed career networking experience**.\n\n🎥 **New to FirstFridayFair? Watch our explainer video here:** [https://youtu.be/NlLaCfOjosk](https://youtu.be/NlLaCfOjosk)\n\n**Where and When?**\n📍 Online at [https://events.tao.ai/pod/analytics.club/6j382kbpcnvd](https://events.tao.ai/pod/analytics.club/6j382kbpcnvd)\n🗓 First Friday of the month\n⏰ 11:00 AM - 2:00 PM (Local Time Zone)\n🌍 Open to participants globally\n\n🌍 **Who should join?**\n\n* **Job Seekers:** Looking for their next big break in **remote or local roles**.\n* **Employers & Recruiters:** Eager to find top talent across industries.\n* **Service Providers & Career Coaches:** Supporting professionals with tools, tips, and resources.\n* **Career Enthusiasts & Explorers:** Wishing to expand their network and knowledge.\n\n💬 **Where does the event take place?**\nThis interactive event is hosted on a **Slack-like community chat platform**, making it easy to **join from anywhere** and interact in **real-time group chats and 1-1 video or text conversations**.\n🚀 **What can you do at the event?**\nAttendees can explore several themed **Slack job fair channels** designed for **job networking, peer-to-peer support, and industry discussions**:\n\n* **General:** Intros, announcements, and casual networking.\n* **Networking:** Showcase your portfolio, startup, or job pitch.\n* **Intros:** Meet others, share your career path, and connect personally.\n* **Help Wanted:** Offer your skills or seek help from others.\n* **Industry Room Tech:** Discuss the latest in programming, software, and tech trends.\n\nAdditionally, attendees can engage in:\n\n* **1-1 video and text chats** with other attendees, recruiters, or service providers.\n* Visit the **virtual job openings board** to browse active listings and **connect with recruiters online**.\n* Participate in **live job fair chat**, where you can ask career-related questions, get **online resume tips**, and explore ways to stand out in the hiring process.\n\n❓ **Why join FirstFridayFair Monthly Job Fair?**\n\n* Access **global job networking events** right from your device.\n* Explore **virtual hiring events** designed for professionals seeking flexibility and growth.\n* Engage in meaningful conversations and discover **remote hiring opportunities**.\n* Take advantage of a **self-managed and open community platform**, allowing you to connect at your own pace.\n* Use the dedicated channels to **showcase your skills, ask questions, and build lasting professional connections**.\n\n**Have Questions or Suggestions?**\nWe’d love to help: [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)",
@@ -583,6 +564,25 @@
     "spots_left": null,
     "found_in": [
       "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Hackathon",
+    "source_id": "316568618",
+    "name": "Crystal Bowl Sound Bath",
+    "description": "Hello there,\n\nYou're so welcome to this 90-minute crystal singing bowl, healing sound bath in nature, where you can relax, disconnect, release any heavy burdens or emotions, restore and heal while connecting to these magical healing sound frequencies.\n€10 suggested donation, not obligatory.\n\nNo experience needed. I suggest wearing comfortable clothes.\nThe duration is 1.5 hours in total to give us time to settle in, set an intention and then comfortably come back to the world rejuvenated.\n\nPlease let me know if you have any questions at all: [info@sarah-egan.com](mailto:info@sarah-egan.com)\n\nYou’re very welcome to join the Crystal Bowl Healing Sound Bath Whatsapp group, if you'd like to join our whatsapp group, please message me or email me first here so I know it's not spam.\n[https://chat.whatsapp.com/FkzmPbz4z27DsIsJUMcRpv?mode=gi_t](https://chat.whatsapp.com/FkzmPbz4z27DsIsJUMcRpv?mode=gi_t)\nLooking forward to creating this healing space with you 😊\n🌸💚✨🤍\n\nHola! Estas muy bienvenida a venir al baño de sonido con cuencos de cristales de 90 minutos, baño de sonido curativo, donde puedes relajarte en la naturaleza, desconectarte, liberar cualquier carga o emoción pesada, restaurar y sanar mientras te conectas a estas frecuencias mágicas de sonido curativo.\n\n**(10€ / persona donación sugerida, no obligatoria 😊)**\nSe puede pagar en persona o a través de Bizum.\n\n*No se necesita experiencia previa y te recomiendo que lleves ropa cómoda.*\nLa duración es de 1,5 horas en total para darnos tiempo para encontrarnos, establecer una intención y luego volver cómodamente al mundo rejuvenecidos. Por favor, avisame si tienes alguna pregunta: [info@sarah-egan.com](mailto:info@sarah-egan.com)\n\nTe invitamos a unirte al grupo de WhatsApp del baño de sonido curativo con cuencos de cristal, Por favor, envíame un mensaje primero aquí para que sepa que no es spam, si quires unir al grupo.[https://chat.whatsapp.com/FkzmPbz4z27DsIsJUMcRpv?mode=gi_t](https://chat.whatsapp.com/FkzmPbz4z27DsIsJUMcRpv?mode=gi_t)\nEspero con mucho illusion crear este espacio de sonido sanado contigo 😊\n🌸💚✨🤍",
+    "start_at": "2026-09-27T11:00:00+02:00",
+    "url": "https://www.meetup.com/healing-crystal-bowl-sound-bath/events/316568618/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "https://maps.app.goo.gl/A2pbJ1RsdwyDv84VA",
+    "organizer": "Healing Crystal Bowl Sound Bath",
+    "attendees": 1,
+    "max_tickets": 10,
+    "spots_left": 9,
+    "found_in": [
+      "Hackathon"
     ]
   },
   {

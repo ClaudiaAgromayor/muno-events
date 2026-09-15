@@ -18,7 +18,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 82,
+      "guest_count": 80,
       "sold_out": true,
       "waitlist_active": true,
       "registration_deadline": null
@@ -123,9 +123,9 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 45,
-      "sold_out": true,
-      "waitlist_active": true,
+      "guest_count": 44,
+      "sold_out": false,
+      "waitlist_active": false,
       "registration_deadline": null
     },
     "found_on_platforms": [
@@ -193,7 +193,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 89,
+      "guest_count": 93,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -228,7 +228,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 190,
+      "guest_count": 191,
       "sold_out": true,
       "waitlist_active": true,
       "registration_deadline": null
@@ -277,6 +277,41 @@
       "nivel": "no_especificado",
       "idioma": "es",
       "comida_gratis": "no_especificado",
+      "se_graba": "no_especificado"
+    }
+  },
+  {
+    "id": "luma:evt-1JvWiMDTEj9lY89",
+    "source": "luma",
+    "source_id": "evt-1JvWiMDTEj9lY89",
+    "name": "Beers & Reliability",
+    "description": "ENGJoin us for an evening of after-work drinks and real talk about building resilient systems. PagerDuty's Senior Developer Advocate, Daniel Afonso, will walk us through Chaos Engineering: how top teams break things on purpose to build more reliable software. Casual, hands-on, and open bar.Session will be delivered in English.\nAgenda18:30: Doors open; say hi, grab a seat, and eat some food19:00: Talk - Chaos Engineering, with Daniel Afonso. Sr. Developer Advocate (PagerDuty) + Q&A20:00: Networking time with food & drinks21:00: Wrap upPagerDuty is an incident management and real-time operations platform powered by AI designed to help teams detect, respond to, and resolve critical issues faster. For developers, PagerDuty streamlines on-call management, automates alerting, and integrates seamlessly with popular tools like Slack, GitHub, and AWS. Whether you’re building, deploying, or maintaining services, PagerDuty empowers engineering teams to minimise downtime, collaborate efficiently, and deliver reliable digital experiences. Learn more at https://www.pagerduty.com/.__________________________________________________________________ESPÚnete a nosotros para una tarde de after-work con cervezas y una charla sobre cómo construir sistemas más resilientes. Daniel Afonso, Senior Developer Advocate de PagerDuty, nos hablará de Chaos Engineering: cómo los mejores equipos rompen cosas a propósito para mejorar la fiabilidad de su software. Ambiente informal, cercano, y barra libre.La sesión será en inglés.Agenda\n18:30: Apertura de puertas: saluda, coge sitio y pilla algo de comer\n\n19:00: Charla: Chaos Engineering, con Daniel Afonso, Sr. Developer Advocate (PagerDuty) + Turno de preguntas\n\n20:00: Tiempo de networking con comida y bebida\n\n21:00: Cierre del evento\n\nPagerDuty es una plataforma de gestión de incidentes y operaciones en tiempo real impulsada por IA, diseñada para ayudar a los equipos a detectar, responder y resolver problemas críticos de forma más rápida. Para los desarrolladores, PagerDuty agiliza la gestión de las guardias (on-call), automatiza las alertas y se integra sin problemas con herramientas populares como Slack, GitHub y AWS. Ya estés construyendo, desplegando o manteniendo servicios, PagerDuty capacita a los equipos de ingeniería para minimizar el tiempo de inactividad, colaborar de manera eficiente y ofrecer experiencias digitales fiables. Más información en https://www.pagerduty.com/.",
+    "start_at": "2026-09-23T16:30:00.000Z",
+    "end_at": "2026-09-23T19:00:00.000Z",
+    "url": "https://lu.ma/zb95bhdg",
+    "city": "Madrid",
+    "address": "Hispanoamérica",
+    "organizer": "PagerDuty Community Events",
+    "lat": 40.45623344565284,
+    "lng": -3.6870295799477137,
+    "extra": {
+      "categories": [
+        "Tech"
+      ],
+      "is_free": true,
+      "guest_count": 44,
+      "sold_out": false,
+      "waitlist_active": false,
+      "registration_deadline": null
+    },
+    "found_on_platforms": [
+      "luma"
+    ],
+    "duplicate_ids": [],
+    "enrichment": {
+      "nivel": "no_especificado",
+      "idioma": "en",
+      "comida_gratis": "si",
       "se_graba": "no_especificado"
     }
   },
@@ -330,9 +365,9 @@
     "lat": 40.4207507,
     "lng": -3.708179,
     "extra": {
-      "attendees": 56,
+      "attendees": 57,
       "max_tickets": 120,
-      "spots_left": 64
+      "spots_left": 63
     },
     "found_on_platforms": [
       "meetup"
@@ -360,9 +395,9 @@
     "lat": null,
     "lng": null,
     "extra": {
-      "attendees": 19,
+      "attendees": 20,
       "max_tickets": 30,
-      "spots_left": 11
+      "spots_left": 10
     },
     "found_on_platforms": [
       "meetup"
@@ -480,9 +515,9 @@
     "lat": 38.9879607,
     "lng": -1.845739,
     "extra": {
-      "attendees": 74,
-      "max_tickets": 75,
-      "spots_left": 1
+      "attendees": 78,
+      "max_tickets": 83,
+      "spots_left": 5
     },
     "found_on_platforms": [
       "meetup"
@@ -526,38 +561,6 @@
     }
   },
   {
-    "id": "meetup:316482252",
-    "source": "meetup",
-    "source_id": "316482252",
-    "name": "Escalando con el particionado de postgresql y releases inmutables",
-    "description": "**🚀 Madrid DevOps x AiSec Eng Spain x PostgreSQL España**\nNada mejor para retomar la rutina tras las vacaciones que un caso real de ingeniería al límite. En esta edición conjunta, **Jorge Argente Ferrero** (Staff Engineer en Clarity AI) compartirá el *post-mortem* de un incidente crítico de datos y la arquitectura que construyeron para resolverlo.\n👉 **[RESERVA TU PLAZA AQUÍ]**\n📍 **Detalles de la cita**\n\n* **Fecha:** 28 de septiembre de 2026 \\| 18:50 \\(CEST\\)\n* **Lugar:** Celonis — Plaza de Manuel Gómez-Moreno, 2, Tetuán (Madrid)\n\n💡 **¿Qué aprenderás en esta sesión?**\n\n* **Análisis de un desastre:** Cómo la interacción entre cargas masivas de datos y los procesos asíncronos de `VACUUM` y `ANALYZE` generó condiciones de carrera que corrompieron los metadatos del *query planner*.\n* **De monolito a inmutabilidad:** El rediseño que permitió pasar de tablas monolíticas y operaciones mutables a un modelo de **Particionado Declarativo** y *releases* inmutables.\n* **Impacto en producción:** Cómo convertir las cargas masivas en operaciones atómicas a nivel de sistema de archivos, eliminar el *bloat* de almacenamiento y exprimir la optimización de *Partition Pruning*.\n\n🎤 **Ponente** **Jorge Argente Ferrero** \\| *Staff Engineer en Clarity AI*\n\n18:30 — Check-in\n18:50 — Bienvenida\n19:00 — Talk: Agentic Thinking for Humans: Build Your Own Skills for the Future\n19:45 — Cierre\n19:50— Networking\n\n**[RESERVA TU SITIO AQUÍ](https://www.meetup.com/madrid-devops/events/316152297/?eventOrigin=home_page_upcoming_events%24all)**",
-    "start_at": "2026-09-28T18:50:00+02:00",
-    "end_at": null,
-    "url": "https://www.meetup.com/celonis-tech-meetups-madrid/events/316482252/",
-    "city": "Madrid",
-    "address": "Pl. de Manuel Gómez-Moreno, 2",
-    "organizer": "Celonis Tech Meetups Madrid",
-    "lat": 40.4485287,
-    "lng": -3.6940143,
-    "extra": {
-      "attendees": 1,
-      "max_tickets": 0,
-      "spots_left": null
-    },
-    "found_on_platforms": [
-      "meetup"
-    ],
-    "duplicate_ids": [
-      "meetup:316152297"
-    ],
-    "enrichment": {
-      "nivel": "intermedio",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
-  },
-  {
     "id": "meetup:316482240",
     "source": "meetup",
     "source_id": "316482240",
@@ -581,6 +584,38 @@
     ],
     "duplicate_ids": [
       "meetup:316300285"
+    ],
+    "enrichment": {
+      "nivel": "intermedio",
+      "idioma": "no_especificado",
+      "comida_gratis": "no_especificado",
+      "se_graba": "no_especificado"
+    }
+  },
+  {
+    "id": "meetup:316482252",
+    "source": "meetup",
+    "source_id": "316482252",
+    "name": "Escalando con el particionado de postgresql y releases inmutables",
+    "description": "**🚀 Madrid DevOps x AiSec Eng Spain x PostgreSQL España**\nNada mejor para retomar la rutina tras las vacaciones que un caso real de ingeniería al límite. En esta edición conjunta, **Jorge Argente Ferrero** (Staff Engineer en Clarity AI) compartirá el *post-mortem* de un incidente crítico de datos y la arquitectura que construyeron para resolverlo.\n👉 **[RESERVA TU PLAZA AQUÍ]**\n📍 **Detalles de la cita**\n\n* **Fecha:** 28 de septiembre de 2026 \\| 18:50 \\(CEST\\)\n* **Lugar:** Celonis — Plaza de Manuel Gómez-Moreno, 2, Tetuán (Madrid)\n\n💡 **¿Qué aprenderás en esta sesión?**\n\n* **Análisis de un desastre:** Cómo la interacción entre cargas masivas de datos y los procesos asíncronos de `VACUUM` y `ANALYZE` generó condiciones de carrera que corrompieron los metadatos del *query planner*.\n* **De monolito a inmutabilidad:** El rediseño que permitió pasar de tablas monolíticas y operaciones mutables a un modelo de **Particionado Declarativo** y *releases* inmutables.\n* **Impacto en producción:** Cómo convertir las cargas masivas en operaciones atómicas a nivel de sistema de archivos, eliminar el *bloat* de almacenamiento y exprimir la optimización de *Partition Pruning*.\n\n🎤 **Ponente** **Jorge Argente Ferrero** \\| *Staff Engineer en Clarity AI*\n\n18:30 — Check-in\n18:50 — Bienvenida\n19:00 — Talk: Agentic Thinking for Humans: Build Your Own Skills for the Future\n19:45 — Cierre\n19:50— Networking\n\n**[RESERVA TU SITIO AQUÍ](https://www.meetup.com/madrid-devops/events/316152297/?eventOrigin=home_page_upcoming_events%24all)**",
+    "start_at": "2026-09-28T18:50:00+02:00",
+    "end_at": null,
+    "url": "https://www.meetup.com/celonis-tech-meetups-madrid/events/316482252/",
+    "city": "Madrid",
+    "address": "Pl. de Manuel Gómez-Moreno, 2",
+    "organizer": "Celonis Tech Meetups Madrid",
+    "lat": 40.4485287,
+    "lng": -3.6940143,
+    "extra": {
+      "attendees": 1,
+      "max_tickets": 0,
+      "spots_left": null
+    },
+    "found_on_platforms": [
+      "meetup"
+    ],
+    "duplicate_ids": [
+      "meetup:316152297"
     ],
     "enrichment": {
       "nivel": "intermedio",
@@ -817,7 +852,7 @@
     "lat": 37.7786423,
     "lng": -3.8006506,
     "extra": {
-      "attendees": 2,
+      "attendees": 3,
       "max_tickets": 0,
       "spots_left": null
     },

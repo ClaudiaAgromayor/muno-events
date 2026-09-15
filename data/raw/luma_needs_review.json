@@ -18,12 +18,38 @@
     ],
     "description": "Madrid is home to so many ambitious women, it's time we all actually knew each other.\nThat's why we're back for a new season of Sip & Connect and our much requested topic: Love & Ambition, an evening designed for ambitious women who are ready to talk honestly about one of the most overlooked parts of building a big life, love.\nBeing an ambitious woman is incredible. But it comes with a unique set of challenges that nobody really talks about. How do you date when you're driven, independent, and deeply committed to what you're building? How do you maintain a relationship without losing yourself or your momentum? And how do you find someone who genuinely celebrates who you are rather than feeling threatened by it? Whether you're single and navigating modern dating as an ambitious woman, or you're in a relationship trying to make ambition and love coexist, this evening is for you.\nOur speaker is Anastasiia Gavrilova, matchmaker and founder of Primitive Thing. Through her own experiences, including her marriage, its breakdown, and life as a conscious, intentional dater since as well as through the ambitious, accomplished singles she works with every day, Anastasiia has developed a very particular perspective on what it really takes for ambitious women to build relationships without compromising who they are.\n📍 Bravo Wine Bar, Madrid🗓 Tuesday 15th September | 8:00 PM – 11:00 PM🍷 1 drink is included in your ticket\nCome for the conversation, stay for the connection, and leave with a fresh perspective on what it really takes to build love without compromising who you are.\nConnect with us on Instagram: @foundhermadrid\nBy signing up, you acknowledge that the event may be digitally recorded and that photos or videos including attendees may be shared on social media.",
     "categories": [],
-    "guest_count": 22,
-    "sold_out": false,
+    "guest_count": 23,
+    "sold_out": true,
     "waitlist_active": false,
     "registration_deadline": "2026-09-06T21:59:59.000Z",
     "lat": 40.4266637,
     "lng": -3.7078357
+  },
+  {
+    "source": "luma",
+    "source_slug": "madrid",
+    "source_id": "evt-7GDp5EzpYabgGHJ",
+    "name": "Culture in Motion - Uber & Adsmurai",
+    "start_at": "2026-09-16T16:30:00.000Z",
+    "end_at": "2026-09-16T20:30:00.000Z",
+    "timezone": "Europe/Madrid",
+    "url": "https://lu.ma/xlz2nko7",
+    "city": "Madrid",
+    "address": "Pl. Pablo Ruiz Picasso, 11",
+    "organizer": "Personal",
+    "is_free": true,
+    "cover_image": "https://images.lumacdn.com/uploads/fg/95b9425f-5745-4030-8dd8-fa51df9216ce.png",
+    "found_in": [
+      "madrid"
+    ],
+    "description": "La Mercedes-Benz Fashion Week Madrid es mucho más que lo que ocurre sobre la pasarela. También sucede en las calles, en los traLa Mercedes-Benz Fashion Week Madrid es mucho más que lo que ocurre sobre la pasarela. También está en las calles, en los encuentros, en los trayectos y en todo lo que sucede alrededor.\nPor eso, desde Adsmurai y Uber queremos celebrar nuestra propia Fashion Week con un afterparty pensado para la gente de Marketing.\nUna tarde-noche para desconectar, tomar algo, conocer a gente de otras marcas y equipos y compartir un buen rato en uno de los rooftops de Madrid. Sin agendas ni ponencias. Simplemente, un buen plan para celebrar juntos la Fashion Week.\n📍 Rooftop Azca, Madrid✨ Plazas limitadas\nPlazas limitadas.",
+    "categories": [],
+    "guest_count": 75,
+    "sold_out": false,
+    "waitlist_active": false,
+    "registration_deadline": null,
+    "lat": 40.4507897,
+    "lng": -3.6939007999999993
   },
   {
     "source": "luma",
@@ -50,5 +76,31 @@
     "registration_deadline": "2026-09-06T21:59:59.000Z",
     "lat": 40.42134197784673,
     "lng": -3.6844421801838605
+  },
+  {
+    "source": "luma",
+    "source_slug": "madrid",
+    "source_id": "evt-nwJahx4qrbVlEMN",
+    "name": "The Final Pitch: baby vc Madrid Meetup",
+    "start_at": "2026-09-17T17:30:00.000Z",
+    "end_at": "2026-09-17T19:30:00.000Z",
+    "timezone": "Europe/Madrid",
+    "url": "https://lu.ma/hltkmgc4",
+    "city": "Madrid",
+    "address": "Justicia",
+    "organizer": "Personal",
+    "is_free": true,
+    "cover_image": "https://images.lumacdn.com/uploads/1f/8d670e06-a88a-452b-b890-cd59491e9a56.png",
+    "found_in": [
+      "madrid"
+    ],
+    "description": "Tick-tock... The baby vc bootcamp applications are almost closing! ⏳ apply here\nJoin us on Thursday, September 17th, for an exclusive, laid-back evening with the baby vc Madrid organizers and alumni.\nWhether you’re still polishing your application or you’ve already hit \"submit\", this is the perfect chance to connect with the local venture capital ecosystem over some cañas and good conversation.\nWhy should you join us?\nStill finishing your application? Get your last-minute questions answered directly by people who have been through the bootcamp. Find out exactly what the 10-week fellowship is like and what we look for in candidates.\n\nAlready applied? Amazing! Come meet the team face-to-face and show us your passion for VC. We love seeing our applicants go the extra mile to engage with the community, consider this a great way to stand out!\n\nWant to build your network? Meet like-minded peers who are also navigating their way into the venture capital world.\n\nJust bring yourself and whatever questions are on your mind!\nAbout baby vc: baby vc is a free 10-week fellowship designed to help driven individuals from all backgrounds break into venture capital.\nReminder: Applications for the upcoming bootcamp close September 21. Don't miss your chance!",
+    "categories": [],
+    "guest_count": 55,
+    "sold_out": false,
+    "waitlist_active": false,
+    "registration_deadline": null,
+    "lat": 40.42486032568642,
+    "lng": -3.69474995742306
   }
 ]

@@ -18,7 +18,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 93,
+      "guest_count": 91,
       "sold_out": true,
       "waitlist_active": true,
       "registration_deadline": null
@@ -88,9 +88,9 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 55,
-      "sold_out": true,
-      "waitlist_active": true,
+      "guest_count": 54,
+      "sold_out": false,
+      "waitlist_active": false,
       "registration_deadline": null
     },
     "found_on_platforms": [
@@ -123,9 +123,9 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 44,
-      "sold_out": false,
-      "waitlist_active": false,
+      "guest_count": 45,
+      "sold_out": true,
+      "waitlist_active": true,
       "registration_deadline": null
     },
     "found_on_platforms": [
@@ -193,9 +193,9 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 93,
-      "sold_out": false,
-      "waitlist_active": false,
+      "guest_count": 100,
+      "sold_out": true,
+      "waitlist_active": true,
       "registration_deadline": null
     },
     "found_on_platforms": [
@@ -228,7 +228,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 191,
+      "guest_count": 188,
       "sold_out": true,
       "waitlist_active": true,
       "registration_deadline": null
@@ -299,7 +299,7 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 44,
+      "guest_count": 45,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -515,9 +515,9 @@
     "lat": 38.9879607,
     "lng": -1.845739,
     "extra": {
-      "attendees": 78,
+      "attendees": 80,
       "max_tickets": 83,
-      "spots_left": 5
+      "spots_left": 3
     },
     "found_on_platforms": [
       "meetup"
@@ -561,38 +561,6 @@
     }
   },
   {
-    "id": "meetup:316482240",
-    "source": "meetup",
-    "source_id": "316482240",
-    "name": "#CodeMeet Madrid: ¿Quién controla a los agentes?",
-    "description": "**CodeMeet Madrid: ¿Quién controla a los agentes?** *De ahorrar tokens a construir MCPs: la ingeniería detrás de la IA que actúa.*\nLa IA ha dejado de ser un simple chatbot para convertirse en un actor que ejecuta, conecta herramientas y toma decisiones en nuestros sistemas. Pero a mayor autonomía, mayores son los retos: **¿Cómo los hacemos eficientes sin disparar la factura? ¿Cómo los integramos en producción? Y sobre todo, ¿cómo mantenemos el control?**\nJunto a la comunidad de **Arcasiles**, analizaremos la ingeniería tras los sistemas *agentic* desde tres ángulos clave: eficiencia, infraestructura y seguridad.\n\n💡 **Lo que vas a descubrir**\n\n* **Optimización de contexto:** Pruning, *Progressive Disclosure* y *Prompt Caching* para reducir el consumo de tokens sin perder calidad.\n* **MCPs en el mundo real:** Arquitectura, observabilidad y conexión de LLMs con sistemas corporativos más allá de la demo.\n* **Gobernanza y seguridad:** Técnicas para auditar y controlar agentes autónomos con acceso a herramientas críticas.\n\n🎤 **Ponencias y Speakers**\n\n* **De Cajas Negras a Facturas Infladas: Ingeniería de Contexto y Agentes** **Manuel Fernández** \\| *Software Engineer @ Thoughtworks* Cómo aplicar *model routing*, subagentes y técnicas avanzadas para optimizar el contexto y evitar que el uso de IA en tus pipelines se traduzca en costos desmedidos.\n* **Anatomía de un MCP: Construyendo la capa de IA de una organización** **Raúl López Caña** \\| *Fullstack Engineer @ Galp* Análisis técnico de un Protocolo de Contexto de Modelo (MCP) real: su arquitectura, herramientas, observabilidad e integración profunda en un ecosistema de productos.\n* **¿Quién controla a los agentes? Seguridad y gobernanza en la era de la IA** **Osmani Redondo** \\| *Especialista en Seguridad e IA* A medida que la IA gana autonomía, la seguridad pasa a ser la piedra angular de la arquitectura. Descubre cómo mantener bajo control a los agentes más capaces.\n\n🎯 **¿Para quién es este meetup?**\nDiseñado para **desarrolladores, arquitectos de software, Tech Leads y DevOps** que ya usan IA en su día a día o están explorando cómo llevar sistemas basados en MCP y agentes a producción. *No necesitas ser un experto en agentes, solo tener curiosidad por ver qué pasa cuando la IA empieza a actuar.*\n\n🗓️ **Agenda del evento**\n**18:30 — Check-in**\n**18:45 — Bienvenida y presentación de comunidades**\n**18:50 — De Cajas Negras a Facturas Infladas: Ingeniería de Contexto y Agentes para ahorrar Tokens al programar con IA**\nManuel Fernández\n**19:20 — Anatomía de un MCP: construyendo la capa de IA de una organización**\nRaúl López Caña\n**19:50 — ¿Quién controla a los agentes? Seguridad y gobernanza en la era de la IA**\nOsmani Redondo\n**20:20 — Cierre**\n**20:25 — Networking 🍻**\n\n**[RESERVA TU ENTRADA AQUÍ](https://docs.google.com/forms/d/e/1FAIpQLSfB26vM6eZI9U1y0aknB0Wmxzml54WxzLRkrGsiK3iv03Mozw/closedform)**",
-    "start_at": "2026-09-17T18:30:00+02:00",
-    "end_at": null,
-    "url": "https://www.meetup.com/celonis-tech-meetups-madrid/events/316482240/",
-    "city": "Madrid",
-    "address": "Pl. de Manuel Gómez-Moreno, 2",
-    "organizer": "Celonis Tech Meetups Madrid",
-    "lat": 40.4485287,
-    "lng": -3.6940143,
-    "extra": {
-      "attendees": 1,
-      "max_tickets": 0,
-      "spots_left": null
-    },
-    "found_on_platforms": [
-      "meetup"
-    ],
-    "duplicate_ids": [
-      "meetup:316300285"
-    ],
-    "enrichment": {
-      "nivel": "intermedio",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
-  },
-  {
     "id": "meetup:316482252",
     "source": "meetup",
     "source_id": "316482252",
@@ -616,6 +584,38 @@
     ],
     "duplicate_ids": [
       "meetup:316152297"
+    ],
+    "enrichment": {
+      "nivel": "intermedio",
+      "idioma": "no_especificado",
+      "comida_gratis": "no_especificado",
+      "se_graba": "no_especificado"
+    }
+  },
+  {
+    "id": "meetup:316482240",
+    "source": "meetup",
+    "source_id": "316482240",
+    "name": "#CodeMeet Madrid: ¿Quién controla a los agentes?",
+    "description": "**CodeMeet Madrid: ¿Quién controla a los agentes?** *De ahorrar tokens a construir MCPs: la ingeniería detrás de la IA que actúa.*\nLa IA ha dejado de ser un simple chatbot para convertirse en un actor que ejecuta, conecta herramientas y toma decisiones en nuestros sistemas. Pero a mayor autonomía, mayores son los retos: **¿Cómo los hacemos eficientes sin disparar la factura? ¿Cómo los integramos en producción? Y sobre todo, ¿cómo mantenemos el control?**\nJunto a la comunidad de **Arcasiles**, analizaremos la ingeniería tras los sistemas *agentic* desde tres ángulos clave: eficiencia, infraestructura y seguridad.\n\n💡 **Lo que vas a descubrir**\n\n* **Optimización de contexto:** Pruning, *Progressive Disclosure* y *Prompt Caching* para reducir el consumo de tokens sin perder calidad.\n* **MCPs en el mundo real:** Arquitectura, observabilidad y conexión de LLMs con sistemas corporativos más allá de la demo.\n* **Gobernanza y seguridad:** Técnicas para auditar y controlar agentes autónomos con acceso a herramientas críticas.\n\n🎤 **Ponencias y Speakers**\n\n* **De Cajas Negras a Facturas Infladas: Ingeniería de Contexto y Agentes** **Manuel Fernández** \\| *Software Engineer @ Thoughtworks* Cómo aplicar *model routing*, subagentes y técnicas avanzadas para optimizar el contexto y evitar que el uso de IA en tus pipelines se traduzca en costos desmedidos.\n* **Anatomía de un MCP: Construyendo la capa de IA de una organización** **Raúl López Caña** \\| *Fullstack Engineer @ Galp* Análisis técnico de un Protocolo de Contexto de Modelo (MCP) real: su arquitectura, herramientas, observabilidad e integración profunda en un ecosistema de productos.\n* **¿Quién controla a los agentes? Seguridad y gobernanza en la era de la IA** **Osmani Redondo** \\| *Especialista en Seguridad e IA* A medida que la IA gana autonomía, la seguridad pasa a ser la piedra angular de la arquitectura. Descubre cómo mantener bajo control a los agentes más capaces.\n\n🎯 **¿Para quién es este meetup?**\nDiseñado para **desarrolladores, arquitectos de software, Tech Leads y DevOps** que ya usan IA en su día a día o están explorando cómo llevar sistemas basados en MCP y agentes a producción. *No necesitas ser un experto en agentes, solo tener curiosidad por ver qué pasa cuando la IA empieza a actuar.*\n\n🗓️ **Agenda del evento**\n**18:30 — Check-in**\n**18:45 — Bienvenida y presentación de comunidades**\n**18:50 — De Cajas Negras a Facturas Infladas: Ingeniería de Contexto y Agentes para ahorrar Tokens al programar con IA**\nManuel Fernández\n**19:20 — Anatomía de un MCP: construyendo la capa de IA de una organización**\nRaúl López Caña\n**19:50 — ¿Quién controla a los agentes? Seguridad y gobernanza en la era de la IA**\nOsmani Redondo\n**20:20 — Cierre**\n**20:25 — Networking 🍻**\n\n**[RESERVA TU ENTRADA AQUÍ](https://docs.google.com/forms/d/e/1FAIpQLSfB26vM6eZI9U1y0aknB0Wmxzml54WxzLRkrGsiK3iv03Mozw/closedform)**",
+    "start_at": "2026-09-17T18:30:00+02:00",
+    "end_at": null,
+    "url": "https://www.meetup.com/celonis-tech-meetups-madrid/events/316482240/",
+    "city": "Madrid",
+    "address": "Pl. de Manuel Gómez-Moreno, 2",
+    "organizer": "Celonis Tech Meetups Madrid",
+    "lat": 40.4485287,
+    "lng": -3.6940143,
+    "extra": {
+      "attendees": 1,
+      "max_tickets": 0,
+      "spots_left": null
+    },
+    "found_on_platforms": [
+      "meetup"
+    ],
+    "duplicate_ids": [
+      "meetup:316300285"
     ],
     "enrichment": {
       "nivel": "intermedio",
@@ -699,7 +699,7 @@
     "lat": 40.4166565,
     "lng": -3.6742879,
     "extra": {
-      "attendees": 19,
+      "attendees": 20,
       "max_tickets": 0,
       "spots_left": null
     },
@@ -792,9 +792,9 @@
     "lat": -31.4124189,
     "lng": -64.1505784,
     "extra": {
-      "attendees": 33,
+      "attendees": 34,
       "max_tickets": 90,
-      "spots_left": 57
+      "spots_left": 56
     },
     "found_on_platforms": [
       "meetup"
@@ -822,7 +822,7 @@
     "lat": 40.4369411,
     "lng": -3.6851673,
     "extra": {
-      "attendees": 8,
+      "attendees": 9,
       "max_tickets": 0,
       "spots_left": null
     },

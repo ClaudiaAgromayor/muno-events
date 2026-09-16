@@ -2,46 +2,6 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
-    "source_id": "316466866",
-    "name": "¿Qué hay de nuevo este 2026 en Power Apps y Power Automate?",
-    "description": "**Power Apps** y **Power Automate** siguen evolucionando y este 2026 traen algunas novedades interesantes, muchas de ellas impulsando enfoques más inteligentes, fluidos y apoyados en **inteligencia artificial**, como casi todo este 2026: **Power Platform** no podía ser la excepción.\n\nEn esta sesión veremos estas novedades desde un punto de vista práctico: qué implican, por qué son relevantes y cómo podemos aprovecharlas en proyectos reales.",
-    "start_at": "2026-09-23T19:00:00+02:00",
-    "url": "https://www.meetup.com/power-platform-madrid/events/316466866/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Power Platform Madrid",
-    "attendees": 10,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
-    "source_id": "316209512",
-    "name": "Build you own intelligent corporate raw assistant",
-    "description": "Ever wondered what it actually takes to build an AI assistant that understands your company's data, messy files, weird formats and all? Join us for a hands-on workshop where we'll build our own intelligent corporate assistant from scratch.\n\nWe'll take on a real-world challenge: given a chaotic mix of unstructured data (PDFs, logs, office docs, etc...), we'll build a context-aware Agentic System using modern Retrieval-Augmented Generation (RAG) techniques.\n\nExpect practical coding, honest discussion, and a chance to connect with other data and AI practitioners in Madrid.\n\n**WARNING**: Expect hands-on coding, we'll build the assistant from scratch using technologies like LangGraph, Langfuse, Quadrant, etc...\n\n**Agenda:**\n\n* 18:30 – Welcome, intro\n* 18:45 – Kickoff\n* 19:00 – Workshop\n* 21:15 – Wrap-up & networking\n\n**What to bring:**\n\n* A laptop\n* Python Coding experience\n* Curiosity - no prior RAG/vector DB experience required\n\n**How to find the group:**\nWe'll meet somewhere nice in the center of Madrid.\nMore details will be shared soon!",
-    "start_at": "2026-10-05T18:30:00+02:00",
-    "url": "https://www.meetup.com/unit8-ai-data-and-analytics-group/events/316209512/",
-    "event_type": "PHYSICAL",
-    "city": "Spain",
-    "address": "Madrid, Spain",
-    "organizer": "Unit8 Tech Community: AI, Data & Cloud",
-    "attendees": 2,
-    "max_tickets": 10,
-    "spots_left": 8,
-    "found_in": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Data Science"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
     "source_id": "316551631",
     "name": "IA Workshop: Automatización para AEC con n8n: de la obra a los datos",
     "description": "Este próximo **miércoles día 16 de marzo de 2026** (7PM hora de Madrid) tenemos nueva reunión del BIM Technology User Group, una reunión en la que realizaremos un **Workshop gratuito bajo el título de *[Automatización para AEC con n8n: de la obra a los datos](https://butic.es/automatizacion-n8n-datos-obra/)*.**\n\nCorrerá a cargo de **David Moreira**, Arquitecto especializado en transformación digital y automatización de procesos.\n\nEn el día a día de un proyecto AECO se generan constantemente **nuevos datos**: incidencias BIM, fotografías de obra, informes, actas, aprobaciones, cambios, avisos y tareas. El reto no está tanto en disponer de esa información como en **conseguir que llegue, en el momento adecuado**, a quien tiene que actuar sobre ella.\nEn este workshop online veremos cómo transformar ese problema en un flujo de trabajo automatizado utilizando **n8n**, una plataforma que permite conectar aplicaciones y automatizar procesos. A través de un caso práctico, construiremos paso a paso un flujo sencillo para entender qué ocurre desde que se genera un dato hasta que se convierte en una acción dentro del equipo.\nMás que aprender a utilizar todas las posibilidades de n8n, la sesión busca comprender una metodología aplicable a muchos otros procesos: capturar información, estructurarla, analizarla, establecer prioridades y desencadenar respuestas de forma automática y trazable.\nEl propósito es descubrir **qué procesos merece la pena automatizar y por qué**, reduciendo tareas repetitivas y mejorando la circulación de información entre la oficina, la obra y los distintos agentes del proyecto. Una aproximación práctica a la automatización que permite empezar a construir soluciones útiles sin necesidad de ser especialista en programación.\n\nEl registro para acceder en directo vía Zoom, es éste: [https://butic.es/automatizacion-n8n-datos-obra/](https://butic.es/automatizacion-n8n-datos-obra/)\n\n**¿Qué aprenderemos con David?**\n\n1. Una forma clara de leer procesos AEC como flujos de información\n2. Criterios para identificar tareas que pueden automatizarse\n3. Una referencia concreta sobre cómo integrar n8n e IA manteniendo el control profesional\n\n* ​Cómo funciona la lógica básica de n8n: entradas, nodos, datos, condiciones y ejecuciones.\n* ​Cómo conectar una entrada de información con reglas de decisión, notificaciones y registros.\n* ​Cómo transformar tareas repetitivas en flujos trazables sin perder criterio humano.\n* ​Cómo identificar oportunidades de automatización en contextos AEC.\n* ​Qué casos conviene automatizar, cuáles no, y cómo evitar agregar ruido innecesario al equipo.\n* ​Cómo una capa de IA puede apoyar el resumen y priorización de información sin reemplazar la revisión profesional.\n\nEl registro para acceder en directo vía Zoom a esta primera Open BIM Class, es éste: [https://butic.es/automatizacion-n8n-datos-obra/](https://butic.es/automatizacion-n8n-datos-obra/)",
@@ -61,9 +21,28 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
+    "source_id": "316466866",
+    "name": "¿Qué hay de nuevo este 2026 en Power Apps y Power Automate?",
+    "description": "**Power Apps** y **Power Automate** siguen evolucionando y este 2026 traen algunas novedades interesantes, muchas de ellas impulsando enfoques más inteligentes, fluidos y apoyados en **inteligencia artificial**, como casi todo este 2026: **Power Platform** no podía ser la excepción.\n\nEn esta sesión veremos estas novedades desde un punto de vista práctico: qué implican, por qué son relevantes y cómo podemos aprovecharlas en proyectos reales.",
+    "start_at": "2026-09-23T19:00:00+02:00",
+    "url": "https://www.meetup.com/power-platform-madrid/events/316466866/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Power Platform Madrid",
+    "attendees": 10,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
     "source_id": "316441163",
     "name": "AI Virtual Days 2026",
-    "description": "**AI Virtual Days** es un evento online organizado por **Microsoft Speakers Hub en Español** que reúne a la comunidad hispanohablante para compartir conocimiento, experiencias y casos reales relacionados con la Inteligencia Artificial.\n\nSe trata de un **evento 100% en español**, creado por y para la comunidad de habla hispana, donde profesionales, especialistas, creadores y entusiastas de la IA podrán aprender de quienes están aplicando estas tecnologías en proyectos reales y generando impacto en sus organizaciones.\n\nDurante el evento exploraremos temáticas como agentes de IA, Microsoft 365 Copilot, Copilot Studio, Azure AI Foundry, Microsoft Fabric, GitHub Copilot, automatización inteligente, análisis de datos, desarrollo moderno, seguridad, gobierno, adopción y cualquier otro ámbito donde la Inteligencia Artificial esté transformando la forma de trabajar y crear soluciones.\n\nAI Virtual Days está **orientado a compartir conocimiento práctico y experiencias reales**. Queremos acercar a la comunidad sesiones que inspiren, enseñen y ayuden a comprender cómo la Inteligencia Artificial se está aplicando hoy en organizaciones, proyectos y escenarios reales, poniendo especial foco en aprendizajes, casos de uso y experiencias de primera mano.\n\nNuestro objetivo es acercar experiencias prácticas a toda la comunidad, fomentando el aprendizaje, la colaboración y la difusión de conocimiento de calidad en español.\n\n💡 Conocimiento real. Experiencias reales. Inteligencia Artificial para toda la comunidad hispana.",
+    "description": "**AI Virtual Days** es un evento online organizado por **Microsoft Speakers Hub en Español** que reúne a la comunidad hispanohablante para compartir conocimiento, experiencias y casos reales relacionados con la Inteligencia Artificial.\n\nSe trata de un **evento 100% en español**, creado por y para la comunidad de habla hispana, donde profesionales, especialistas, creadores y entusiastas de la IA podrán aprender de quienes están aplicando estas tecnologías en proyectos reales y generando impacto en sus organizaciones.\n\nDurante el evento exploraremos temáticas como agentes de IA, Microsoft 365 Copilot, Copilot Studio, Azure AI Foundry, Microsoft Fabric, GitHub Copilot, automatización inteligente, análisis de datos, desarrollo moderno, seguridad, gobierno, adopción y cualquier otro ámbito donde la Inteligencia Artificial esté transformando la forma de trabajar y crear soluciones.\n\nAI Virtual Days está **orientado a compartir conocimiento práctico y experiencias reales**. Queremos acercar a la comunidad sesiones que inspiren, enseñen y ayuden a comprender cómo la Inteligencia Artificial se está aplicando hoy en organizaciones, proyectos y escenarios reales, poniendo especial foco en aprendizajes, casos de uso y experiencias de primera mano.\n\nNuestro objetivo es acercar experiencias prácticas a toda la comunidad, fomentando el aprendizaje, la colaboración y la difusión de conocimiento de calidad en español.\n\n💡 Conocimiento real. Experiencias reales. Inteligencia Artificial para toda la comunidad hispana.\n\n[Regístrate en AI Virtual Days 2026](https://www.eventbrite.es/e/entradas-ai-virtual-days-2026-2001083241844)",
     "start_at": "2026-11-13T16:00:00+01:00",
     "url": "https://www.meetup.com/microsoft-speakers-hub-en-espanol/events/316441163/",
     "event_type": "ONLINE",
@@ -94,7 +73,6 @@
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence",
-      "Machine Learning",
       "Data Science"
     ]
   },
@@ -115,7 +93,6 @@
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence",
-      "Machine Learning",
       "Data Science"
     ]
   },
@@ -135,8 +112,7 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Artificial Intelligence",
-      "Machine Learning"
+      "Artificial Intelligence"
     ]
   },
   {
@@ -175,7 +151,6 @@
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence",
-      "Machine Learning",
       "Data Science"
     ]
   },
@@ -196,7 +171,6 @@
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence",
-      "Machine Learning",
       "Data Science"
     ]
   },
@@ -216,33 +190,12 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Artificial Intelligence",
-      "Machine Learning"
+      "Artificial Intelligence"
     ]
   },
   {
     "source": "meetup",
-    "source_slug": "Machine Learning",
-    "source_id": "316064663",
-    "name": "Sept 30 - Building Composable Vision Workflows in FiftyOne",
-    "description": "This workshop explores the [FiftyOne](https://docs.voxel51.com/index.html) plugin framework to build custom computer vision applications. You’ll learn to extend the FiftyOne App with Python based panels and server side operators, as well as integrate external tools for labeling, vector search, and model inference into your dataset views.\n\n**Date, Time and Location**\n\nSep 30, 2026\n9 AM - 10 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/building-composable-vision-workflows-in-fiftyone-september-30-2026)**\n\nYou’ll also automate repetitive tasks by writing custom workflows executing within the FiftyOne environment. Attendees will learn to transform FiftyOne from a visualization tool into a central hub for your vision stack.\n\nWhat you'll learn:\n\n* **Build Python plugins.** Define plugin manifests and directory structures to register custom functionality within the FiftyOne ecosystem.\n* **Develop server side operators.** Write functions to execute model inference, data cleaning, or metadata updates from the App interface.\n* **Build interactive panels.** Create custom UI dashboards using to visualize model metrics or specialized dataset distributions.\n* **Manage operator execution contexts.** Pass data between the App front end and your backend to build dynamic user workflows.\n* **Implement delegated execution.** Configure background workers to handle long running data processing tasks without blocking the user interface.\n* **Build labeling integrations.** Streamline the flow of data between FiftyOne and annotation platforms through custom triggers and ingestion scripts.\n* **Extend vector database support.** Program custom connectors for external vector stores to enable semantic search across large sample datasets.\n* **Package and share plugins.** Distribute your extensions internally and externally",
-    "start_at": "2026-09-30T18:00:00+02:00",
-    "url": "https://www.meetup.com/madrid-ai-machine-learning-and-computer-vision-meetup/events/316064663/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
-    "attendees": 1,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Machine Learning",
-      "Data Science"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Machine Learning",
+    "source_slug": "Data Science",
     "source_id": "316418129",
     "name": "AIDataTech Connect: Global Virtual Networking Event for AI, Data & Tech Pros",
     "description": "Are you working in artificial intelligence, data science, or machine learning? Whether you're a developer, researcher, startup founder, or aspiring tech enthusiast — **AIDataTech Connect** is your go-to **AI networking event online** designed to foster career growth, real-time collaboration, and innovation exchange in a dynamic, community-driven environment.\n\nThis event brings together a global **virtual AI community meetup** hosted on a flexible Slack-style platform that supports group discussions and **1-1 video or text chats**, making it perfect for professionals looking to connect, collaborate, and build with others in the AI ecosystem.\n\n🎥 **Watch how it works:**\n👉 [https://www.youtube.com/watch?v=NRUTXUOFKm4](https://www.youtube.com/watch?v=NRUTXUOFKm4)\n\n**💬 What to Expect:**\nAt AIDataTech Connect, attendees are encouraged to explore, share, and engage across multiple interactive channels designed to support learning, networking, and opportunity discovery:\n\n* **General** – A central hub for orientation, announcements, and community-wide discussions.\n* **Intros** – Introduce yourself, your background, and your AI/tech journey. Spark meaningful introductions.\n* **Networking** – Share your resume, startup, or project pitch. Meet employers, peers, or collaborators.\n* **Help Wanted** – Ask for help or offer support on coding, data, research, or AI model deployment.\n* **Industry Room Tech** – Discuss AI frameworks, tools, and the latest tech trends in data and development.\n* **Project Showcase** – Perfect for those seeking a **machine learning career fair** experience or showcasing real-world work through our **AI project showcase platform**.\n* **Collaboration Pods** – Jump into discussions around **collaboration for AI specialists**, including open-source partnerships, research pods, and co-building opportunities.\n\n**📍 Where:**\nJoin virtually at:\n👉 [https://events.tao.ai/pod/analytics.club/q4j5imq9qjs9](https://events.tao.ai/pod/analytics.club/q4j5imq9qjs9)\n**🕔 When:**\nEvent runs globally from **5:00 PM – 7:00 PM local time** — designed for participation across time zones.\n\n**👥 Who Should Join:**\n\n* AI professionals, ML engineers, and data scientists\n* Tech founders, entrepreneurs, and product leaders\n* Students, job seekers, and aspiring AI talent\n* Recruiters, employers, and hiring managers in AI/tech\n* Researchers, open-source contributors, and peer mentors\n\n**🧠 Why Attend:**\n\n* Engage in a truly global **virtual tech networking event**\n* Discover AI jobs, freelance gigs, or partnership opportunities\n* Connect with experts and peers in AI, ML, and data\n* Explore AI applications and get feedback on your models or tools\n* Network directly via 1-on-1 video or text chats\n* Collaborate on new ideas, research papers, or open-source projects\n\n**❓ Questions or Suggestions?**\nWe’re here to help. Drop us a note at:\n👉 [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**🔖 Hashtags:**\n#AIDataTechConnect #AINetworkingEventOnline #VirtualAICommunityMeetup #MachineLearningCareerFair #AIProjectShowcasePlatform #CollaborationForAISpecialists #DataScienceMeetup #MLJobs #AIResearchNetworking #GlobalTechNetworking #TechCollaborationEvent",
@@ -256,7 +209,6 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Machine Learning",
       "Data Science"
     ]
   },
@@ -293,6 +245,25 @@
     "address": "",
     "organizer": "Analytics.CLUB Madrid",
     "attendees": 2,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Data Science",
+    "source_id": "316064663",
+    "name": "Sept 30 - Building Composable Vision Workflows in FiftyOne",
+    "description": "This workshop explores the [FiftyOne](https://docs.voxel51.com/index.html) plugin framework to build custom computer vision applications. You’ll learn to extend the FiftyOne App with Python based panels and server side operators, as well as integrate external tools for labeling, vector search, and model inference into your dataset views.\n\n**Date, Time and Location**\n\nSep 30, 2026\n9 AM - 10 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/building-composable-vision-workflows-in-fiftyone-september-30-2026)**\n\nYou’ll also automate repetitive tasks by writing custom workflows executing within the FiftyOne environment. Attendees will learn to transform FiftyOne from a visualization tool into a central hub for your vision stack.\n\nWhat you'll learn:\n\n* **Build Python plugins.** Define plugin manifests and directory structures to register custom functionality within the FiftyOne ecosystem.\n* **Develop server side operators.** Write functions to execute model inference, data cleaning, or metadata updates from the App interface.\n* **Build interactive panels.** Create custom UI dashboards using to visualize model metrics or specialized dataset distributions.\n* **Manage operator execution contexts.** Pass data between the App front end and your backend to build dynamic user workflows.\n* **Implement delegated execution.** Configure background workers to handle long running data processing tasks without blocking the user interface.\n* **Build labeling integrations.** Streamline the flow of data between FiftyOne and annotation platforms through custom triggers and ingestion scripts.\n* **Extend vector database support.** Program custom connectors for external vector stores to enable semantic search across large sample datasets.\n* **Package and share plugins.** Distribute your extensions internally and externally",
+    "start_at": "2026-09-30T18:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-ai-machine-learning-and-computer-vision-meetup/events/316064663/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
+    "attendees": 1,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -425,7 +396,7 @@
     "city": "",
     "address": "",
     "organizer": "Hack The Box Meetup: Salamanca, ES",
-    "attendees": 20,
+    "attendees": 21,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -482,9 +453,9 @@
     "city": "Madrid",
     "address": "C. del Marqués de Casa Riera, 4, Centro, 28014 Madrid, Spain",
     "organizer": "Cloudflare User Group España (IA, CyberSecurity & Edge Dev)",
-    "attendees": 35,
+    "attendees": 37,
     "max_tickets": 50,
-    "spots_left": 15,
+    "spots_left": 13,
     "found_in": [
       "Artificial Intelligence",
       "Hackathon"

@@ -223,44 +223,6 @@
   {
     "source": "meetup",
     "source_slug": "Data Science",
-    "source_id": "316003491",
-    "name": "Automate your reporting with Make & SQL",
-    "description": "**[Save your seat on the official event page](https://www.lewagon.com/events/automate-your-reporting-with-make-sql-8inR0I)**\n\n**Copy, paste, clean up, repeat... if this routine sounds familiar, this workshop is for you.**\nIt’s time to say goodbye to manually rebuilding reports every week. Discover how to automate them so they update almost by themselves. No more Monday morning copy-pasting, make way for a smoother, more reliable, and more efficient workflow.\nYou’ll leave with a concrete method to save time on recurring reports and focus on the analyses that really matter.\n\n**Who is this workshop for?**\nAll levels are welcome! No prerequisites required.\n\n**What you’ll learn:**\n✅ Use SQL to extract raw data directly from your database\n✅ Automate and structure your reporting workflow with Make\n✅ Compile your data into a clear, clean, and shareable report in Google Sheets\n\n**About Le Wagon:**\nLe Wagon is the #1 ranked tech bootcamp in the world with 27 campuses and an impressive community of over 30,000 alumni. We teach a wide range of courses, including AI Software Development, Data Science & AI, Data Analytics and Data Engineering, catering to both beginners and experienced individuals.",
-    "start_at": "2026-09-16T18:30:00+02:00",
-    "url": "https://www.meetup.com/le-wagon-madrid-coding-bootcamp/events/316003491/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Le Wagon Madrid | Tech Bootcamps",
-    "attendees": 2,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Data Science"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Data Science",
-    "source_id": "316297853",
-    "name": "Agentic AI Multimodal MonthlyMixer - Where Agents Minds Meet",
-    "description": "Join the global gathering of AI builders, researchers, and enthusiasts pushing the boundaries of agentic systems and multimodal intelligence.\nConnect every month for organic networking, 1-on-1 video chats, and powerful peer-to-peer exchanges across a flexible, open chat-based platform.\n**Watch how it works**: [https://youtu.be/trmf6Gqs6FM](https://www.youtube.com/watch?v=trmf6Gqs6FM)\nWhat Is the **Agentic AI Multimodal** #MonthlyMixer?\nThe **Agentic AI Multimodal MonthlyMixer** is a self-led, virtual networking event built for the ever-evolving AI community. Held on a Slack-like platform, this event is **unmoderated and open-format**, giving you full control to explore conversations, meet new minds, and share your work with others who “get it.”\nFrom autonomous agents to multimodal AI, this mixer is the go-to online space for researchers, engineers, founders, and curious learners working at the frontier of machine intelligence.\n**Who It’s For:**\n\n* AI & ML researchers building agent-based systems\n* Engineers and developers experimenting with LLMs and multimodal models\n* Founders and startup teams innovating with AI tools\n* Students, hobbyists, and professionals exploring applied AI\n* AI community managers, mentors, and tech evangelists\n\nWhether you're here to **collaborate, hire, share, or simply learn** — this mixer offers a space to grow your AI network month by month.\nChannels You'll Explore:\nOnce inside, you’ll find themed group chats designed to make it easy to dive in:\n\n* **[#general](https://teamtaoindia.slack.com/archives/C04SYEPNHH6)** – For intros, casual chat, and major community announcements\n* **#networking** – Drop your portfolio, project, startup, or agent demo\n* **#intros** – Share your background, interests, and goals\n* **#help-wanted** – Ask for or offer help with AI, code, design, research & more\n* **#industry-room-tech** – Deep discussions on the latest tools, models, and frameworks in AI\n\nAnd yes — you can instantly jump into **1-on-1 video or text conversations** with anyone you meet.\nWhen & Where?\n\n* **Every third Wednesday of the month**\n* **5:00 PM – 7:00 PM (your local time)**\n* **Register from the platform here - [https://events.tao.ai/pod/analytics.club/cont-4d55c8eg78pg](https://events.tao.ai/pod/analytics.club/cont-4d55c8eg78pg)**\n\nNo Zoom. No formal agenda. Just real people, real tech, real connections.\n**Why You Shouldn’t Miss It:**\n\n* Global network of agentic AI practitioners and researchers\n* Self-guided 1-on-1 connections and peer-led topic chats\n* Showcase your work, explore partnerships, or ask for feedback\n* Return monthly to reconnect and keep the conversation going\n* A low-pressure space to think out loud with fellow innovators\n\nQuestions or Feedback?\nReach out any time at: [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n**Useful Links**\n\n* **Explainer Video**: [https://youtu.be/trmf6Gqs6FM](https://youtu.be/trmf6Gqs6FM)\n* **Need help?** [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**Hashtags:**\n#AgenticAI #MultimodalAI #MonthlyMixer #AICommunity #AIMeetup #LLMNetworking #AutonomousAgents #AIBuilderMeetup #MachineLearningNetworking #VirtualAIMixer #AIIndustryEvents #ConnectWithAI \\*\\*#\\*\\*thefutureofAI—together.",
-    "start_at": "2026-09-16T17:00:00+02:00",
-    "url": "https://www.meetup.com/ac-mad/events/316297853/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Analytics.CLUB Madrid",
-    "attendees": 2,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Data Science"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Data Science",
     "source_id": "316514403",
     "name": "AI For Work | Webinar",
     "description": "**AI for Work \\| Free Live Webinar**\n\n**Pre-Registration is REQUIRED. Joining link -**\n[https://streamyard.com/watch/QnfhUjb7qQXs](https://streamyard.com/watch/QnfhUjb7qQXs?utm_source=luma)\n\n## ​WHEN\n\n​**September 30 at 1:00 PM ET**\n**45-minute live webinar**\n\n## ​WHO SHOULD JOIN?\n\n​This session is for people who already use tools like ChatGPT or Claude, but want to go beyond asking questions and start using AI to actually get work done.\n​It’s especially useful for:\n\n* ​Product and project managers\n* ​Operations and process leads\n* ​Marketing and admin professionals\n* ​Founders and small business teams\n* ​Career changers and AI beginners\n* ​Anyone looking to automate everyday work without coding\n\n​Come curious. No coding, setup, or technical background required.\n\nWHAT YOU’LL LEARN\n\nIn this free, 45-minute hands-on session, ODSC's Sheamus McGovern shows you the difference between chatting with AI and putting it to work.\n\nYou'll watch Cowork sort a messy folder of files into order, turn raw notes and spreadsheets into a polished, ready-to-send document, and set up recurring work that runs on its own, no prompting required.\n\nJust the everyday tasks you can hand off to AI that eat your week: filing, formatting, summarizing, following up, etc.\n\nLeave with one task you can delegate this week, and a clear next step for what to automate after that.\n\n**​Stay Connected**\n\n* ​**Learn:** Free talks and trainings on the [Ai+ Training platform](https://aiplus.training/?utm_source=luma).\n* ​**Read:** The latest in AI research on the [ODSC Blog](https://opendatascience.com/?utm_source=luma).\n* ​**Chat:** Join the conversation in our [Slack Channel](https://www.google.com/search?q=https%3A%2F%2Fodsc.com%2Fslack&utm_source=luma).\n* ​**Community:** Review our [Code of Conduct](https://odsc.com/code-of-conduct/?utm_source=luma).",
@@ -275,6 +237,26 @@
     "spots_left": null,
     "found_in": [
       "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Data Science",
+    "source_id": "316524838",
+    "name": "AnalyticsCLUB JobExpo Virtual Business, Data & Technology Job Expo",
+    "description": "**What is FirstFridayFair Monthly Job Fair?**\n\nFirstFridayFair Monthly Job Fair is a **global virtual job fair and remote hiring event** hosted by the Analytics CLUB community. This **online job fair platform** brings together **professionals, employers, recruiters, and career coaches** for an immersive, **self-managed career networking experience**.\n\n🎥 **New to FirstFridayFair? Watch our explainer video here:** [https://youtu.be/NlLaCfOjosk](https://youtu.be/NlLaCfOjosk)\n\n**Where and When?**\n📍 Online at [https://events.tao.ai/pod/analytics.club/6j382kbpcnvd](https://events.tao.ai/pod/analytics.club/6j382kbpcnvd)\n🗓 First Friday of the month\n⏰ 11:00 AM - 2:00 PM (Local Time Zone)\n🌍 Open to participants globally\n\n🌍 **Who should join?**\n\n* **Job Seekers:** Looking for their next big break in **remote or local roles**.\n* **Employers & Recruiters:** Eager to find top talent across industries.\n* **Service Providers & Career Coaches:** Supporting professionals with tools, tips, and resources.\n* **Career Enthusiasts & Explorers:** Wishing to expand their network and knowledge.\n\n💬 **Where does the event take place?**\nThis interactive event is hosted on a **Slack-like community chat platform**, making it easy to **join from anywhere** and interact in **real-time group chats and 1-1 video or text conversations**.\n🚀 **What can you do at the event?**\nAttendees can explore several themed **Slack job fair channels** designed for **job networking, peer-to-peer support, and industry discussions**:\n\n* **General:** Intros, announcements, and casual networking.\n* **Networking:** Showcase your portfolio, startup, or job pitch.\n* **Intros:** Meet others, share your career path, and connect personally.\n* **Help Wanted:** Offer your skills or seek help from others.\n* **Industry Room Tech:** Discuss the latest in programming, software, and tech trends.\n\nAdditionally, attendees can engage in:\n\n* **1-1 video and text chats** with other attendees, recruiters, or service providers.\n* Visit the **virtual job openings board** to browse active listings and **connect with recruiters online**.\n* Participate in **live job fair chat**, where you can ask career-related questions, get **online resume tips**, and explore ways to stand out in the hiring process.\n\n❓ **Why join FirstFridayFair Monthly Job Fair?**\n\n* Access **global job networking events** right from your device.\n* Explore **virtual hiring events** designed for professionals seeking flexibility and growth.\n* Engage in meaningful conversations and discover **remote hiring opportunities**.\n* Take advantage of a **self-managed and open community platform**, allowing you to connect at your own pace.\n* Use the dedicated channels to **showcase your skills, ask questions, and build lasting professional connections**.\n\n**Have Questions or Suggestions?**\nWe’d love to help: [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)",
+    "start_at": "2026-10-02T11:00:00+02:00",
+    "url": "https://www.meetup.com/ac-mad/events/316524838/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Analytics.CLUB Madrid",
+    "attendees": 1,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Data Science",
+      "Hackathon"
     ]
   },
   {
@@ -365,26 +347,7 @@
     "city": "",
     "address": "",
     "organizer": "Hack The Box Meetup: Salamanca, ES",
-    "attendees": 21,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Hackathon"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Hackathon",
-    "source_id": "316524838",
-    "name": "AnalyticsCLUB JobExpo Virtual Business, Data & Technology Job Expo",
-    "description": "**What is FirstFridayFair Monthly Job Fair?**\n\nFirstFridayFair Monthly Job Fair is a **global virtual job fair and remote hiring event** hosted by the Analytics CLUB community. This **online job fair platform** brings together **professionals, employers, recruiters, and career coaches** for an immersive, **self-managed career networking experience**.\n\n🎥 **New to FirstFridayFair? Watch our explainer video here:** [https://youtu.be/NlLaCfOjosk](https://youtu.be/NlLaCfOjosk)\n\n**Where and When?**\n📍 Online at [https://events.tao.ai/pod/analytics.club/6j382kbpcnvd](https://events.tao.ai/pod/analytics.club/6j382kbpcnvd)\n🗓 First Friday of the month\n⏰ 11:00 AM - 2:00 PM (Local Time Zone)\n🌍 Open to participants globally\n\n🌍 **Who should join?**\n\n* **Job Seekers:** Looking for their next big break in **remote or local roles**.\n* **Employers & Recruiters:** Eager to find top talent across industries.\n* **Service Providers & Career Coaches:** Supporting professionals with tools, tips, and resources.\n* **Career Enthusiasts & Explorers:** Wishing to expand their network and knowledge.\n\n💬 **Where does the event take place?**\nThis interactive event is hosted on a **Slack-like community chat platform**, making it easy to **join from anywhere** and interact in **real-time group chats and 1-1 video or text conversations**.\n🚀 **What can you do at the event?**\nAttendees can explore several themed **Slack job fair channels** designed for **job networking, peer-to-peer support, and industry discussions**:\n\n* **General:** Intros, announcements, and casual networking.\n* **Networking:** Showcase your portfolio, startup, or job pitch.\n* **Intros:** Meet others, share your career path, and connect personally.\n* **Help Wanted:** Offer your skills or seek help from others.\n* **Industry Room Tech:** Discuss the latest in programming, software, and tech trends.\n\nAdditionally, attendees can engage in:\n\n* **1-1 video and text chats** with other attendees, recruiters, or service providers.\n* Visit the **virtual job openings board** to browse active listings and **connect with recruiters online**.\n* Participate in **live job fair chat**, where you can ask career-related questions, get **online resume tips**, and explore ways to stand out in the hiring process.\n\n❓ **Why join FirstFridayFair Monthly Job Fair?**\n\n* Access **global job networking events** right from your device.\n* Explore **virtual hiring events** designed for professionals seeking flexibility and growth.\n* Engage in meaningful conversations and discover **remote hiring opportunities**.\n* Take advantage of a **self-managed and open community platform**, allowing you to connect at your own pace.\n* Use the dedicated channels to **showcase your skills, ask questions, and build lasting professional connections**.\n\n**Have Questions or Suggestions?**\nWe’d love to help: [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)",
-    "start_at": "2026-10-02T11:00:00+02:00",
-    "url": "https://www.meetup.com/ac-mad/events/316524838/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Analytics.CLUB Madrid",
-    "attendees": 1,
+    "attendees": 22,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

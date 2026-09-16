@@ -2,91 +2,6 @@
   {
     "source": "luma",
     "source_slug": "madrid",
-    "source_id": "evt-HKQg4GkjHJCr4um",
-    "name": "Astra Commons: Madrid",
-    "start_at": "2026-09-16T16:00:00.000Z",
-    "end_at": "2026-09-16T19:00:00.000Z",
-    "timezone": "Europe/Madrid",
-    "url": "https://lu.ma/to9pt7z7",
-    "city": "Madrid",
-    "address": "Palacio",
-    "organizer": "Codex Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/pt/02fec324-caf5-4b92-ab2b-3c653b38fe75.png",
-    "found_in": [
-      "madrid"
-    ],
-    "description": "UBICACIÓN: VP PLAZA en Pl. España.¡Acompáñanos en Astra Commons en Madrid!Este encuentro informal reunirá a desarrolladores, estudiantes, founders y miembros de la comunidad para celebrar el lanzamiento de GPT-6 Astra.\n¿Qué puedes esperar?\nTomar un café y conectar con la comunidad local de builders.\n\nConversar sobre el lanzamiento de GPT-6 Astra.\n\nIntercambiar ideas y encontrar inspiración.\n\n$100 en créditos de Codex y $50 en créditos de API para construir con GPT-6 Astra (para asistentes registrados).\n\nLos cupos son limitados. ¡Esperamos verte ahí!==================================Join us at Astra Commons in Madrid!This casual meetup is bringing together developers, students, founders, and community members to celebrate the launch of GPT-6 Astra.What to expect:\nGrab coffee and connect with your local builder community\n\nDiscuss the launch of GPT-6 Astra\n\nExchange ideas and find inspiration\n\n$100 in Codex credits and $50 in API credits to build with GPT-6 Astra (for registered attendees)\n\nSpace is limited. We hope to see you there!",
-    "categories": [
-      "AI"
-    ],
-    "guest_count": 92,
-    "sold_out": true,
-    "waitlist_active": true,
-    "registration_deadline": null,
-    "lat": 40.42108853813195,
-    "lng": -3.7127144356274036
-  },
-  {
-    "source": "luma",
-    "source_slug": "madrid",
-    "source_id": "evt-7BhPBkQDwbUIgjC",
-    "name": "Claude Community Madrid Launch Meetup",
-    "start_at": "2026-09-16T16:30:00.000Z",
-    "end_at": "2026-09-16T20:00:00.000Z",
-    "timezone": "Europe/Madrid",
-    "url": "https://lu.ma/claudemadrid-sept16",
-    "city": "Madrid",
-    "address": "ISDI Escuela de Negocios - Sede Madrid",
-    "organizer": "Claude Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/ym/cf9e4ca7-2b8a-4599-8726-86ac2c69f2f9.png",
-    "found_in": [
-      "madrid",
-      "claudecommunity"
-    ],
-    "description": "Ven al primer evento oficial de Claude Community Madrid! \nSerá el 16 de Septiembre a las 6:30 pm en el centro de Madrid (ISDI).\nPresentaremos a todos los embajadores y sus verticales, te contaremos de qué va esta comunidad y cómo puedes formar parte, y te adelantaremos el tipo de eventos que iremos organizando a partir de ahora.\nHabrá tiempo para preguntas y, después de la presentación, te animamos a quedarte a hacer networking con los embajadores y con el resto de asistentes.\nEl espacio co-patrocina las bebidas y además te llevarás un pequeño regalo ;)\nEl registro está abierto hasta el viernes 4 de septiembre. Seleccionaremos a los asistentes buscando una mezcla variada de perfiles, para que las conversaciones sean lo más interesantes posible; no hace falta ser técnico ni usuario avanzado. Te confirmaremos si tienes plaza antes del lunes 7 de septiembre.\nRegístrate solo si estás seguro de que puedes venir: las plazas son limitadas y cada sitio vacío es alguien que se quedó fuera.\n------\nJoin Claude Community Madrid for our first official event!\nWe'll introduce all the ambassadors and their verticals, explain what this community is about and how you can be part of it, and give you a preview of the kinds of events we'll be running from here on.\nThere will be time for questions, and after the presentation we encourage you to stay and network with the ambassadors and the other attendees.\nThe venue is co-sponsoring drinks, and you'll get a small gift ;)\nRegistration is open until Friday, September 4th. We'll select attendees looking for a varied mix of profiles and levels of experience with Claude, so the conversations are as interesting as possible — you don't need to be technical or an advanced user. We'll let you know whether you have a spot by Monday, September 7th.\nPlease only register if you're sure you can make it: spots are limited, and every empty seat is someone who was left out.",
-    "categories": [
-      "AI"
-    ],
-    "guest_count": 0,
-    "sold_out": true,
-    "waitlist_active": false,
-    "registration_deadline": "2026-09-14T07:30:59.000Z",
-    "lat": 40.435848299999996,
-    "lng": -3.7014762
-  },
-  {
-    "source": "luma",
-    "source_slug": "madrid",
-    "source_id": "evt-IdxgSQa7FCJQK66",
-    "name": "Omarchy Spain 🇪🇸 - Madrid",
-    "start_at": "2026-09-16T17:00:00.000Z",
-    "end_at": "2026-09-16T19:30:00.000Z",
-    "timezone": "Europe/Madrid",
-    "url": "https://lu.ma/f8kpok4h",
-    "city": "Madrid",
-    "address": "Pl. del Callao, 1",
-    "organizer": "Personal",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/yr/8286c217-3d73-4c3a-a36b-712be49c9ab4.jpg",
-    "found_in": [
-      "madrid"
-    ],
-    "description": "Omarchy Spain 🇪🇸 - Madrid\nThe first Omarchy meetup in Madrid.\nA casual gathering for people who use Omarchy, are curious about it or just love Linux, open source and making computers fun again.\nBring your laptop. Show off your setup. Swap themes and plugins. Help someone install Omarchy. Talk Linux, programming, hardware, AI, agents or whatever you’re building.\n📍 SampliaX! Callao (Pl. del Callao, 1, Centro, 28013 Madrid)🎟️ Free and open to everyone👥 Limited to 55 seats\nBring your machine. Come hang out. 🐧\nAbout the Hosts\nmad.builders - a curated community, and a launchpad for founders building real companies. No coworking fluff. No networking theater. Just building.\nSamplia - We connect brands with people. We are experts in smart sampling with consumer feedback.",
-    "categories": [
-      "Tech"
-    ],
-    "guest_count": 54,
-    "sold_out": false,
-    "waitlist_active": false,
-    "registration_deadline": null,
-    "lat": 40.419722,
-    "lng": -3.7061105000000003
-  },
-  {
-    "source": "luma",
-    "source_slug": "madrid",
     "source_id": "evt-f8aWVrUa03CilAr",
     "name": "How to stop your AI agent from amplifying your team's tech debt",
     "start_at": "2026-09-17T17:00:00.000Z",
@@ -191,7 +106,7 @@
     "categories": [
       "AI"
     ],
-    "guest_count": 187,
+    "guest_count": 185,
     "sold_out": true,
     "waitlist_active": true,
     "registration_deadline": null,
@@ -248,7 +163,7 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 44,
+    "guest_count": 46,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,
@@ -257,7 +172,35 @@
   },
   {
     "source": "luma",
-    "source_slug": "aimadrid",
+    "source_slug": "madrid",
+    "source_id": "evt-w0TeDPIBFDGUvbJ",
+    "name": "FredCon'26 by Google Cloud",
+    "start_at": "2026-09-24T07:30:00.000Z",
+    "end_at": "2026-09-24T17:00:00.000Z",
+    "timezone": "Europe/Madrid",
+    "url": "https://lu.ma/4vot95mb",
+    "city": "Madrid",
+    "address": "Espacio Rastro Madrid",
+    "organizer": "Personal",
+    "is_free": true,
+    "cover_image": "https://images.lumacdn.com/uploads/km/ee74adc9-bac6-4359-86ed-fd3026182648.png",
+    "found_in": [
+      "madrid"
+    ],
+    "description": "La FredCon es la conferencia de liderazgo técnico y gestión de equipos técnicos de Manfred para la Comunidad. Un espacio para aprender y compartir. Desde cómo crear un plan de equilibrio salarial a mejorar en la gestión de personas. Una conferencia pensada para que técnicos y recursos humanos se entiendan mejor. Este no es un evento de negocios. Es un evento de Comunidad. De compartir. De aprender.  Las relaciones que se crean en la FredCon no se miden en leads o aplicaciones a ofertas de empleo. Se mide en estar y formar parte o no estar.",
+    "categories": [
+      "Tech"
+    ],
+    "guest_count": 0,
+    "sold_out": true,
+    "waitlist_active": false,
+    "registration_deadline": null,
+    "lat": 40.4090771,
+    "lng": -3.7068435999999996
+  },
+  {
+    "source": "luma",
+    "source_slug": "madrid",
     "source_id": "evt-x62zPTK7EILE9XK",
     "name": "AI Socratic Madrid - September",
     "start_at": "2026-09-24T15:30:00.000Z",
@@ -270,6 +213,7 @@
     "is_free": true,
     "cover_image": "https://images.lumacdn.com/uploads/mk/a2f9fed1-ea37-4de2-a937-30ba0e5c6041.png",
     "found_in": [
+      "madrid",
       "aimadrid"
     ],
     "description": "AI Socratic Madrid is a monthly gathering for AI practitioners, researchers, founders, educators, and builders in the Madrid AI scene.\nWe run Socratic dialogues on the last AI topics: new models and tools, research papers, AGI alignment, philosophy, geopolitics, and more.We believe the best conversations happen when diverse perspectives are in the room. Whether you come from engineering, research, product, policy, or education, if you think seriously about AI, you belong here.\nTo keep discussions meaningful, every application is reviewed. We look for curiosity, depth of thought, and a genuine willingness to contribute, not a specific job title or background.\nThe event runs in English 🇬🇧, unless everyone in the room speaks Spanish 🇪🇸.\nAgenda\n17:30 – 18:00 Welcome & networking\n\n18:00 – 19:00 Socratic dialogues\n\n19:00 – 20:00 Demos and presentations\n\nSocratic Conversations\nWe open with networking, time to meet the people in the room before the conversation starts.\nThe main session is structured around the latest AI Socratic monthly post, with room for the threads and topics that matter most to attendees.Everyone is encouraged to contribute. Jorge Ordovás and Alfonso de la Rocha moderate to keep things flowing and make sure every voice gets heard.\nWe close with demos and short presentations. Submit yours here.\nAI Socratic Madrid — Code of Conduct\nAI Socratic is built on the premise that better ideas come from more perspectives. This Code of Conduct exists to make that real, not aspirational.\nWho this is for:\nEveryone: attendees, speakers, organisers, and guests. No exceptions.\n\nWhat we expect:\nBe curious, not combative. Challenge ideas, not people. The Socratic method works because it assumes good faith on all sides.\n\nMake room. If you tend to speak a lot, listen more. If you see someone being talked over, say something.\n\nRespect identities and expertise. Don't make assumptions about what someone knows (or doesn't) based on how they look, their accent, or their background.\n\nNo unsolicited advice or feedback. If someone didn't ask for your opinion on their work, keep it.\n\nWhat we won't tolerate:\nHarassment of any kind: including comments related to gender, gender identity, sexual orientation, disability, ethnicity, religion, or age. This applies to talks, conversations, online channels, and side events.\n\nSpecifically off-limits: sexualised language or imagery, deliberate intimidation, interrupting or talking over speakers, and taking photos or recording without consent.\n\nIf something happens:\nTell an organiser directly, or send an email. Reports are handled confidentially.\n\nAnyone asked to stop a behaviour is expected to do so immediately. Persistent violations result in removal from the event and future editions.\n\nWe follow up on every report.\n\nThe short version:\nTreat people the way you'd want to be treated if you were the only person who didn't look like everyone else, or the only person defending an opinion in the room.",
@@ -282,6 +226,34 @@
     "registration_deadline": null,
     "lat": 40.5150103,
     "lng": -3.6629359999999997
+  },
+  {
+    "source": "luma",
+    "source_slug": "madrid",
+    "source_id": "evt-bnE44bmxANb4Sp0",
+    "name": "n8n Meetup Madrid",
+    "start_at": "2026-09-28T16:30:00.000Z",
+    "end_at": "2026-09-28T19:30:00.000Z",
+    "timezone": "Europe/Madrid",
+    "url": "https://lu.ma/n8n-3h9w",
+    "city": "Madrid",
+    "address": "La Chopera",
+    "organizer": "n8n Community Events",
+    "is_free": true,
+    "cover_image": "https://images.lumacdn.com/uploads/r8/3725ae60-0a81-4a56-b87d-2122a9d56743.png",
+    "found_in": [
+      "madrid"
+    ],
+    "description": "⚡ Madrid, tenemos meetup de n8n.\n¿Usas n8n, estás empezando o tienes una automatización imposible rondándote la cabeza? Vente a pasar la tarde con la comunidad de Madrid.\nAquí venimos a compartir cosas que funcionan de verdad: automatizaciones reales, decisiones técnicas, errores, aprendizajes y demos que puedas llevarte a tus propios proyectos. Sin postureo y con tiempo para preguntar, conocer gente y hablar de lo que estamos construyendo.\n🚀 ¿Qué te vas a encontrar?\n🎤 Casos reales contados por quienes los han construido\n🧠 Ideas, errores y aprendizajes que podrás reutilizar\n🛠️ Demos rápidas y preguntas abiertas\n🤝 Gente de producto, operaciones, IA, automatización y no-code\n🥤 Picoteo, bebidas y networking\nDa igual si llevas años automatizando o si acabas de abrir n8n por primera vez. Explicaremos el contexto y podrás preguntar sin filtros.\n🗓️ Agenda\n18:30 · Puertas, check-in y primeras conversaciones\n19:00 · Bienvenida a n8n Madrid 👋\n19:10 · Charla 1: un caso real construido con n8n\n19:35 · Charla 2: demo técnica\n20:00 · Demos rápidas y preguntas abiertas\n20:20 · Foto de comunidad y próximos pasos 📸\n20:25 · Networking con picoteo\n21:20 · Cierre y próximos encuentros\n21:30 · Fin del evento\n📍 Mad Tech Campus · Casa del Lector\nPaseo de la Chopera, 14 · Madrid\n🌍 Las charlas serán principalmente en español. English speakers are very welcome!\n🎟️ Solo hay 50 plazas. Cuando se complete el aforo, abriremos lista de espera.\nVen con preguntas, ideas o simplemente curiosidad. El objetivo es sencillo: salir con nuevas conexiones y con ganas de construir la siguiente automatización. Nos vemos allí 🚀\nEvento organizado con cariño por ambassadors voluntarios de la comunidad n8n.",
+    "categories": [
+      "Tech"
+    ],
+    "guest_count": 45,
+    "sold_out": false,
+    "waitlist_active": false,
+    "registration_deadline": null,
+    "lat": 40.394282541422804,
+    "lng": -3.6990652900692425
   },
   {
     "source": "luma",

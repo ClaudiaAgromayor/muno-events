@@ -352,5 +352,29 @@
     "idioma": "no_especificado",
     "comida_gratis": "no_especificado",
     "se_graba": "no_especificado"
+  },
+  "luma:evt-alVTN3PHjirK0gb": {
+    "nivel": "no_especificado",
+    "idioma": "no_especificado",
+    "comida_gratis": "no_especificado",
+    "se_graba": "no_especificado"
+  },
+  "luma:evt-ckyjutoJqa8JJHw": {
+    "nivel": "no_especificado",
+    "idioma": "no_especificado",
+    "comida_gratis": "no_especificado",
+    "se_graba": "no_especificado"
+  },
+  "meetup:315790884": {
+    "nivel": "no_especificado",
+    "idioma": "en",
+    "comida_gratis": "no_especificado",
+    "se_graba": "si"
+  },
+  "meetup:316576718": {
+    "nivel": "principiante",
+    "idioma": "no_especificado",
+    "comida_gratis": "no_especificado",
+    "se_graba": "no_especificado"
   }
 }

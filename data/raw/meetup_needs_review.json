@@ -2,25 +2,6 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
-    "source_id": "316551631",
-    "name": "IA Workshop: Automatización para AEC con n8n: de la obra a los datos",
-    "description": "Este próximo **miércoles día 16 de marzo de 2026** (7PM hora de Madrid) tenemos nueva reunión del BIM Technology User Group, una reunión en la que realizaremos un **Workshop gratuito bajo el título de *[Automatización para AEC con n8n: de la obra a los datos](https://butic.es/automatizacion-n8n-datos-obra/)*.**\n\nCorrerá a cargo de **David Moreira**, Arquitecto especializado en transformación digital y automatización de procesos.\n\nEn el día a día de un proyecto AECO se generan constantemente **nuevos datos**: incidencias BIM, fotografías de obra, informes, actas, aprobaciones, cambios, avisos y tareas. El reto no está tanto en disponer de esa información como en **conseguir que llegue, en el momento adecuado**, a quien tiene que actuar sobre ella.\nEn este workshop online veremos cómo transformar ese problema en un flujo de trabajo automatizado utilizando **n8n**, una plataforma que permite conectar aplicaciones y automatizar procesos. A través de un caso práctico, construiremos paso a paso un flujo sencillo para entender qué ocurre desde que se genera un dato hasta que se convierte en una acción dentro del equipo.\nMás que aprender a utilizar todas las posibilidades de n8n, la sesión busca comprender una metodología aplicable a muchos otros procesos: capturar información, estructurarla, analizarla, establecer prioridades y desencadenar respuestas de forma automática y trazable.\nEl propósito es descubrir **qué procesos merece la pena automatizar y por qué**, reduciendo tareas repetitivas y mejorando la circulación de información entre la oficina, la obra y los distintos agentes del proyecto. Una aproximación práctica a la automatización que permite empezar a construir soluciones útiles sin necesidad de ser especialista en programación.\n\nEl registro para acceder en directo vía Zoom, es éste: [https://butic.es/automatizacion-n8n-datos-obra/](https://butic.es/automatizacion-n8n-datos-obra/)\n\n**¿Qué aprenderemos con David?**\n\n1. Una forma clara de leer procesos AEC como flujos de información\n2. Criterios para identificar tareas que pueden automatizarse\n3. Una referencia concreta sobre cómo integrar n8n e IA manteniendo el control profesional\n\n* ​Cómo funciona la lógica básica de n8n: entradas, nodos, datos, condiciones y ejecuciones.\n* ​Cómo conectar una entrada de información con reglas de decisión, notificaciones y registros.\n* ​Cómo transformar tareas repetitivas en flujos trazables sin perder criterio humano.\n* ​Cómo identificar oportunidades de automatización en contextos AEC.\n* ​Qué casos conviene automatizar, cuáles no, y cómo evitar agregar ruido innecesario al equipo.\n* ​Cómo una capa de IA puede apoyar el resumen y priorización de información sin reemplazar la revisión profesional.\n\nEl registro para acceder en directo vía Zoom a esta primera Open BIM Class, es éste: [https://butic.es/automatizacion-n8n-datos-obra/](https://butic.es/automatizacion-n8n-datos-obra/)",
-    "start_at": "2026-09-16T19:00:00+02:00",
-    "url": "https://www.meetup.com/bimtechnologyusergroup/events/316551631/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "BIM Technology User Group",
-    "attendees": 5,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
     "source_id": "316466866",
     "name": "¿Qué hay de nuevo este 2026 en Power Apps y Power Automate?",
     "description": "**Power Apps** y **Power Automate** siguen evolucionando y este 2026 traen algunas novedades interesantes, muchas de ellas impulsando enfoques más inteligentes, fluidos y apoyados en **inteligencia artificial**, como casi todo este 2026: **Power Platform** no podía ser la excepción.\n\nEn esta sesión veremos estas novedades desde un punto de vista práctico: qué implican, por qué son relevantes y cómo podemos aprovecharlas en proyectos reales.",
@@ -73,6 +54,7 @@
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence",
+      "Machine Learning",
       "Data Science"
     ]
   },
@@ -93,6 +75,7 @@
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence",
+      "Machine Learning",
       "Data Science"
     ]
   },
@@ -112,7 +95,8 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Artificial Intelligence"
+      "Artificial Intelligence",
+      "Machine Learning"
     ]
   },
   {
@@ -151,6 +135,7 @@
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence",
+      "Machine Learning",
       "Data Science"
     ]
   },
@@ -171,6 +156,7 @@
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence",
+      "Machine Learning",
       "Data Science"
     ]
   },
@@ -190,12 +176,33 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Artificial Intelligence"
+      "Artificial Intelligence",
+      "Machine Learning"
     ]
   },
   {
     "source": "meetup",
-    "source_slug": "Data Science",
+    "source_slug": "Machine Learning",
+    "source_id": "316064663",
+    "name": "Sept 30 - Building Composable Vision Workflows in FiftyOne",
+    "description": "This workshop explores the [FiftyOne](https://docs.voxel51.com/index.html) plugin framework to build custom computer vision applications. You’ll learn to extend the FiftyOne App with Python based panels and server side operators, as well as integrate external tools for labeling, vector search, and model inference into your dataset views.\n\n**Date, Time and Location**\n\nSep 30, 2026\n9 AM - 10 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/building-composable-vision-workflows-in-fiftyone-september-30-2026)**\n\nYou’ll also automate repetitive tasks by writing custom workflows executing within the FiftyOne environment. Attendees will learn to transform FiftyOne from a visualization tool into a central hub for your vision stack.\n\nWhat you'll learn:\n\n* **Build Python plugins.** Define plugin manifests and directory structures to register custom functionality within the FiftyOne ecosystem.\n* **Develop server side operators.** Write functions to execute model inference, data cleaning, or metadata updates from the App interface.\n* **Build interactive panels.** Create custom UI dashboards using to visualize model metrics or specialized dataset distributions.\n* **Manage operator execution contexts.** Pass data between the App front end and your backend to build dynamic user workflows.\n* **Implement delegated execution.** Configure background workers to handle long running data processing tasks without blocking the user interface.\n* **Build labeling integrations.** Streamline the flow of data between FiftyOne and annotation platforms through custom triggers and ingestion scripts.\n* **Extend vector database support.** Program custom connectors for external vector stores to enable semantic search across large sample datasets.\n* **Package and share plugins.** Distribute your extensions internally and externally",
+    "start_at": "2026-09-30T18:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-ai-machine-learning-and-computer-vision-meetup/events/316064663/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
+    "attendees": 1,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Machine Learning",
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Machine Learning",
     "source_id": "316418129",
     "name": "AIDataTech Connect: Global Virtual Networking Event for AI, Data & Tech Pros",
     "description": "Are you working in artificial intelligence, data science, or machine learning? Whether you're a developer, researcher, startup founder, or aspiring tech enthusiast — **AIDataTech Connect** is your go-to **AI networking event online** designed to foster career growth, real-time collaboration, and innovation exchange in a dynamic, community-driven environment.\n\nThis event brings together a global **virtual AI community meetup** hosted on a flexible Slack-style platform that supports group discussions and **1-1 video or text chats**, making it perfect for professionals looking to connect, collaborate, and build with others in the AI ecosystem.\n\n🎥 **Watch how it works:**\n👉 [https://www.youtube.com/watch?v=NRUTXUOFKm4](https://www.youtube.com/watch?v=NRUTXUOFKm4)\n\n**💬 What to Expect:**\nAt AIDataTech Connect, attendees are encouraged to explore, share, and engage across multiple interactive channels designed to support learning, networking, and opportunity discovery:\n\n* **General** – A central hub for orientation, announcements, and community-wide discussions.\n* **Intros** – Introduce yourself, your background, and your AI/tech journey. Spark meaningful introductions.\n* **Networking** – Share your resume, startup, or project pitch. Meet employers, peers, or collaborators.\n* **Help Wanted** – Ask for help or offer support on coding, data, research, or AI model deployment.\n* **Industry Room Tech** – Discuss AI frameworks, tools, and the latest tech trends in data and development.\n* **Project Showcase** – Perfect for those seeking a **machine learning career fair** experience or showcasing real-world work through our **AI project showcase platform**.\n* **Collaboration Pods** – Jump into discussions around **collaboration for AI specialists**, including open-source partnerships, research pods, and co-building opportunities.\n\n**📍 Where:**\nJoin virtually at:\n👉 [https://events.tao.ai/pod/analytics.club/q4j5imq9qjs9](https://events.tao.ai/pod/analytics.club/q4j5imq9qjs9)\n**🕔 When:**\nEvent runs globally from **5:00 PM – 7:00 PM local time** — designed for participation across time zones.\n\n**👥 Who Should Join:**\n\n* AI professionals, ML engineers, and data scientists\n* Tech founders, entrepreneurs, and product leaders\n* Students, job seekers, and aspiring AI talent\n* Recruiters, employers, and hiring managers in AI/tech\n* Researchers, open-source contributors, and peer mentors\n\n**🧠 Why Attend:**\n\n* Engage in a truly global **virtual tech networking event**\n* Discover AI jobs, freelance gigs, or partnership opportunities\n* Connect with experts and peers in AI, ML, and data\n* Explore AI applications and get feedback on your models or tools\n* Network directly via 1-on-1 video or text chats\n* Collaborate on new ideas, research papers, or open-source projects\n\n**❓ Questions or Suggestions?**\nWe’re here to help. Drop us a note at:\n👉 [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**🔖 Hashtags:**\n#AIDataTechConnect #AINetworkingEventOnline #VirtualAICommunityMeetup #MachineLearningCareerFair #AIProjectShowcasePlatform #CollaborationForAISpecialists #DataScienceMeetup #MLJobs #AIResearchNetworking #GlobalTechNetworking #TechCollaborationEvent",
@@ -209,6 +216,7 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
+      "Machine Learning",
       "Data Science"
     ]
   },
@@ -228,8 +236,7 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Data Science",
-      "DevOps"
+      "Data Science"
     ]
   },
   {
@@ -245,25 +252,6 @@
     "address": "",
     "organizer": "Analytics.CLUB Madrid",
     "attendees": 2,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Data Science"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Data Science",
-    "source_id": "316064663",
-    "name": "Sept 30 - Building Composable Vision Workflows in FiftyOne",
-    "description": "This workshop explores the [FiftyOne](https://docs.voxel51.com/index.html) plugin framework to build custom computer vision applications. You’ll learn to extend the FiftyOne App with Python based panels and server side operators, as well as integrate external tools for labeling, vector search, and model inference into your dataset views.\n\n**Date, Time and Location**\n\nSep 30, 2026\n9 AM - 10 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/building-composable-vision-workflows-in-fiftyone-september-30-2026)**\n\nYou’ll also automate repetitive tasks by writing custom workflows executing within the FiftyOne environment. Attendees will learn to transform FiftyOne from a visualization tool into a central hub for your vision stack.\n\nWhat you'll learn:\n\n* **Build Python plugins.** Define plugin manifests and directory structures to register custom functionality within the FiftyOne ecosystem.\n* **Develop server side operators.** Write functions to execute model inference, data cleaning, or metadata updates from the App interface.\n* **Build interactive panels.** Create custom UI dashboards using to visualize model metrics or specialized dataset distributions.\n* **Manage operator execution contexts.** Pass data between the App front end and your backend to build dynamic user workflows.\n* **Implement delegated execution.** Configure background workers to handle long running data processing tasks without blocking the user interface.\n* **Build labeling integrations.** Streamline the flow of data between FiftyOne and annotation platforms through custom triggers and ingestion scripts.\n* **Extend vector database support.** Program custom connectors for external vector stores to enable semantic search across large sample datasets.\n* **Package and share plugins.** Distribute your extensions internally and externally",
-    "start_at": "2026-09-30T18:00:00+02:00",
-    "url": "https://www.meetup.com/madrid-ai-machine-learning-and-computer-vision-meetup/events/316064663/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
-    "attendees": 1,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -302,25 +290,6 @@
     "address": "",
     "organizer": "Madrid AI Developers Group",
     "attendees": 4,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "DevOps"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "DevOps",
-    "source_id": "316267997",
-    "name": "CI/CD con GitHub Actions: de local a producción sin miedo",
-    "description": "¿Sigues realizando despliegues manuales o te preocupa que un cambio inesperado rompa tu proyecto en producción? En esta sesión aprenderás los conceptos fundamentales de **CI/CD** utilizando **GitHub Actions** desde cero.\n\nDescubriremos cómo automatizar tareas, ejecutar pruebas, validar cambios y construir flujos de trabajo que permitan entregar soluciones con mayor confianza y menor esfuerzo manual.\n\nA través de ejemplos paso a paso, conoceremos cómo funciona un archivo YAML de GitHub Actions, cómo crear pipelines básicos y qué buenas prácticas aplicar para comenzar a automatizar procesos desde el primer día.\n\n🗣️ **Speaker:** Jeyson Meuses\n🎤 **Host**: Mike Matamoros",
-    "start_at": "2026-10-01T01:00:00+02:00",
-    "url": "https://www.meetup.com/microsoft-speakers-hub-en-espanol/events/316267997/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Microsoft Speakers Hub en Español",
-    "attendees": 8,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -453,9 +422,9 @@
     "city": "Madrid",
     "address": "C. del Marqués de Casa Riera, 4, Centro, 28014 Madrid, Spain",
     "organizer": "Cloudflare User Group España (IA, CyberSecurity & Edge Dev)",
-    "attendees": 37,
+    "attendees": 40,
     "max_tickets": 50,
-    "spots_left": 13,
+    "spots_left": 10,
     "found_in": [
       "Artificial Intelligence",
       "Hackathon"
@@ -520,6 +489,44 @@
   },
   {
     "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "316570374",
+    "name": "From Counter.Inc() to a billion series",
+    "description": "Add a counter. Two lines and you can finally see how often your service fails.\n\nThen you add a label to tell failure reasons apart and the counter becomes genuinely useful. You can now see why it's failing.\nSo you start adding more labels, one for the kind of user, one for the value of the operation. Each one seems reasonable and enables rich queries and alerts.\n\nThis talk follows that counter all the way down: from instrumenting a Go service, to how Prometheus scrapes and stores your data, to building a horizontally scalable distributed metrics database as you go from just one counter to billions of them.\n\nYou don't need to know anything about observability to attend this session!",
+    "start_at": "2026-10-07T19:00:00+02:00",
+    "url": "https://www.meetup.com/go-mad/events/316570374/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Pl. de Manuel Gómez-Moreno, 2, Tetuán, 28020 Madrid, Spain",
+    "organizer": "GoMAD - Madrid Go UG",
+    "attendees": 21,
+    "max_tickets": 60,
+    "spots_left": 39,
+    "found_in": [
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Startups",
+    "source_id": "316151855",
+    "name": "Women, Work & Wine🍷 Rooftop | by PNM",
+    "description": "**Precio, info más abajo👇**\nDespués de registrarte aquí en Meetup **CONFIRMA** TU PRESENCIA EN MI **NUMERO DE [WhatsApp aquí](https://wa.me/+393395021742)**\no Escríbeme para más información y próximos eventos\n*(si la plataforma te pide que pagues cierra la ventana con la X)*\n\nHa llegado algo nuevo dentro de [PNM - Professional Network Madrid](https://www.instagram.com/professionalsnetwork.madrid)...\n\n**Women\\, Work & Wine 🍷\\| by PNM** nace como una salida entre mujeres profesionales, emprendedoras, freelancers y mujeres con ganas de conectar en un ambiente más cercano, relajado y real.\n\nNo será un evento súper formal y lo haremos cada 2-3 meses.\nSerá un encuentro para hablar de *trabajo, proyectos, ideas, retos, oportunidades… pero también de vida, cambios, decisiones, motivación* y todo eso que normalmente aparece cuando las conversaciones fluyen de verdad💖.\n\n**La idea es simple:**\ncrear un espacio más íntimo y femenino dentro de la comunidad PNM, donde podamos conocernos mejor, compartir experiencias y abrir nuevas conexiones.\n\n**Es algo nuevo para nosotras también, pero sentimos que puede gustar mucho y los dos encuentros anteriores nos lo han confirmado con creces.**\n\n### ¿Para quién es?\n\nPara mujeres profesionales, emprendedoras, freelancers, estudiantes, mujeres en transición laboral o con proyectos propios, y en general mujeres que quieren rodearse de otras mujeres con mentalidad de crecimiento.\nNo hace falta venir con un pitch perfecto.\nVen con ganas de conversar, escuchar, compartir y conectar.\n\nMe hace especial ilusión esta edición porque **conseguir un rooftop para eventos en Madrid no es nada fácil**, y esta vez estaremos en la terraza de un hotel 5 estrellas.\nAl llegar:\n**\\>Regístrate en reception** diciendo que vienes al evento de Networking Mujeres\n**\\>Sube al rooftop**\n**\\>Paga tu entrada en el bar** \\- incluye 2 drinks\n**\\>Recoge tu pegatina\\-nombre** y... ¡a conectar!😍\n\n📍 **UMusic Hotel Madrid – Rooftop**\n[Calle de la Paz, 11, Centro, 28012](https://maps.app.goo.gl/WxgC6vBYaGpduUVY7)\n🚇**Metro**: Sol\n\n📅 **Sábado** **19 septiembre**\n🕢 **18:00 - 22:00**\nEl rooftop cierra a las 22:30\n(Puedes también ponerte directamente en contacto conmigo en [WhatsApp aquí](https://wa.me/+393395021742))\n**DRESS CODE**: Business casual\n**Precio: 15€** con 2 soft drinks\n(se paga en el bar, aqui solo te registras)\n................\nEste encuentro nace desde la comunidad general **[Professionals & Entrepreneurs PNM](https://www.meetup.com/madrid-professionals-network/)**, nuestro espacio mensual de networking profesional en Madrid.\nOrganizamos 1 cada 2-3 meses, si no puedes venir pero quieres que te avise de próximos encuentros, escríbeme por privado aquí: **[LINK](https://wa.me/+393395021742)**\n\nHasta pronto!🌷",
+    "start_at": "2026-09-19T18:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-professionals-network/events/316151855/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Calle de la Paz, 11, 28012",
+    "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
+    "attendees": 90,
+    "max_tickets": 100,
+    "spots_left": 10,
+    "found_in": [
+      "Startups"
+    ]
+  },
+  {
+    "source": "meetup",
     "source_slug": "Hackathon",
     "source_id": "316568618",
     "name": "Crystal Bowl Sound Bath",
@@ -549,7 +556,7 @@
     "city": "Madrid",
     "address": "calle coruña 5",
     "organizer": "Hacklab La Raiz",
-    "attendees": 2,
+    "attendees": 3,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

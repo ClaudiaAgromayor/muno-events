@@ -33,9 +33,9 @@
     "city": "Madrid",
     "address": "P.º de La Habana, 9, 11, Chamartín, 28036 Madrid, Spain",
     "organizer": "Sirviendo Código",
-    "attendees": 20,
+    "attendees": 21,
     "max_tickets": 30,
-    "spots_left": 10,
+    "spots_left": 9,
     "found_in": [
       "Artificial Intelligence"
     ],
@@ -54,11 +54,12 @@
     "city": "Madrid",
     "address": "Av. Gran Vía del Este, 1, Vicálvaro, 28032 Madrid",
     "organizer": "AI Security Engineers - Madrid, ES",
-    "attendees": 19,
+    "attendees": 20,
     "max_tickets": 50,
-    "spots_left": 31,
+    "spots_left": 30,
     "found_in": [
       "Artificial Intelligence",
+      "Machine Learning",
       "DevOps",
       "Hackathon"
     ],
@@ -77,11 +78,12 @@
     "city": "Madrid",
     "address": "C. de Cronos, 63",
     "organizer": "Elixir Madrid",
-    "attendees": 11,
+    "attendees": 10,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence",
+      "Machine Learning",
       "DevOps"
     ],
     "lat": 40.4410744,
@@ -99,11 +101,12 @@
     "city": "Madrid",
     "address": "de la comunidad, C. de Bravo Murillo, 39, Local interior, Chamberí, 28015 Madrid, Spain",
     "organizer": "Madrid Machine Learning Meetup",
-    "attendees": 18,
+    "attendees": 20,
     "max_tickets": 60,
-    "spots_left": 42,
+    "spots_left": 40,
     "found_in": [
-      "Artificial Intelligence"
+      "Artificial Intelligence",
+      "Machine Learning"
     ],
     "lat": null,
     "lng": null
@@ -111,22 +114,20 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
-    "source_id": "315789520",
+    "source_id": "315790884",
     "name": "Vibe Coding & Friends: Social Gathering for Founders and Entrepreneurs",
     "description": "The Vibe Coding Club Madrid\n\nBuild with AI. Meet ambitious people. Launch faster.\n\nThe Vibe Coding Club is a community for founders, builders, creators and AI enthusiasts who want to learn faster by sharing ideas, tools, experiences and real-world projects. Every two weeks in Madrid, we bring together ambitious people who are exploring how AI is transforming the way products, startups and businesses are built.\n\nThis is not a conference.\nThis is not a pitch event.\nIt's a collaborative space where people openly share what they're building, what's working, what's failing and what they've learned along the way.\n\nWhat happens at each meetup?\n🚀 Builders share projects, MVPs and experiments\n💡 Members exchange practical tips and best practices\n🛠 Discover new AI tools, workflows and automations\n🎯 Get feedback on your ideas and challenges\n🤝 Meet founders, creators, developers and innovators\n📈 Learn from people who are actively building and launching\n✔ More than 60% of our attendees are new to the community.\n✔ We make introductions easy with simple networking activities and conversation starters.\n✔ Bring your laptop if you'd like to share a project, an idea or an AI experiment.\n\nWhether you're creating your first MVP, growing a startup, experimenting with AI agents or simply exploring new opportunities, you'll find people willing to share knowledge and help you move faster.\n\nBring your questions.\nBring your experience.\nLeave with new insights, meaningful connections and inspiration for your next launch.\n\nWhen and where?\n\n⏰ 19:00-21.30\n📍 Hotel ICON Wipton, Calle Jorge Juan, 17 · Madrid\n🍻The event completely free, but to thank the location for letting us gather here please grab a drink, that way we can keep the meetings going.\n\nJoin the WhatsApp group to stay up to date and be part of this great community:\n\nhttps://chat.whatsapp.com/Gw9ibFL0pXqF8gO3IYaZta\n\nIf you'd like to collaborate with us or promote your business, send us a private message.\n\nSee you at the next Vibe Coding Club.\n\nBy joining the event, you authorize possible digital recordings and the publication of that content on social media.",
-    "start_at": "2026-09-16T19:00:00+02:00",
-    "url": "https://www.meetup.com/the-vcc/events/315789520/",
+    "start_at": "2026-09-30T19:00:00+02:00",
+    "url": "https://www.meetup.com/the-vcc/events/315790884/",
     "event_type": "PHYSICAL",
     "city": "Madrid",
     "address": "Calle Jorge Juan, 17",
     "organizer": "The Vibe Coding Club Madrid",
-    "attendees": 80,
-    "max_tickets": 83,
-    "spots_left": 3,
+    "attendees": 20,
+    "max_tickets": 20,
+    "spots_left": 0,
     "found_in": [
-      "Artificial Intelligence",
-      "Startups",
-      "Hackathon"
+      "Artificial Intelligence"
     ],
     "lat": 38.9879607,
     "lng": -1.845739
@@ -153,6 +154,29 @@
     ],
     "lat": 40.4485287,
     "lng": -3.6940143
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Machine Learning",
+    "source_id": "315789520",
+    "name": "Vibe Coding & Friends: Social Gathering for Founders and Entrepreneurs",
+    "description": "The Vibe Coding Club Madrid\n\nBuild with AI. Meet ambitious people. Launch faster.\n\nThe Vibe Coding Club is a community for founders, builders, creators and AI enthusiasts who want to learn faster by sharing ideas, tools, experiences and real-world projects. Every two weeks in Madrid, we bring together ambitious people who are exploring how AI is transforming the way products, startups and businesses are built.\n\nThis is not a conference.\nThis is not a pitch event.\nIt's a collaborative space where people openly share what they're building, what's working, what's failing and what they've learned along the way.\n\nWhat happens at each meetup?\n🚀 Builders share projects, MVPs and experiments\n💡 Members exchange practical tips and best practices\n🛠 Discover new AI tools, workflows and automations\n🎯 Get feedback on your ideas and challenges\n🤝 Meet founders, creators, developers and innovators\n📈 Learn from people who are actively building and launching\n✔ More than 60% of our attendees are new to the community.\n✔ We make introductions easy with simple networking activities and conversation starters.\n✔ Bring your laptop if you'd like to share a project, an idea or an AI experiment.\n\nWhether you're creating your first MVP, growing a startup, experimenting with AI agents or simply exploring new opportunities, you'll find people willing to share knowledge and help you move faster.\n\nBring your questions.\nBring your experience.\nLeave with new insights, meaningful connections and inspiration for your next launch.\n\nWhen and where?\n\n⏰ 19:00-21.30\n📍 Hotel ICON Wipton, Calle Jorge Juan, 17 · Madrid\n🍻The event completely free, but to thank the location for letting us gather here please grab a drink, that way we can keep the meetings going.\n\nJoin the WhatsApp group to stay up to date and be part of this great community:\n\nhttps://chat.whatsapp.com/Gw9ibFL0pXqF8gO3IYaZta\n\nIf you'd like to collaborate with us or promote your business, send us a private message.\n\nSee you at the next Vibe Coding Club.\n\nBy joining the event, you authorize possible digital recordings and the publication of that content on social media.",
+    "start_at": "2026-09-16T19:00:00+02:00",
+    "url": "https://www.meetup.com/the-vcc/events/315789520/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Calle Jorge Juan, 17",
+    "organizer": "The Vibe Coding Club Madrid",
+    "attendees": 84,
+    "max_tickets": 90,
+    "spots_left": 6,
+    "found_in": [
+      "Machine Learning",
+      "Startups",
+      "Hackathon"
+    ],
+    "lat": 38.9879607,
+    "lng": -1.845739
   },
   {
     "source": "meetup",
@@ -232,9 +256,9 @@
     "city": "Madrid",
     "address": "Calle de Pradillo, 42, 28002 Madrid, Spain",
     "organizer": "ProductTank Madrid",
-    "attendees": 65,
+    "attendees": 67,
     "max_tickets": 80,
-    "spots_left": 15,
+    "spots_left": 13,
     "found_in": [
       "DevOps",
       "Startups"
@@ -265,6 +289,27 @@
   },
   {
     "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "316576718",
+    "name": "Grafana & Friends 🤝 Madrid GO UG",
+    "description": "The Grafana & Friends Madrid meetup is back, and this time we are partnering with the [Madrid GO User Group](https://www.meetup.com/go-mad/) and visiting our good friends at [Celonis](https://www.celonis.com/).\n\n⚠️ For this event, RSVP at https://www.meetup.com/go-mad/events/316570374 ⚠️\n\n🎙️ \"**From Counter.Inc() to a billion series**\", [Antonio Pitasi](https://www.linkedin.com/in/pitasi/), Senior Software Engineer at [Grafana Labs](https://grafana.com/).\n\nAdd a counter. Two lines and you can finally see how often your service fails.\nThen you add a label to tell failure reasons apart, and the counter becomes genuinely useful. You can now see why it's failing.\nSo you start adding more labels, one for the kind of user, one for the value of the operation. Each one seems reasonable and enables rich queries and alerts.\nThis talk follows that counter all the way down: from instrumenting a Go service, to how Prometheus scrapes and stores your data, to building a horizontally scalable distributed metrics database as you go from one counter to billions.\n\nYou don't need to know anything about observability to attend this session!\n\n📍**Location:**\n**[Celonis](https://www.celonis.com/)**: Pl\\. de Manuel Gómez\\-Moreno\\, 2 Madrid \\| [https://maps.app.goo.gl/tSeuMHXwwvaTC9VH9](https://maps.app.goo.gl/tSeuMHXwwvaTC9VH9)\n\nIt would be super cool to see you there! 👋\n\nGrafana & Friends Madrid",
+    "start_at": "2026-10-07T19:00:00+02:00",
+    "url": "https://www.meetup.com/grafana-and-friends-madrid/events/316576718/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Pl. de Manuel Gómez-Moreno, 2",
+    "organizer": "Grafana & Friends Madrid",
+    "attendees": 3,
+    "max_tickets": 1,
+    "spots_left": -2,
+    "found_in": [
+      "DevOps"
+    ],
+    "lat": 40.4485287,
+    "lng": -3.6940143
+  },
+  {
+    "source": "meetup",
     "source_slug": "Startups",
     "source_id": "315675863",
     "name": "[🌴 Startup Oasis] Innovation Café - MADRID!",
@@ -275,7 +320,7 @@
     "city": "Madrid",
     "address": "C/ del Alcalde Sainz de Baranda, 32, Retiro, 28009 Madrid",
     "organizer": "Startup Oasis - Tech, Founders, nomads, devs, UI/UX, Product",
-    "attendees": 20,
+    "attendees": 22,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -338,36 +383,15 @@
     "city": "Madrid",
     "address": "Bailén, 41",
     "organizer": "Quantum Madrid by Entangle",
-    "attendees": 34,
+    "attendees": 35,
     "max_tickets": 90,
-    "spots_left": 56,
+    "spots_left": 55,
     "found_in": [
       "Startups",
       "Hackathon"
     ],
     "lat": -31.4124189,
     "lng": -64.1505784
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Startups",
-    "source_id": "316484729",
-    "name": "Inclusive Tech in Spain",
-    "description": "Hey everyone!\n\nWe’ve been invited to join **Diverse Leaders in Tech (DLiT) Madrid**, and it’s a great opportunity to connect with leaders, founders, DEI professionals and ERG leads from across the tech ecosystem.\n\n**What is DLiT?**\nDiverse Leaders in Tech is a world-class network of like-minded peers on a mission to create a more diverse and inclusive tech ecosystem. In an industry that has historically excluded people who do not fit the norm, DLiT believes if your identity is the exception, and you lead in tech, you are pretty exceptional. We are a community of communities that surpasses gender, skin color, sexual orientation and more, to create a new norm that not only challenges, but can actually change the status quo.\n\nDLiT was founded in the Netherlands and what they've build there is incredibly strong, thoughtful and impactful and due to it's success it's scaling to Spain, Portugal and the UK this year.\n\n**What to expect on the night?**\n\n* We'll kick off the night with the Founder story by **Ingrid Tappin**\n* Followed by a panel with **Eleanor Manley (AI Strategist, Technical Founder and Professor at IE Business School)**, **Elisa Poirier Romeo (leader at Adyen)**, **Elisa Caballero (leader at Cabify)**, **Fran Gallego (DEI Leader, Responsible AI and our very own Out in Tech member)**. A mix of Technical Leaders, Founders and DEI Leaders who'll be sharing their experiences working in Tech in Spain, how that compares to other cities across the EU and globally. We'll get into the worries, the wins and what it's actually going to take to build a more diverse and inclusive Tech ecosystem here.\n* Beyond the panel, the night includes open audience conversations, a Think Tank (bring your real DEI challenges, we'll be problem solving them together with the collective wisdom in the room) and plenty of time to connect with people you want to get to know better over drinks and bites.\n\n**When?**\n16th of September at 6pm\n\n**Where?** At [Adyen](https://www.linkedin.com/company/adyen/)’s amazing Madrid hub.\n\n**Address?**\n[C. de Claudio Coello, 124, Madrid, Spain](google.com/maps/place//data=!4m2!3m1!1s0xd422920aa915b95:0xc3b8eaedbed0d1ae?sa=X&ved=1t:8290&ictx=111)\n\n**Who is this for?**\nThis event is for leaders/aspiring leaders, founders, DEI/HR professionals and specifically ERG leaders from across the Tech space. Actually just anyone who wants to be part of the conversation about building a more inclusive Tech ecosystem in Spain and Madrid. If that's you, you belong at this event\n\n**Grab your spot via the link below**:\n[https://dlit.activehosted.com/f/89](https://dlit.activehosted.com/f/89)\n\nWe really hope to see you all there so we can make it an impactful night together!",
-    "start_at": "2026-09-16T18:00:00+02:00",
-    "url": "https://www.meetup.com/out-in-tech-madrid/events/316484729/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "C. de Claudio Coello, 124",
-    "organizer": "Out in Tech - Madrid",
-    "attendees": 9,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Startups"
-    ],
-    "lat": 40.4369411,
-    "lng": -3.6851673
   },
   {
     "source": "meetup",
@@ -402,7 +426,7 @@
     "city": "Madrid",
     "address": "calle coruña 5",
     "organizer": "Hacklab La Raiz",
-    "attendees": 3,
+    "attendees": 4,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

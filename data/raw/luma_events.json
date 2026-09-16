@@ -20,7 +20,7 @@
     "categories": [
       "AI"
     ],
-    "guest_count": 91,
+    "guest_count": 92,
     "sold_out": true,
     "waitlist_active": true,
     "registration_deadline": null,
@@ -191,7 +191,7 @@
     "categories": [
       "AI"
     ],
-    "guest_count": 188,
+    "guest_count": 187,
     "sold_out": true,
     "waitlist_active": true,
     "registration_deadline": null,
@@ -248,7 +248,7 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 45,
+    "guest_count": 44,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,
@@ -282,5 +282,61 @@
     "registration_deadline": null,
     "lat": 40.5150103,
     "lng": -3.6629359999999997
+  },
+  {
+    "source": "luma",
+    "source_slug": "madrid-tech-brunch",
+    "source_id": "evt-alVTN3PHjirK0gb",
+    "name": "Madrid Tech Brunch",
+    "start_at": "2026-09-20T10:00:00.000Z",
+    "end_at": "2026-09-20T12:00:00.000Z",
+    "timezone": "Europe/Madrid",
+    "url": "https://lu.ma/tye6vx2h",
+    "city": "Madrid",
+    "address": "J&J's Books and Coffee",
+    "organizer": "Madrid Tech Brunch",
+    "is_free": false,
+    "cover_image": "https://images.lumacdn.com/uploads/gy/19fc46d8-1bef-45c9-91d0-319cbcde43bc.png",
+    "found_in": [
+      "madrid-tech-brunch"
+    ],
+    "description": "Join us for one more edition of Madrid Tech Brunch — a relaxed, informal meetup for people working (or interested) in tech.\nWhether you're a:\nDeveloper\n\nDesigner\n\nIndie hacker\n\nProduct person\n\nRemote worker\n\nJust curious about the tech scene…\n\n…you're welcome!\nWe’ll grab coffee, maybe some brunch, and geek around with other like-minded people.\nHow it works?\nEach gathering is structured but relaxed — enough format to make it easy to meet people, while keeping conversations natural.\nWe pick 4 topics\nBefore each meetup, we choose four discussion topics (industry trends, career growth, tools, AI, productivity, etc.)\nYou can choose topics in the Google form we send you via email before meetup, or introduce your own topic for the next one.\nIntroduction round:\nWe start with a short intro circle where everyone shares:\nname\n\nwhat you do / your interest in tech\n\nwhat you hope to get from the meetup\n\nP.S Don't be too late, or you will miss intros ;)\nSmall group discussions (3–5 people)\nThen we split into small groups of 3–5 and dive into one topic for ~30 minutes.\nSwitch seats & repeat\nAfter 30 minutes, we rotate seats/groups so you can meet more people and discuss a different topic.\nSee you there!",
+    "categories": [
+      "Tech"
+    ],
+    "guest_count": 0,
+    "sold_out": false,
+    "waitlist_active": false,
+    "registration_deadline": null,
+    "lat": 40.425636999999995,
+    "lng": -3.7069720000000004
+  },
+  {
+    "source": "luma",
+    "source_slug": "madrid-tech-brunch",
+    "source_id": "evt-ckyjutoJqa8JJHw",
+    "name": "Madrid Tech Brunch",
+    "start_at": "2026-09-27T10:00:00.000Z",
+    "end_at": "2026-09-27T12:00:00.000Z",
+    "timezone": "Europe/Madrid",
+    "url": "https://lu.ma/z5vg3brc",
+    "city": "Madrid",
+    "address": "J&J's Books and Coffee",
+    "organizer": "Madrid Tech Brunch",
+    "is_free": false,
+    "cover_image": "https://images.lumacdn.com/uploads/gy/19fc46d8-1bef-45c9-91d0-319cbcde43bc.png",
+    "found_in": [
+      "madrid-tech-brunch"
+    ],
+    "description": "Join us for one more edition of Madrid Tech Brunch — a relaxed, informal meetup for people working (or interested) in tech.\nWhether you're a:\nDeveloper\n\nDesigner\n\nIndie hacker\n\nProduct person\n\nRemote worker\n\nJust curious about the tech scene…\n\n…you're welcome!\nWe’ll grab coffee, maybe some brunch, and geek around with other like-minded people.\nHow it works?\nEach gathering is structured but relaxed — enough format to make it easy to meet people, while keeping conversations natural.\nWe pick 4 topics\nBefore each meetup, we choose four discussion topics (industry trends, career growth, tools, AI, productivity, etc.)\nYou can choose topics in the Google form we send you via email before meetup, or introduce your own topic for the next one.\nIntroduction round:\nWe start with a short intro circle where everyone shares:\nname\n\nwhat you do / your interest in tech\n\nwhat you hope to get from the meetup\n\nP.S Don't be too late, or you will miss intros ;)\nSmall group discussions (3–5 people)\nThen we split into small groups of 3–5 and dive into one topic for ~30 minutes.\nSwitch seats & repeat\nAfter 30 minutes, we rotate seats/groups so you can meet more people and discuss a different topic.\nSee you there!",
+    "categories": [
+      "Tech"
+    ],
+    "guest_count": 0,
+    "sold_out": false,
+    "waitlist_active": false,
+    "registration_deadline": null,
+    "lat": 40.425636999999995,
+    "lng": -3.7069720000000004
   }
 ]

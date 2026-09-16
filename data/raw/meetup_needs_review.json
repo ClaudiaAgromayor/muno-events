@@ -80,25 +80,6 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
-    "source_id": "316539256",
-    "name": "Mesa Redonda sobre el Estudio (Programación/IA) ONLINE",
-    "description": "El aprendizaje es complejo: una de las tareas más difíciles para el ser humano y una de las que más nos define. Muchas personas que estudian programación y nuevas tecnologías se sienten estancadas, repitiendo año tras año y suspendiendo exámenes sin llegar a comprender el porqué. Otras no saben qué estudiar o si merece la pena empezar a formarse.\n\nEn esta mesa redonda abordaremos los problemas relacionados con el estudio y compartiremos soluciones personales para aquellas dificultades con las que nos sintamos identificados. Como persona que ha trabajado durante años en universidades como profesor de Ingeniería del Software y que ha obtenido el título de doctor en Inteligencia Artificial, moderaré la sesión y aportaré mi experiencia en este ámbito.\n\nAdemás, durante estas sesiones se presentarán los cursos que se impartirán en esta escuela de programación e inteligencia artificial.",
-    "start_at": "2026-09-19T20:00:00+02:00",
-    "url": "https://www.meetup.com/universidad-de-programacion-e-inteligencia-artificial/events/316539256/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Escuela de Programación e Inteligencia Artificial",
-    "attendees": 2,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
     "source_id": "316003588",
     "name": "Closing the Continuous Learning Loop: From Agent Traces to Agent Training",
     "description": "**Zoom link**: [https://us02web.zoom.us/j/82308186562](https://us02web.zoom.us/j/82308186562)\n\n**Talk #0: Introductions and Meetup Updates**\nby Chris Fregly and Antje Barth\n\n**Talk #1: Closing the Continuous Learning Loop: From Agent Traces to Agent Training**\nby Rustem Feyzkhanov, Engineering Manager @ Snorkel.ai\nProduction traces show where agents fail, but how do we turn those failures into learning? This talk explores a practical loop from traces to reproducible simulations, verifiable rewards, and model improvement through fine-tuning or reinforcement learning. We’ll also look at when it’s better to change prompts, tools, or the agent harness instead of updating model weights.\n\n**Zoom link**: [https://us02web.zoom.us/j/82308186562](https://us02web.zoom.us/j/82308186562)\n\n**Related Links**\nGithub Repo: [http://github.com/cfregly/ai-performance-engineering/](http://github.com/cfregly/ai-performance-engineering/)\nO'Reilly Book: [https://www.amazon.com/Systems-Performance-Engineering-Optimizing-Algorithms/dp/B0F47689K8/](https://www.amazon.com/Systems-Performance-Engineering-Optimizing-Algorithms/dp/B0F47689K8/)\nYouTube: [https://www.youtube.com/@AIPerformanceEngineering](https://www.youtube.com/@AIPerformanceEngineering)\nGenerative AI Free Course on DeepLearning.ai: [https://bit.ly/gllm](https://bit.ly/gllm)",
@@ -513,7 +494,7 @@
     "source": "meetup",
     "source_slug": "Data Science",
     "source_id": "316564064",
-    "name": "Invitación: piel, bienestar y autocuidado",
+    "name": "Invitación gratuita a una sesión de cuidado piel y bienestar",
     "description": "Sabemos que el trabajo emocional que haces no ocurre solo en la mente.El cuerpo también guarda, también procesa, también necesita ser escuchado.\n\nPor eso queremos invitarte a esta experiencia diferente: un espacio para acercarte a tu bienestar físico con la misma atención y respeto con el que trabajas tu mundo interno.\n\nHablaremos de longevidad celular, nutrición y cuidado de la piel, no como una moda estética, sino como otra forma de habitar el cuerpo que sostiene tu proceso.\n\nDurante la sesión podrás:\n* Medir tus niveles de antioxidantes, esa parte silenciosa que protege tus células cada día.\n* Conocer el estado de tu sistema inmunológico, muchas veces reflejo de cómo estamos por dentro.\n* Probar dispositivos pensados para acompañar tu piel, sin presión ni expectativas, solo como un gesto de cuidado.\n\nNo es solo una sesión de belleza ni solo una charla de salud. Es un espacio para conectar con tu cuerpo y entender, desde dentro, cómo cuidarte mejor.\n\nTe esperamos con ganas de compartir este momento contigo.\n\n[Reserva tu plaza AQUÍ](https://forms.gle/sPFRSR943CvgXB1e6)",
     "start_at": "2026-09-26T11:00:00+02:00",
     "url": "https://www.meetup.com/sisu-mujeres-en-bienestar-y-consciencia/events/316564064/",
@@ -559,7 +540,7 @@
     "city": "Madrid",
     "address": "Cale Ibiza",
     "organizer": "NUEVOS AMIGOS",
-    "attendees": 10,
+    "attendees": 12,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

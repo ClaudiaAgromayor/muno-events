@@ -342,9 +342,9 @@
     "city": "Madrid",
     "address": "Bailén, 41",
     "organizer": "Quantum Madrid by Entangle",
-    "attendees": 31,
+    "attendees": 33,
     "max_tickets": 90,
-    "spots_left": 59,
+    "spots_left": 57,
     "found_in": [
       "Startups",
       "Hackathon"

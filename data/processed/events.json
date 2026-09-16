@@ -4,21 +4,21 @@
     "source": "luma",
     "source_id": "evt-HKQg4GkjHJCr4um",
     "name": "Astra Commons: Madrid",
-    "description": "¡Acompáñanos en Astra Commons en Madrid!Este encuentro informal reunirá a desarrolladores, estudiantes, founders y miembros de la comunidad para celebrar el lanzamiento de GPT-6 Astra.\n¿Qué puedes esperar?\nTomar un café y conectar con la comunidad local de builders.\n\nConversar sobre el lanzamiento de GPT-6 Astra.\n\nIntercambiar ideas y encontrar inspiración.\n\n$100 en créditos de Codex y $50 en créditos de API para construir con GPT-6 Astra (para asistentes registrados).\n\nLos cupos son limitados. ¡Esperamos verte ahí!==================================Join us at Astra Commons in Madrid!This casual meetup is bringing together developers, students, founders, and community members to celebrate the launch of GPT-6 Astra.What to expect:\nGrab coffee and connect with your local builder community\n\nDiscuss the launch of GPT-6 Astra\n\nExchange ideas and find inspiration\n\n$100 in Codex credits and $50 in API credits to build with GPT-6 Astra (for registered attendees)\n\nSpace is limited. We hope to see you there!",
+    "description": "UBICACIÓN: VP PLAZA en Pl. España.¡Acompáñanos en Astra Commons en Madrid!Este encuentro informal reunirá a desarrolladores, estudiantes, founders y miembros de la comunidad para celebrar el lanzamiento de GPT-6 Astra.\n¿Qué puedes esperar?\nTomar un café y conectar con la comunidad local de builders.\n\nConversar sobre el lanzamiento de GPT-6 Astra.\n\nIntercambiar ideas y encontrar inspiración.\n\n$100 en créditos de Codex y $50 en créditos de API para construir con GPT-6 Astra (para asistentes registrados).\n\nLos cupos son limitados. ¡Esperamos verte ahí!==================================Join us at Astra Commons in Madrid!This casual meetup is bringing together developers, students, founders, and community members to celebrate the launch of GPT-6 Astra.What to expect:\nGrab coffee and connect with your local builder community\n\nDiscuss the launch of GPT-6 Astra\n\nExchange ideas and find inspiration\n\n$100 in Codex credits and $50 in API credits to build with GPT-6 Astra (for registered attendees)\n\nSpace is limited. We hope to see you there!",
     "start_at": "2026-09-16T16:00:00.000Z",
     "end_at": "2026-09-16T19:00:00.000Z",
     "url": "https://lu.ma/to9pt7z7",
     "city": "Madrid",
-    "address": "AZCA",
+    "address": "Palacio",
     "organizer": "Codex Community Events",
-    "lat": 40.45062691819926,
-    "lng": -3.691532701148131,
+    "lat": 40.42108853813195,
+    "lng": -3.7127144356274036,
     "extra": {
       "categories": [
         "AI"
       ],
       "is_free": true,
-      "guest_count": 80,
+      "guest_count": 93,
       "sold_out": true,
       "waitlist_active": true,
       "registration_deadline": null
@@ -792,9 +792,9 @@
     "lat": -31.4124189,
     "lng": -64.1505784,
     "extra": {
-      "attendees": 31,
+      "attendees": 33,
       "max_tickets": 90,
-      "spots_left": 59
+      "spots_left": 57
     },
     "found_on_platforms": [
       "meetup"

@@ -21,9 +21,9 @@
     "categories": [
       "AI"
     ],
-    "guest_count": 45,
-    "sold_out": true,
-    "waitlist_active": true,
+    "guest_count": 44,
+    "sold_out": false,
+    "waitlist_active": false,
     "registration_deadline": null,
     "lat": 40.4074994,
     "lng": -3.7114533
@@ -77,7 +77,7 @@
     "categories": [
       "AI"
     ],
-    "guest_count": 100,
+    "guest_count": 106,
     "sold_out": true,
     "waitlist_active": true,
     "registration_deadline": null,
@@ -248,12 +248,40 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 45,
+    "guest_count": 47,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,
     "lat": 40.394282541422804,
     "lng": -3.6990652900692425
+  },
+  {
+    "source": "luma",
+    "source_slug": "madrid",
+    "source_id": "evt-xibCZK7tSD3Bpb9",
+    "name": "Grok Bot Madrid Meetup",
+    "start_at": "2026-09-29T15:30:00.000Z",
+    "end_at": "2026-09-29T19:30:00.000Z",
+    "timezone": "Europe/Madrid",
+    "url": "https://lu.ma/grokbotmadrid1",
+    "city": "Madrid",
+    "address": "Pl. del Callao, 1",
+    "organizer": "SpaceXAI for Madrid, Spain",
+    "is_free": true,
+    "cover_image": "https://images.lumacdn.com/uploads/sm/53eecd8f-b929-4f8d-8040-e0a28c2306f7.png",
+    "found_in": [
+      "madrid"
+    ],
+    "description": "Primer Grok Bot Meetup en Madrid ⚡\nNos juntamos una tarde para probar Grok Bot en directo, ver casos reales y conocer a otros builders de la comunidad.\nSolo necesitas traer tu portátil (o el móvil). Nosotros ponemos los créditos para que puedas usar Grok Bot durante el evento, y no hace falta que tengas Cursor instalado ni cuenta de nada.\nEsta vez le daremos un formato de workshop 100% práctico. La idea es que traigas pensado un reto o algo que quieras automatizar, y nos pondremos a construir bots para resolverlo allí mismo. Si no se te ocurre nada, no hay problema: yo llevaré varias ideas preparadas para que podamos ponernos a programar directamente.\n🗓 Martes 29 sep · 17:30–21:30 📍 Pl. del Callao, 1 (Samplia Hub / mad.builders) 🗣 Español (English welcome) 🎟️ Plazas limitadas\n---- Agenda ---- 17:30 — Llegada, setup y reparto de créditos. 18:00 — Intro: qué es Grok Bot y para qué sirve. 18:20 — Demos de la comunidad (formatos muy cortos). 19:00 — Workshop: sacamos los portátiles y nos ponemos a construir bots. 20:30 — Networking, picoteo y cierre hasta las ~21:30.\n---- Qué traer ---- 💻 Portátil o móvil + cargador. 🧠 Un reto o idea para automatizar (si no tienes, te damos una).⚡ Ganas de construir y conocer gente.",
+    "categories": [
+      "AI"
+    ],
+    "guest_count": 72,
+    "sold_out": true,
+    "waitlist_active": true,
+    "registration_deadline": null,
+    "lat": 40.419722,
+    "lng": -3.7061105000000003
   },
   {
     "source": "luma",

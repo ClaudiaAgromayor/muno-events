@@ -11,9 +11,9 @@
     "city": "Madrid",
     "address": "C. de San Bernardo, 2, Centro, 28013 Madrid",
     "organizer": "Madrid Networking Club",
-    "attendees": 58,
+    "attendees": 57,
     "max_tickets": 120,
-    "spots_left": 62,
+    "spots_left": 63,
     "found_in": [
       "Artificial Intelligence",
       "Startups"
@@ -364,9 +364,9 @@
     "city": "Madrid",
     "address": "Bailén, 41",
     "organizer": "Quantum Madrid by Entangle",
-    "attendees": 35,
+    "attendees": 36,
     "max_tickets": 90,
-    "spots_left": 55,
+    "spots_left": 54,
     "found_in": [
       "Startups",
       "Hackathon"

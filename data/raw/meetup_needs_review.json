@@ -172,7 +172,7 @@
     "city": "",
     "address": "",
     "organizer": "Madrid AI Developers Group",
-    "attendees": 7,
+    "attendees": 8,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -347,7 +347,7 @@
     "city": "",
     "address": "",
     "organizer": "Hack The Box Meetup: Salamanca, ES",
-    "attendees": 22,
+    "attendees": 23,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -443,7 +443,7 @@
     "city": "Madrid",
     "address": "Cale Ibiza",
     "organizer": "NUEVOS AMIGOS",
-    "attendees": 12,
+    "attendees": 16,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -481,9 +481,9 @@
     "city": "Madrid",
     "address": "Calle de la Paz, 11, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 90,
+    "attendees": 92,
     "max_tickets": 100,
-    "spots_left": 10,
+    "spots_left": 8,
     "found_in": [
       "Startups"
     ]

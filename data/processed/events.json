@@ -1,75 +1,5 @@
 [
   {
-    "id": "luma:evt-f8aWVrUa03CilAr",
-    "source": "luma",
-    "source_id": "evt-f8aWVrUa03CilAr",
-    "name": "How to stop your AI agent from amplifying your team's tech debt",
-    "description": "The talk will be in Spanish, unless someone doesn’t speak the language, in which case we’ll switch to English.La IA solo amplifica lo que tu equipo ya hace. Sin un proceso claro, lo único que aceleras no es la entrega, sino la deuda técnica. En esta charla, explicaré el flujo de trabajo real que aplicamos en los proyectos de nuestros clientes para integrar la IA en el desarrollo frontend sin perder calidad: una nueva forma de ejecutar pruebas dentro del propio navegador que el desarrollador ya tiene abierto, el uso de harness engineering como marco de trabajo y cuatro reglas no negociables para mantener al agente bajo control.\n¿Qué aporta de diferente? Se trata de meses de aprendizaje en proyectos frontend reales con clientes, donde pasamos de 0 uso de IA a todo un flujo controlado en producción.Ponente:Kevin Martínez, software Architect y maintainer de TWD (testing while developing), una metodología de pruebas diseñada para replantear cómo se validan las interfaces durante el proceso de desarrollo. Cuenta con una profunda pasión por compartir conocimiento, el testing y la accesibilidad.Agenda\n18:50 Bienvenida y recepción de asistentes19:00 Charla: How to stop your AI agent from amplifying your team's tech debt20:00 Cierre y networking",
-    "start_at": "2026-09-17T17:00:00.000Z",
-    "end_at": "2026-09-17T18:30:00.000Z",
-    "url": "https://lu.ma/mq1ffwe1",
-    "city": "Madrid",
-    "address": "Puerta Innovación",
-    "organizer": "MadAi",
-    "lat": 40.4074994,
-    "lng": -3.7114533,
-    "extra": {
-      "categories": [
-        "AI"
-      ],
-      "is_free": true,
-      "guest_count": 45,
-      "sold_out": true,
-      "waitlist_active": true,
-      "registration_deadline": null
-    },
-    "found_on_platforms": [
-      "luma"
-    ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "intermedio",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
-  },
-  {
-    "id": "luma:evt-4CyxQ9e8PYIlEAk",
-    "source": "luma",
-    "source_id": "evt-4CyxQ9e8PYIlEAk",
-    "name": "LSE Generate International Chapter Launch: Madrid",
-    "description": "Join the School's award-winning entrepreneurship centre, Generate, for a vibrant evening convening LSE's innovator community with Madrid's local entrepreneurial community, marking the launch of the Madrid chapter.\nWhy “Madrid\": founders and investors on what's building the city's ecosystem, from scale-stage tech to purpose & impact-driven ventures\nOverviewMadrid has emerged as one of Europe's leading entrepreneurial ecosystems, attracting founders, investors, and talent across fintech, deep tech, consumer, and purpose-driven ventures. This event brings together LSE alumni, students, and Madrid's startup community - from high-growth tech to impact-led innovation - to celebrate the chapter's launch and explore what makes the city a distinctive place to build.\nWhether you're building your next venture, investing in innovation, or looking to connect with the LSE community in Madrid, we'd love to welcome you for an evening of conversation, inspiration, and new connections.",
-    "start_at": "2026-09-17T17:00:00.000Z",
-    "end_at": "2026-09-17T19:00:00.000Z",
-    "url": "https://lu.ma/zgrwmvxc",
-    "city": "Madrid",
-    "address": "Justicia",
-    "organizer": "LSE Generate Events",
-    "lat": 40.425734109115254,
-    "lng": -3.699198857205722,
-    "extra": {
-      "categories": [
-        "Tech"
-      ],
-      "is_free": true,
-      "guest_count": 0,
-      "sold_out": false,
-      "waitlist_active": false,
-      "registration_deadline": null
-    },
-    "found_on_platforms": [
-      "luma"
-    ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
-  },
-  {
     "id": "luma:evt-d0oxiWOhHGeMQv8",
     "source": "luma",
     "source_id": "evt-d0oxiWOhHGeMQv8",
@@ -88,7 +18,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 118,
+      "guest_count": 117,
       "sold_out": true,
       "waitlist_active": true,
       "registration_deadline": null
@@ -299,7 +229,7 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 55,
+      "guest_count": 61,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -348,6 +278,111 @@
       "idioma": "es",
       "comida_gratis": "no_especificado",
       "se_graba": "no_especificado"
+    }
+  },
+  {
+    "id": "luma:evt-QpYa1iNkOsxz8Z1",
+    "source": "luma",
+    "source_id": "evt-QpYa1iNkOsxz8Z1",
+    "name": "Construyendo sin filtros #15 : Nadie construye solo",
+    "description": "Founders, cofounders, comunidad y las conexiones que hacen avanzar lo que estás construyendo.\nUna clase de emprendimiento en Madrid.\nUna casa llena de founders en Silicon Valley.\nA primera vista, no tienen demasiado que ver.\nPero cuentan exactamente la misma historia:\nNadie construye solo.\n🔥 Pilar González conoció a sus futuras cofounders en una clase de IE.\nUna frustración compartida terminó convirtiéndose en NutriSync Collective y hoy están viviendo esa parte del journey que casi nunca aparece en LinkedIn:\npasar de intuición → equipo → producto → primeras usuarias → realidad.\n🔥 Carlos de la Lama lleva en el otro extremo de esa historia desde 2012.\nCon Startup Embassy ha creado en Silicon Valley un entorno por el que han pasado más de 1.200 emprendedores de 50 países.\nFounders compartiendo casa, problemas, contactos, código, oportunidades… y algunas conversaciones a horas bastante poco razonables.\nZero-to-one vs. más de una década viendo a otros construir.\nDe eso va nuestra 15ª edición de Startup Grind Madrid.\nPero aquí viene el pequeño giro:\nesta noche no va realmente solo de Pilar y Carlos.\nVa también de quién se siente a tu lado.\nQueremos hablar de:\n→ cómo encuentras a las personas correctas para construir→ qué ocurre realmente en los primeros meses de una startup→ por qué algunos entornos aceleran a los founders→ qué podemos aprender de Silicon Valley sin intentar copiarlo→ y cómo se construye una comunidad que genere algo más que contactos\nDespués cerramos los micros.\nAbrimos las cervezas. 🍻\nY empieza la segunda mitad de Startup Grind:\n“¿Y tú, qué estás construyendo?”\nFounders, builders, inversores, talento y gente del ecosistema compartiendo problemas, intros, oportunidades y alguna conexión inesperada.\nPuedes venir por los speakers.\nPero quizá la persona que cambie lo que estás construyendo no esté en el escenario.\nNadie construye solo.\n📍 Aticco Castellana 268 🔥 Startup Grind Madrid #15🤝 Con Elevatorfy + APTKI",
+    "start_at": "2026-09-29T16:30:00.000Z",
+    "end_at": "2026-09-29T19:00:00.000Z",
+    "url": "https://lu.ma/bztpl6hb",
+    "city": "Madrid",
+    "address": "Aticco Castellana - Coworking Castellana",
+    "organizer": "Startup Grind Madrid",
+    "lat": 40.4731206,
+    "lng": -3.6867425,
+    "extra": {
+      "categories": [
+        "Tech"
+      ],
+      "is_free": false,
+      "guest_count": 36,
+      "sold_out": false,
+      "waitlist_active": false,
+      "registration_deadline": "2026-09-21T18:00:59.000Z"
+    },
+    "found_on_platforms": [
+      "luma"
+    ],
+    "duplicate_ids": [],
+    "enrichment": {
+      "nivel": "no_especificado",
+      "idioma": "es",
+      "comida_gratis": "no_especificado",
+      "se_graba": "no_especificado"
+    }
+  },
+  {
+    "id": "luma:evt-e40eDm5DqQmcSlb",
+    "source": "luma",
+    "source_id": "evt-e40eDm5DqQmcSlb",
+    "name": "Inteligencia Emprendedora: talento y visión en la era de la IA",
+    "description": "Inteligencia Emprendedora: talento y visión en la era de la IA. Un espacio de conexión e innovación emprendedora creado por holded.\n¿Cómo está impactando la IA en el emprendimiento? ¿Están los emprendedores liderando el uso de la inteligencia artificial?\nDesde Holded, hemos querido dar respuesta a las preguntas que todo emprendedor tiene en la cabeza ahora mismo. Hemos creado un espacio en el que destacamos no solo el papel de la inteligencia artificial, sino el de la inteligencia emprendedora que la utiliza para hacer cosas que antes parecían imposibles.\n📍 Espacio Rastro Madrid, C/ San Cayetano, 5,  Madrid\n🗓 1 de octubre\n⏰ 17:00h - 22:00h\nEl espacio Rastro de Madrid será todo un HUB emprendedor donde podrás disfrutar de:📊 Una exposición que combina inspiración, datos del ecosistema emprendedor español y un espacio interactivo donde podrás compartir tu propia visión del futuro (17.00 - 22.00).       *Habrá visitas guiadas (17.00/17.30/18.00).💡Una masterclass de IA para emprendedores a cargo de Jon Hernández con diversos trucos para aplicar ya en tu pyme (18.30 - 19.30)\n🎤 Un mesa redonda sobre el impacto de la IA en el emprendimiento con Uri Sabat (Podcast La fórmula del éxito) más invitados (19.30 - 20.30)\n🥂 Cóctel para compartir ideas, aprendizajes y conectar con otros emprendedores (20.30 - 22.00)\nTe esperamos. Porque el futuro del emprendimiento lo construyes tú también con tu talento y tu visión 🚀",
+    "start_at": "2026-10-01T15:00:00.000Z",
+    "end_at": "2026-10-01T20:00:00.000Z",
+    "url": "https://lu.ma/wzeojows",
+    "city": "Madrid",
+    "address": "Espacio Rastro Madrid",
+    "organizer": "holded",
+    "lat": 40.4090771,
+    "lng": -3.7068435999999996,
+    "extra": {
+      "categories": [
+        "AI"
+      ],
+      "is_free": true,
+      "guest_count": 0,
+      "sold_out": false,
+      "waitlist_active": false,
+      "registration_deadline": null
+    },
+    "found_on_platforms": [
+      "luma"
+    ],
+    "duplicate_ids": [],
+    "enrichment": {
+      "nivel": "no_especificado",
+      "idioma": "es",
+      "comida_gratis": "no_especificado",
+      "se_graba": "no_especificado"
+    }
+  },
+  {
+    "id": "luma:evt-AB6eSlcEOuMNykO",
+    "source": "luma",
+    "source_id": "evt-AB6eSlcEOuMNykO",
+    "name": "SheAI ft. Pitchless Show-and-Tell: Women Curious About AI",
+    "description": "SheAI Madrid ft. Pitchless Show-and-Tell: Women Curious About AI\nA SheAI Madrid & Pitchless first joint community evening open to where women share what they've been experimenting with in AI. Tools, workflows, side projects, frameworks ... whatever they've been curious about lately.\nFive women from our the Madrid AI community will each take 5–7 minutes to show something they've been playing with — from vibe coding to AI frameworks — followed by questions from the room. We'll wrap up with an open discussion and then head out for drinks nearby.\nAll experience levels welcome.\n🗓 Friday, 2nd October⏰ 5:00 pm – 7:30 pm📍 Puerta Innovación, Calle de Toledo 110, Madrid🎟 Free\n👩‍💻👩‍💻 Your hosts:\nThis evening came together the way the best things do — Petr Bilikova (SheAI Madrid) and Sarah Malinowski Coutanson (Pitchless) kept running into each other at AI events across Madrid in spring 2026, and at some point it just became obvious they had to organise something together.\n💛 Part of something bigger. This meetup is a joint initiative of two communities:\nSheAI Madrid – a local chapter of SheAI, a global community of 1,000+ women learning and building with AI. After you join, you'll find us on WhatsApp too — make sure to join the Madrid local hub. 👉 sheai.co\nPitchless – accelerating builder journeys. Pre-accelerator for 1000+ early-stage tech founders in Madrid and Spain. Build, ship, and raise with people doing the same. 👉https://luma.com/pitchless.community\n---------\nCan't make it? Register on the SheAI platform to stay informed about upcoming events! Click HERE.\nBy attending this event, participants consent to being photographed or filmed. Photos and videos may be used by SheAI for community communications and promotional purposes. If you'd prefer not to be photographed, just let the host know at the start of the event - no problem at all! 📸",
+    "start_at": "2026-10-02T15:00:00.000Z",
+    "end_at": "2026-10-02T17:30:00.000Z",
+    "url": "https://lu.ma/6c3cl0u5",
+    "city": "Madrid",
+    "address": "Puerta Innovación",
+    "organizer": "SheAI Madrid Community",
+    "lat": 40.4074994,
+    "lng": -3.7114533,
+    "extra": {
+      "categories": [
+        "AI"
+      ],
+      "is_free": true,
+      "guest_count": 48,
+      "sold_out": true,
+      "waitlist_active": true,
+      "registration_deadline": null
+    },
+    "found_on_platforms": [
+      "luma"
+    ],
+    "duplicate_ids": [],
+    "enrichment": {
+      "nivel": "no_especificado",
+      "idioma": "no_especificado",
+      "comida_gratis": "no_especificado",
+      "se_graba": "si"
     }
   },
   {
@@ -435,9 +470,9 @@
     "lat": 40.4207507,
     "lng": -3.708179,
     "extra": {
-      "attendees": 62,
+      "attendees": 64,
       "max_tickets": 120,
-      "spots_left": 58
+      "spots_left": 56
     },
     "found_on_platforms": [
       "meetup"

@@ -11,9 +11,9 @@
     "city": "Madrid",
     "address": "C. de San Bernardo, 2, Centro, 28013 Madrid",
     "organizer": "Madrid Networking Club",
-    "attendees": 62,
+    "attendees": 64,
     "max_tickets": 120,
-    "spots_left": 58,
+    "spots_left": 56,
     "found_in": [
       "Artificial Intelligence",
       "Startups"
@@ -37,7 +37,8 @@
     "max_tickets": 30,
     "spots_left": 9,
     "found_in": [
-      "Artificial Intelligence"
+      "Artificial Intelligence",
+      "DevOps"
     ],
     "lat": null,
     "lng": null
@@ -172,7 +173,7 @@
     "city": "Madrid",
     "address": "Plaza de Manuel Gómez-Moreno, 2, Tetuán, 28020",
     "organizer": "Madrid DevOps",
-    "attendees": 23,
+    "attendees": 25,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

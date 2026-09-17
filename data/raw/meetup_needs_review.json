@@ -11,7 +11,7 @@
     "city": "",
     "address": "",
     "organizer": "Power Platform Madrid",
-    "attendees": 12,
+    "attendees": 13,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -446,12 +446,11 @@
     "city": "Madrid",
     "address": "C. del Marqués de Casa Riera, 4, Centro, 28014 Madrid, Spain",
     "organizer": "Cloudflare User Group España (IA, CyberSecurity & Edge Dev)",
-    "attendees": 42,
+    "attendees": 43,
     "max_tickets": 50,
-    "spots_left": 8,
+    "spots_left": 7,
     "found_in": [
       "Artificial Intelligence",
-      "DevOps",
       "Hackathon"
     ]
   },
@@ -467,49 +466,11 @@
     "city": "Madrid",
     "address": "Francisco Silvela 36, planta 1-puerta 3",
     "organizer": "Sisu · Mujeres en Bienestar y Consciencia",
-    "attendees": 3,
+    "attendees": 2,
     "max_tickets": 10,
-    "spots_left": 7,
+    "spots_left": 8,
     "found_in": [
       "Data Science"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "DevOps",
-    "source_id": "316176037",
-    "name": "**NUEVAS AMISTADES + MUSICA EN VIVO + DJ & FIESTA**",
-    "description": "**\\*\\*NUEVAS AMISTADES + MUSICA EN VIVO + DJ & FIESTA\\*\\***\n\n**✅CONFIRMACION DE ASISTENCIA SOLO POR WHATSAPP**\nVen y disfruta conociendo gente nueva. Nos reunimos en el **Patio de los Leones**, donde tomamos algo mientras hacemos las presentaciones y disfrutamos de la noche + DJ con la mejor música del momento.\n¡¡Un plan genial!!\n**\\- Y no te preocupes por no conocer a nadie\\,** te recibimos y presentamos desde el primer momento, así te integras y conoces al [@s](http://s/) demás.\n**\\- VESTIMENTA: ARREGLADO**\n**\\- HORA 22\\.00H\\.**\n**\\- DIRECCIÓN: C Serrano\\, 1 \\-** Zona Puerta de Alcalá-Solo confirmados por whatsapp\n**-DESPUES:** Los que quieran continuar nos iremos de fiesta por la zona.\n\n¿¿Te vienes??\n**✅●PARA ASISTIR:** Confirmación de asistencia y solo por WhatsApp al 604136338, indicando nombre y el meetup al que se va a asistir.\n**✅ Si vienes con invitados** , informales de todo y nos avisas al confirmar asistencia.\n**✅● COSTE:** Gestión 5€, entrega al llegar al coordinador. Intenta traerlo justo\n● **GASTOS APARTE** : Cada uno paga lo suyo.\nAnímate,\nVamos a disfrutar a lo grande!!\n\n**-CONTACTO Y CONFIRMACION DE ASISTENCIA:** Al whatsapp del evento.",
-    "start_at": "2026-09-25T22:00:00+02:00",
-    "url": "https://www.meetup.com/meetup-group-erboswim/events/316176037/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "C. de Serrano, 1",
-    "organizer": "NUEVOS AMIGOS",
-    "attendees": 14,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "DevOps"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "DevOps",
-    "source_id": "316570374",
-    "name": "From Counter.Inc() to a billion series",
-    "description": "Add a counter. Two lines and you can finally see how often your service fails.\n\nThen you add a label to tell failure reasons apart and the counter becomes genuinely useful. You can now see why it's failing.\nSo you start adding more labels, one for the kind of user, one for the value of the operation. Each one seems reasonable and enables rich queries and alerts.\n\nThis talk follows that counter all the way down: from instrumenting a Go service, to how Prometheus scrapes and stores your data, to building a horizontally scalable distributed metrics database as you go from just one counter to billions of them.\n\nYou don't need to know anything about observability to attend this session!",
-    "start_at": "2026-10-07T19:00:00+02:00",
-    "url": "https://www.meetup.com/go-mad/events/316570374/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "Pl. de Manuel Gómez-Moreno, 2, Tetuán, 28020 Madrid, Spain",
-    "organizer": "GoMAD - Madrid Go UG",
-    "attendees": 22,
-    "max_tickets": 60,
-    "spots_left": 38,
-    "found_in": [
-      "DevOps"
     ]
   },
   {
@@ -533,6 +494,44 @@
   },
   {
     "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "316570374",
+    "name": "From Counter.Inc() to a billion series",
+    "description": "Add a counter. Two lines and you can finally see how often your service fails.\n\nThen you add a label to tell failure reasons apart and the counter becomes genuinely useful. You can now see why it's failing.\nSo you start adding more labels, one for the kind of user, one for the value of the operation. Each one seems reasonable and enables rich queries and alerts.\n\nThis talk follows that counter all the way down: from instrumenting a Go service, to how Prometheus scrapes and stores your data, to building a horizontally scalable distributed metrics database as you go from just one counter to billions of them.\n\nYou don't need to know anything about observability to attend this session!",
+    "start_at": "2026-10-07T19:00:00+02:00",
+    "url": "https://www.meetup.com/go-mad/events/316570374/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Pl. de Manuel Gómez-Moreno, 2, Tetuán, 28020 Madrid, Spain",
+    "organizer": "GoMAD - Madrid Go UG",
+    "attendees": 24,
+    "max_tickets": 60,
+    "spots_left": 36,
+    "found_in": [
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "316176037",
+    "name": "**NUEVAS AMISTADES + MUSICA EN VIVO + DJ & FIESTA**",
+    "description": "**\\*\\*NUEVAS AMISTADES + MUSICA EN VIVO + DJ & FIESTA\\*\\***\n\n**✅CONFIRMACION DE ASISTENCIA SOLO POR WHATSAPP**\nVen y disfruta conociendo gente nueva. Nos reunimos en el **Patio de los Leones**, donde tomamos algo mientras hacemos las presentaciones y disfrutamos de la noche + DJ con la mejor música del momento.\n¡¡Un plan genial!!\n**\\- Y no te preocupes por no conocer a nadie\\,** te recibimos y presentamos desde el primer momento, así te integras y conoces al [@s](http://s/) demás.\n**\\- VESTIMENTA: ARREGLADO**\n**\\- HORA 22\\.00H\\.**\n**\\- DIRECCIÓN: C Serrano\\, 1 \\-** Zona Puerta de Alcalá-Solo confirmados por whatsapp\n**-DESPUES:** Los que quieran continuar nos iremos de fiesta por la zona.\n\n¿¿Te vienes??\n**✅●PARA ASISTIR:** Confirmación de asistencia y solo por WhatsApp al 604136338, indicando nombre y el meetup al que se va a asistir.\n**✅ Si vienes con invitados** , informales de todo y nos avisas al confirmar asistencia.\n**✅● COSTE:** Gestión 5€, entrega al llegar al coordinador. Intenta traerlo justo\n● **GASTOS APARTE** : Cada uno paga lo suyo.\nAnímate,\nVamos a disfrutar a lo grande!!\n\n**-CONTACTO Y CONFIRMACION DE ASISTENCIA:** Al whatsapp del evento.",
+    "start_at": "2026-09-25T22:00:00+02:00",
+    "url": "https://www.meetup.com/meetup-group-erboswim/events/316176037/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "C. de Serrano, 1",
+    "organizer": "NUEVOS AMIGOS",
+    "attendees": 14,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
     "source_slug": "Startups",
     "source_id": "316151855",
     "name": "Women, Work & Wine🍷 Rooftop | by PNM",
@@ -543,9 +542,9 @@
     "city": "Madrid",
     "address": "Calle de la Paz, 11, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 95,
+    "attendees": 96,
     "max_tickets": 96,
-    "spots_left": 1,
+    "spots_left": 0,
     "found_in": [
       "Startups"
     ]

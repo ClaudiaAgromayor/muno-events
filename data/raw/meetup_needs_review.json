@@ -11,7 +11,7 @@
     "city": "",
     "address": "",
     "organizer": "Power Platform Madrid",
-    "attendees": 11,
+    "attendees": 12,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -49,7 +49,7 @@
     "city": "",
     "address": "",
     "organizer": "Escuela de Programación e IA a Profesionales",
-    "attendees": 3,
+    "attendees": 4,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -161,27 +161,6 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
-    "source_id": "316174919",
-    "name": "Sept 17 - ADAS, AV, and AI Meetup",
-    "description": "Join our virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Time, Date and Location**\n\nSep 17, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/adas-av-and-ai-meetup-september-17-2026)**\n\n**AI for Autonomous Driving: From Data to Decisions**\n\nBuilding reliable automated driving systems is as much a data and engineering challenge as a modeling one. In this talk, Tin will share perspectives from his work at Porsche AG on applying modern AI methods across the autonomous driving development process, from making sense of large-scale driving data to understanding and evaluating how AI-based systems behave on the road. He'll discuss lessons learned from real-world development, where today's approaches shine, and where hard problems remain for the ADAS and AV community.\n\n*About the Speaker*\n\n[Tin Stribor Sohn](https://www.linkedin.com/in/tin-stribor-sohn/) is a PhD Student at Porsche AG and Karlsruhe Institute of Technology in the area of Foundation Models for Scenario Understanding and Decision Making in Autonomous Robotics, Tech Lead at Data Driven Engineering for Autonomous Driving, Prior: Master in CS at University of Tuebingen with focus on Computer Vision and Deep Learning and co-founder of a software company for smart EV charging\n\n**Advancing ADAS and Autonomous Vehicle Development with Multimodal Data**\n\nADAS and autonomous vehicle systems rely on increasingly complex data from cameras, video, LiDAR, radar, and other sensor streams. In this session, Murilo will introduce Voxel51 and explore how the latest multimodal capabilities in FiftyOne help teams bring these data sources together to better understand their datasets and model behavior. He’ll discuss how unified workflows for visualization, search, curation, and evaluation can help ADAS and AV teams uncover challenging scenarios, investigate model failures, and build safer, more reliable autonomous systems.\n\n*About the Speaker*\n\n[Murilo Gustineli](https://www.linkedin.com/in/murilo-gustineli/) is a Machine Learning Engineer at Voxel51 working at the intersection of representation learning and computer vision. He holds an M.S. in Computer Science from Georgia Tech, where he co-leads the DS@GT Applied Research & Competitions group, advancing machine learning research through competitive challenges and peer-reviewed publications.\n\n**From Survey-Grade Maps to Physical AI: Scaling Real-World Data for Training and Simulation**\n\nPhysical AI systems are increasingly constrained not by model architectures, but by the availability of scalable, high-fidelity real-world data. This talk explores how Dynamic Map Platform transforms survey-grade road assets collected across 1.8 million km of roads worldwide into training- and simulation-ready datasets, including point clouds, imagery, HD maps, road surface models, and 3D Gaussian Splatting representations.\n\nWe will discuss why geometric accuracy, semantic understanding, and real-world diversity are critical to building robust autonomous driving systems. Attendees will learn how real-world geospatial data can be structured and scaled for AI training and simulation workflows.\n\n*About the Speaker*\n\n[Ryoto Miyake](https://www.linkedin.com/in/ryoto-miyake/) is a Software Engineer at Dynamic Map Platform, where he works on transforming large-scale geospatial data into AI-ready datasets for training, simulation, and validation, such as HD maps and 3D Gaussian Splatting. With a background in transportation engineering, he works closely with automotive manufacturers and industry partners to bridge large-scale real-world mapping data with next-generation AI and mobility systems.",
-    "start_at": "2026-09-17T18:00:00+02:00",
-    "url": "https://www.meetup.com/madrid-ai-machine-learning-and-computer-vision-meetup/events/316174919/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
-    "attendees": 0,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Data Science"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
     "source_id": "316064296",
     "name": "Sept 22 - FiftyOne Agent: Automate Visual AI Workflows with Natural Language",
     "description": "Learn about FiftyOne Agent, an AI assistant built directly into FiftyOne that turns plain-language requests into real dataset operations.\n\n**Date, Time and Location**\n\nSep 22, 2026\n9:00 AM - 10:00 AM Pacific\nOnline. **[Register for the Zoom!](https://voxel51.com/events/meet-the-fiftyone-agent-automate-visual-ai-workflows-with-natural-language-september-22-2026)**\n\nAsk it to find and remove duplicate images, run object detection and surface low-confidence predictions, or evaluate a model and summarize where it fails, and the agent handles execution end to end.\n\nWe will also walk through the newest capabilities shipping with this release, including code generation and plugin generation. You will see how to go from a conversational prompt to a custom dashboard, visualization, or full FiftyOne application, and how to package multi-step workflows as reusable skills the agent can call on demand.\n\nBecause the agent runs inside FiftyOne's secure guardrails, teams keep full control. Connect your preferred models from over 100 LLM providers, route requests through your own enterprise gateway, and maintain audit logging and user attribution for every action the agent takes.",
@@ -218,12 +197,33 @@
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
-      "Data Science"
+      "Data Science",
+      "DevOps"
     ]
   },
   {
     "source": "meetup",
-    "source_slug": "Machine Learning",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316397919",
+    "name": "AI Deep Dive Webinar - Taking LangGraph to production",
+    "description": "**Important**: Register on the [event website](https://www.aicamp.ai/event/eventdetails/W2026091710) to receive the joining link. (rsvp on meetup will NOT receive anything).\n\nThis is virtual event for our AI global community, please double-check your local time. Can't make it live? Register anyway to receive the webinar recording.\n\nJoin Diagrid to learn taking LangGraph to production\n\n**Tech Talk: Taking LangGraph to production**\n**Speaker:** Mark Fussell\\, Co\\-founder & CEO\\, Diagrid \\| Co\\-creator of Dapr\\. and Yaron Schneider\\, Co\\-founder & CTO\\, Diagrid \\| Co\\-creator of Dapr\n**Abstract:** In this session, Dapr co-creators Mark Fussell and Yaron Schneider draw the line between checkpointing and durable execution, show exactly where LangGraph's persistence stops, and kill a live LangGraph agent mid-run to show Diagrid Catalyst bring it back without any re-architecture or custom recovery code.\nYou'll walk away knowing:\n\n* How to make LangGraph agents failure-proof, even in the face of complete outages\n* How to keep a complete, tamper-proof system of record that proves what your agents did\n* How to secure LangGraph deployments in any environment and specifically on Kubernetes\n\n**Who should attend**\nEngineers and architects running or planning to run LangGraph agents, platform teams responsible for agent reliability, and engineering leaders deciding how much of the reliability stack to build themselves.\n\n**Venue:**\nVirtual, join from anywhere\n\n**More virtual sessions:**\n\n* Sep 22nd: Google Agents in Production for Enterprises (#1). [RSVP](https://www.aicamp.ai/event/eventdetails/W2026081110)\n* Oct 14th: AI Deep Dive with Google Ep 4. [RSVP](https://www.aicamp.ai/event/eventdetails/W2026101410)",
+    "start_at": "2026-09-24T19:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-ai-developers-group/events/316397919/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Madrid AI Developers Group",
+    "attendees": 4,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence",
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
     "source_id": "316064663",
     "name": "Sept 30 - Building Composable Vision Workflows in FiftyOne",
     "description": "This workshop explores the [FiftyOne](https://docs.voxel51.com/index.html) plugin framework to build custom computer vision applications. You’ll learn to extend the FiftyOne App with Python based panels and server side operators, as well as integrate external tools for labeling, vector search, and model inference into your dataset views.\n\n**Date, Time and Location**\n\nSep 30, 2026\n9 AM - 10 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/building-composable-vision-workflows-in-fiftyone-september-30-2026)**\n\nYou’ll also automate repetitive tasks by writing custom workflows executing within the FiftyOne environment. Attendees will learn to transform FiftyOne from a visualization tool into a central hub for your vision stack.\n\nWhat you'll learn:\n\n* **Build Python plugins.** Define plugin manifests and directory structures to register custom functionality within the FiftyOne ecosystem.\n* **Develop server side operators.** Write functions to execute model inference, data cleaning, or metadata updates from the App interface.\n* **Build interactive panels.** Create custom UI dashboards using to visualize model metrics or specialized dataset distributions.\n* **Manage operator execution contexts.** Pass data between the App front end and your backend to build dynamic user workflows.\n* **Implement delegated execution.** Configure background workers to handle long running data processing tasks without blocking the user interface.\n* **Build labeling integrations.** Streamline the flow of data between FiftyOne and annotation platforms through custom triggers and ingestion scripts.\n* **Extend vector database support.** Program custom connectors for external vector stores to enable semantic search across large sample datasets.\n* **Package and share plugins.** Distribute your extensions internally and externally",
@@ -237,6 +237,7 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
+      "Artificial Intelligence",
       "Machine Learning",
       "Data Science"
     ]
@@ -264,6 +265,25 @@
   {
     "source": "meetup",
     "source_slug": "Data Science",
+    "source_id": "316370890",
+    "name": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
+    "description": "Calling all developers, AI engineers, software architects, data scientists, DevOps professionals, and tech enthusiasts — **TechConnect** is your ultimate destination for career growth, project showcasing, and global peer networking in the tech ecosystem.\n\nHosted in a self-led, Slack-style virtual space, this **virtual tech networking event** invites you to connect, collaborate, and innovate with a diverse community of tech minds and hiring professionals from around the world. Whether you're looking for your next job, exploring startups, showcasing tools, or building a **peer coding accountability group**, **TechConnect** is where meaningful connections are made.\n\n🎥 **Watch the explainer video to see how it works:**\n👉 [https://www.youtube.com/watch?v=pgm2_MiHLDk](https://www.youtube.com/watch?v=pgm2_MiHLDk)\n\n**💬 What to Expect:**\nAt TechConnect, participants enjoy full access to group discussions and 1-on-1 video/text chats, with zero moderation — allowing spontaneous, genuine interaction across roles and regions.\n\nAttendees can engage across several thoughtfully organized channels:\n\n* **General** – A community-wide welcome zone for announcements, orientation, and casual conversation.\n* **Intros** – Share your tech background, favorite projects, or personal story. Find shared passions with others.\n* **Networking** – Showcase your startup, GitHub repo, app, or career goals. Build relationships and get feedback.\n* **Help Wanted** – Looking for a co-founder, DevOps hand, designer, or marketer? Post or respond here.\n* **Industry Room Tech** – Dive into the newest programming trends, frameworks, and stacks shaping the future.\n* **Projects & Collabs** – A showcase area tailored for **developer project sharing platforms**, where you can post demos, join builds, or spark new ideas.\n* **Coding Sprints & Accountability Pods** – For those building in public or looking for **peer coding accountability groups**, this space will keep your momentum strong.\n\n**📍 Where:**\nJoin virtually at:\n👉 [https://events.tao.ai/pod/analytics.club/te5gd5wngmz9](https://events.tao.ai/pod/analytics.club/te5gd5wngmz9)\n**🕓 When:**\nThe event takes place from **4:00 PM – 6:00 PM local time**, globally. Join to network, hire, learn, and collaborate.\n\n**👥 Who Should Attend:**\n\n* Developers and software engineers across all stacks\n* Data professionals, AI researchers, and machine learning engineers\n* Startup founders and tech entrepreneurs\n* Recruiters and employers hiring in the tech space\n* Students and learners aiming to connect and grow in the industry\n* Tech enthusiasts looking to explore career pivots, personal projects, or trends\n\n**🔧 Why You’ll Love It:**\n\n* Connect with professionals, recruiters, and peers in real time\n* Explore a live **tech job fair online** that’s open and interactive\n* Showcase your innovations, code, or startup demo\n* Get feedback or help on your latest dev build\n* Join project-based groups or accountability pods to stay productive\n* Make global tech connections via 1-on-1 **video and text chats**\n\n**❓ Have Questions or Suggestions?**\nWe’re here to help. Reach out at:\n👉 [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**🔖 Hashtags:**\n#TechConnect #VirtualTechNetworkingEvent #OnlineDeveloperCommunityMeetup #TechJobFairOnline #DeveloperProjectShowcasePlatform #PeerCodingAccountabilityGroup #AIJobs #DataScienceNetworking #SoftwareEngineerMeetup #GlobalTechEvent #TechCareersVirtual",
+    "start_at": "2026-10-07T16:00:00+02:00",
+    "url": "https://www.meetup.com/ac-mad/events/316370890/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Analytics.CLUB Madrid",
+    "attendees": 3,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Data Science",
     "source_id": "316514403",
     "name": "AI For Work | Webinar",
     "description": "**AI for Work \\| Free Live Webinar**\n\n**Pre-Registration is REQUIRED. Joining link -**\n[https://streamyard.com/watch/QnfhUjb7qQXs](https://streamyard.com/watch/QnfhUjb7qQXs?utm_source=luma)\n\n## ​WHEN\n\n​**September 30 at 1:00 PM ET**\n**45-minute live webinar**\n\n## ​WHO SHOULD JOIN?\n\n​This session is for people who already use tools like ChatGPT or Claude, but want to go beyond asking questions and start using AI to actually get work done.\n​It’s especially useful for:\n\n* ​Product and project managers\n* ​Operations and process leads\n* ​Marketing and admin professionals\n* ​Founders and small business teams\n* ​Career changers and AI beginners\n* ​Anyone looking to automate everyday work without coding\n\n​Come curious. No coding, setup, or technical background required.\n\nWHAT YOU’LL LEARN\n\nIn this free, 45-minute hands-on session, ODSC's Sheamus McGovern shows you the difference between chatting with AI and putting it to work.\n\nYou'll watch Cowork sort a messy folder of files into order, turn raw notes and spreadsheets into a polished, ready-to-send document, and set up recurring work that runs on its own, no prompting required.\n\nJust the everyday tasks you can hand off to AI that eat your week: filing, formatting, summarizing, following up, etc.\n\nLeave with one task you can delegate this week, and a clear next step for what to automate after that.\n\n**​Stay Connected**\n\n* ​**Learn:** Free talks and trainings on the [Ai+ Training platform](https://aiplus.training/?utm_source=luma).\n* ​**Read:** The latest in AI research on the [ODSC Blog](https://opendatascience.com/?utm_source=luma).\n* ​**Chat:** Join the conversation in our [Slack Channel](https://www.google.com/search?q=https%3A%2F%2Fodsc.com%2Fslack&utm_source=luma).\n* ​**Community:** Review our [Code of Conduct](https://odsc.com/code-of-conduct/?utm_source=luma).",
@@ -282,17 +302,37 @@
   },
   {
     "source": "meetup",
-    "source_slug": "DevOps",
-    "source_id": "316397919",
-    "name": "AI Deep Dive Webinar - Taking LangGraph to production",
-    "description": "**Important**: Register on the [event website](https://www.aicamp.ai/event/eventdetails/W2026091710) to receive the joining link. (rsvp on meetup will NOT receive anything).\n\nThis is virtual event for our AI global community, please double-check your local time. Can't make it live? Register anyway to receive the webinar recording.\n\nJoin Diagrid to learn taking LangGraph to production\n\n**Tech Talk: Taking LangGraph to production**\n**Speaker:** Mark Fussell\\, Co\\-founder & CEO\\, Diagrid \\| Co\\-creator of Dapr\\. and Yaron Schneider\\, Co\\-founder & CTO\\, Diagrid \\| Co\\-creator of Dapr\n**Abstract:** In this session, Dapr co-creators Mark Fussell and Yaron Schneider draw the line between checkpointing and durable execution, show exactly where LangGraph's persistence stops, and kill a live LangGraph agent mid-run to show Diagrid Catalyst bring it back without any re-architecture or custom recovery code.\nYou'll walk away knowing:\n\n* How to make LangGraph agents failure-proof, even in the face of complete outages\n* How to keep a complete, tamper-proof system of record that proves what your agents did\n* How to secure LangGraph deployments in any environment and specifically on Kubernetes\n\n**Who should attend**\nEngineers and architects running or planning to run LangGraph agents, platform teams responsible for agent reliability, and engineering leaders deciding how much of the reliability stack to build themselves.\n\n**Venue:**\nVirtual, join from anywhere\n\n**More virtual sessions:**\n\n* Sep 22nd: Google Agents in Production for Enterprises (#1). [RSVP](https://www.aicamp.ai/event/eventdetails/W2026081110)\n* Oct 14th: AI Deep Dive with Google Ep 4. [RSVP](https://www.aicamp.ai/event/eventdetails/W2026101410)",
-    "start_at": "2026-09-24T19:00:00+02:00",
-    "url": "https://www.meetup.com/madrid-ai-developers-group/events/316397919/",
+    "source_slug": "Data Science",
+    "source_id": "316524838",
+    "name": "AnalyticsCLUB JobExpo Virtual Business, Data & Technology Job Expo",
+    "description": "**What is FirstFridayFair Monthly Job Fair?**\n\nFirstFridayFair Monthly Job Fair is a **global virtual job fair and remote hiring event** hosted by the Analytics CLUB community. This **online job fair platform** brings together **professionals, employers, recruiters, and career coaches** for an immersive, **self-managed career networking experience**.\n\n🎥 **New to FirstFridayFair? Watch our explainer video here:** [https://youtu.be/NlLaCfOjosk](https://youtu.be/NlLaCfOjosk)\n\n**Where and When?**\n📍 Online at [https://events.tao.ai/pod/analytics.club/6j382kbpcnvd](https://events.tao.ai/pod/analytics.club/6j382kbpcnvd)\n🗓 First Friday of the month\n⏰ 11:00 AM - 2:00 PM (Local Time Zone)\n🌍 Open to participants globally\n\n🌍 **Who should join?**\n\n* **Job Seekers:** Looking for their next big break in **remote or local roles**.\n* **Employers & Recruiters:** Eager to find top talent across industries.\n* **Service Providers & Career Coaches:** Supporting professionals with tools, tips, and resources.\n* **Career Enthusiasts & Explorers:** Wishing to expand their network and knowledge.\n\n💬 **Where does the event take place?**\nThis interactive event is hosted on a **Slack-like community chat platform**, making it easy to **join from anywhere** and interact in **real-time group chats and 1-1 video or text conversations**.\n🚀 **What can you do at the event?**\nAttendees can explore several themed **Slack job fair channels** designed for **job networking, peer-to-peer support, and industry discussions**:\n\n* **General:** Intros, announcements, and casual networking.\n* **Networking:** Showcase your portfolio, startup, or job pitch.\n* **Intros:** Meet others, share your career path, and connect personally.\n* **Help Wanted:** Offer your skills or seek help from others.\n* **Industry Room Tech:** Discuss the latest in programming, software, and tech trends.\n\nAdditionally, attendees can engage in:\n\n* **1-1 video and text chats** with other attendees, recruiters, or service providers.\n* Visit the **virtual job openings board** to browse active listings and **connect with recruiters online**.\n* Participate in **live job fair chat**, where you can ask career-related questions, get **online resume tips**, and explore ways to stand out in the hiring process.\n\n❓ **Why join FirstFridayFair Monthly Job Fair?**\n\n* Access **global job networking events** right from your device.\n* Explore **virtual hiring events** designed for professionals seeking flexibility and growth.\n* Engage in meaningful conversations and discover **remote hiring opportunities**.\n* Take advantage of a **self-managed and open community platform**, allowing you to connect at your own pace.\n* Use the dedicated channels to **showcase your skills, ask questions, and build lasting professional connections**.\n\n**Have Questions or Suggestions?**\nWe’d love to help: [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)",
+    "start_at": "2026-10-02T11:00:00+02:00",
+    "url": "https://www.meetup.com/ac-mad/events/316524838/",
     "event_type": "ONLINE",
     "city": "",
     "address": "",
-    "organizer": "Madrid AI Developers Group",
-    "attendees": 4,
+    "organizer": "Analytics.CLUB Madrid",
+    "attendees": 1,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Data Science",
+      "Hackathon"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "316267997",
+    "name": "CI/CD con GitHub Actions: de local a producción sin miedo",
+    "description": "¿Sigues realizando despliegues manuales o te preocupa que un cambio inesperado rompa tu proyecto en producción? En esta sesión aprenderás los conceptos fundamentales de **CI/CD** utilizando **GitHub Actions** desde cero.\n\nDescubriremos cómo automatizar tareas, ejecutar pruebas, validar cambios y construir flujos de trabajo que permitan entregar soluciones con mayor confianza y menor esfuerzo manual.\n\nA través de ejemplos paso a paso, conoceremos cómo funciona un archivo YAML de GitHub Actions, cómo crear pipelines básicos y qué buenas prácticas aplicar para comenzar a automatizar procesos desde el primer día.\n\n🗣️ **Speaker:** Jeyson Meuses\n🎤 **Host**: Mike Matamoros",
+    "start_at": "2026-10-01T01:00:00+02:00",
+    "url": "https://www.meetup.com/microsoft-speakers-hub-en-espanol/events/316267997/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Microsoft Speakers Hub en Español",
+    "attendees": 9,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -359,34 +399,15 @@
   {
     "source": "meetup",
     "source_slug": "Hackathon",
-    "source_id": "316498913",
-    "name": "Hack The Box Meetup: El Nuevo Enfoque al Activation Context Hijacking ",
-    "description": "Constantino Raul Soltan nos impartirá una meetup donde demostrará cómo es posible evadir defensas de seguridad modernas (EDR & AV) abusando de un mecanismo interno de Windows poco explorado: Activation Contexts. Durante sus pruebas, detectó que la implementación original de la técnica era detectada por reglas de EDRs muy agresivas. Tras una rigurosa investigación, Raul presenta un nuevo enfoque que cambia las reglas del juego.",
-    "start_at": "2026-09-17T18:00:00+02:00",
-    "url": "https://www.meetup.com/hack-the-box-meetup-salamanca-es/events/316498913/",
+    "source_id": "316185487",
+    "name": "Open Source Climate Accounting: What Exists, What's Missing+Where To Contribute",
+    "description": "Climate accounting increasingly depends on systems that were never designed to work together. Registries use different standards and data models. The same activity can appear across multiple systems. Measurement data may come from sensors, satellite observations, models, or manual reporting, often with limited provenance or no straightforward way for downstream users to verify how a claim was produced.\n\nThese are not only reporting problems but they are problems of interoperability, provenance, reconciliation and trust between independent systems.\n\nA substantial amount of open-source work already exists to address them, but much of it remains fragmented or little known outside the communities that built it. This session will map that landscape: what is already available, what is mature enough to use today, what remains experimental and where meaningful technical contributions are still needed.\n\nThe aim is not to argue that blockchain is the answer to climate accounting. It is to look practically at where distributed ledgers, verifiable data, open standards and other open-source infrastructure can solve specific problems or where they cannot.\n\nStructure - The session would begin with a short framing of the technical problems behind climate and impact accounting: provenance, reconciliation, double counting, interoperability and verification across organisational boundaries.\n\nFrom there, members of the LF Decentralized Trust community could walk through existing open-source projects and frameworks, explaining what they were built to solve, how mature they are and where they are being used today.\n\nThe final part would focus on the gaps: problems that remain unsolved, areas where maintainers would welcome contributions and practical ways for developers, researchers and organisations to get involved.\n\nThe IEEE ClimateChain Global Hackathon ([https://ieee-climatechain-hack.devpost.com/](https://ieee-climatechain-hack.devpost.com/)) would be introduced as one of those routes to contribution.\n\nThe goal is for participants to leave with a clearer picture of what already exists, which problems are genuinely open and where their time and technical skills could have the greatest value.\n\n**Zoom Meeting Link**: [https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09](https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09)\n\n**Please note: This event is being shared with our entire global community. If you're interested in this content but can't attend the event live, feel free to sign up and we will send you a link to the recording after the meetup is over.**",
+    "start_at": "2026-10-01T18:00:00+02:00",
+    "url": "https://www.meetup.com/lfdt-madrid/events/316185487/",
     "event_type": "ONLINE",
     "city": "",
     "address": "",
-    "organizer": "Hack The Box Meetup: Salamanca, ES",
-    "attendees": 23,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Hackathon"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Hackathon",
-    "source_id": "316524838",
-    "name": "AnalyticsCLUB JobExpo Virtual Business, Data & Technology Job Expo",
-    "description": "**What is FirstFridayFair Monthly Job Fair?**\n\nFirstFridayFair Monthly Job Fair is a **global virtual job fair and remote hiring event** hosted by the Analytics CLUB community. This **online job fair platform** brings together **professionals, employers, recruiters, and career coaches** for an immersive, **self-managed career networking experience**.\n\n🎥 **New to FirstFridayFair? Watch our explainer video here:** [https://youtu.be/NlLaCfOjosk](https://youtu.be/NlLaCfOjosk)\n\n**Where and When?**\n📍 Online at [https://events.tao.ai/pod/analytics.club/6j382kbpcnvd](https://events.tao.ai/pod/analytics.club/6j382kbpcnvd)\n🗓 First Friday of the month\n⏰ 11:00 AM - 2:00 PM (Local Time Zone)\n🌍 Open to participants globally\n\n🌍 **Who should join?**\n\n* **Job Seekers:** Looking for their next big break in **remote or local roles**.\n* **Employers & Recruiters:** Eager to find top talent across industries.\n* **Service Providers & Career Coaches:** Supporting professionals with tools, tips, and resources.\n* **Career Enthusiasts & Explorers:** Wishing to expand their network and knowledge.\n\n💬 **Where does the event take place?**\nThis interactive event is hosted on a **Slack-like community chat platform**, making it easy to **join from anywhere** and interact in **real-time group chats and 1-1 video or text conversations**.\n🚀 **What can you do at the event?**\nAttendees can explore several themed **Slack job fair channels** designed for **job networking, peer-to-peer support, and industry discussions**:\n\n* **General:** Intros, announcements, and casual networking.\n* **Networking:** Showcase your portfolio, startup, or job pitch.\n* **Intros:** Meet others, share your career path, and connect personally.\n* **Help Wanted:** Offer your skills or seek help from others.\n* **Industry Room Tech:** Discuss the latest in programming, software, and tech trends.\n\nAdditionally, attendees can engage in:\n\n* **1-1 video and text chats** with other attendees, recruiters, or service providers.\n* Visit the **virtual job openings board** to browse active listings and **connect with recruiters online**.\n* Participate in **live job fair chat**, where you can ask career-related questions, get **online resume tips**, and explore ways to stand out in the hiring process.\n\n❓ **Why join FirstFridayFair Monthly Job Fair?**\n\n* Access **global job networking events** right from your device.\n* Explore **virtual hiring events** designed for professionals seeking flexibility and growth.\n* Engage in meaningful conversations and discover **remote hiring opportunities**.\n* Take advantage of a **self-managed and open community platform**, allowing you to connect at your own pace.\n* Use the dedicated channels to **showcase your skills, ask questions, and build lasting professional connections**.\n\n**Have Questions or Suggestions?**\nWe’d love to help: [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)",
-    "start_at": "2026-10-02T11:00:00+02:00",
-    "url": "https://www.meetup.com/ac-mad/events/316524838/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Analytics.CLUB Madrid",
+    "organizer": "LFDT Madrid",
     "attendees": 1,
     "max_tickets": 0,
     "spots_left": null,
@@ -430,6 +451,7 @@
     "spots_left": 8,
     "found_in": [
       "Artificial Intelligence",
+      "DevOps",
       "Hackathon"
     ]
   },
@@ -474,6 +496,25 @@
   {
     "source": "meetup",
     "source_slug": "DevOps",
+    "source_id": "316570374",
+    "name": "From Counter.Inc() to a billion series",
+    "description": "Add a counter. Two lines and you can finally see how often your service fails.\n\nThen you add a label to tell failure reasons apart and the counter becomes genuinely useful. You can now see why it's failing.\nSo you start adding more labels, one for the kind of user, one for the value of the operation. Each one seems reasonable and enables rich queries and alerts.\n\nThis talk follows that counter all the way down: from instrumenting a Go service, to how Prometheus scrapes and stores your data, to building a horizontally scalable distributed metrics database as you go from just one counter to billions of them.\n\nYou don't need to know anything about observability to attend this session!",
+    "start_at": "2026-10-07T19:00:00+02:00",
+    "url": "https://www.meetup.com/go-mad/events/316570374/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Pl. de Manuel Gómez-Moreno, 2, Tetuán, 28020 Madrid, Spain",
+    "organizer": "GoMAD - Madrid Go UG",
+    "attendees": 22,
+    "max_tickets": 60,
+    "spots_left": 38,
+    "found_in": [
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "DevOps",
     "source_id": "316329118",
     "name": "*CONOCER GENTE NUEVA CERVECEO+FLORIDA GALERIA*",
     "description": "**\\*CONOCER GENTE NUEVA CERVECEO+FLORIDA GALERIA\\***\n***¡¡Anímate y ven a pasarlo bien conociendo gente nueva!!***\n\n● Empezamos tomando algo para romper el hielo y conocer a l@s demás.\n● **Si vienes sol@,** no te preocupes te recibimos y presentamos a l@s demás y empiezas a disfrutar de la noche. Así de fácil.\n\n**\\- DIRECCION:** Te informamos el punto de encuentro al confirmar tu asistencia por whatsapp abajo indicado. ¡¡Anímate!! - **\\- ZONA:** Metro Ibiza\n\n● **DESPUÉS 12:00 FLORIDA GALERIA**\nPata continuar disfrutando de la noche nos vamos a \"Florida Galería\" uno de los mejores locales de moda en la noche de Madrid. ¡¡No te lo puedes perder!!\n**-VESTIMENTA:** Arreglado\n**✅●PARA ASISTIR:** Confirmar asistencia solo por whatsapp indicando nombre y el meetup al que vas asistir al 604136338 .\n**✅● COSTE:** 5€ entrega al coordinador al llegar, (intenta traerlo justo).\n**● GASTOS APARTE:** Cada uno paga lo suyo.\n● **Si vienes con invitad@s** , informales de todo y nos avisas al confirmar.\n**-VESTIMENTA:** Arreglado\n\n¡¡¡Lo pasaremos genial!!!\n**\\- CONTACTO Y CONFIRMACION DE ASISTENCIA SOLO POR WHATSAPP**",
@@ -492,21 +533,40 @@
   },
   {
     "source": "meetup",
-    "source_slug": "DevOps",
-    "source_id": "316570374",
-    "name": "From Counter.Inc() to a billion series",
-    "description": "Add a counter. Two lines and you can finally see how often your service fails.\n\nThen you add a label to tell failure reasons apart and the counter becomes genuinely useful. You can now see why it's failing.\nSo you start adding more labels, one for the kind of user, one for the value of the operation. Each one seems reasonable and enables rich queries and alerts.\n\nThis talk follows that counter all the way down: from instrumenting a Go service, to how Prometheus scrapes and stores your data, to building a horizontally scalable distributed metrics database as you go from just one counter to billions of them.\n\nYou don't need to know anything about observability to attend this session!",
-    "start_at": "2026-10-07T19:00:00+02:00",
-    "url": "https://www.meetup.com/go-mad/events/316570374/",
+    "source_slug": "Startups",
+    "source_id": "316151855",
+    "name": "Women, Work & Wine🍷 Rooftop | by PNM",
+    "description": "**Precio, info más abajo👇**\nDespués de registrarte aquí en Meetup **CONFIRMA** TU PRESENCIA EN MI **NUMERO DE [WhatsApp aquí](https://wa.me/+393395021742)**\no Escríbeme para más información y próximos eventos\n*(si la plataforma te pide que pagues cierra la ventana con la X)*\n\nHa llegado algo nuevo dentro de [PNM - Professional Network Madrid](https://www.instagram.com/professionalsnetwork.madrid)...\n\n**Women\\, Work & Wine 🍷\\| by PNM** nace como una salida entre mujeres profesionales, emprendedoras, freelancers y mujeres con ganas de conectar en un ambiente más cercano, relajado y real.\n\nNo será un evento súper formal y lo haremos cada 2-3 meses.\nSerá un encuentro para hablar de *trabajo, proyectos, ideas, retos, oportunidades… pero también de vida, cambios, decisiones, motivación* y todo eso que normalmente aparece cuando las conversaciones fluyen de verdad💖.\n\n**La idea es simple:**\ncrear un espacio más íntimo y femenino dentro de la comunidad PNM, donde podamos conocernos mejor, compartir experiencias y abrir nuevas conexiones.\n\n**Es algo nuevo para nosotras también, pero sentimos que puede gustar mucho y los dos encuentros anteriores nos lo han confirmado con creces.**\n\n### ¿Para quién es?\n\nPara mujeres profesionales, emprendedoras, freelancers, estudiantes, mujeres en transición laboral o con proyectos propios, y en general mujeres que quieren rodearse de otras mujeres con mentalidad de crecimiento.\nNo hace falta venir con un pitch perfecto.\nVen con ganas de conversar, escuchar, compartir y conectar.\n\nMe hace especial ilusión esta edición porque **conseguir un rooftop para eventos en Madrid no es nada fácil**, y esta vez estaremos en la terraza de un hotel 5 estrellas.\nAl llegar:\n**\\>Regístrate en reception** diciendo que vienes al evento de Networking Mujeres\n**\\>Sube al rooftop**\n**\\>Paga tu entrada en el bar** \\- incluye 2 drinks\n**\\>Recoge tu pegatina\\-nombre** y... ¡a conectar!😍\n\n📍 **UMusic Hotel Madrid – Rooftop**\n[Calle de la Paz, 11, Centro, 28012](https://maps.app.goo.gl/WxgC6vBYaGpduUVY7)\n🚇**Metro**: Sol\n\n📅 **Sábado** **19 septiembre**\n🕢 **18:00 - 22:00**\nEl rooftop cierra a las 22:30\n(Puedes también ponerte directamente en contacto conmigo en [WhatsApp aquí](https://wa.me/+393395021742))\n**DRESS CODE**: Business casual\n**Precio: 15€** con 2 soft drinks\n(se paga en el bar, aqui solo te registras)\n................\nEste encuentro nace desde la comunidad general **[Professionals & Entrepreneurs PNM](https://www.meetup.com/madrid-professionals-network/)**, nuestro espacio mensual de networking profesional en Madrid.\nOrganizamos 1 cada 2-3 meses, si no puedes venir pero quieres que te avise de próximos encuentros, escríbeme por privado aquí: **[LINK](https://wa.me/+393395021742)**\n\nHasta pronto!🌷",
+    "start_at": "2026-09-19T18:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-professionals-network/events/316151855/",
     "event_type": "PHYSICAL",
     "city": "Madrid",
-    "address": "Pl. de Manuel Gómez-Moreno, 2, Tetuán, 28020 Madrid, Spain",
-    "organizer": "GoMAD - Madrid Go UG",
-    "attendees": 22,
-    "max_tickets": 60,
-    "spots_left": 38,
+    "address": "Calle de la Paz, 11, 28012",
+    "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
+    "attendees": 95,
+    "max_tickets": 96,
+    "spots_left": 1,
     "found_in": [
-      "DevOps"
+      "Startups"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Hackathon",
+    "source_id": "316529421",
+    "name": "OPEN DAY",
+    "description": "[EVENTOS DEL HACKLAB](https://hacklab.laenre.net/eventos)\n\nHACKLAB LA RAIZ OPEN DAY : VIERNES 5 DE DICIEMBRE.\n\nVen a conocer el espacio y el colectivo!!\nTe encantará ; - )\nCalle de la coruña numer 5 , 3ra planta.\n19:00 - 22:00\nPrimer viernes de cada mes:",
+    "start_at": "2026-10-02T19:00:00+02:00",
+    "url": "https://www.meetup.com/hacklab/events/316529421/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "calle coruña 5",
+    "organizer": "Hacklab La Raiz",
+    "attendees": 3,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Hackathon"
     ]
   },
   {
@@ -531,16 +591,35 @@
   {
     "source": "meetup",
     "source_slug": "Hackathon",
-    "source_id": "316529421",
-    "name": "OPEN DAY",
-    "description": "[EVENTOS DEL HACKLAB](https://hacklab.laenre.net/eventos)\n\nHACKLAB LA RAIZ OPEN DAY : VIERNES 5 DE DICIEMBRE.\n\nVen a conocer el espacio y el colectivo!!\nTe encantará ; - )\nCalle de la coruña numer 5 , 3ra planta.\n19:00 - 22:00\nPrimer viernes de cada mes:",
-    "start_at": "2026-10-02T19:00:00+02:00",
-    "url": "https://www.meetup.com/hacklab/events/316529421/",
+    "source_id": "316386856",
+    "name": "Yoga in Parque Santander – Breathe, Flow & Connect",
+    "description": "Welcome to **Yoga in Parque Santander – Breathe, Flow & Connect** 🌿\n\nJoin us every **Tuesday at 6:30 pm** for a relaxing outdoor yoga class in the beautiful surroundings of Park Santanter Park.\n\nThese 60-minute sessions combine mindful movement, breathing and a gentle flow to help you release the stress of the day, reconnect with your body and enjoy some time outdoors.\n\nThis group is also about connection. It’s a welcoming, international community for anyone who would like to practise yoga, meet new people and bring a little more calm and positive energy into their week.\nPlease bring:\n\n* Your own yoga mat\n* Comfortable clothes\n* Water\n* A warm layer for the final relaxation as autumn approaches\n\nThe exact meeting point in Park Santander will be shared with registered participants.\n\nCome move, breathe and reset with us. See you on Tuesday! 🧘‍♂️✨",
+    "start_at": "2026-09-22T18:30:00+02:00",
+    "url": "https://www.meetup.com/yoga-in-parque-santander/events/316386856/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Av. de Pablo Iglesias, 9, Chamberí, 28003 Madrid, Spain",
+    "organizer": "Yoga in Parque Santander – Breathe, Flow & Connect",
+    "attendees": 2,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Hackathon"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Hackathon",
+    "source_id": "316433462",
+    "name": "GAME NIGHT",
+    "description": "# Muy buenas ! Este proximo Viernes os esperamos para una noche de juegos en el Hacklab ! Juegos de mesa, retro, arcade, billar, futbolin, ajedrez. Tráe el tuyo y participa con nosotras : - ).[@la_enredadera_de_tetuan](https://www.instagram.com/la_enredadera_de_tetuan/) [@hacklab_la_raiz](https://www.instagram.com/hacklab_la_raiz/)",
+    "start_at": "2026-09-25T19:00:00+02:00",
+    "url": "https://www.meetup.com/hacklab/events/316433462/",
     "event_type": "PHYSICAL",
     "city": "Madrid",
     "address": "calle coruña 5",
     "organizer": "Hacklab La Raiz",
-    "attendees": 3,
+    "attendees": 1,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

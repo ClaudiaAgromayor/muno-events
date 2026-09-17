@@ -11,9 +11,9 @@
     "city": "Madrid",
     "address": "C. de San Bernardo, 2, Centro, 28013 Madrid",
     "organizer": "Madrid Networking Club",
-    "attendees": 58,
+    "attendees": 62,
     "max_tickets": 120,
-    "spots_left": 62,
+    "spots_left": 58,
     "found_in": [
       "Artificial Intelligence",
       "Startups"
@@ -101,9 +101,9 @@
     "city": "Madrid",
     "address": "de la comunidad, C. de Bravo Murillo, 39, Local interior, Chamberí, 28015 Madrid, Spain",
     "organizer": "Madrid Machine Learning Meetup",
-    "attendees": 21,
+    "attendees": 22,
     "max_tickets": 60,
-    "spots_left": 39,
+    "spots_left": 38,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -129,34 +129,12 @@
     "spots_left": 0,
     "found_in": [
       "Artificial Intelligence",
+      "Machine Learning",
       "Startups",
       "Hackathon"
     ],
     "lat": 38.9879607,
     "lng": -1.845739
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
-    "source_id": "316210308",
-    "name": "#CodeMeet: ¿Quién controla a los agentes? De ahorrar tokens a construir MCPs",
-    "description": "# **#CodeMeet Madrid: ¿Quién controla a los agentes? De ahorrar tokens a construir MCPs: la ingeniería detrás de la IA que actúa.**\n\nLa IA ya no solo responde preguntas. Ahora puede consultar información, utilizar herramientas, interactuar con nuestros sistemas y ejecutar tareas.\nPero cuanto más capaces son los agentes, más preguntas aparecen: ¿cómo hacemos que sean eficientes? ¿Cómo los integramos de verdad en una organización? ¿Y cómo mantenemos el control cuando empiezan a tomar decisiones y ejecutar acciones?\n\nEn este CodeMeet junto a la comunidad de Arcasiles exploraremos la ingeniería que hay detrás de los sistemas agentic desde tres perspectivas: eficiencia, infraestructura y seguridad.\n\n[RESERVA TU PLAZA AQUÍ](https://community.codemotion.com/codemotion-espana/meetups/codemeet-madrid-quin-controla-a-los-agentes-de-ahorrar-tokens-a-construir-mcps)\n\nEste es el form oficial donde apuntarse\n\nHablaremos de cómo optimizar el contexto y el consumo de tokens, de cómo construir un MCP conectado con los sistemas reales de una organización y de qué necesitamos para mantener seguros y bajo control a unos agentes cada vez más autónomos.\nTres charlas, tres perspectivas y una misma pregunta: cuando la IA empieza a actuar, ¿está preparada nuestra ingeniería para ello?\n\n# 🧠 ¿Qué veremos?\n\n* Cómo reducir el consumo de tokens en nuestros flujos de desarrollo con IA sin perder calidad.\n* Model routing, skills, subagentes y técnicas para optimizar el contexto.\n* Cómo construir un MCP capaz de conectar un LLM con herramientas y sistemas corporativos.\n* Qué problemas aparecen cuando un MCP deja de ser una demo y pasa a formar parte de la infraestructura de una organización.\n* Seguridad, observabilidad y gobernanza en sistemas basados en agentes.\n* Cómo mantener el control sobre agentes que cada vez tienen más herramientas y capacidad de acción.\n\n# 🎤 Ponentes\n\n**Manuel Fernández — Software Engineer @ Thoughtworks** \\- De Cajas Negras a Facturas Infladas: Ingeniería de Contexto y Agentes para ahorrar Tokens al programar con IA\n\nIngeniero de Software con más de 6 años de experiencia, especializado en arquitectura de software y desarrollo asistido por IA. Actualmente trabaja en cómo integrar agentes y LLMs en pipelines de desarrollo reales sin sacrificar la calidad, el testing ni las convenciones de los equipos.\n\nLos agentes nos permiten trabajar con sistemas cada vez más sofisticados, pero también pueden disparar el consumo de tokens. Manuel nos mostrará cómo optimizar el contexto, utilizar diferentes modelos según la tarea y aplicar técnicas como pruning, Progressive Disclosure y Prompt Caching para conseguir flujos de desarrollo más eficientes.\n\n**Raúl López Caña — Fullstack Engineer @ Galp** \\- Anatomía de un MCP: construyendo la capa de IA de una organización\n\nIngeniero fullstack especializado en tecnologías frontend y apasionado por mejorar la Developer Experience de los equipos.\n¿Qué hace falta para que un LLM deje de ser un chatbot y empiece a entender cómo funciona una organización? Raúl abrirá un MCP construido para un ecosistema de productos y repasará su arquitectura, herramientas, contexto, seguridad, observabilidad e integraciones con sistemas corporativos.\n\n**Osmani Redondo** — Directora de iaS - ¿Quién controla a los agentes? Seguridad y gobernanza en la era de la IA\n\nIngeniera de software y arquitecta cloud, dirige iaS (Inteligencia Artificial Segura), la primera infraestructura de seguridad de la IA en español; compagina esta labor con la dirección del seminario mensual de BlueDot Impact, su rol como profesora invitada en instituciones de prestigio como la UNAM de México, y su participación como socia del Observatorio del Impacto Social y Ético de la IA (OdiseIA).\n\nA medida que los agentes ganan autonomía y acceso a herramientas, la seguridad y la gobernanza dejan de ser un añadido para convertirse en parte fundamental de la arquitectura. En esta sesión veremos cómo abordar estos retos y qué necesitamos para mantener bajo control sistemas cada vez más capaces.\n\n# ⚙️ ¿Para quién es este evento?\n\nEste meetup está pensado para:\n\n* Desarrolladores e ingenieros de software que ya utilizan IA en su día a día.\n* Arquitectos y perfiles técnicos interesados en sistemas agentic.\n* Profesionales que estén explorando MCP y otras formas de conectar LLMs con herramientas y sistemas internos.\n* Tech Leads, DevOps y responsables de plataformas que quieran entender qué implica llevar agentes a producción.\n* Cualquier persona interesada en la arquitectura, seguridad y evolución de los sistemas basados en IA.\n\nNo necesitas ser especialista en agentes para venir. Si ya te estás preguntando qué pasa cuando dejamos de usar la IA como chatbot y empezamos a integrarla en nuestros sistemas, aquí encontrarás algunas respuestas.\n\n# 🔔 Agenda\n\n18:30 — Check-in\n\n18:45 — Bienvenida y presentación de comunidades\n\n18:50 — De Cajas Negras a Facturas Infladas: Ingeniería de Contexto y Agentes para ahorrar Tokens al programar con IA -\nManuel Fernández\n\n19:20 — Anatomía de un MCP: construyendo la capa de IA de una organización -\nRaúl López Caña\n\n19:50 — ¿Quién controla a los agentes? Seguridad y gobernanza en la era de la IA -\nOsmani Redondo\n\n20:20 — Cierre\n\n20:25 — Networking 🍻\n\nDespués del evento nos tomaremos algo por la zona así que quédate hasta el final para conocer a la gente de la comunidad\n\n# 📍 Información del evento\n\n📅 Jueves, 17 de septiembre de 2026\n🕡 18:30\n📍 Madrid\n🎟️ Entrada gratuita hasta completar aforo\n[\\[RESERVA TU ENTRADA\\]](https://community.codemotion.com/codemotion-espana/meetups/codemeet-madrid-quin-controla-a-los-agentes-de-ahorrar-tokens-a-construir-mcps)\n\nLa IA ya puede actuar. La pregunta es si nuestra ingeniería está preparada para dejarla hacerlo.",
-    "start_at": "2026-09-17T18:30:00+02:00",
-    "url": "https://www.meetup.com/codemotion-espana/events/316210308/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "Plaza de Manuel Gómez-Moreno, 2, Tetuán, 28020",
-    "organizer": "Codemotion Meetup en España",
-    "attendees": 13,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence",
-      "DevOps",
-      "Hackathon"
-    ],
-    "lat": 40.4485287,
-    "lng": -3.6940143
   },
   {
     "source": "meetup",
@@ -176,29 +154,8 @@
     "found_in": [
       "Data Science",
       "DevOps",
-      "Startups"
-    ],
-    "lat": 40.4485287,
-    "lng": -3.6940143
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Data Science",
-    "source_id": "316482240",
-    "name": "#CodeMeet Madrid: ¿Quién controla a los agentes?",
-    "description": "**CodeMeet Madrid: ¿Quién controla a los agentes?** *De ahorrar tokens a construir MCPs: la ingeniería detrás de la IA que actúa.*\nLa IA ha dejado de ser un simple chatbot para convertirse en un actor que ejecuta, conecta herramientas y toma decisiones en nuestros sistemas. Pero a mayor autonomía, mayores son los retos: **¿Cómo los hacemos eficientes sin disparar la factura? ¿Cómo los integramos en producción? Y sobre todo, ¿cómo mantenemos el control?**\nJunto a la comunidad de **Arcasiles**, analizaremos la ingeniería tras los sistemas *agentic* desde tres ángulos clave: eficiencia, infraestructura y seguridad.\n\n💡 **Lo que vas a descubrir**\n\n* **Optimización de contexto:** Pruning, *Progressive Disclosure* y *Prompt Caching* para reducir el consumo de tokens sin perder calidad.\n* **MCPs en el mundo real:** Arquitectura, observabilidad y conexión de LLMs con sistemas corporativos más allá de la demo.\n* **Gobernanza y seguridad:** Técnicas para auditar y controlar agentes autónomos con acceso a herramientas críticas.\n\n🎤 **Ponencias y Speakers**\n\n* **De Cajas Negras a Facturas Infladas: Ingeniería de Contexto y Agentes** **Manuel Fernández** \\| *Software Engineer @ Thoughtworks* Cómo aplicar *model routing*, subagentes y técnicas avanzadas para optimizar el contexto y evitar que el uso de IA en tus pipelines se traduzca en costos desmedidos.\n* **Anatomía de un MCP: Construyendo la capa de IA de una organización** **Raúl López Caña** \\| *Fullstack Engineer @ Galp* Análisis técnico de un Protocolo de Contexto de Modelo (MCP) real: su arquitectura, herramientas, observabilidad e integración profunda en un ecosistema de productos.\n* **¿Quién controla a los agentes? Seguridad y gobernanza en la era de la IA** **Osmani Redondo** \\| *Especialista en Seguridad e IA* A medida que la IA gana autonomía, la seguridad pasa a ser la piedra angular de la arquitectura. Descubre cómo mantener bajo control a los agentes más capaces.\n\n🎯 **¿Para quién es este meetup?**\nDiseñado para **desarrolladores, arquitectos de software, Tech Leads y DevOps** que ya usan IA en su día a día o están explorando cómo llevar sistemas basados en MCP y agentes a producción. *No necesitas ser un experto en agentes, solo tener curiosidad por ver qué pasa cuando la IA empieza a actuar.*\n\n🗓️ **Agenda del evento**\n**18:30 — Check-in**\n**18:45 — Bienvenida y presentación de comunidades**\n**18:50 — De Cajas Negras a Facturas Infladas: Ingeniería de Contexto y Agentes para ahorrar Tokens al programar con IA**\nManuel Fernández\n**19:20 — Anatomía de un MCP: construyendo la capa de IA de una organización**\nRaúl López Caña\n**19:50 — ¿Quién controla a los agentes? Seguridad y gobernanza en la era de la IA**\nOsmani Redondo\n**20:20 — Cierre**\n**20:25 — Networking 🍻**\n\n**[RESERVA TU ENTRADA AQUÍ](https://docs.google.com/forms/d/e/1FAIpQLSfB26vM6eZI9U1y0aknB0Wmxzml54WxzLRkrGsiK3iv03Mozw/closedform)**",
-    "start_at": "2026-09-17T18:30:00+02:00",
-    "url": "https://www.meetup.com/celonis-tech-meetups-madrid/events/316482240/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "Pl. de Manuel Gómez-Moreno, 2",
-    "organizer": "Celonis Tech Meetups Madrid",
-    "attendees": 1,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Data Science",
-      "DevOps"
+      "Startups",
+      "Hackathon"
     ],
     "lat": 40.4485287,
     "lng": -3.6940143
@@ -236,12 +193,13 @@
     "city": "Madrid",
     "address": "Calle de Pradillo, 42, 28002 Madrid, Spain",
     "organizer": "ProductTank Madrid",
-    "attendees": 68,
+    "attendees": 72,
     "max_tickets": 80,
-    "spots_left": 12,
+    "spots_left": 8,
     "found_in": [
       "DevOps",
-      "Startups"
+      "Startups",
+      "Hackathon"
     ],
     "lat": 40.4490059,
     "lng": -3.6708446
@@ -266,27 +224,6 @@
     ],
     "lat": 40.4485287,
     "lng": -3.6940143
-  },
-  {
-    "source": "meetup",
-    "source_slug": "DevOps",
-    "source_id": "316404047",
-    "name": "What's New in Micronaut 5",
-    "description": "*Este es el evento para registrarse si vas a **asistir presencialmente**.*\n\n*⚠️ 🇬🇧 Esta sesión será en **inglés** / This session will be in **English***\n\n**What's New in Micronaut 5**\nMicronaut 5 represents a significant evolution of the Micronaut ecosystem, combining a refresh of its components with improvements focused on performance, productivity, and cloud-native development.\nIn this session, Graeme Rocher will review the key new features in Micronaut Framework 5.0 and 5.1, and demonstrate how to take advantage of them in modern JVM applications.\nThe talk will cover Micronaut's upgrade to Java 25, Kotlin 2.3, and Groovy 5, along with the adoption of GraalVM 25, improvements to the IoC container and build infrastructure, stable HTTP/3 support, new configuration and configuration import capabilities, JSpecify nullability annotations, and programmatic APIs for retries and circuit breakers.\nWe will also look at features that are particularly relevant to modern application development: compile-time generation of serializers and deserializers, Jackson 3, new Micronaut Data capabilities such as geospatial support and SQL vector types, improved integration with Kubernetes and major cloud providers, as well as the evolution of AI integrations with Micronaut MCP and LangChain4j.\nWith Micronaut 5.1, the platform expands these capabilities even further with Open DI 1.0, Core improvements, SQLite and value-based ETags in Micronaut Data, MyBatis integration, new Kafka features for non-blocking retries, and advances in AI, storage, security, observability, and APIs.\nThe session is aimed at Java developers and teams who want to understand what Micronaut 5 brings to the table, what has changed compared to previous versions, and how these new features can translate into more efficient, maintainable, and cloud-ready applications.\n\n**Graeme Rocher**\nGraeme Rocher is an Architect at Oracle and one of the founders of the open-source Micronaut project. He is also the creator of Grails, one of the best-known projects in the Groovy ecosystem.\nHe currently leads Oracle's contributions to Micronaut and works on key projects such as Micronaut Core, Micronaut Data, Micronaut Serialization, and Micronaut Oracle Cloud.\nHe is a Java Champion and received the Oracle Groundbreaker Award in 2018 for his work in open source.",
-    "start_at": "2026-09-17T19:00:00+02:00",
-    "url": "https://www.meetup.com/madridjug/events/316404047/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "Paseo de la castellana 81, 28046",
-    "organizer": "MadridJUG",
-    "attendees": 18,
-    "max_tickets": 40,
-    "spots_left": 22,
-    "found_in": [
-      "DevOps"
-    ],
-    "lat": 40.4697189,
-    "lng": -3.6884207
   },
   {
     "source": "meetup",
@@ -342,7 +279,7 @@
     "city": "Madrid",
     "address": "C. de Belén, 7",
     "organizer": "Out in Tech - Madrid",
-    "attendees": 10,
+    "attendees": 11,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -350,49 +287,6 @@
     ],
     "lat": 40.4242298,
     "lng": -3.6963366
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Startups",
-    "source_id": "316382510",
-    "name": "Guía práctica para inversores en tecnologías cuánticas ",
-    "description": "¡Hola a todos, comunidad de Quantum Madrid! 👋\n\n¿Qué tal han ido esas vacaciones? 🏖️ Esperamos que hayáis descansado, desconectado y recargado las pilas al máximo porque... ¡arrancamos la nueva temporada! 🎒🚀\nPara esta particular \"vuelta al cole\" venimos con muchísima fuerza. Qué mejor forma de retomar la rutina que dando un paso más allá de los laboratorios para adentrarnos en una de las áreas más críticas del ecosistema actual: el mundo empresarial, estratégico y financiero. 💼\n\n**El evento:**\nLa cuántica está avanzando rápidamente desde la investigación científica hacia la realidad comercial. En laboratorios, startups, alianzas industriales e instituciones públicas, el sector entra en una nueva fase: una etapa definida no solo por los avances científicos, sino también por la asignación de capital, las alianzas estratégicas y la identificación de las compañías que liderarán la próxima década.\nEn este primer encuentro del curso analizaremos qué significa realmente invertir hoy en tecnologías cuánticas, abarcando desde la computación y la sensórica cuántica hasta la infraestructura habilitadora, el software y las vías de comercialización reales. 📈\n\n**👤 Sobre el ponente:**\nPara inaugurar la temporada por todo lo alto, tendremos el lujo de contar con **Youssouf Traore**, un absoluto referente en la intersección entre deeptech, venture capital y estrategia institucional. A lo largo de su carrera, ha colaborado con el Banco Europeo de Inversiones, ha participado en procesos de due diligence en fondos cuánticos (\\~1.700M€), colabora con el Real Instituto Elcano y es profesor en IE University.\n\n**🗓️ Agenda (aprox):**\n\n* 18:00 – 18:05 h: Bienvenida, reencuentro tras el verano y presentación por parte del equipo de Quantum Madrid.\n* 18:05 – 18:50 h: Charla: Guía práctica para inversores en tecnologías cuánticas (Youssouf Traore).\n* 18:50 – 19:15 h: Sesión de preguntas y respuestas (Q&A).\n* 19:15 – 20:30 h: Networking. Como es tradición, terminaremos charlando, compartiendo anécdotas del verano y tomando algo juntos para hacer comunidad ☕️🍻.\n\n📅 **Cuándo:** Jueves 17 de Septiembre de 2026 a las 18:00 h\n📍 **Dónde:** Madrid International Lab – c/ Bailén, 41, 28005 Madrid\n\nEvento presencial (aforo limitado).\n\n**¡IMPORTANTE!**\n**Al tratarse de un edificio público, es un requisito obligatorio del ayuntamiento para poder entrar al edificio contar con el nombre completo y número de DNI de los asistentes, así como su presentación en formato físico al asistir al mismo. QUIEN NO ESTÉ EN LA LISTA CON NOMBRE, APELLIDOS Y DNI NO PODRÁ ACCEDER AL ESPACIO.**\n\nNos vemos muy pronto para arrancar el año descubriendo juntos quiénes y cómo liderarán la industria cuántica en la próxima década. ⚛️🚀",
-    "start_at": "2026-09-17T18:00:00+02:00",
-    "url": "https://www.meetup.com/quantummadrid/events/316382510/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "Bailén, 41",
-    "organizer": "Quantum Madrid by Entangle",
-    "attendees": 37,
-    "max_tickets": 90,
-    "spots_left": 53,
-    "found_in": [
-      "Startups",
-      "Hackathon"
-    ],
-    "lat": -31.4124189,
-    "lng": -64.1505784
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Hackathon",
-    "source_id": "316300285",
-    "name": "#CodeMeet Madrid: ¿Quién controla a los agentes?",
-    "description": "De ahorrar tokens a construir MCPs: la ingeniería detrás de la IA que actúa.\n\nLa IA ya no solo responde: consulta datos, usa herramientas y ejecuta tareas en nuestros sistemas. Y cuanto más capaces son los agentes, más preguntas abiertas: ¿cómo los hacemos eficientes?, ¿cómo los integramos de verdad en una organización?, ¿quién mantiene el control cuando empiezan a decidir y actuar?\n\n**CodeMeet Madrid**, con **Codemotion** y la comunidad de **Arcasiles**, Tres charlas, tres perspectivas sobre la ingeniería de los sistemas agentic: eficiencia, infraestructura y seguridad.\n\n👉 **Reserva tu plaza en el formulario oficial de Codemotion:**\n[https://community.codemotion.com/codemotion-espana/meetups/codemeet-madrid-quin-controla-a-los-agentes-de-ahorrar-tokens-a-construir-mcps](https://community.codemotion.com/codemotion-espana/meetups/codemeet-madrid-quin-controla-a-los-agentes-de-ahorrar-tokens-a-construir-mcps)\n\nTambién puedes sumarte desde este evento en Luma, pero el registro principal es el enlace de arriba.\n\n## Qué veremos\n\n* Cómo bajar el consumo de tokens en flujos de desarrollo con IA sin perder calidad: model routing, skills, subagentes y optimización de contexto.\n* Cómo construir un MCP que conecte un modelo con los sistemas reales de una organización, y qué se rompe cuando deja de ser una demo.\n* Seguridad, observabilidad y gobernanza para agentes con cada vez más herramientas y capacidad de acción.\n\nUna misma pregunta debajo de las tres: cuando la IA empieza a actuar, ¿está nuestra ingeniería preparada para dejarla?\n\n## \\# Ponentes\n\n**Manuel Fernández** — Software Engineer @ Thoughtworks\n*De Cajas Negras a Facturas Infladas: Ingeniería de Contexto y Agentes para ahorrar Tokens al programar con IA*\nIngeniero de software con más de 6 años de experiencia en arquitectura y desarrollo asistido por IA. Trabaja en cómo integrar agentes y LLMs en pipelines reales sin sacrificar calidad, testing ni convenciones del equipo. Los agentes abren sistemas cada vez más sofisticados y pueden disparar el consumo de tokens: Manuel muestra cómo optimizar el contexto, elegir el modelo según la tarea y aplicar pruning, Progressive Disclosure y Prompt Caching.\n\n**Raúl López Caña** — Fullstack Engineer @ Galp\n*Anatomía de un MCP: construyendo la capa de IA de una organización*\nFullstack especializado en frontend y obsesionado con la experiencia de desarrollo de los equipos. Raúl abre un MCP construido para un entorno de productos y repasa su arquitectura, herramientas, contexto, seguridad, observabilidad e integraciones con sistemas corporativos. Qué hace falta para que un modelo deje de ser un chatbot y empiece a entender cómo funciona una organización.\n\n**Osmani Redondo**\n*¿Quién controla a los agentes? Seguridad y gobernanza en la era de la IA*\nCon agentes ganando autonomía y acceso a herramientas, la seguridad y la gobernanza dejan de ser un añadido y pasan a la arquitectura. Osmani repasa cómo abordar esos retos y qué hace falta para mantener bajo control sistemas cada vez más capaces.\n\n## Agenda\n\n18:30 — Check-in\n18:45 — Bienvenida y presentación de comunidades\n18:50 — De Cajas Negras a Facturas Infladas — Manuel Fernández (25 min de charla + 5 de preguntas)\n19:20 — Anatomía de un MCP — Raúl López Caña (25 min de charla + 5 de preguntas)\n19:50 — ¿Quién controla a los agentes? — Osmani Redondo (25 min de charla + 5 de preguntas)\n20:20 — Cierre\n20:25 — Networking 🍻\nDespués nos tomamos algo por la zona. Quédate hasta el final para conocer a la gente de la comunidad.\n\n## Para quién es\n\nNo hace falta ser especialista en agentes. Está pensado para developers e ingenieros que ya usan IA a diario, arquitectos y perfiles técnicos interesados en sistemas agentic, quien explore MCPs y otras formas de conectar modelos con sistemas internos, tech leads, DevOps y responsables de plataformas que quieren llevar agentes a producción. Si ya te preguntas qué pasa cuando dejamos de usar la IA como chatbot y empezamos a integrarla en nuestros sistemas, aquí encontrarás respuestas.\n\n## Información práctica\n\n📅 Jueves, 17 de septiembre de 2026 (comprobado: cae en jueves)\n🕡 18:30\n📍 Madrid\n🎟 Entrada gratuita hasta completar aforo\n📩 Reserva tu plaza (oficial, Codemotion): [https://community.codemotion.com/codemotion-espana/meetups/codemeet-madrid-quin-controla-a-los-agentes-de-ahorrar-tokens-a-construir-mcps](https://community.codemotion.com/codemotion-espana/meetups/codemeet-madrid-quin-controla-a-los-agentes-de-ahorrar-tokens-a-construir-mcps)\nLa IA ya puede actuar. La pregunta es si nuestra ingeniería está preparada para dejarla hacerlo.",
-    "start_at": "2026-09-17T18:30:00+02:00",
-    "url": "https://www.meetup.com/arcasiles-community-madrid/events/316300285/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "2 Plaza de Manuel Gómez-Moreno",
-    "organizer": "Arcasiles Community Madrid",
-    "attendees": 8,
-    "max_tickets": 8,
-    "spots_left": 0,
-    "found_in": [
-      "Hackathon"
-    ],
-    "lat": 40.4485287,
-    "lng": -3.6940143
   },
   {
     "source": "meetup",

@@ -73,11 +73,11 @@
     "found_in": [
       "madrid"
     ],
-    "description": "What if your favorite coffee shop came with great Wi-Fi, cutting-edge AI talks, free credits, and a room full of people building interesting things?\nWelcome to Cafe Compute: Madrid ☕️💻\nWe’re taking over a coffee shop for the entire day and turning it into a home base for Madrid’s AI community. Bring your laptop, grab a coffee, and spend the day working, experimenting, meeting fellow builders, or finally shipping that idea you’ve been thinking about.\nAlongside plenty of time to cowork and connect, we’ll have talks, demos, and conversations featuring  Cerebras, OpenAI, Mastra and members of the local community.\nExpect:\n☕ A coffee shop reserved for our community all day💻 Space to work, code, and collaborate⚡ Talks and demos from Mastra, Cerebras, and OpenAI🎤 Community-led sessions and project showcases🎁 OpenAI credits for attendees🤝 Founders, engineers, researchers, and AI-curious builders\nThis isn’t a traditional conference. Come for one session or settle in for the whole day. Meet new collaborators, exchange ideas, get feedback on what you’re building, and enjoy a productive Saturday with Madrid’s AI community.\nBring your laptop and charger. We’ll take care of the coffee, compute, and good company.\n\nThe detailed talk schedule and speakers will be announced soon.",
+    "description": "What if your favorite coffee shop came with great Wi-Fi, cutting-edge AI talks, free credits, and a room full of people building interesting things?\nWelcome to Cafe Compute: Madrid ☕️💻\nWe’re taking over a coffee shop for the entire day and turning it into a home base for Madrid’s AI community. Bring your laptop, grab a coffee, and spend the day working, experimenting, meeting fellow builders, or finally shipping that idea you’ve been thinking about.\nAlongside plenty of time to cowork and connect, we’ll have talks, demos, and conversations featuring  Cerebras, OpenAI, Mastra and members of the local community.\nExpect:\n☕ A coffee shop reserved for our community all day💻 Space to work, code, and collaborate⚡ Talks and demos from Mastra, Cerebras, and OpenAI🎤 Community-led sessions and project showcases🎁 OpenAI credits for attendees🤝 Founders, engineers, researchers, and AI-curious builders\nThis isn’t a traditional conference. Come for one session or settle in for the whole day. Meet new collaborators, exchange ideas, get feedback on what you’re building, and enjoy a productive Saturday with Madrid’s AI community.\nBring your laptop and charger. We’ll take care of the coffee, compute, and good company.\n\nSchedule:11:00-11:20 Dmitry Gaynullin (Cerebras)\n11:30-12:00 Juan Cabañas (OpenAI Ambassador, Madrid)\n12:00-12:30 Rohit Gupta (haze.)\nLUNCH\n16:00-16:30 Alex Booker (Mastra)\n16:30-17:00 Juan Gómez (Hermet)\n17:00-17:30 Eusebio Graciani (Nothiring)",
     "categories": [
       "AI"
     ],
-    "guest_count": 106,
+    "guest_count": 118,
     "sold_out": true,
     "waitlist_active": true,
     "registration_deadline": null,
@@ -163,7 +163,7 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 49,
+    "guest_count": 50,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,
@@ -248,7 +248,7 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 51,
+    "guest_count": 55,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,
@@ -276,7 +276,7 @@
     "categories": [
       "AI"
     ],
-    "guest_count": 72,
+    "guest_count": 73,
     "sold_out": true,
     "waitlist_active": true,
     "registration_deadline": null,
@@ -296,7 +296,7 @@
     "address": "J&J's Books and Coffee",
     "organizer": "Madrid Tech Brunch",
     "is_free": false,
-    "cover_image": "https://images.lumacdn.com/uploads/gy/19fc46d8-1bef-45c9-91d0-319cbcde43bc.png",
+    "cover_image": "https://images.lumacdn.com/uploads/ty/59c23cad-4401-4c01-a4a2-4a4ceb8c65d3.png",
     "found_in": [
       "madrid-tech-brunch"
     ],
@@ -304,7 +304,7 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 5,
+    "guest_count": 6,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,
@@ -324,7 +324,7 @@
     "address": "J&J's Books and Coffee",
     "organizer": "Madrid Tech Brunch",
     "is_free": false,
-    "cover_image": "https://images.lumacdn.com/uploads/gy/19fc46d8-1bef-45c9-91d0-319cbcde43bc.png",
+    "cover_image": "https://images.lumacdn.com/uploads/9p/316feea8-2f38-4770-b038-468aaebee98d.png",
     "found_in": [
       "madrid-tech-brunch"
     ],

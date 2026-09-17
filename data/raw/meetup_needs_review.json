@@ -11,11 +11,50 @@
     "city": "",
     "address": "",
     "organizer": "Power Platform Madrid",
-    "attendees": 10,
+    "attendees": 11,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316581903",
+    "name": "Seguimiento comercial con IA - Diseña campañas para tus clientes.",
+    "description": "Muchas empresas acumulan contactos interesados, propuestas pendientes y clientes con los que han perdido el contacto. Dar seguimiento a esas relaciones requiere organización, contexto y mensajes que lleguen en el momento adecuado.\n\nEn este encuentro online veremos **cómo diseñar y ejecutar campañas de seguimiento de preventa y postventa con IA, y convertirlas en un servicio que puedas ofrecer a tus clientes.**\nTrabajaremos con ejemplos de seguimiento de propuestas, recuperación de oportunidades, acompañamiento tras la compra y reactivación de clientes.\n\nRecorreremos tanto el diseño de la campaña como los datos, la configuración del correo y los aspectos legales que debes revisar antes de activarla.\n\n## Qué veremos\n\n* Cómo identificar oportunidades de seguimiento en la base de leads y clientes de una empresa.\n* Cómo diferenciar campañas de **preventa, postventa, reactivación y recompra.**\n* Cómo segmentar contactos según su relación con el negocio, sus necesidades y sus interacciones anteriores.\n* Cómo definir el objetivo, el mensaje, la frecuencia y las condiciones de salida de cada campaña.\n* Qué aspectos revisar sobre **RGPD, LSSI, permisos de contacto y solicitudes de baja.**\n* Cómo preparar dominios y buzones y qué papel tienen **SPF, DKIM y DMARC.**\n* Cómo abordar el calentamiento de buzones y el volumen de envío según el caso, y cómo interpretar rebotes y quejas de spam.\n* Cómo utilizar IA para preparar mensajes personalizados y secuencias con revisión humana.\n* Cómo conectar las campañas con el CRM, gestionar respuestas y detener el seguimiento cuando corresponda.\n* Cómo medir resultados: respuestas, oportunidades recuperadas, conversiones y recompra.\n* Cómo convertir este proceso en un servicio con alcance, precio y responsabilidades definidos.\n* Un framework práctico: **objetivo → segmento → datos y permisos → mensajes → ejecución → seguimiento → resultados.**\n\n🎓 **Encuentro online gratuito**\n⏱️ **Duración aproximada: 90 min + Q&A**\n🤝 **Impulsado por InvokeApp**",
+    "start_at": "2026-10-20T16:00:00+02:00",
+    "url": "https://www.meetup.com/ia-para-agencias-freelancers-y-consultores/events/316581903/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "IA para Agencias, Freelancers y Consultores",
+    "attendees": 4,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316539256",
+    "name": "[ONLINE] Resolución de dudas de Programación e IA",
+    "description": "¿Tienes dudas sobre programación, Inteligencia Artificial, qué camino formativo seguir o cómo afrontar una asignatura que se te está atragantando? Este será un espacio abierto para plantearlas y recibir orientación clara, práctica y adaptada a cada caso.\n\nPuedes enviar tus preguntas por privado antes del evento o escribirlas directamente durante la sesión. Se podrán tratar cuestiones como dificultades con Python, Java, C, algoritmos, prácticas, preparación de exámenes, proyectos, elección de estudios, formación en IA, aprendizaje autónomo o primeros pasos para acceder al sector tecnológico.\n\nAprender programación y nuevas tecnologías puede resultar exigente. Muchas personas se sienten bloqueadas porque no terminan de comprender ciertos fundamentos, no saben cómo estudiar, acumulan dudas o no tienen claro qué conocimientos necesitan realmente. Otras quieren empezar desde cero, pero no saben por dónde hacerlo ni qué itinerario tiene más sentido para sus objetivos.\n\nDurante el evento recogeremos las dudas planteadas, analizaremos los problemas habituales y compartiremos estrategias concretas para avanzar. El propósito no es ofrecer respuestas genéricas, sino aportar criterios, recursos y posibles pasos siguientes que te ayuden a entender mejor tu situación y tomar decisiones formativas con más seguridad.\n\nLa sesión estará moderada por un ingeniero informático, profesor de Ingeniería del Software durante varios años en universidades públicas y privadas, y doctor (PhD) en Inteligencia Artificial. Desde esa experiencia académica y profesional, se ofrecerá una visión práctica sobre el aprendizaje de programación, los estudios tecnológicos y las competencias que conviene desarrollar.\n\nAdemás, al final de la sesión se presentarán los cursos, talleres y propuestas formativas de la escuela de Programación e Inteligencia Artificial, para quienes quieran continuar aprendiendo con un itinerario más guiado.",
+    "start_at": "2026-09-26T20:00:00+02:00",
+    "url": "https://www.meetup.com/universidad-de-programacion-e-inteligencia-artificial/events/316539256/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Escuela de Programación e IA a Profesionales",
+    "attendees": 3,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence",
+      "Machine Learning"
     ]
   },
   {
@@ -115,7 +154,8 @@
     "max_tickets": 100,
     "spots_left": 99,
     "found_in": [
-      "Artificial Intelligence"
+      "Artificial Intelligence",
+      "Startups"
     ]
   },
   {
@@ -177,7 +217,8 @@
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence",
-      "Machine Learning"
+      "Machine Learning",
+      "Data Science"
     ]
   },
   {
@@ -232,31 +273,11 @@
     "city": "",
     "address": "",
     "organizer": "ODSC AI Madrid",
-    "attendees": 0,
+    "attendees": 2,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
       "Data Science"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Data Science",
-    "source_id": "316524838",
-    "name": "AnalyticsCLUB JobExpo Virtual Business, Data & Technology Job Expo",
-    "description": "**What is FirstFridayFair Monthly Job Fair?**\n\nFirstFridayFair Monthly Job Fair is a **global virtual job fair and remote hiring event** hosted by the Analytics CLUB community. This **online job fair platform** brings together **professionals, employers, recruiters, and career coaches** for an immersive, **self-managed career networking experience**.\n\n🎥 **New to FirstFridayFair? Watch our explainer video here:** [https://youtu.be/NlLaCfOjosk](https://youtu.be/NlLaCfOjosk)\n\n**Where and When?**\n📍 Online at [https://events.tao.ai/pod/analytics.club/6j382kbpcnvd](https://events.tao.ai/pod/analytics.club/6j382kbpcnvd)\n🗓 First Friday of the month\n⏰ 11:00 AM - 2:00 PM (Local Time Zone)\n🌍 Open to participants globally\n\n🌍 **Who should join?**\n\n* **Job Seekers:** Looking for their next big break in **remote or local roles**.\n* **Employers & Recruiters:** Eager to find top talent across industries.\n* **Service Providers & Career Coaches:** Supporting professionals with tools, tips, and resources.\n* **Career Enthusiasts & Explorers:** Wishing to expand their network and knowledge.\n\n💬 **Where does the event take place?**\nThis interactive event is hosted on a **Slack-like community chat platform**, making it easy to **join from anywhere** and interact in **real-time group chats and 1-1 video or text conversations**.\n🚀 **What can you do at the event?**\nAttendees can explore several themed **Slack job fair channels** designed for **job networking, peer-to-peer support, and industry discussions**:\n\n* **General:** Intros, announcements, and casual networking.\n* **Networking:** Showcase your portfolio, startup, or job pitch.\n* **Intros:** Meet others, share your career path, and connect personally.\n* **Help Wanted:** Offer your skills or seek help from others.\n* **Industry Room Tech:** Discuss the latest in programming, software, and tech trends.\n\nAdditionally, attendees can engage in:\n\n* **1-1 video and text chats** with other attendees, recruiters, or service providers.\n* Visit the **virtual job openings board** to browse active listings and **connect with recruiters online**.\n* Participate in **live job fair chat**, where you can ask career-related questions, get **online resume tips**, and explore ways to stand out in the hiring process.\n\n❓ **Why join FirstFridayFair Monthly Job Fair?**\n\n* Access **global job networking events** right from your device.\n* Explore **virtual hiring events** designed for professionals seeking flexibility and growth.\n* Engage in meaningful conversations and discover **remote hiring opportunities**.\n* Take advantage of a **self-managed and open community platform**, allowing you to connect at your own pace.\n* Use the dedicated channels to **showcase your skills, ask questions, and build lasting professional connections**.\n\n**Have Questions or Suggestions?**\nWe’d love to help: [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)",
-    "start_at": "2026-10-02T11:00:00+02:00",
-    "url": "https://www.meetup.com/ac-mad/events/316524838/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Analytics.CLUB Madrid",
-    "attendees": 1,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Data Science",
-      "Hackathon"
     ]
   },
   {
@@ -356,6 +377,25 @@
   },
   {
     "source": "meetup",
+    "source_slug": "Hackathon",
+    "source_id": "316524838",
+    "name": "AnalyticsCLUB JobExpo Virtual Business, Data & Technology Job Expo",
+    "description": "**What is FirstFridayFair Monthly Job Fair?**\n\nFirstFridayFair Monthly Job Fair is a **global virtual job fair and remote hiring event** hosted by the Analytics CLUB community. This **online job fair platform** brings together **professionals, employers, recruiters, and career coaches** for an immersive, **self-managed career networking experience**.\n\n🎥 **New to FirstFridayFair? Watch our explainer video here:** [https://youtu.be/NlLaCfOjosk](https://youtu.be/NlLaCfOjosk)\n\n**Where and When?**\n📍 Online at [https://events.tao.ai/pod/analytics.club/6j382kbpcnvd](https://events.tao.ai/pod/analytics.club/6j382kbpcnvd)\n🗓 First Friday of the month\n⏰ 11:00 AM - 2:00 PM (Local Time Zone)\n🌍 Open to participants globally\n\n🌍 **Who should join?**\n\n* **Job Seekers:** Looking for their next big break in **remote or local roles**.\n* **Employers & Recruiters:** Eager to find top talent across industries.\n* **Service Providers & Career Coaches:** Supporting professionals with tools, tips, and resources.\n* **Career Enthusiasts & Explorers:** Wishing to expand their network and knowledge.\n\n💬 **Where does the event take place?**\nThis interactive event is hosted on a **Slack-like community chat platform**, making it easy to **join from anywhere** and interact in **real-time group chats and 1-1 video or text conversations**.\n🚀 **What can you do at the event?**\nAttendees can explore several themed **Slack job fair channels** designed for **job networking, peer-to-peer support, and industry discussions**:\n\n* **General:** Intros, announcements, and casual networking.\n* **Networking:** Showcase your portfolio, startup, or job pitch.\n* **Intros:** Meet others, share your career path, and connect personally.\n* **Help Wanted:** Offer your skills or seek help from others.\n* **Industry Room Tech:** Discuss the latest in programming, software, and tech trends.\n\nAdditionally, attendees can engage in:\n\n* **1-1 video and text chats** with other attendees, recruiters, or service providers.\n* Visit the **virtual job openings board** to browse active listings and **connect with recruiters online**.\n* Participate in **live job fair chat**, where you can ask career-related questions, get **online resume tips**, and explore ways to stand out in the hiring process.\n\n❓ **Why join FirstFridayFair Monthly Job Fair?**\n\n* Access **global job networking events** right from your device.\n* Explore **virtual hiring events** designed for professionals seeking flexibility and growth.\n* Engage in meaningful conversations and discover **remote hiring opportunities**.\n* Take advantage of a **self-managed and open community platform**, allowing you to connect at your own pace.\n* Use the dedicated channels to **showcase your skills, ask questions, and build lasting professional connections**.\n\n**Have Questions or Suggestions?**\nWe’d love to help: [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)",
+    "start_at": "2026-10-02T11:00:00+02:00",
+    "url": "https://www.meetup.com/ac-mad/events/316524838/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Analytics.CLUB Madrid",
+    "attendees": 1,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Hackathon"
+    ]
+  },
+  {
+    "source": "meetup",
     "source_slug": "Artificial Intelligence",
     "source_id": "316335741",
     "name": "MARCHA POR LA LONGEVIDAD DE MADRID: Jueves 1 de octubre, 14:00 - 15:30, CET",
@@ -385,9 +425,9 @@
     "city": "Madrid",
     "address": "C. del Marqués de Casa Riera, 4, Centro, 28014 Madrid, Spain",
     "organizer": "Cloudflare User Group España (IA, CyberSecurity & Edge Dev)",
-    "attendees": 40,
+    "attendees": 42,
     "max_tickets": 50,
-    "spots_left": 10,
+    "spots_left": 8,
     "found_in": [
       "Artificial Intelligence",
       "Hackathon"
@@ -405,9 +445,9 @@
     "city": "Madrid",
     "address": "Francisco Silvela 36, planta 1-puerta 3",
     "organizer": "Sisu · Mujeres en Bienestar y Consciencia",
-    "attendees": 1,
+    "attendees": 3,
     "max_tickets": 10,
-    "spots_left": 9,
+    "spots_left": 7,
     "found_in": [
       "Data Science"
     ]
@@ -462,30 +502,11 @@
     "city": "Madrid",
     "address": "Pl. de Manuel Gómez-Moreno, 2, Tetuán, 28020 Madrid, Spain",
     "organizer": "GoMAD - Madrid Go UG",
-    "attendees": 21,
+    "attendees": 22,
     "max_tickets": 60,
-    "spots_left": 39,
+    "spots_left": 38,
     "found_in": [
       "DevOps"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Startups",
-    "source_id": "316151855",
-    "name": "Women, Work & Wine🍷 Rooftop | by PNM",
-    "description": "**Precio, info más abajo👇**\nDespués de registrarte aquí en Meetup **CONFIRMA** TU PRESENCIA EN MI **NUMERO DE [WhatsApp aquí](https://wa.me/+393395021742)**\no Escríbeme para más información y próximos eventos\n*(si la plataforma te pide que pagues cierra la ventana con la X)*\n\nHa llegado algo nuevo dentro de [PNM - Professional Network Madrid](https://www.instagram.com/professionalsnetwork.madrid)...\n\n**Women\\, Work & Wine 🍷\\| by PNM** nace como una salida entre mujeres profesionales, emprendedoras, freelancers y mujeres con ganas de conectar en un ambiente más cercano, relajado y real.\n\nNo será un evento súper formal y lo haremos cada 2-3 meses.\nSerá un encuentro para hablar de *trabajo, proyectos, ideas, retos, oportunidades… pero también de vida, cambios, decisiones, motivación* y todo eso que normalmente aparece cuando las conversaciones fluyen de verdad💖.\n\n**La idea es simple:**\ncrear un espacio más íntimo y femenino dentro de la comunidad PNM, donde podamos conocernos mejor, compartir experiencias y abrir nuevas conexiones.\n\n**Es algo nuevo para nosotras también, pero sentimos que puede gustar mucho y los dos encuentros anteriores nos lo han confirmado con creces.**\n\n### ¿Para quién es?\n\nPara mujeres profesionales, emprendedoras, freelancers, estudiantes, mujeres en transición laboral o con proyectos propios, y en general mujeres que quieren rodearse de otras mujeres con mentalidad de crecimiento.\nNo hace falta venir con un pitch perfecto.\nVen con ganas de conversar, escuchar, compartir y conectar.\n\nMe hace especial ilusión esta edición porque **conseguir un rooftop para eventos en Madrid no es nada fácil**, y esta vez estaremos en la terraza de un hotel 5 estrellas.\nAl llegar:\n**\\>Regístrate en reception** diciendo que vienes al evento de Networking Mujeres\n**\\>Sube al rooftop**\n**\\>Paga tu entrada en el bar** \\- incluye 2 drinks\n**\\>Recoge tu pegatina\\-nombre** y... ¡a conectar!😍\n\n📍 **UMusic Hotel Madrid – Rooftop**\n[Calle de la Paz, 11, Centro, 28012](https://maps.app.goo.gl/WxgC6vBYaGpduUVY7)\n🚇**Metro**: Sol\n\n📅 **Sábado** **19 septiembre**\n🕢 **18:00 - 22:00**\nEl rooftop cierra a las 22:30\n(Puedes también ponerte directamente en contacto conmigo en [WhatsApp aquí](https://wa.me/+393395021742))\n**DRESS CODE**: Business casual\n**Precio: 15€** con 2 soft drinks\n(se paga en el bar, aqui solo te registras)\n................\nEste encuentro nace desde la comunidad general **[Professionals & Entrepreneurs PNM](https://www.meetup.com/madrid-professionals-network/)**, nuestro espacio mensual de networking profesional en Madrid.\nOrganizamos 1 cada 2-3 meses, si no puedes venir pero quieres que te avise de próximos encuentros, escríbeme por privado aquí: **[LINK](https://wa.me/+393395021742)**\n\nHasta pronto!🌷",
-    "start_at": "2026-09-19T18:00:00+02:00",
-    "url": "https://www.meetup.com/madrid-professionals-network/events/316151855/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "Calle de la Paz, 11, 28012",
-    "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 92,
-    "max_tickets": 100,
-    "spots_left": 8,
-    "found_in": [
-      "Startups"
     ]
   },
   {

@@ -18,9 +18,9 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 44,
-      "sold_out": false,
-      "waitlist_active": false,
+      "guest_count": 45,
+      "sold_out": true,
+      "waitlist_active": true,
       "registration_deadline": null
     },
     "found_on_platforms": [
@@ -123,7 +123,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 185,
+      "guest_count": 184,
       "sold_out": true,
       "waitlist_active": true,
       "registration_deadline": null
@@ -194,7 +194,7 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 46,
+      "guest_count": 49,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -230,7 +230,7 @@
       ],
       "is_free": true,
       "guest_count": 0,
-      "sold_out": true,
+      "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
     },
@@ -299,7 +299,7 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 47,
+      "guest_count": 51,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -369,7 +369,7 @@
         "Tech"
       ],
       "is_free": false,
-      "guest_count": 0,
+      "guest_count": 5,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -435,9 +435,9 @@
     "lat": 40.4207507,
     "lng": -3.708179,
     "extra": {
-      "attendees": 57,
+      "attendees": 58,
       "max_tickets": 120,
-      "spots_left": 63
+      "spots_left": 62
     },
     "found_on_platforms": [
       "meetup"
@@ -615,7 +615,7 @@
     "lat": 40.4485287,
     "lng": -3.6940143,
     "extra": {
-      "attendees": 14,
+      "attendees": 13,
       "max_tickets": 0,
       "spots_left": null
     },
@@ -709,9 +709,9 @@
     "lat": 40.4490059,
     "lng": -3.6708446,
     "extra": {
-      "attendees": 67,
+      "attendees": 68,
       "max_tickets": 80,
-      "spots_left": 13
+      "spots_left": 12
     },
     "found_on_platforms": [
       "meetup"
@@ -892,9 +892,9 @@
     "lat": -31.4124189,
     "lng": -64.1505784,
     "extra": {
-      "attendees": 36,
+      "attendees": 37,
       "max_tickets": 90,
-      "spots_left": 54
+      "spots_left": 53
     },
     "found_on_platforms": [
       "meetup"

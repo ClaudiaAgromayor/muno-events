@@ -11,9 +11,9 @@
     "city": "Madrid",
     "address": "C. de San Bernardo, 2, Centro, 28013 Madrid",
     "organizer": "Madrid Networking Club",
-    "attendees": 57,
+    "attendees": 58,
     "max_tickets": 120,
-    "spots_left": 63,
+    "spots_left": 62,
     "found_in": [
       "Artificial Intelligence",
       "Startups"
@@ -129,7 +129,6 @@
     "spots_left": 0,
     "found_in": [
       "Artificial Intelligence",
-      "Machine Learning",
       "Startups",
       "Hackathon"
     ],
@@ -148,7 +147,7 @@
     "city": "Madrid",
     "address": "Plaza de Manuel Gómez-Moreno, 2, Tetuán, 28020",
     "organizer": "Codemotion Meetup en España",
-    "attendees": 14,
+    "attendees": 13,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -237,9 +236,9 @@
     "city": "Madrid",
     "address": "Calle de Pradillo, 42, 28002 Madrid, Spain",
     "organizer": "ProductTank Madrid",
-    "attendees": 67,
+    "attendees": 68,
     "max_tickets": 80,
-    "spots_left": 13,
+    "spots_left": 12,
     "found_in": [
       "DevOps",
       "Startups"
@@ -364,9 +363,9 @@
     "city": "Madrid",
     "address": "Bailén, 41",
     "organizer": "Quantum Madrid by Entangle",
-    "attendees": 36,
+    "attendees": 37,
     "max_tickets": 90,
-    "spots_left": 54,
+    "spots_left": 53,
     "found_in": [
       "Startups",
       "Hackathon"

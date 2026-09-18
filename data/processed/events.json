@@ -18,7 +18,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 132,
+      "guest_count": 136,
       "sold_out": true,
       "waitlist_active": true,
       "registration_deadline": null
@@ -229,7 +229,7 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 75,
+      "guest_count": 79,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -299,7 +299,7 @@
         "Tech"
       ],
       "is_free": false,
-      "guest_count": 37,
+      "guest_count": 38,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": "2026-09-21T18:00:59.000Z"
@@ -313,76 +313,6 @@
       "idioma": "es",
       "comida_gratis": "no_especificado",
       "se_graba": "no_especificado"
-    }
-  },
-  {
-    "id": "luma:evt-e40eDm5DqQmcSlb",
-    "source": "luma",
-    "source_id": "evt-e40eDm5DqQmcSlb",
-    "name": "Inteligencia Emprendedora: talento y visión en la era de la IA",
-    "description": "Inteligencia Emprendedora: talento y visión en la era de la IA. Un espacio de conexión e innovación emprendedora creado por holded.\n¿Cómo está impactando la IA en el emprendimiento? ¿Están los emprendedores liderando el uso de la inteligencia artificial?\nDesde Holded, hemos querido dar respuesta a las preguntas que todo emprendedor tiene en la cabeza ahora mismo. Hemos creado un espacio en el que destacamos no solo el papel de la inteligencia artificial, sino el de la inteligencia emprendedora que la utiliza para hacer cosas que antes parecían imposibles.\n📍 Espacio Rastro Madrid, C/ San Cayetano, 5,  Madrid\n🗓 1 de octubre\n⏰ 17:00h - 22:00h\nEl espacio Rastro de Madrid será todo un HUB emprendedor donde podrás disfrutar de:📊 Una exposición que combina inspiración, datos del ecosistema emprendedor español y un espacio interactivo donde podrás compartir tu propia visión del futuro (17.00 - 22.00).       *Habrá visitas guiadas (17.00/17.30/18.00).💡Una masterclass de IA para emprendedores a cargo de Jon Hernández con diversos trucos para aplicar ya en tu pyme (18.30 - 19.30)\n🎤 Un mesa redonda sobre el impacto de la IA en el emprendimiento con Uri Sabat (Podcast La fórmula del éxito) más invitados (19.30 - 20.30)\n🥂 Cóctel para compartir ideas, aprendizajes y conectar con otros emprendedores (20.30 - 22.00)\nTe esperamos. Porque el futuro del emprendimiento lo construyes tú también con tu talento y tu visión 🚀",
-    "start_at": "2026-10-01T15:00:00.000Z",
-    "end_at": "2026-10-01T20:00:00.000Z",
-    "url": "https://lu.ma/wzeojows",
-    "city": "Madrid",
-    "address": "Espacio Rastro Madrid",
-    "organizer": "holded",
-    "lat": 40.4090771,
-    "lng": -3.7068435999999996,
-    "extra": {
-      "categories": [
-        "AI"
-      ],
-      "is_free": true,
-      "guest_count": 0,
-      "sold_out": false,
-      "waitlist_active": false,
-      "registration_deadline": null
-    },
-    "found_on_platforms": [
-      "luma"
-    ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
-  },
-  {
-    "id": "luma:evt-AB6eSlcEOuMNykO",
-    "source": "luma",
-    "source_id": "evt-AB6eSlcEOuMNykO",
-    "name": "SheAI ft. Pitchless Show-and-Tell: Women Curious About AI",
-    "description": "SheAI Madrid ft. Pitchless Show-and-Tell: Women Curious About AI\nA SheAI Madrid & Pitchless first joint community evening open to where women share what they've been experimenting with in AI. Tools, workflows, side projects, frameworks ... whatever they've been curious about lately.\nFive women from our the Madrid AI community will each take 5–7 minutes to show something they've been playing with — from vibe coding to AI frameworks — followed by questions from the room. We'll wrap up with an open discussion and then head out for drinks nearby.\nAll experience levels welcome.\n🗓 Friday, 2nd October⏰ 5:00 pm – 7:30 pm📍 Puerta Innovación, Calle de Toledo 110, Madrid🎟 Free\n👩‍💻👩‍💻 Your hosts:\nThis evening came together the way the best things do — Petr Bilikova (SheAI Madrid) and Sarah Malinowski Coutanson (Pitchless) kept running into each other at AI events across Madrid in spring 2026, and at some point it just became obvious they had to organise something together.\n💛 Part of something bigger. This meetup is a joint initiative of two communities:\nSheAI Madrid – a local chapter of SheAI, a global community of 1,000+ women learning and building with AI. After you join, you'll find us on WhatsApp too — make sure to join the Madrid local hub. 👉 sheai.co\nPitchless – accelerating builder journeys. Pre-accelerator for 1000+ early-stage tech founders in Madrid and Spain. Build, ship, and raise with people doing the same. 👉https://luma.com/pitchless.community\n---------\nCan't make it? Register on the SheAI platform to stay informed about upcoming events! Click HERE.\nBy attending this event, participants consent to being photographed or filmed. Photos and videos may be used by SheAI for community communications and promotional purposes. If you'd prefer not to be photographed, just let the host know at the start of the event - no problem at all! 📸",
-    "start_at": "2026-10-02T15:00:00.000Z",
-    "end_at": "2026-10-02T17:30:00.000Z",
-    "url": "https://lu.ma/6c3cl0u5",
-    "city": "Madrid",
-    "address": "Puerta Innovación",
-    "organizer": "SheAI Madrid Community",
-    "lat": 40.4074994,
-    "lng": -3.7114533,
-    "extra": {
-      "categories": [
-        "AI"
-      ],
-      "is_free": true,
-      "guest_count": 48,
-      "sold_out": true,
-      "waitlist_active": true,
-      "registration_deadline": null
-    },
-    "found_on_platforms": [
-      "luma"
-    ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "si"
     }
   },
   {
@@ -439,7 +369,7 @@
         "Tech"
       ],
       "is_free": false,
-      "guest_count": 8,
+      "guest_count": 10,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -481,36 +411,6 @@
     },
     "found_on_platforms": [
       "luma"
-    ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
-  },
-  {
-    "id": "meetup:316442332",
-    "source": "meetup",
-    "source_id": "316442332",
-    "name": "Madrid AI Builders",
-    "description": "**IMPORTANT**\nRegister on Luma to guarantee your place:\n[https://luma.com/34klg13g](https://luma.com/34klg13g)\n\nBuilding something with AI? Curious about startups, agents, automation, content, coding, or the future of AI?\n\nJoin us for a relaxed Friday meetup for ambitious people in Madrid working on AI projects, startups, creative tools, or exploring the space. Expect a mix of founders, developers, creators, marketers, and people experimenting with new ideas.\n\nThe goal is simple: meet smart people, exchange ideas, and build genuine connections in the Madrid AI scene.",
-    "start_at": "2026-09-18T17:00:00+02:00",
-    "end_at": null,
-    "url": "https://www.meetup.com/madrid-marketing-club/events/316442332/",
-    "city": "Madrid",
-    "address": "C. de San Bernardo, 2, Centro, 28013 Madrid",
-    "organizer": "Madrid Networking Club",
-    "lat": 40.4207507,
-    "lng": -3.708179,
-    "extra": {
-      "attendees": 73,
-      "max_tickets": 120,
-      "spots_left": 47
-    },
-    "found_on_platforms": [
-      "meetup"
     ],
     "duplicate_ids": [],
     "enrichment": {
@@ -565,9 +465,9 @@
     "lat": null,
     "lng": null,
     "extra": {
-      "attendees": 20,
+      "attendees": 21,
       "max_tickets": 50,
-      "spots_left": 30
+      "spots_left": 29
     },
     "found_on_platforms": [
       "meetup"
@@ -840,7 +740,7 @@
     "lat": 40.4242298,
     "lng": -3.6963366,
     "extra": {
-      "attendees": 11,
+      "attendees": 12,
       "max_tickets": 0,
       "spots_left": null
     },
@@ -852,36 +752,6 @@
       "nivel": "no_especificado",
       "idioma": "no_especificado",
       "comida_gratis": "no",
-      "se_graba": "no_especificado"
-    }
-  },
-  {
-    "id": "meetup:316328092",
-    "source": "meetup",
-    "source_id": "316328092",
-    "name": "CRAFT NIGHT",
-    "description": "https://hacklab.laenre.net/eventos.html\n\nCRAFT NIGHT\nA.K.A HACKATON\n\nVen y construye con mas personas proyectos e ideas creativas.\nDesarrolla tu creatividad y une fuerzas con desarrollador@s de todo tipo, juntamos tecnologia, hardware, software libre, periodismo, hacking, filosofia, fisica, matematicas.\n\nhttps://hacklab.laenre.net/projects.html\n\nJulioVerne@Hacklab \\~: Todo lo que una persona puede imaginar, otra persona podra hacerlo.",
-    "start_at": "2026-09-18T18:30:00+02:00",
-    "end_at": null,
-    "url": "https://www.meetup.com/hacklab/events/316328092/",
-    "city": "Madrid",
-    "address": "calle coruña 5",
-    "organizer": "Hacklab La Raiz",
-    "lat": 37.7786423,
-    "lng": -3.8006506,
-    "extra": {
-      "attendees": 4,
-      "max_tickets": 0,
-      "spots_left": null
-    },
-    "found_on_platforms": [
-      "meetup"
-    ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
       "se_graba": "no_especificado"
     }
   },

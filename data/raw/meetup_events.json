@@ -2,28 +2,6 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
-    "source_id": "316442332",
-    "name": "Madrid AI Builders",
-    "description": "**IMPORTANT**\nRegister on Luma to guarantee your place:\n[https://luma.com/34klg13g](https://luma.com/34klg13g)\n\nBuilding something with AI? Curious about startups, agents, automation, content, coding, or the future of AI?\n\nJoin us for a relaxed Friday meetup for ambitious people in Madrid working on AI projects, startups, creative tools, or exploring the space. Expect a mix of founders, developers, creators, marketers, and people experimenting with new ideas.\n\nThe goal is simple: meet smart people, exchange ideas, and build genuine connections in the Madrid AI scene.",
-    "start_at": "2026-09-18T17:00:00+02:00",
-    "url": "https://www.meetup.com/madrid-marketing-club/events/316442332/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "C. de San Bernardo, 2, Centro, 28013 Madrid",
-    "organizer": "Madrid Networking Club",
-    "attendees": 73,
-    "max_tickets": 120,
-    "spots_left": 47,
-    "found_in": [
-      "Artificial Intelligence",
-      "Startups"
-    ],
-    "lat": 40.4207507,
-    "lng": -3.708179
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
     "source_id": "316482502",
     "name": "Meetup: IA, FinOps y Transformación Real",
     "description": "## Agenda\n\n​19:00 — Recepción y networking\nLlegada de asistentes, acreditación y primeras conversaciones con la comunidad.\n\n​19:15 — Bienvenida \\| SpainClouds \\+ FinOps Weekly \\+ Sirviendo Código\\.\n​Introducción breve al evento, comunidades y contexto de la sesión.\n​\n19:20 — Ponencia técnica \\| **Alfonso San Miguel Sánchez**\n​GenAI aplicado a FinOps: automatización, visibilidad y optimización cloud real\n\n​Una sesión práctica sobre cómo aplicar GenAI a procesos reales de FinOps y cloud optimization, utilizando inteligencia artificial para mejorar la visibilidad, acelerar el análisis de costes y detectar oportunidades de ahorro de forma proactiva.\n​Durante la sesión, Alfonso compartirá dos casos de uso reales:\n\n* ​Aplicación de GenAI para análisis y reporting de costes cloud.\n* ​Detección proactiva de iniciativas de optimización y ahorro potencial.\n\n​Una charla centrada en automatización, governance, eficiencia operativa y cómo pasar de la teoría a implementaciones reales con impacto directo en coste y operación.\n​\n**Speaker**\n​**Alfonso San Miguel Sánchez**\nMulti Cloud Architect & FinOps Expert\nLead Cloud Architect at B2 Impact\nCo-author of Efficient Cloud FinOps\nTrainer at FinOps Weekly Learn\n​LinkedIn: [/alfonsosanmiguel](https://www.linkedin.com/in/alfonsosanmiguel/?utm_source=luma)\n\n​19:40 — Ponencia \\| **Mayka López Arquero**\n​Operación aumentada: cómo preparar la organización para la era de la IA\n​\nLa experiencia de Naturgy impulsando nuevos modelos de trabajo donde negocio, personas e inteligencia artificial colaboran para resolver problemas reales.\n\n​Mayka compartirá aprendizajes y casos reales sobre:\n\n* ​Arquitectura de decisiones.\n* ​Operación aumentada.\n* ​Adopción de IA dentro de la organización.\n* ​Cambio cultural y generación de capacidades.\n* ​Cómo integrar nuevas tecnologías sin aumentar la complejidad.\n* ​Por qué la transformación empieza en las personas y no en las herramientas.\n\n​**Speaker**\n​**Mayka López Arquero**\nBusiness Transformation & Operating Model Leader at Naturgy\n​Especializada en transformación organizativa, operación aumentada, arquitectura de decisiones e integración de IA en entornos complejos.\n​LinkedIn: [/maykalopezarquero](https://www.linkedin.com/in/maykalopezarquero/?utm_source=luma)\n\n​20:00 — Conversación guiada \\| Mayka López Arquero \\+ Alfonso San Miguel \\+ Víctor García\n​¿Qué ocurre cuando juntamos tecnología, negocio y personas?\n\n​Una conversación sobre cómo conectar innovación tecnológica, transformación organizativa y ejecución real para construir organizaciones capaces de escalar en la era de la IA.\n\n​Hablaremos sobre:\n\n* ​Cómo evitar automatizar el caos.\n* ​IA aplicada a problemas reales de negocio.\n* ​FinOps en la era de los agentes.\n* ​Arquitectura de decisiones y gobierno.\n* ​Adopción y cambio cultural.\n* ​El equilibrio entre eficiencia, control e innovación.\n* ​Qué diferencia a las organizaciones que experimentan de las que realmente transforman.\n\n​**Moderador**\n​**Víctor García**\nFounder at FinOps Weekly\n\n​20:30 — Preguntas de la comunidad\n​Espacio abierto para preguntas, reflexión y debate con asistentes y speakers.\n\n​20:45 — Networking\n​Conversaciones entre asistentes, speakers y comunidad.\n\n​21:30 — Cierre",
@@ -38,7 +16,8 @@
     "spots_left": 9,
     "found_in": [
       "Artificial Intelligence",
-      "DevOps"
+      "DevOps",
+      "Startups"
     ],
     "lat": null,
     "lng": null
@@ -55,9 +34,9 @@
     "city": "Madrid",
     "address": "Av. Gran Vía del Este, 1, Vicálvaro, 28032 Madrid",
     "organizer": "AI Security Engineers - Madrid, ES",
-    "attendees": 20,
+    "attendees": 21,
     "max_tickets": 50,
-    "spots_left": 30,
+    "spots_left": 29,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -280,34 +259,14 @@
     "city": "Madrid",
     "address": "C. de Belén, 7",
     "organizer": "Out in Tech - Madrid",
-    "attendees": 11,
+    "attendees": 12,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Startups"
+      "Startups",
+      "Hackathon"
     ],
     "lat": 40.4242298,
     "lng": -3.6963366
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Hackathon",
-    "source_id": "316328092",
-    "name": "CRAFT NIGHT",
-    "description": "https://hacklab.laenre.net/eventos.html\n\nCRAFT NIGHT\nA.K.A HACKATON\n\nVen y construye con mas personas proyectos e ideas creativas.\nDesarrolla tu creatividad y une fuerzas con desarrollador@s de todo tipo, juntamos tecnologia, hardware, software libre, periodismo, hacking, filosofia, fisica, matematicas.\n\nhttps://hacklab.laenre.net/projects.html\n\nJulioVerne@Hacklab \\~: Todo lo que una persona puede imaginar, otra persona podra hacerlo.",
-    "start_at": "2026-09-18T18:30:00+02:00",
-    "url": "https://www.meetup.com/hacklab/events/316328092/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "calle coruña 5",
-    "organizer": "Hacklab La Raiz",
-    "attendees": 4,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Hackathon"
-    ],
-    "lat": 37.7786423,
-    "lng": -3.8006506
   }
 ]

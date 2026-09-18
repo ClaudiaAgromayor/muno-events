@@ -191,7 +191,7 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 61,
+    "guest_count": 66,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,
@@ -306,6 +306,34 @@
     "guest_count": 48,
     "sold_out": true,
     "waitlist_active": true,
+    "registration_deadline": null,
+    "lat": 40.4074994,
+    "lng": -3.7114533
+  },
+  {
+    "source": "luma",
+    "source_slug": "madai",
+    "source_id": "evt-BGzmAd9sLbh5DCg",
+    "name": "Anatomía de un agente de soporte en producción: del contacto real a la resolución",
+    "start_at": "2026-10-15T17:00:00.000Z",
+    "end_at": "2026-10-15T18:30:00.000Z",
+    "timezone": "Europe/Madrid",
+    "url": "https://lu.ma/e43g6p3z",
+    "city": "Madrid",
+    "address": "Puerta Innovación",
+    "organizer": "MadAi",
+    "is_free": true,
+    "cover_image": "https://images.lumacdn.com/uploads/ad/703fd74e-9a7d-4f7c-acd4-76081b1035a6.jpg",
+    "found_in": [
+      "madai"
+    ],
+    "description": "Coger un LLM y ponerlo a resolver soporte real parece sencillo… hasta que reembolsa un pedido que nunca existió, ejecuta acciones que no se pueden deshacer, o se desvía de la tarea cuanto más larga es la conversación. Entre una demo impresionante y un agente que funciona de verdad en producción hay un mundo.\nEn esta charla cuento cómo llevamos un agente de soporte de IA a producción en Groupon: los problemas reales (los que no salen en las demos), el control dinámico del contexto y las herramientas de turno a turno, y por qué la pieza clave no fue un prompt mejor, sino decidir qué puede hacer el agente en cada momento. También hablaré de la otra mitad del problema —quién construye y mantiene estos agentes— y de cómo hacer que personas no técnicas puedan operarlos sin escribir código.\nUna charla honesta sobre qué funcionó, qué se rompió, y qué aprendimos por el camino.PonenteDaniel LledóSr ML & AI Manager en Groupon",
+    "categories": [
+      "AI"
+    ],
+    "guest_count": 1,
+    "sold_out": false,
+    "waitlist_active": false,
     "registration_deadline": null,
     "lat": 40.4074994,
     "lng": -3.7114533

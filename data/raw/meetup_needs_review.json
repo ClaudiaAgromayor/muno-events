@@ -11,7 +11,7 @@
     "city": "",
     "address": "",
     "organizer": "Power Platform Madrid",
-    "attendees": 15,
+    "attendees": 16,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -100,27 +100,6 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
-    "source_id": "316289559",
-    "name": "Networking for AI Professionals around the world - Sept 22",
-    "description": "**1 Hour \\| Free \\| Online**\n**AI Professionals - Connect, Collaborate, Share and more..**\n\nAn interactive session for networking, insight and opportunity. Connect with like minds in our global AI Professionals community.\n\n**Networking Sessions**:\nSmall-group breakout sessions designed to help you connect with like-minded professionals in AI — from developers and data scientists to strategists, product managers, and emerging talent from around the world.\n\n**Global Connections, Local Impact -** Whether you're job-hunting, hiring, looking to collaborate, or just want to meet other AI Professionals — this event is for you.\n\n**Who Should Attend?**\n✔️ AI Engineers & Developers\n✔️ Data Scientists & Analysts\n✔️ AI/ML Researchers & Students\n✔️ AI Product Leads & Strategists\n✔️ AI Business/Tech Professionals\n\nBring your enthusiasm for this space, curiosity, and conversation and connect with like minds from around the world\n\n**Let’s build the future of AI together — one connection at a time!**\n\nNOTE: This event is also being promoted on other related groups.",
-    "start_at": "2026-09-22T20:30:00+02:00",
-    "url": "https://www.meetup.com/ai-professionals-madrid/events/316289559/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "AI Professionals Madrid",
-    "attendees": 7,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Data Science"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
     "source_id": "315388183",
     "name": "Sept 24 - AI, ML and Computer Vision Meetup",
     "description": "Join our virtual meetup on September 24 to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Date, Time and Location**\n\nSep 24, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-september-24-2026)**\n\n**How Do Mercedes-Benz AI Principles Drive our Innovation?**\n\nAt Mercedes-Benz, our AI Principles guide every step of innovation, emphasizing responsible use, safety and reliability, explainability, and the protection of privacy. These principles go beyond statements and actively shape how we design, test, and deploy AI systems in real-world automotive and enterprise settings. In this talk, I will present how these principles inspired our recent research on when reusing LoRA (Low-Rank Adaptation) is effective. By combining theoretical analysis with synthetic data as a proxy for enterprise scenarios, we uncovered the strengths and limitations of modular AI components under constrained data access. Our findings provide practical guidance on when reused LoRAs could deliver high-quality results.\n\n*About the Speaker*\n\n[Mei-Yen Chen](https://www.linkedin.com/in/mei-yen-chen-22937787) is a Senior Data Scientist at Mercedes-Benz Tech Innovation GmbH in Germany with 10 years of industry experience in AI and data solutions. She leads early-stage AI projects across business functions and collaborates with research institutions on machine learning and responsible AI.\n\n**Region Tokens as the Visual Primitive: From Recognition to World Modeling**\n\nPatch-based tokenization has become the default interface between vision encoders and downstream models, yet patches carry no semantic structure and scale poorly with resolution and temporal extent. This talk presents a research program centered on replacing patch tokens with region-level representations — semantically dense tokens grounded in visual entities rather than arbitrary grid crops.\n\nI will describe RELOCATE, REN, and T-REN, a progression of methods that produce region tokens via pooling, train them with region-level objectives, and extend them to video with temporal coherence. I will then present ongoing work integrating region tokens into VLMs to directly expand visual context capacity, and preliminary results on future region trajectory prediction as a foundation for world modeling.\n\nThe broader thesis is that region-level tokens are a more natural unit of visual computation than patches, and their advantage compounds as task complexity, resolution, and temporal horizon increase.\n\n*About the Speaker*\n\n[Savya Khosla](https://www.linkedin.com/in/savyakhosla/) is a second-year Ph.D. student at the University of Illinois Urbana-Champaign, advised by Prof. Derek Hoiem and Prof. Alex Schwing.\n\n**Leveraging Text-To-Image Diffusion Models for Consistent Set-to-Set Generation**\n\nImage collections are humans' primary way of capturing the world, yet advances in generative editing remain largely inapplicable to this modality. We address this gap by introducing Match-and-Fuse - a zero-shot, training-free method for consistent set-to-set generation from image collections that share a common visual element but differ in viewpoint, capture time, and surrounding content.\nOur key idea is a unified graph-based framework that combines dense correspondences with an emergent prior in text-to-image diffusion models to generate coherent canvases. We achieve state-of-the-art consistency and visual quality, and unlock new creative capabilities for content generation.\n\n*About the Speaker*\n\n[Kate Feingold](https://www.linkedin.com/in/katefeingold/) is a PhD student in Computer Vision at the Weizmann Institute of Science. Her research sits at the intersection of generative models, 3D/4D perception, and multimodal learning, focusing on problems where vision meets other modalities or paradigms in creative tasks.\n\n**Yield Estimation of a Coffee in a dense environment**\n\nThis presentation provides a detailed workflow related to coffee yield estimation in a dense environment. With photos of pre-harvest coffee plants from a couple of coffee estates, details related to pre-processing, annotation to detect regions of interest (ROI), object detection training and inferencing results with various Yolo models and finally segmentation with SAM2 and Yolo\\*-seg with training and inference results to determine the count of raw, pre-mature, mature and over-mature coffee berries and finally the yield of the entire estate. All this is based on real world data captured on iPhone and android phones.\n\n*About the Speaker*\n\n[Raghu M. Rao](http://www.linkedin.com/in/raghumrao) is a consultant working on applications of computer vision AI models. He was previously with AMD and Xilinx. He has a Ph.D. in Wireless Communications from UCLA and is a Senior Member, IEEE. His current interests are in applications of AI for agriculture, health care and wireless communications.",
@@ -136,26 +115,6 @@
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
-    "source_id": "316496875",
-    "name": "3 Hours to Research Intelligence: Build Your First AI Agent",
-    "description": "There are many groups promoting this event.\n\nOur meetup group is participating by promoting this event.\n\nThis event is organized by Albert's List.\n\nThis is an online event.\n\nAttendees can be located anywhere in the world!\n\nThere is a cost to attend this event.\nOur Meetup members get 25% OFF with Code MEETUP\n\nIn order to attend, please register here:\n[https://www.eventbrite.com/e/3-hours-to-research-intelligence-build-your-first-ai-agent-tickets-2000234783081?discount=MEETUP&keep_tld=true](https://www.eventbrite.com/e/3-hours-to-research-intelligence-build-your-first-ai-agent-tickets-2000234783081?discount=MEETUP&keep_tld=true)\n\nYou're either looking at a company to join, or you're trying to understand what your competitors are doing. Either way, you're researching blind—reading scattered reviews, googling company news, checking LinkedIn. It takes forever and you miss things.\nStop doing this manually.\nIn this workshop, you'll customize and deploy a working AI research agent in 3 hours. Fork an existing competitive intelligence agent, wire in your own data sources (RSS feeds, APIs, whatever's available), and run it. Feed it a company or industry keyword. Get back structured intelligence: recent news, hiring patterns, market positioning, gaps, red flags.\n**What you'll actually do:**\n\n* Clone a working competitive intelligence agent from GitHub\n* Add your own custom data sources (RSS feeds, open APIs, etc.)\n* Test it live on a real company or competitor\n* Walk away with a deployed agent you can run 100+ times\n\n**Two use cases, one agent:**\n\n1. **Job Seeker Mode** — Research a company before you apply, interview, or accept an offer. Understand growth, hiring, leadership, red flags.\n2. **Competitive Mode** — Understand what competitors are doing, market gaps, hiring trends, strategic moves. For employees and side hustlers.\n\n**What you need before the workshop:**\n\n* 10 min of pre-work (optional, but recommended): Clone the GitHub repo, set up your API key, test it runs\n* A laptop with a browser (Claude.ai)\n* Basic comfort with Claude—you should already be asking it questions and iterating\n\n**After the workshop:**\n\n* Post-work recap doc: What you built, how to iterate, advanced techniques, troubleshooting\n* Optional upsell: Advanced agent techniques course (separate paid offering)\n\n**This is NOT:**\n\n* A tutorial on \"how to use AI\"\n* A guide to corporate strategy\n* A tool for stalking or privacy violations (we cover ethical guardrails)\n\n**Price:** $17–27 (one-time, includes materials + post-work doc)\n**Pre-work is optional.** If you complete it, you'll hit the ground running. If you skip it, no problem—we'll set up during the first 20 minutes.",
-    "start_at": "2026-10-05T23:00:00+02:00",
-    "url": "https://www.meetup.com/spain-startup-idea-to-ipo/events/316496875/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Spain  Startup: Idea to IPO",
-    "attendees": 1,
-    "max_tickets": 100,
-    "spots_left": 99,
-    "found_in": [
-      "Artificial Intelligence",
-      "Startups"
     ]
   },
   {
@@ -177,6 +136,26 @@
       "Artificial Intelligence",
       "Machine Learning",
       "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316496875",
+    "name": "3 Hours to Research Intelligence: Build Your First AI Agent",
+    "description": "There are many groups promoting this event.\n\nOur meetup group is participating by promoting this event.\n\nThis event is organized by Albert's List.\n\nThis is an online event.\n\nAttendees can be located anywhere in the world!\n\nThere is a cost to attend this event.\nOur Meetup members get 25% OFF with Code MEETUP\n\nIn order to attend, please register here:\n[https://www.eventbrite.com/e/3-hours-to-research-intelligence-build-your-first-ai-agent-tickets-2000234783081?discount=MEETUP&keep_tld=true](https://www.eventbrite.com/e/3-hours-to-research-intelligence-build-your-first-ai-agent-tickets-2000234783081?discount=MEETUP&keep_tld=true)\n\nYou're either looking at a company to join, or you're trying to understand what your competitors are doing. Either way, you're researching blind—reading scattered reviews, googling company news, checking LinkedIn. It takes forever and you miss things.\nStop doing this manually.\nIn this workshop, you'll customize and deploy a working AI research agent in 3 hours. Fork an existing competitive intelligence agent, wire in your own data sources (RSS feeds, APIs, whatever's available), and run it. Feed it a company or industry keyword. Get back structured intelligence: recent news, hiring patterns, market positioning, gaps, red flags.\n**What you'll actually do:**\n\n* Clone a working competitive intelligence agent from GitHub\n* Add your own custom data sources (RSS feeds, open APIs, etc.)\n* Test it live on a real company or competitor\n* Walk away with a deployed agent you can run 100+ times\n\n**Two use cases, one agent:**\n\n1. **Job Seeker Mode** — Research a company before you apply, interview, or accept an offer. Understand growth, hiring, leadership, red flags.\n2. **Competitive Mode** — Understand what competitors are doing, market gaps, hiring trends, strategic moves. For employees and side hustlers.\n\n**What you need before the workshop:**\n\n* 10 min of pre-work (optional, but recommended): Clone the GitHub repo, set up your API key, test it runs\n* A laptop with a browser (Claude.ai)\n* Basic comfort with Claude—you should already be asking it questions and iterating\n\n**After the workshop:**\n\n* Post-work recap doc: What you built, how to iterate, advanced techniques, troubleshooting\n* Optional upsell: Advanced agent techniques course (separate paid offering)\n\n**This is NOT:**\n\n* A tutorial on \"how to use AI\"\n* A guide to corporate strategy\n* A tool for stalking or privacy violations (we cover ethical guardrails)\n\n**Price:** $17–27 (one-time, includes materials + post-work doc)\n**Pre-work is optional.** If you complete it, you'll hit the ground running. If you skip it, no problem—we'll set up during the first 20 minutes.",
+    "start_at": "2026-10-05T23:00:00+02:00",
+    "url": "https://www.meetup.com/spain-startup-idea-to-ipo/events/316496875/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Spain  Startup: Idea to IPO",
+    "attendees": 1,
+    "max_tickets": 100,
+    "spots_left": 99,
+    "found_in": [
+      "Artificial Intelligence",
+      "Startups"
     ]
   },
   {
@@ -218,6 +197,8 @@
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence",
+      "Machine Learning",
+      "Data Science",
       "DevOps"
     ]
   },
@@ -244,7 +225,7 @@
   },
   {
     "source": "meetup",
-    "source_slug": "Machine Learning",
+    "source_slug": "Artificial Intelligence",
     "source_id": "316418129",
     "name": "AIDataTech Connect: Global Virtual Networking Event for AI, Data & Tech Pros",
     "description": "Are you working in artificial intelligence, data science, or machine learning? Whether you're a developer, researcher, startup founder, or aspiring tech enthusiast — **AIDataTech Connect** is your go-to **AI networking event online** designed to foster career growth, real-time collaboration, and innovation exchange in a dynamic, community-driven environment.\n\nThis event brings together a global **virtual AI community meetup** hosted on a flexible Slack-style platform that supports group discussions and **1-1 video or text chats**, making it perfect for professionals looking to connect, collaborate, and build with others in the AI ecosystem.\n\n🎥 **Watch how it works:**\n👉 [https://www.youtube.com/watch?v=NRUTXUOFKm4](https://www.youtube.com/watch?v=NRUTXUOFKm4)\n\n**💬 What to Expect:**\nAt AIDataTech Connect, attendees are encouraged to explore, share, and engage across multiple interactive channels designed to support learning, networking, and opportunity discovery:\n\n* **General** – A central hub for orientation, announcements, and community-wide discussions.\n* **Intros** – Introduce yourself, your background, and your AI/tech journey. Spark meaningful introductions.\n* **Networking** – Share your resume, startup, or project pitch. Meet employers, peers, or collaborators.\n* **Help Wanted** – Ask for help or offer support on coding, data, research, or AI model deployment.\n* **Industry Room Tech** – Discuss AI frameworks, tools, and the latest tech trends in data and development.\n* **Project Showcase** – Perfect for those seeking a **machine learning career fair** experience or showcasing real-world work through our **AI project showcase platform**.\n* **Collaboration Pods** – Jump into discussions around **collaboration for AI specialists**, including open-source partnerships, research pods, and co-building opportunities.\n\n**📍 Where:**\nJoin virtually at:\n👉 [https://events.tao.ai/pod/analytics.club/q4j5imq9qjs9](https://events.tao.ai/pod/analytics.club/q4j5imq9qjs9)\n**🕔 When:**\nEvent runs globally from **5:00 PM – 7:00 PM local time** — designed for participation across time zones.\n\n**👥 Who Should Join:**\n\n* AI professionals, ML engineers, and data scientists\n* Tech founders, entrepreneurs, and product leaders\n* Students, job seekers, and aspiring AI talent\n* Recruiters, employers, and hiring managers in AI/tech\n* Researchers, open-source contributors, and peer mentors\n\n**🧠 Why Attend:**\n\n* Engage in a truly global **virtual tech networking event**\n* Discover AI jobs, freelance gigs, or partnership opportunities\n* Connect with experts and peers in AI, ML, and data\n* Explore AI applications and get feedback on your models or tools\n* Network directly via 1-on-1 video or text chats\n* Collaborate on new ideas, research papers, or open-source projects\n\n**❓ Questions or Suggestions?**\nWe’re here to help. Drop us a note at:\n👉 [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**🔖 Hashtags:**\n#AIDataTechConnect #AINetworkingEventOnline #VirtualAICommunityMeetup #MachineLearningCareerFair #AIProjectShowcasePlatform #CollaborationForAISpecialists #DataScienceMeetup #MLJobs #AIResearchNetworking #GlobalTechNetworking #TechCollaborationEvent",
@@ -258,6 +239,7 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
+      "Artificial Intelligence",
       "Machine Learning",
       "Data Science"
     ]
@@ -446,9 +428,9 @@
     "city": "Madrid",
     "address": "C. del Marqués de Casa Riera, 4, Centro, 28014 Madrid, Spain",
     "organizer": "Cloudflare User Group España (IA, CyberSecurity & Edge Dev)",
-    "attendees": 44,
+    "attendees": 46,
     "max_tickets": 50,
-    "spots_left": 6,
+    "spots_left": 4,
     "found_in": [
       "Artificial Intelligence",
       "Hackathon"
@@ -466,9 +448,9 @@
     "city": "Madrid",
     "address": "Francisco Silvela 36, planta 1-puerta 3",
     "organizer": "Sisu · Mujeres en Bienestar y Consciencia",
-    "attendees": 2,
+    "attendees": 3,
     "max_tickets": 10,
-    "spots_left": 8,
+    "spots_left": 7,
     "found_in": [
       "Data Science"
     ]
@@ -485,9 +467,9 @@
     "city": "Madrid",
     "address": "Pl. de Manuel Gómez-Moreno, 2, Tetuán, 28020 Madrid, Spain",
     "organizer": "GoMAD - Madrid Go UG",
-    "attendees": 26,
+    "attendees": 27,
     "max_tickets": 60,
-    "spots_left": 34,
+    "spots_left": 33,
     "found_in": [
       "DevOps"
     ]
@@ -535,16 +517,16 @@
     "source_slug": "Startups",
     "source_id": "316151855",
     "name": "Women, Work & Wine🍷 Rooftop | by PNM",
-    "description": "**Precio, info más abajo👇**\nDespués de registrarte aquí en Meetup **CONFIRMA** TU PRESENCIA EN MI **NUMERO DE [WhatsApp aquí](https://wa.me/+393395021742)**\no Escríbeme para más información y próximos eventos\n*(si la plataforma te pide que pagues cierra la ventana con la X)*\n\nHa llegado algo nuevo dentro de [PNM - Professional Network Madrid](https://www.instagram.com/professionalsnetwork.madrid)...\n\n**Women\\, Work & Wine 🍷\\| by PNM** nace como una salida entre mujeres profesionales, emprendedoras, freelancers y mujeres con ganas de conectar en un ambiente más cercano, relajado y real.\n\nNo será un evento súper formal y lo haremos cada 2-3 meses.\nSerá un encuentro para hablar de *trabajo, proyectos, ideas, retos, oportunidades… pero también de vida, cambios, decisiones, motivación* y todo eso que normalmente aparece cuando las conversaciones fluyen de verdad💖.\n\n**La idea es simple:**\ncrear un espacio más íntimo y femenino dentro de la comunidad PNM, donde podamos conocernos mejor, compartir experiencias y abrir nuevas conexiones.\n\n**Es algo nuevo para nosotras también, pero sentimos que puede gustar mucho y los dos encuentros anteriores nos lo han confirmado con creces.**\n\n### ¿Para quién es?\n\nPara mujeres profesionales, emprendedoras, freelancers, estudiantes, mujeres en transición laboral o con proyectos propios, y en general mujeres que quieren rodearse de otras mujeres con mentalidad de crecimiento.\nNo hace falta venir con un pitch perfecto.\nVen con ganas de conversar, escuchar, compartir y conectar.\n\nMe hace especial ilusión esta edición porque **conseguir un rooftop para eventos en Madrid no es nada fácil**, y esta vez estaremos en la terraza de un hotel 5 estrellas.\nAl llegar:\n**\\>Regístrate en reception** diciendo que vienes al evento de Networking Mujeres\n**\\>Sube al rooftop**\n**\\>Paga tu entrada en el bar** \\- incluye 2 drinks\n**\\>Recoge tu pegatina\\-nombre** y... ¡a conectar!😍\n\n📍 **UMusic Hotel Madrid – Rooftop**\n[Calle de la Paz, 11, Centro, 28012](https://maps.app.goo.gl/WxgC6vBYaGpduUVY7)\n🚇**Metro**: Sol\n\n📅 **Sábado** **19 septiembre**\n🕢 **18:00 - 22:00**\nEl rooftop cierra a las 22:30\n(Puedes también ponerte directamente en contacto conmigo en [WhatsApp aquí](https://wa.me/+393395021742))\n**DRESS CODE**: Business casual\n**Precio: 15€** con 2 soft drinks\n(se paga en el bar, aqui solo te registras)\n................\nEste encuentro nace desde la comunidad general **[Professionals & Entrepreneurs PNM](https://www.meetup.com/madrid-professionals-network/)**, nuestro espacio mensual de networking profesional en Madrid.\nOrganizamos 1 cada 2-3 meses, si no puedes venir pero quieres que te avise de próximos encuentros, escríbeme por privado aquí: **[LINK](https://wa.me/+393395021742)**\n\nHasta pronto!🌷",
+    "description": "**Precio, info más abajo👇**\nDespués de registrarte aquí en Meetup **CONFIRMA** TU PRESENCIA EN MI **NUMERO DE [WhatsApp aquí](https://wa.me/+393395021742)**\no Escríbeme para más información y próximos eventos\n*(si la plataforma te pide que pagues cierra la ventana con la X)*\n\nHa llegado algo nuevo dentro de [PNM - Professional Network Madrid](https://www.instagram.com/professionalsnetwork.madrid)...\n\n**Women\\, Work & Wine 🍷\\| by PNM** nace como una salida entre mujeres profesionales, emprendedoras, freelancers y mujeres con ganas de conectar en un ambiente más cercano, relajado y real.\n\nNo será un evento súper formal y lo haremos cada 2-3 meses.\nSerá un encuentro para hablar de *trabajo, proyectos, ideas, retos, oportunidades… pero también de vida, cambios, decisiones, motivación* y todo eso que normalmente aparece cuando las conversaciones fluyen de verdad💖.\n\n**La idea es simple:**\ncrear un espacio más íntimo y femenino dentro de la comunidad PNM, donde podamos conocernos mejor, compartir experiencias y abrir nuevas conexiones.\n\n**Es algo nuevo para nosotras también, pero sentimos que puede gustar mucho y los dos encuentros anteriores nos lo han confirmado con creces.**\n\n### ¿Para quién es?\n\nPara mujeres profesionales, emprendedoras, freelancers, estudiantes, mujeres en transición laboral o con proyectos propios, y en general mujeres que quieren rodearse de otras mujeres con mentalidad de crecimiento.\nNo hace falta venir con un pitch perfecto.\nVen con ganas de conversar, escuchar, compartir y conectar.\n\nMe hace especial ilusión esta edición porque **conseguir un rooftop para eventos en Madrid no es nada fácil**, y esta vez estaremos en la terraza de un hotel 5 estrellas.\nAl llegar:\n**\\>Regístrate en reception** diciendo que vienes al evento de Networking Mujeres\n**\\>Sube al rooftop**\n**\\>Paga tu entrada en el bar** \\- incluye 2 drinks\n**\\>Recoge tu pegatina\\-nombre** y... ¡a conectar!😍\n\n📍 **UMusic Hotel Madrid – Rooftop**\n[Calle de la Paz, 11, Centro, 28012](https://maps.app.goo.gl/WxgC6vBYaGpduUVY7)\n(click aqui para el google maps)\n🚇**Metro**: Sol\n\n📅 **Sábado** **19 septiembre**\n🕢 **18:00 - 22:00**\nEl rooftop cierra a las 22:30\n(Puedes también ponerte directamente en contacto conmigo en [WhatsApp aquí](https://wa.me/+393395021742))\n**DRESS CODE**: Business casual\n**Precio: 15€** con 2 soft drinks\n(se paga en el bar, aqui solo te registras)\n................\nEste encuentro nace desde la comunidad general **[Professionals & Entrepreneurs PNM](https://www.meetup.com/madrid-professionals-network/)**, nuestro espacio mensual de networking profesional en Madrid.\nOrganizamos 1 cada 2-3 meses, si no puedes venir pero quieres que te avise de próximos encuentros, escríbeme por privado aquí: **[LINK](https://wa.me/+393395021742)**\n\nHasta pronto!🌷",
     "start_at": "2026-09-19T18:00:00+02:00",
     "url": "https://www.meetup.com/madrid-professionals-network/events/316151855/",
     "event_type": "PHYSICAL",
     "city": "Madrid",
     "address": "Calle de la Paz, 11, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 94,
-    "max_tickets": 96,
-    "spots_left": 2,
+    "attendees": 93,
+    "max_tickets": 94,
+    "spots_left": 1,
     "found_in": [
       "Startups"
     ]

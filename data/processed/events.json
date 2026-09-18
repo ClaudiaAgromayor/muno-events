@@ -18,7 +18,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 124,
+      "guest_count": 132,
       "sold_out": true,
       "waitlist_active": true,
       "registration_deadline": null
@@ -53,7 +53,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 183,
+      "guest_count": 184,
       "sold_out": true,
       "waitlist_active": true,
       "registration_deadline": null
@@ -124,7 +124,7 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 50,
+      "guest_count": 52,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -229,7 +229,7 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 71,
+      "guest_count": 75,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -404,7 +404,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 5,
+      "guest_count": 7,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -505,9 +505,9 @@
     "lat": 40.4207507,
     "lng": -3.708179,
     "extra": {
-      "attendees": 63,
+      "attendees": 73,
       "max_tickets": 120,
-      "spots_left": 57
+      "spots_left": 47
     },
     "found_on_platforms": [
       "meetup"

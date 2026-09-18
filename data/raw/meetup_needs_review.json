@@ -11,26 +11,7 @@
     "city": "",
     "address": "",
     "organizer": "Power Platform Madrid",
-    "attendees": 13,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
-    "source_id": "316581903",
-    "name": "Seguimiento comercial con IA - Diseña campañas para tus clientes.",
-    "description": "Muchas empresas acumulan contactos interesados, propuestas pendientes y clientes con los que han perdido el contacto. Dar seguimiento a esas relaciones requiere organización, contexto y mensajes que lleguen en el momento adecuado.\n\nEn este encuentro online veremos **cómo diseñar y ejecutar campañas de seguimiento de preventa y postventa con IA, y convertirlas en un servicio que puedas ofrecer a tus clientes.**\nTrabajaremos con ejemplos de seguimiento de propuestas, recuperación de oportunidades, acompañamiento tras la compra y reactivación de clientes.\n\nRecorreremos tanto el diseño de la campaña como los datos, la configuración del correo y los aspectos legales que debes revisar antes de activarla.\n\n## Qué veremos\n\n* Cómo identificar oportunidades de seguimiento en la base de leads y clientes de una empresa.\n* Cómo diferenciar campañas de **preventa, postventa, reactivación y recompra.**\n* Cómo segmentar contactos según su relación con el negocio, sus necesidades y sus interacciones anteriores.\n* Cómo definir el objetivo, el mensaje, la frecuencia y las condiciones de salida de cada campaña.\n* Qué aspectos revisar sobre **RGPD, LSSI, permisos de contacto y solicitudes de baja.**\n* Cómo preparar dominios y buzones y qué papel tienen **SPF, DKIM y DMARC.**\n* Cómo abordar el calentamiento de buzones y el volumen de envío según el caso, y cómo interpretar rebotes y quejas de spam.\n* Cómo utilizar IA para preparar mensajes personalizados y secuencias con revisión humana.\n* Cómo conectar las campañas con el CRM, gestionar respuestas y detener el seguimiento cuando corresponda.\n* Cómo medir resultados: respuestas, oportunidades recuperadas, conversiones y recompra.\n* Cómo convertir este proceso en un servicio con alcance, precio y responsabilidades definidos.\n* Un framework práctico: **objetivo → segmento → datos y permisos → mensajes → ejecución → seguimiento → resultados.**\n\n🎓 **Encuentro online gratuito**\n⏱️ **Duración aproximada: 90 min + Q&A**\n🤝 **Impulsado por InvokeApp**",
-    "start_at": "2026-10-20T16:00:00+02:00",
-    "url": "https://www.meetup.com/ia-para-agencias-freelancers-y-consultores/events/316581903/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "IA para Agencias, Freelancers y Consultores",
-    "attendees": 4,
+    "attendees": 15,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -55,6 +36,25 @@
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316581903",
+    "name": "Seguimiento comercial con IA - Diseña campañas para tus clientes.",
+    "description": "Muchas empresas acumulan contactos interesados, propuestas pendientes y clientes con los que han perdido el contacto. Dar seguimiento a esas relaciones requiere organización, contexto y mensajes que lleguen en el momento adecuado.\n\nEn este encuentro online veremos **cómo diseñar y ejecutar campañas de seguimiento de preventa y postventa con IA, y convertirlas en un servicio que puedas ofrecer a tus clientes.**\nTrabajaremos con ejemplos de seguimiento de propuestas, recuperación de oportunidades, acompañamiento tras la compra y reactivación de clientes.\n\nRecorreremos tanto el diseño de la campaña como los datos, la configuración del correo y los aspectos legales que debes revisar antes de activarla.\n\n## Qué veremos\n\n* Cómo identificar oportunidades de seguimiento en la base de leads y clientes de una empresa.\n* Cómo diferenciar campañas de **preventa, postventa, reactivación y recompra.**\n* Cómo segmentar contactos según su relación con el negocio, sus necesidades y sus interacciones anteriores.\n* Cómo definir el objetivo, el mensaje, la frecuencia y las condiciones de salida de cada campaña.\n* Qué aspectos revisar sobre **RGPD, LSSI, permisos de contacto y solicitudes de baja.**\n* Cómo preparar dominios y buzones y qué papel tienen **SPF, DKIM y DMARC.**\n* Cómo abordar el calentamiento de buzones y el volumen de envío según el caso, y cómo interpretar rebotes y quejas de spam.\n* Cómo utilizar IA para preparar mensajes personalizados y secuencias con revisión humana.\n* Cómo conectar las campañas con el CRM, gestionar respuestas y detener el seguimiento cuando corresponda.\n* Cómo medir resultados: respuestas, oportunidades recuperadas, conversiones y recompra.\n* Cómo convertir este proceso en un servicio con alcance, precio y responsabilidades definidos.\n* Un framework práctico: **objetivo → segmento → datos y permisos → mensajes → ejecución → seguimiento → resultados.**\n\n🎓 **Encuentro online gratuito**\n⏱️ **Duración aproximada: 90 min + Q&A**\n🤝 **Impulsado por InvokeApp**",
+    "start_at": "2026-10-20T16:00:00+02:00",
+    "url": "https://www.meetup.com/ia-para-agencias-freelancers-y-consultores/events/316581903/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "IA para Agencias, Freelancers y Consultores",
+    "attendees": 4,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence"
     ]
   },
   {
@@ -485,9 +485,9 @@
     "city": "Madrid",
     "address": "Pl. de Manuel Gómez-Moreno, 2, Tetuán, 28020 Madrid, Spain",
     "organizer": "GoMAD - Madrid Go UG",
-    "attendees": 24,
+    "attendees": 26,
     "max_tickets": 60,
-    "spots_left": 36,
+    "spots_left": 34,
     "found_in": [
       "DevOps"
     ]
@@ -542,9 +542,9 @@
     "city": "Madrid",
     "address": "Calle de la Paz, 11, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 96,
+    "attendees": 94,
     "max_tickets": 96,
-    "spots_left": 0,
+    "spots_left": 2,
     "found_in": [
       "Startups"
     ]

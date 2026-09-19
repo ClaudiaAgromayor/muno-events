@@ -2,34 +2,6 @@
   {
     "source": "luma",
     "source_slug": "madrid",
-    "source_id": "evt-d0oxiWOhHGeMQv8",
-    "name": "Cafe Compute: Madrid",
-    "start_at": "2026-09-19T08:30:00.000Z",
-    "end_at": "2026-09-19T16:00:00.000Z",
-    "timezone": "Europe/Madrid",
-    "url": "https://lu.ma/stmnfvqi",
-    "city": "Madrid",
-    "address": "CaféOlé! Clubworking - Chamberí",
-    "organizer": "Personal",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/iz/4d74be53-5f63-4bf0-a99f-49aa9c74bd52.png",
-    "found_in": [
-      "madrid"
-    ],
-    "description": "What if your favorite coffee shop came with great Wi-Fi, cutting-edge AI talks, free credits, and a room full of people building interesting things?\nWelcome to Cafe Compute: Madrid ☕️💻\nWe’re taking over a coffee shop for the entire day and turning it into a home base for Madrid’s AI community. Bring your laptop, grab a coffee, and spend the day working, experimenting, meeting fellow builders, or finally shipping that idea you’ve been thinking about.\nAlongside plenty of time to cowork and connect, we’ll have talks, demos, and conversations featuring  Cerebras, OpenAI, Mastra and members of the local community.\nExpect:\n☕ A coffee shop reserved for our community all day💻 Space to work, code, and collaborate⚡ Talks and demos from Mastra, Cerebras, and OpenAI🎤 Community-led sessions and project showcases🎁 OpenAI credits for attendees🤝 Founders, engineers, researchers, and AI-curious builders\nThis isn’t a traditional conference. Come for one session or settle in for the whole day. Meet new collaborators, exchange ideas, get feedback on what you’re building, and enjoy a productive Saturday with Madrid’s AI community.\nBring your laptop and charger. We’ll take care of the coffee, compute, and good company.\n\nSchedule:11:00-11:20 Dmitry Gaynullin (Cerebras)\n11:30-12:00 Juan Cabañas (OpenAI Ambassador, Madrid)\n12:00-12:30 Rohit Gupta (haze.)\nLUNCH\n16:00-16:30 Alex Booker (Mastra)\n16:30-17:00 Juan Gómez (Hermet)\n17:00-17:30 Eusebio Graciani (Nothiring)",
-    "categories": [
-      "AI"
-    ],
-    "guest_count": 139,
-    "sold_out": true,
-    "waitlist_active": true,
-    "registration_deadline": null,
-    "lat": 40.43492,
-    "lng": -3.7049099999999995
-  },
-  {
-    "source": "luma",
-    "source_slug": "madrid",
     "source_id": "evt-9vTrr960qGUwFgG",
     "name": "Café Helmcode Madrid",
     "start_at": "2026-09-22T15:00:00.000Z",
@@ -191,7 +163,7 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 83,
+    "guest_count": 84,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,
@@ -247,7 +219,7 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 38,
+    "guest_count": 40,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": "2026-09-21T18:00:59.000Z",
@@ -281,6 +253,34 @@
     "registration_deadline": null,
     "lat": 40.4090771,
     "lng": -3.7068435999999996
+  },
+  {
+    "source": "luma",
+    "source_slug": "madrid",
+    "source_id": "evt-AB6eSlcEOuMNykO",
+    "name": "SheAI ft. Pitchless Show-and-Tell: Women Curious About AI",
+    "start_at": "2026-10-02T15:00:00.000Z",
+    "end_at": "2026-10-02T17:30:00.000Z",
+    "timezone": "Europe/Madrid",
+    "url": "https://lu.ma/6c3cl0u5",
+    "city": "Madrid",
+    "address": "Puerta Innovación",
+    "organizer": "SheAI Madrid Community",
+    "is_free": true,
+    "cover_image": "https://images.lumacdn.com/uploads/he/ece822c2-7c09-4a6e-b1f2-66a2de5fb550.png",
+    "found_in": [
+      "madrid"
+    ],
+    "description": "SheAI Madrid ft. Pitchless Show-and-Tell: Women Curious About AI\nA SheAI Madrid & Pitchless first joint community evening open to where women share what they've been experimenting with in AI. Tools, workflows, side projects, frameworks ... whatever they've been curious about lately.\nFive women from our the Madrid AI community will each take 5–7 minutes to show something they've been playing with — from vibe coding to AI frameworks — followed by questions from the room. We'll wrap up with an open discussion and then head out for drinks nearby.\nAll experience levels welcome.\n🗓 Friday, 2nd October⏰ 5:00 pm – 7:30 pm📍 Puerta Innovación, Calle de Toledo 110, Madrid🎟 Free\n👩‍💻👩‍💻 Your hosts:\nThis evening came together the way the best things do — Petr Bilikova (SheAI Madrid) and Sarah Malinowski Coutanson (Pitchless) kept running into each other at AI events across Madrid in spring 2026, and at some point it just became obvious they had to organise something together.\n💛 Part of something bigger. This meetup is a joint initiative of two communities:\nSheAI Madrid – a local chapter of SheAI, a global community of 1,000+ women learning and building with AI. After you join, you'll find us on WhatsApp too — make sure to join the Madrid local hub. 👉 sheai.co\nPitchless – accelerating builder journeys. Pre-accelerator for 1000+ early-stage tech founders in Madrid and Spain. Build, ship, and raise with people doing the same. 👉https://luma.com/pitchless.community\n---------\nCan't make it? Register on the SheAI platform to stay informed about upcoming events! Click HERE.\nBy attending this event, participants consent to being photographed or filmed. Photos and videos may be used by SheAI for community communications and promotional purposes. If you'd prefer not to be photographed, just let the host know at the start of the event - no problem at all! 📸",
+    "categories": [
+      "AI"
+    ],
+    "guest_count": 48,
+    "sold_out": true,
+    "waitlist_active": true,
+    "registration_deadline": null,
+    "lat": 40.4074994,
+    "lng": -3.7114533
   },
   {
     "source": "luma",

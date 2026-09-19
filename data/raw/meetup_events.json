@@ -19,7 +19,8 @@
       "Machine Learning",
       "Data Science",
       "DevOps",
-      "Startups"
+      "Startups",
+      "Hackathon"
     ],
     "lat": null,
     "lng": null
@@ -264,8 +265,7 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Startups",
-      "Hackathon"
+      "Startups"
     ],
     "lat": 40.4242298,
     "lng": -3.6963366

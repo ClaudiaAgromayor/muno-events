@@ -223,6 +223,25 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
+    "source_id": "316485518",
+    "name": "AI × Decentralized Trust: Kickoff of the LFDT AI Working Group",
+    "description": "AI is already in our pull requests — and agentic AI needs exactly what we build. Let's talk about both.\n\nAI has already arrived in our repositories. It writes patches, reviews pull requests, and is often the first thing a newcomer asks about a codebase they don't understand yet. At the same time, agentic AI is arriving from the other direction — as a use case. Autonomous agents need identities they can prove, credentials others can verify, and a way to pay each other for the things they consume. That is our home turf.\n\nLFDT has no shared position on either side of this yet. This meeting launches the LFDT AI Working Group and sets its scope together with the people who will do the work.\n\nWe will open three questions:\n\n**How do we use AI when building LFDT projects? What** is allowed, what has to be disclosed, and what does it mean for provenance, licensing, DCO sign-off, and security review? The Linux Foundation's existing generative AI guidance is the floor — the question is what our projects need on top of it.\n\n**Can AI help us grow our communities?** Review bots like CodeRabbit, automated triage of good first issues, and onboarding assistants promise a shorter path from first-time contributor to committer. Do they actually deliver that, or do they just add noise for maintainers to clean up? And if we want them, who runs them and who pays?\n\n**Where does our work connect to the AI world?** Two neighbours at the Linux Foundation matter most: the Agentic AI Foundation (MCP, goose, AGENTS.md) and the x402 Foundation, which stewards payments over HTTP for agents. Agentic identity and agent-to-agent commerce are exactly where DLT belongs — and where LFDT projects should be visible.\n\nThis is a kickoff, not a keynote. Bring your opinions, your objections, and the problems you already have. We want to leave with an initial scope, a meeting cadence, and named volunteers for the first work streams.\n\nOpen to everyone: maintainers, contributors, TSC members, LFDT staff, and anyone from the wider Linux Foundation AI ecosystem. No prior involvement in LFDT required.\n\n**Zoom Meeting Link**: [https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09](https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09)\n\n**Please note: This event is being shared with our entire global community. If you're interested in this content but can't attend the event live, feel free to sign up and we will send you a link to the recording after the meetup is over.**",
+    "start_at": "2026-10-06T18:00:00+02:00",
+    "url": "https://www.meetup.com/lfdt-madrid/events/316485518/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "LFDT Madrid",
+    "attendees": 2,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Machine Learning",
     "source_id": "316064663",
     "name": "Sept 30 - Building Composable Vision Workflows in FiftyOne",
     "description": "This workshop explores the [FiftyOne](https://docs.voxel51.com/index.html) plugin framework to build custom computer vision applications. You’ll learn to extend the FiftyOne App with Python based panels and server side operators, as well as integrate external tools for labeling, vector search, and model inference into your dataset views.\n\n**Date, Time and Location**\n\nSep 30, 2026\n9 AM - 10 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/building-composable-vision-workflows-in-fiftyone-september-30-2026)**\n\nYou’ll also automate repetitive tasks by writing custom workflows executing within the FiftyOne environment. Attendees will learn to transform FiftyOne from a visualization tool into a central hub for your vision stack.\n\nWhat you'll learn:\n\n* **Build Python plugins.** Define plugin manifests and directory structures to register custom functionality within the FiftyOne ecosystem.\n* **Develop server side operators.** Write functions to execute model inference, data cleaning, or metadata updates from the App interface.\n* **Build interactive panels.** Create custom UI dashboards using to visualize model metrics or specialized dataset distributions.\n* **Manage operator execution contexts.** Pass data between the App front end and your backend to build dynamic user workflows.\n* **Implement delegated execution.** Configure background workers to handle long running data processing tasks without blocking the user interface.\n* **Build labeling integrations.** Streamline the flow of data between FiftyOne and annotation platforms through custom triggers and ingestion scripts.\n* **Extend vector database support.** Program custom connectors for external vector stores to enable semantic search across large sample datasets.\n* **Package and share plugins.** Distribute your extensions internally and externally",
@@ -236,7 +255,6 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Data Science"
     ]
@@ -336,6 +354,25 @@
     "spots_left": null,
     "found_in": [
       "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Startups",
+    "source_id": "316511029",
+    "name": "How to Stop Failing Interviews (And Start Getting Hired)  ",
+    "description": "This event is being promoted by many groups.\n\nOur meetup group is participating by promoting this event.\n\nThis event is organized by Albert's List.\n\nOur meetup group is collaborating by promoting this event.\n\nThis is an online event.\n\nAttendees can be located anywhere in the world!\n\nThis event is FREE to attend!\n\nIn order to attend, please register here:\n[https://www.eventbrite.com/e/how-to-stop-failing-interviews-and-start-getting-hired-tickets-1999131452991?aff=ideatoipo](https://www.eventbrite.com/e/how-to-stop-failing-interviews-and-start-getting-hired-tickets-1999131452991?aff=ideatoipo)\n**The Market Reality**\nThe 2026 hiring backdrop is cooler than payroll headlines suggest. Fewer job openings, longer feedback cycles, more competition per role. Which means if you get an interview, you can't afford to miss it. [Chase](https://www.chase.com/personal/investments/learning-and-insights/article/labor-market-2026-jobs-unemployment-wage-growth-trends \"https://www.chase.com/personal/investments/learning-and-insights/article/labor-market-2026-jobs-unemployment-wage-growth-trends\")\n**The Problem**\nHiring managers have a problem: they need to reduce risk (hiring the wrong person) and build excitement (finding someone who'll succeed). Most interview advice teaches you to sound perfect, but perfect candidates sound identical. In a tighter market, that's a losing strategy.\n**The Framework**\nJob searching is risk mitigation + excitement building. This means:\n\n* Understanding *why* they're hiring and what actual risk they're trying to solve\n* Knowing your question types (STAR, hypothetical, personality) and what each one is actually asking\n* Positioning yourself as the answer to *their* specific problem, not just answering the question perfectly\n* Standing out in a sea of candidates who sound interchangeable\n\n**You'll Learn**\n\n* How to decode what a hiring manager is really asking beneath the surface question\n* How to structure answers that reduce their risk and build their confidence\n* Why over-polished, AI-optimized answers fail (and what to do instead)\n* How to use AI to prepare without sounding like you did\n* How to tell stories that prove you can solve their specific problem\n\n**Who This Is For**\n\n* Job seekers getting interviews but not offers\n* Professionals who feel their interviews aren't landing\n* Anyone preparing for interviews and wondering why \"perfect answers\" aren't converting\n\n**Format**\nFramework + execution. You'll learn the structure, see examples of what works and what doesn't, and walk through how to adapt your approach to different question types and hiring contexts.",
+    "start_at": "2026-10-13T00:00:00+02:00",
+    "url": "https://www.meetup.com/spain-startup-idea-to-ipo/events/316511029/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Spain  Startup: Idea to IPO",
+    "attendees": 1,
+    "max_tickets": 50,
+    "spots_left": 49,
+    "found_in": [
+      "Startups"
     ]
   },
   {
@@ -494,25 +531,6 @@
   {
     "source": "meetup",
     "source_slug": "DevOps",
-    "source_id": "316329118",
-    "name": "*CONOCER GENTE NUEVA CERVECEO+FLORIDA GALERIA*",
-    "description": "**\\*CONOCER GENTE NUEVA CERVECEO+FLORIDA GALERIA\\***\n***¡¡Anímate y ven a pasarlo bien conociendo gente nueva!!***\n\n● Empezamos tomando algo para romper el hielo y conocer a l@s demás.\n● **Si vienes sol@,** no te preocupes te recibimos y presentamos a l@s demás y empiezas a disfrutar de la noche. Así de fácil.\n\n**\\- DIRECCION:** Te informamos el punto de encuentro al confirmar tu asistencia por whatsapp abajo indicado. ¡¡Anímate!! - **\\- ZONA:** Metro Ibiza\n\n● **DESPUÉS 12:00 FLORIDA GALERIA**\nPata continuar disfrutando de la noche nos vamos a \"Florida Galería\" uno de los mejores locales de moda en la noche de Madrid. ¡¡No te lo puedes perder!!\n**-VESTIMENTA:** Arreglado\n**✅●PARA ASISTIR:** Confirmar asistencia solo por whatsapp indicando nombre y el meetup al que vas asistir al 604136338 .\n**✅● COSTE:** 5€ entrega al coordinador al llegar, (intenta traerlo justo).\n**● GASTOS APARTE:** Cada uno paga lo suyo.\n● **Si vienes con invitad@s** , informales de todo y nos avisas al confirmar.\n**-VESTIMENTA:** Arreglado\n\n¡¡¡Lo pasaremos genial!!!\n**\\- CONTACTO Y CONFIRMACION DE ASISTENCIA SOLO POR WHATSAPP**",
-    "start_at": "2026-09-19T22:00:00+02:00",
-    "url": "https://www.meetup.com/meetup-group-erboswim/events/316329118/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "Cale Ibiza",
-    "organizer": "NUEVOS AMIGOS",
-    "attendees": 16,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "DevOps"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "DevOps",
     "source_id": "316176037",
     "name": "**NUEVAS AMISTADES + MUSICA EN VIVO + DJ & FIESTA**",
     "description": "**\\*\\*NUEVAS AMISTADES + MUSICA EN VIVO + DJ & FIESTA\\*\\***\n\n**✅CONFIRMACION DE ASISTENCIA SOLO POR WHATSAPP**\nVen y disfruta conociendo gente nueva. Nos reunimos en el **Patio de los Leones**, donde tomamos algo mientras hacemos las presentaciones y disfrutamos de la noche + DJ con la mejor música del momento.\n¡¡Un plan genial!!\n**\\- Y no te preocupes por no conocer a nadie\\,** te recibimos y presentamos desde el primer momento, así te integras y conoces al [@s](http://s/) demás.\n**\\- VESTIMENTA: ARREGLADO**\n**\\- HORA 22\\.00H\\.**\n**\\- DIRECCIÓN: C Serrano\\, 1 \\-** Zona Puerta de Alcalá-Solo confirmados por whatsapp\n**-DESPUES:** Los que quieran continuar nos iremos de fiesta por la zona.\n\n¿¿Te vienes??\n**✅●PARA ASISTIR:** Confirmación de asistencia y solo por WhatsApp al 604136338, indicando nombre y el meetup al que se va a asistir.\n**✅ Si vienes con invitados** , informales de todo y nos avisas al confirmar asistencia.\n**✅● COSTE:** Gestión 5€, entrega al llegar al coordinador. Intenta traerlo justo\n● **GASTOS APARTE** : Cada uno paga lo suyo.\nAnímate,\nVamos a disfrutar a lo grande!!\n\n**-CONTACTO Y CONFIRMACION DE ASISTENCIA:** Al whatsapp del evento.",
@@ -531,21 +549,21 @@
   },
   {
     "source": "meetup",
-    "source_slug": "Startups",
-    "source_id": "316369827",
-    "name": "Business Networking | PNM Octubre",
-    "description": "💲The event has an ENTRANCE FEE, read all below.\n.......\n*Que pasa en este EVENTO?*\n**Podrás conocer profesionales, freelancers, emprendedores que quieren conectar y compartir** ✨y que tienen esa *misma 'hambre' que tú*.\n__\nNuestros eventos cuentan con una **dinámica pensada para facilitarte conocer a varias personas** durante la noche. La participación es opcional, ¡pero *muy recomendable*!👌🏼\n__\n\n**¿Por qué participar en Business Networking PNM y en qué consiste?**\n\n* Amplía tu red de contactos y haz crecer tu negocio\n* Conéctate con otros profesionales y crea nuevas relaciones\n* Descubre nuevas oportunidades con clientes, socios, proveedores e inversores\n* Intercambia ideas con otros profesionales y genera vínculos de valor\n❌***NO ES un afterwork***\n\n***PÚBLICO***\\*:\\* Evento **mensual**, especialmente para Entrepreneurs, Freelancers, Autónomos, Solopreneurs, Creators, Profesionales de todos los sectores\n\n*LANGUAGES*: **English** and **Spanish** are spoken although most of the people present have Spanish as their native language.\n\n⏰ **19:15 - 23:00**\n*(Recomendamos llegar no más tarde de las 21:30)*\nLunes 5 Octubre\n🌇**RED by Martini Rooftop**\nRadisson RED Madrid (Atocha)\nCalle Atocha 123 - Madrid\n*[Check la location por cada evento]*\nSalón interior y terraza\n🚇**METRO**: Estación del Arte/Atocha/Antón Martín\n🚗**PARKING** en la zona\n\n**‍Dress Code**: Business casual/Smart casual\n**💲PRICE: € 15** se paga en el bar (Incluye 2 soft drinks - con o sin alcohol - )\nVálido durante toda la duración del evento\n**✍Pásate en nuestra mesa de registro** para tu name-tag y tu color\n\n**✨Si vienes solo no te preocupes:** todos estamos aquí con las mismas ganas y la energía de crecer y conectar y el name-tag y tu color te harán más fácil el primer contacto.\n\n**➡ ¿Qué necesito para participar?**\nSolo tienes que **inscribirte aquí en Meetup** (haz clic en el botón *“**Asistiré**”*) y **añadir este evento a tu calendario**. Sigue leyendo para más detalles y mándanos un mensaje privado si tienes alguna pregunta - ¡estaremos encantados de ayudarte!\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n**⚡️Si deseas colaborar con nosotros o promocionarte, [escríbenos en privado.](https://wa.me/+393395021742)**\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n**⚠** Si la app Meetup te pide que pagues, haz clic en \"***Continúa con el plan gratuito***\" o le \"X\" arriba y **apúntate** al evento (esta app es gratis)! El evento se paga en el bar.\n\n**REMINDER**: Cuando te inscribes aqui añade una ALERTA⏰ A TU CALENDARIO para recordarte que tienes que venir o darte de baja aquí.\n\n*Que pasa en este EVENTO?*\n**Podrás conocer profesionales, freelancers, emprendedores, creators sino también estudiantes, que quieren conectar y compartir** ✨y que tienen esa *misma 'hambre' que tú* [❌NO ES un afterwork]\n\n**✔️Llevamos 4 años** organizando este evento\n✔️Cada mes reunimos alrededor de **100 profesionales y empresarios**\n✔️+**60% de los participantes son nuevos**, excelente razón para volver\n**✔️**Te daremos unas ➿**DINÁMICAS y TIPS** para conectar\n**✔️**Solo nos reunimos **1 lunes al mes, así que no te lo pierdas**!\n\nSíguenos y descubre más en **[Instagram](https://www.instagram.com/professionalsnetwork.madrid/)**[ ](https://www.instagram.com/professionalsnetwork.madrid/)**PNM** y únete al **canal de Telegram** **o Whatsapp** durante el evento.\n\n**🙏🏼*Nos disculpamos de antemano si todo no es perfecto***, pero eso se debe a que el evento es más exitoso de lo que siempre esperamos.\nEl evento lo construimos entre todos, así que si notas algo que se pueda mejorar durante el evento, ⚠️ **házmelo saber de inmediato y lo ajustamos en el momento** (una mala review no ayuda, porque podemos solucionar las cosas ahi mismo ;) ).\n\nSi habrá un poco de cola en la entrada para inscribirte, aprovecha para empezar a hacer networking con la persona a tu lado.\n...............\n**WHATSAPP / TELEGRAM**\nDurante el evento te daremos el link **para unirte al grupo de** WhatsApp **o** Telegram: la community de Networking más grande de Madrid!\n\n**¿Por qué unirse a WhatsApp?**\nEs una forma de estar conectados unos con otros, tener otras formas de promocionarte, aprovechar las colaboraciones que creamos anualmente y nuestros TIPS para mejorar en el mundo de los negocios y el networking.\n\n**Instagram**: [https://www.instagram.com/professionalsnetwork.madrid/](https://www.instagram.com/professionalsnetwork.madrid/)\n...\n**•*WhatsApp INFO [direct](https://wa.me/+393395021742)***\n\n**No dudes en traer amigos o colegas!** Para invitarles, **pásales el link** al evento o añade +1 a tu participación.\n...\n🇬🇧ENG\n**Create a network around interesting and inspiring people for you and your business!**\nWe are proud to present you the **1st and only business-oriented meetup in the capital for professionals!**\n\n❗The event will take place **once a month**, so don't miss this opportunity.\n**Why attend Business Networking PNM?**\n\n* Expand your network and grow your business\n* Connect with fellow professionals and build meaningful relationships\n* Uncover new opportunities with clients, partners, vendors, and investors\n* Exchange ideas with industry peers and create high-value connections\n\nOur events feature a **facilitated dynamic** to help you meet new people throughout the night. Participation is optional, but highly recommended!\n\n*Come and enjoy an evening with like-minded people, where you can learn about new projects and discuss your business ideas over a few drinks*.\n\nYou can speak English or Spanish. **Feel free to bring along friends or colleagues**! To invite them, pass them the link to the event or add +1 to your participation.\n\nAt the event don't forget to join the **WhatsApp or Telegram group**.\n\n*By buying a ticket and joining the event, you authorize possible digital recordings and the publication of that content on social media.*\n\n**🌸[Únete al grupo de](https://wa.me/+393395021742) Professional Women and entrepreneurs en Madrid**\n\n**[FOTOS de los eventos](https://www.facebook.com/professionalsnetwork.madrid) en Facebook** (entra en MÁS >FOTOS >Ver todo)\n\n**Si quieres mostrar TU SERVICIO/PRODUCTO** durante el evento o COLABORAR, [escríbenos por privado](https://wa.me/+393395021742) y agendamos una llamada\n\n⚡️Únete a nosotros como **SPONSOR** para darte visibilidad ante más de 100 asistentes cada día y miles de personas en nuestros canales online.\n\n⚡️Community \"**Real Estate**\": únete al [grupo Meetup](https://www.meetup.com/meetup-group-bcxrvqzr)\n\n**Others events:**\n**[>>](https://www.meetup.com/madrid-professionals-network/)**[ Business Networking (Emprendedores, Freelancers, Autónomos)](https://www.meetup.com/madrid-professionals-network/)\n**[>>](https://www.meetup.com/real-estate-tribe-madrid/)**[ Real Estate RET🏠| Networking & Drinks de Inversión Inmobiliaria](https://www.meetup.com/real-estate-tribe-madrid/)\nAll events by [Domeet](https://www.instagram.com/domeet.madrid/)",
-    "start_at": "2026-10-05T19:15:00+02:00",
-    "url": "https://www.meetup.com/madrid-professionals-network/events/316369827/",
+    "source_slug": "DevOps",
+    "source_id": "316329118",
+    "name": "*CONOCER GENTE NUEVA CERVECEO+FLORIDA GALERIA*",
+    "description": "**\\*CONOCER GENTE NUEVA CERVECEO+FLORIDA GALERIA\\***\n***¡¡Anímate y ven a pasarlo bien conociendo gente nueva!!***\n\n● Empezamos tomando algo para romper el hielo y conocer a l@s demás.\n● **Si vienes sol@,** no te preocupes te recibimos y presentamos a l@s demás y empiezas a disfrutar de la noche. Así de fácil.\n\n**\\- DIRECCION:** Te informamos el punto de encuentro al confirmar tu asistencia por whatsapp abajo indicado. ¡¡Anímate!! - **\\- ZONA:** Metro Ibiza\n\n● **DESPUÉS 12:00 FLORIDA GALERIA**\nPata continuar disfrutando de la noche nos vamos a \"Florida Galería\" uno de los mejores locales de moda en la noche de Madrid. ¡¡No te lo puedes perder!!\n**-VESTIMENTA:** Arreglado\n**✅●PARA ASISTIR:** Confirmar asistencia solo por whatsapp indicando nombre y el meetup al que vas asistir al 604136338 .\n**✅● COSTE:** 5€ entrega al coordinador al llegar, (intenta traerlo justo).\n**● GASTOS APARTE:** Cada uno paga lo suyo.\n● **Si vienes con invitad@s** , informales de todo y nos avisas al confirmar.\n**-VESTIMENTA:** Arreglado\n\n¡¡¡Lo pasaremos genial!!!\n**\\- CONTACTO Y CONFIRMACION DE ASISTENCIA SOLO POR WHATSAPP**",
+    "start_at": "2026-09-19T22:00:00+02:00",
+    "url": "https://www.meetup.com/meetup-group-erboswim/events/316329118/",
     "event_type": "PHYSICAL",
     "city": "Madrid",
-    "address": "Calle de Atocha, 123, Centro, 28012",
-    "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 73,
+    "address": "Cale Ibiza",
+    "organizer": "NUEVOS AMIGOS",
+    "attendees": 17,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Startups"
+      "DevOps"
     ]
   },
   {

@@ -36,9 +36,9 @@
     "city": "Madrid",
     "address": "Av. Gran Vía del Este, 1, Vicálvaro, 28032 Madrid",
     "organizer": "AI Security Engineers - Madrid, ES",
-    "attendees": 21,
+    "attendees": 19,
     "max_tickets": 50,
-    "spots_left": 29,
+    "spots_left": 31,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -195,9 +195,9 @@
     "city": "Madrid",
     "address": "Calle de Pradillo, 42, 28002 Madrid, Spain",
     "organizer": "ProductTank Madrid",
-    "attendees": 74,
+    "attendees": 75,
     "max_tickets": 90,
-    "spots_left": 16,
+    "spots_left": 15,
     "found_in": [
       "DevOps",
       "Startups",

@@ -88,7 +88,7 @@
     "city": "",
     "address": "",
     "organizer": "AI Performance Engineering Meetup (Madrid)",
-    "attendees": 8,
+    "attendees": 9,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -212,12 +212,11 @@
     "city": "",
     "address": "",
     "organizer": "Madrid AI Developers Group",
-    "attendees": 4,
+    "attendees": 5,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence",
-      "Data Science",
       "DevOps"
     ]
   },
@@ -542,7 +541,7 @@
     "city": "Madrid",
     "address": "Calle de Atocha, 123, Centro, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 67,
+    "attendees": 68,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

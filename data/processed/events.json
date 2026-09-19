@@ -18,7 +18,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 136,
+      "guest_count": 133,
       "sold_out": true,
       "waitlist_active": true,
       "registration_deadline": null
@@ -229,7 +229,7 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 80,
+      "guest_count": 81,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -299,7 +299,7 @@
         "Tech"
       ],
       "is_free": false,
-      "guest_count": 38,
+      "guest_count": 37,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": "2026-09-21T18:00:59.000Z"
@@ -560,9 +560,9 @@
     "lat": null,
     "lng": null,
     "extra": {
-      "attendees": 23,
+      "attendees": 24,
       "max_tickets": 60,
-      "spots_left": 37
+      "spots_left": 36
     },
     "found_on_platforms": [
       "meetup"

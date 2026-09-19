@@ -16,6 +16,8 @@
     "spots_left": 9,
     "found_in": [
       "Artificial Intelligence",
+      "Machine Learning",
+      "Data Science",
       "DevOps",
       "Startups"
     ],
@@ -81,9 +83,9 @@
     "city": "Madrid",
     "address": "de la comunidad, C. de Bravo Murillo, 39, Local interior, Chamberí, 28015 Madrid, Spain",
     "organizer": "Madrid Machine Learning Meetup",
-    "attendees": 23,
+    "attendees": 24,
     "max_tickets": 60,
-    "spots_left": 37,
+    "spots_left": 36,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -109,7 +111,6 @@
     "spots_left": 0,
     "found_in": [
       "Artificial Intelligence",
-      "Machine Learning",
       "Startups",
       "Hackathon"
     ],

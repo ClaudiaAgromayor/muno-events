@@ -495,25 +495,6 @@
   {
     "source": "meetup",
     "source_slug": "DevOps",
-    "source_id": "316329118",
-    "name": "*CONOCER GENTE NUEVA CERVECEO+FLORIDA GALERIA*",
-    "description": "**\\*CONOCER GENTE NUEVA CERVECEO+FLORIDA GALERIA\\***\n***¡¡Anímate y ven a pasarlo bien conociendo gente nueva!!***\n\n● Empezamos tomando algo para romper el hielo y conocer a l@s demás.\n● **Si vienes sol@,** no te preocupes te recibimos y presentamos a l@s demás y empiezas a disfrutar de la noche. Así de fácil.\n\n**\\- DIRECCION:** Te informamos el punto de encuentro al confirmar tu asistencia por whatsapp abajo indicado. ¡¡Anímate!! - **\\- ZONA:** Metro Ibiza\n\n● **DESPUÉS 12:00 FLORIDA GALERIA**\nPata continuar disfrutando de la noche nos vamos a \"Florida Galería\" uno de los mejores locales de moda en la noche de Madrid. ¡¡No te lo puedes perder!!\n**-VESTIMENTA:** Arreglado\n**✅●PARA ASISTIR:** Confirmar asistencia solo por whatsapp indicando nombre y el meetup al que vas asistir al 604136338 .\n**✅● COSTE:** 5€ entrega al coordinador al llegar, (intenta traerlo justo).\n**● GASTOS APARTE:** Cada uno paga lo suyo.\n● **Si vienes con invitad@s** , informales de todo y nos avisas al confirmar.\n**-VESTIMENTA:** Arreglado\n\n¡¡¡Lo pasaremos genial!!!\n**\\- CONTACTO Y CONFIRMACION DE ASISTENCIA SOLO POR WHATSAPP**",
-    "start_at": "2026-09-19T22:00:00+02:00",
-    "url": "https://www.meetup.com/meetup-group-erboswim/events/316329118/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "Cale Ibiza",
-    "organizer": "NUEVOS AMIGOS",
-    "attendees": 16,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "DevOps"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "DevOps",
     "source_id": "316176037",
     "name": "**NUEVAS AMISTADES + MUSICA EN VIVO + DJ & FIESTA**",
     "description": "**\\*\\*NUEVAS AMISTADES + MUSICA EN VIVO + DJ & FIESTA\\*\\***\n\n**✅CONFIRMACION DE ASISTENCIA SOLO POR WHATSAPP**\nVen y disfruta conociendo gente nueva. Nos reunimos en el **Patio de los Leones**, donde tomamos algo mientras hacemos las presentaciones y disfrutamos de la noche + DJ con la mejor música del momento.\n¡¡Un plan genial!!\n**\\- Y no te preocupes por no conocer a nadie\\,** te recibimos y presentamos desde el primer momento, así te integras y conoces al [@s](http://s/) demás.\n**\\- VESTIMENTA: ARREGLADO**\n**\\- HORA 22\\.00H\\.**\n**\\- DIRECCIÓN: C Serrano\\, 1 \\-** Zona Puerta de Alcalá-Solo confirmados por whatsapp\n**-DESPUES:** Los que quieran continuar nos iremos de fiesta por la zona.\n\n¿¿Te vienes??\n**✅●PARA ASISTIR:** Confirmación de asistencia y solo por WhatsApp al 604136338, indicando nombre y el meetup al que se va a asistir.\n**✅ Si vienes con invitados** , informales de todo y nos avisas al confirmar asistencia.\n**✅● COSTE:** Gestión 5€, entrega al llegar al coordinador. Intenta traerlo justo\n● **GASTOS APARTE** : Cada uno paga lo suyo.\nAnímate,\nVamos a disfrutar a lo grande!!\n\n**-CONTACTO Y CONFIRMACION DE ASISTENCIA:** Al whatsapp del evento.",
@@ -532,6 +513,25 @@
   },
   {
     "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "316329118",
+    "name": "*CONOCER GENTE NUEVA CERVECEO+FLORIDA GALERIA*",
+    "description": "**\\*CONOCER GENTE NUEVA CERVECEO+FLORIDA GALERIA\\***\n***¡¡Anímate y ven a pasarlo bien conociendo gente nueva!!***\n\n● Empezamos tomando algo para romper el hielo y conocer a l@s demás.\n● **Si vienes sol@,** no te preocupes te recibimos y presentamos a l@s demás y empiezas a disfrutar de la noche. Así de fácil.\n\n**\\- DIRECCION:** Te informamos el punto de encuentro al confirmar tu asistencia por whatsapp abajo indicado. ¡¡Anímate!! - **\\- ZONA:** Metro Ibiza\n\n● **DESPUÉS 12:00 FLORIDA GALERIA**\nPata continuar disfrutando de la noche nos vamos a \"Florida Galería\" uno de los mejores locales de moda en la noche de Madrid. ¡¡No te lo puedes perder!!\n**-VESTIMENTA:** Arreglado\n**✅●PARA ASISTIR:** Confirmar asistencia solo por whatsapp indicando nombre y el meetup al que vas asistir al 604136338 .\n**✅● COSTE:** 5€ entrega al coordinador al llegar, (intenta traerlo justo).\n**● GASTOS APARTE:** Cada uno paga lo suyo.\n● **Si vienes con invitad@s** , informales de todo y nos avisas al confirmar.\n**-VESTIMENTA:** Arreglado\n\n¡¡¡Lo pasaremos genial!!!\n**\\- CONTACTO Y CONFIRMACION DE ASISTENCIA SOLO POR WHATSAPP**",
+    "start_at": "2026-09-19T22:00:00+02:00",
+    "url": "https://www.meetup.com/meetup-group-erboswim/events/316329118/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Cale Ibiza",
+    "organizer": "NUEVOS AMIGOS",
+    "attendees": 16,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
     "source_slug": "Startups",
     "source_id": "316369827",
     "name": "Business Networking | PNM Octubre",
@@ -542,7 +542,7 @@
     "city": "Madrid",
     "address": "Calle de Atocha, 123, Centro, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 65,
+    "attendees": 67,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

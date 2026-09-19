@@ -191,7 +191,7 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 79,
+    "guest_count": 80,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,
@@ -253,6 +253,34 @@
     "registration_deadline": "2026-09-21T18:00:59.000Z",
     "lat": 40.4731206,
     "lng": -3.6867425
+  },
+  {
+    "source": "luma",
+    "source_slug": "madrid",
+    "source_id": "evt-e40eDm5DqQmcSlb",
+    "name": "Inteligencia Emprendedora: talento y visión en la era de la IA",
+    "start_at": "2026-10-01T15:00:00.000Z",
+    "end_at": "2026-10-01T20:00:00.000Z",
+    "timezone": "Europe/Madrid",
+    "url": "https://lu.ma/wzeojows",
+    "city": "Madrid",
+    "address": "Espacio Rastro Madrid",
+    "organizer": "holded",
+    "is_free": true,
+    "cover_image": "https://images.lumacdn.com/uploads/um/f79503f0-03f6-4da2-9374-351dc3de301f.png",
+    "found_in": [
+      "madrid"
+    ],
+    "description": "Inteligencia Emprendedora: talento y visión en la era de la IA. Un espacio de conexión e innovación emprendedora creado por holded.\n¿Cómo está impactando la IA en el emprendimiento? ¿Están los emprendedores liderando el uso de la inteligencia artificial?\nDesde Holded, hemos querido dar respuesta a las preguntas que todo emprendedor tiene en la cabeza ahora mismo. Hemos creado un espacio en el que destacamos no solo el papel de la inteligencia artificial, sino el de la inteligencia emprendedora que la utiliza para hacer cosas que antes parecían imposibles.\n📍 Espacio Rastro Madrid, C/ San Cayetano, 5,  Madrid\n🗓 1 de octubre\n⏰ 17:00h - 22:00h\nEl espacio Rastro de Madrid será todo un HUB emprendedor donde podrás disfrutar de:📊 Una exposición que combina inspiración, datos del ecosistema emprendedor español y un espacio interactivo donde podrás compartir tu propia visión del futuro (17.00 - 22.00).       *Habrá visitas guiadas (17.00/17.30/18.00).💡Una masterclass de IA para emprendedores a cargo de Jon Hernández con diversos trucos para aplicar ya en tu pyme (18.30 - 19.30)\n🎤 Un mesa redonda sobre el impacto de la IA en el emprendimiento con Uri Sabat (Podcast La fórmula del éxito) más invitados (19.30 - 20.30)\n🥂 Cóctel para compartir ideas, aprendizajes y conectar con otros emprendedores (20.30 - 22.00)\nTe esperamos. Porque el futuro del emprendimiento lo construyes tú también con tu talento y tu visión 🚀",
+    "categories": [
+      "AI"
+    ],
+    "guest_count": 0,
+    "sold_out": false,
+    "waitlist_active": false,
+    "registration_deadline": null,
+    "lat": 40.4090771,
+    "lng": -3.7068435999999996
   },
   {
     "source": "luma",

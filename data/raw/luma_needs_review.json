@@ -2,32 +2,6 @@
   {
     "source": "luma",
     "source_slug": "madrid",
-    "source_id": "evt-ZY738FwNu6H5uUs",
-    "name": "Club Night: Quantic & Martha Van Straten X Say No More",
-    "start_at": "2026-09-18T21:00:00.000Z",
-    "end_at": "2026-09-19T02:00:00.000Z",
-    "timezone": "Europe/Madrid",
-    "url": "https://lu.ma/md24os77",
-    "city": "Madrid",
-    "address": "Say No More",
-    "organizer": "Nômade Temple Madrid",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/ed/63b939c7-e6c0-446a-a14f-70ab2e97be0a.jpg",
-    "found_in": [
-      "madrid"
-    ],
-    "description": "Este próximo viernes, Say No More acogerá a una de las figuras clave y más innovadoras de la música electrónica de fusión, el tropical groove, el funk y la música tropical latinoamericana, Quantic. Junto a él, la artista alemana Marta Van Straaten.\nUna selección musical pensada para quienes entienden que una gran noche no depende de los éxitos del momento, sino de la energía que se crea en la pista. Sin prisas, sin poses, solo buena música, gente cool y una cabina que sabe exactamente hacia dónde llevarte.\nGood music. Good people. Say No More.\n🎟 Entrada 30€ + Drink🎶 Latin Music / Electronica📍 Say No More by Nômade Temple Madrid",
-    "categories": [],
-    "guest_count": 0,
-    "sold_out": false,
-    "waitlist_active": false,
-    "registration_deadline": null,
-    "lat": 40.4195672,
-    "lng": -3.6995671
-  },
-  {
-    "source": "luma",
-    "source_slug": "madrid",
     "source_id": "evt-0hYSqC7C4fd5yaZ",
     "name": "Intro Only: Back to The City (For the Girls) 🩷🌈",
     "start_at": "2026-09-22T19:00:00.000Z",

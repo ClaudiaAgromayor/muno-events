@@ -194,9 +194,9 @@
     "city": "Madrid",
     "address": "Calle de Pradillo, 42, 28002 Madrid, Spain",
     "organizer": "ProductTank Madrid",
-    "attendees": 73,
+    "attendees": 74,
     "max_tickets": 90,
-    "spots_left": 17,
+    "spots_left": 16,
     "found_in": [
       "DevOps",
       "Startups",

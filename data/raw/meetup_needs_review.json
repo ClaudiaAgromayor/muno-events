@@ -212,7 +212,7 @@
     "city": "",
     "address": "",
     "organizer": "Madrid AI Developers Group",
-    "attendees": 5,
+    "attendees": 6,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -315,26 +315,6 @@
     "spots_left": null,
     "found_in": [
       "Data Science"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Data Science",
-    "source_id": "316524838",
-    "name": "AnalyticsCLUB JobExpo Virtual Business, Data & Technology Job Expo",
-    "description": "**What is FirstFridayFair Monthly Job Fair?**\n\nFirstFridayFair Monthly Job Fair is a **global virtual job fair and remote hiring event** hosted by the Analytics CLUB community. This **online job fair platform** brings together **professionals, employers, recruiters, and career coaches** for an immersive, **self-managed career networking experience**.\n\n🎥 **New to FirstFridayFair? Watch our explainer video here:** [https://youtu.be/NlLaCfOjosk](https://youtu.be/NlLaCfOjosk)\n\n**Where and When?**\n📍 Online at [https://events.tao.ai/pod/analytics.club/6j382kbpcnvd](https://events.tao.ai/pod/analytics.club/6j382kbpcnvd)\n🗓 First Friday of the month\n⏰ 11:00 AM - 2:00 PM (Local Time Zone)\n🌍 Open to participants globally\n\n🌍 **Who should join?**\n\n* **Job Seekers:** Looking for their next big break in **remote or local roles**.\n* **Employers & Recruiters:** Eager to find top talent across industries.\n* **Service Providers & Career Coaches:** Supporting professionals with tools, tips, and resources.\n* **Career Enthusiasts & Explorers:** Wishing to expand their network and knowledge.\n\n💬 **Where does the event take place?**\nThis interactive event is hosted on a **Slack-like community chat platform**, making it easy to **join from anywhere** and interact in **real-time group chats and 1-1 video or text conversations**.\n🚀 **What can you do at the event?**\nAttendees can explore several themed **Slack job fair channels** designed for **job networking, peer-to-peer support, and industry discussions**:\n\n* **General:** Intros, announcements, and casual networking.\n* **Networking:** Showcase your portfolio, startup, or job pitch.\n* **Intros:** Meet others, share your career path, and connect personally.\n* **Help Wanted:** Offer your skills or seek help from others.\n* **Industry Room Tech:** Discuss the latest in programming, software, and tech trends.\n\nAdditionally, attendees can engage in:\n\n* **1-1 video and text chats** with other attendees, recruiters, or service providers.\n* Visit the **virtual job openings board** to browse active listings and **connect with recruiters online**.\n* Participate in **live job fair chat**, where you can ask career-related questions, get **online resume tips**, and explore ways to stand out in the hiring process.\n\n❓ **Why join FirstFridayFair Monthly Job Fair?**\n\n* Access **global job networking events** right from your device.\n* Explore **virtual hiring events** designed for professionals seeking flexibility and growth.\n* Engage in meaningful conversations and discover **remote hiring opportunities**.\n* Take advantage of a **self-managed and open community platform**, allowing you to connect at your own pace.\n* Use the dedicated channels to **showcase your skills, ask questions, and build lasting professional connections**.\n\n**Have Questions or Suggestions?**\nWe’d love to help: [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)",
-    "start_at": "2026-10-02T11:00:00+02:00",
-    "url": "https://www.meetup.com/ac-mad/events/316524838/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Analytics.CLUB Madrid",
-    "attendees": 1,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Data Science",
-      "Hackathon"
     ]
   },
   {
@@ -453,6 +433,25 @@
   },
   {
     "source": "meetup",
+    "source_slug": "Hackathon",
+    "source_id": "316524838",
+    "name": "AnalyticsCLUB JobExpo Virtual Business, Data & Technology Job Expo",
+    "description": "**What is FirstFridayFair Monthly Job Fair?**\n\nFirstFridayFair Monthly Job Fair is a **global virtual job fair and remote hiring event** hosted by the Analytics CLUB community. This **online job fair platform** brings together **professionals, employers, recruiters, and career coaches** for an immersive, **self-managed career networking experience**.\n\n🎥 **New to FirstFridayFair? Watch our explainer video here:** [https://youtu.be/NlLaCfOjosk](https://youtu.be/NlLaCfOjosk)\n\n**Where and When?**\n📍 Online at [https://events.tao.ai/pod/analytics.club/6j382kbpcnvd](https://events.tao.ai/pod/analytics.club/6j382kbpcnvd)\n🗓 First Friday of the month\n⏰ 11:00 AM - 2:00 PM (Local Time Zone)\n🌍 Open to participants globally\n\n🌍 **Who should join?**\n\n* **Job Seekers:** Looking for their next big break in **remote or local roles**.\n* **Employers & Recruiters:** Eager to find top talent across industries.\n* **Service Providers & Career Coaches:** Supporting professionals with tools, tips, and resources.\n* **Career Enthusiasts & Explorers:** Wishing to expand their network and knowledge.\n\n💬 **Where does the event take place?**\nThis interactive event is hosted on a **Slack-like community chat platform**, making it easy to **join from anywhere** and interact in **real-time group chats and 1-1 video or text conversations**.\n🚀 **What can you do at the event?**\nAttendees can explore several themed **Slack job fair channels** designed for **job networking, peer-to-peer support, and industry discussions**:\n\n* **General:** Intros, announcements, and casual networking.\n* **Networking:** Showcase your portfolio, startup, or job pitch.\n* **Intros:** Meet others, share your career path, and connect personally.\n* **Help Wanted:** Offer your skills or seek help from others.\n* **Industry Room Tech:** Discuss the latest in programming, software, and tech trends.\n\nAdditionally, attendees can engage in:\n\n* **1-1 video and text chats** with other attendees, recruiters, or service providers.\n* Visit the **virtual job openings board** to browse active listings and **connect with recruiters online**.\n* Participate in **live job fair chat**, where you can ask career-related questions, get **online resume tips**, and explore ways to stand out in the hiring process.\n\n❓ **Why join FirstFridayFair Monthly Job Fair?**\n\n* Access **global job networking events** right from your device.\n* Explore **virtual hiring events** designed for professionals seeking flexibility and growth.\n* Engage in meaningful conversations and discover **remote hiring opportunities**.\n* Take advantage of a **self-managed and open community platform**, allowing you to connect at your own pace.\n* Use the dedicated channels to **showcase your skills, ask questions, and build lasting professional connections**.\n\n**Have Questions or Suggestions?**\nWe’d love to help: [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)",
+    "start_at": "2026-10-02T11:00:00+02:00",
+    "url": "https://www.meetup.com/ac-mad/events/316524838/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Analytics.CLUB Madrid",
+    "attendees": 1,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Hackathon"
+    ]
+  },
+  {
+    "source": "meetup",
     "source_slug": "Artificial Intelligence",
     "source_id": "316335741",
     "name": "MARCHA POR LA LONGEVIDAD DE MADRID: Jueves 1 de octubre, 14:00 - 15:30, CET",
@@ -473,6 +472,25 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
+    "source_id": "316634854",
+    "name": "Conferencia: INTUICIÓN y Aplicaciones",
+    "description": "En la conferencia explico:\n\\- que es la intuición\n\\- cómo se usa\n\\- qué resultados se pueden obtener\n\\- campos o áreas de aplicación\n\n\\- ejercicio práctico:\nUna de las posibilidades de uso de la intuición es hallar las causas principales que hacen que las personas padezcamos malestares, dolores, etc. y poder aliviarlos. En la segunda parte de la conferencia lo muestro con los asistentes, para que puedan tener una experiencia directa, y beneficiarse.\n\nLa sala es pequeña. **Es NECESARIO CONFIRMAR ASISTENCIA por whatsapp:** 660 946 665\n\nLUGAR: Oasis de Bienestar\nAvenida Doctor Federico Rubio y Gali 6, Madrid\nMetro: Cuatro Caminos y Guzmán el Bueno\n\nJose Antonio Gómez\nwww.intuicionyresultados.com",
+    "start_at": "2026-09-24T19:00:00+02:00",
+    "url": "https://www.meetup.com/intuicion-y-resultados/events/316634854/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Av. del Dr. Federico Rubio y Galí, 6, Tetuán, 28039 Madrid, Spain",
+    "organizer": "Intuición y Resultados",
+    "attendees": 1,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
     "source_id": "316314307",
     "name": "Hello World! Lanzamiento Oficial de Cloudflare User Group España",
     "description": "¡Arrancamos el **Cloudflare User Group España**! Únete a nuestra sesión inaugural para conocer a la comunidad, descubrir cómo empresas locales están escalando sus proyectos y conectar con otros creadores.\n\n¡Reserva tu plaza y ven a trastear con nosotros! 🚀\n\n**Localización:** NH Collection Madrid Suecia",
@@ -482,9 +500,9 @@
     "city": "Madrid",
     "address": "C. del Marqués de Casa Riera, 4, Centro, 28014 Madrid, Spain",
     "organizer": "Cloudflare User Group España (IA, CyberSecurity & Edge Dev)",
-    "attendees": 47,
+    "attendees": 50,
     "max_tickets": 50,
-    "spots_left": 3,
+    "spots_left": 0,
     "found_in": [
       "Artificial Intelligence",
       "Hackathon"
@@ -502,9 +520,9 @@
     "city": "Madrid",
     "address": "Francisco Silvela 36, planta 1-puerta 3",
     "organizer": "Sisu · Mujeres en Bienestar y Consciencia",
-    "attendees": 5,
+    "attendees": 7,
     "max_tickets": 10,
-    "spots_left": 5,
+    "spots_left": 3,
     "found_in": [
       "Data Science"
     ]
@@ -578,7 +596,7 @@
     "city": "Madrid",
     "address": "Calle de Atocha, 123, Centro, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 78,
+    "attendees": 82,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

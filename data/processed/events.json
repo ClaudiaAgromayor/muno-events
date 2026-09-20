@@ -18,7 +18,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 182,
+      "guest_count": 181,
       "sold_out": true,
       "waitlist_active": true,
       "registration_deadline": null
@@ -194,7 +194,7 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 86,
+      "guest_count": 88,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -264,7 +264,7 @@
         "Tech"
       ],
       "is_free": false,
-      "guest_count": 41,
+      "guest_count": 42,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": "2026-09-21T18:00:59.000Z"
@@ -369,7 +369,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 10,
+      "guest_count": 11,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -380,41 +380,6 @@
     "duplicate_ids": [],
     "enrichment": {
       "nivel": "intermedio",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
-  },
-  {
-    "id": "luma:evt-alVTN3PHjirK0gb",
-    "source": "luma",
-    "source_id": "evt-alVTN3PHjirK0gb",
-    "name": "Madrid Tech Brunch",
-    "description": "Join us for one more edition of Madrid Tech Brunch — a relaxed, informal meetup for people working (or interested) in tech.\nWhether you're a:\nDeveloper\n\nDesigner\n\nIndie hacker\n\nProduct person\n\nRemote worker\n\nJust curious about the tech scene…\n\n…you're welcome!\nWe’ll grab coffee, maybe some brunch, and geek around with other like-minded people.\nHow it works?\nEach gathering is structured but relaxed — enough format to make it easy to meet people, while keeping conversations natural.\nWe pick 4 topics\nBefore each meetup, we choose four discussion topics (industry trends, career growth, tools, AI, productivity, etc.)\nYou can choose topics in the Google form we send you via email before meetup, or introduce your own topic for the next one.\nIntroduction round:\nWe start with a short intro circle where everyone shares:\nname\n\nwhat you do / your interest in tech\n\nwhat you hope to get from the meetup\n\nP.S Don't be too late, or you will miss intros ;)\nSmall group discussions (3–5 people)\nThen we split into small groups of 3–5 and dive into one topic for ~30 minutes.\nSwitch seats & repeat\nAfter 30 minutes, we rotate seats/groups so you can meet more people and discuss a different topic.\nSee you there!",
-    "start_at": "2026-09-20T10:00:00.000Z",
-    "end_at": "2026-09-20T12:00:00.000Z",
-    "url": "https://lu.ma/tye6vx2h",
-    "city": "Madrid",
-    "address": "J&J's Books and Coffee",
-    "organizer": "Madrid Tech Brunch",
-    "lat": 40.425636999999995,
-    "lng": -3.7069720000000004,
-    "extra": {
-      "categories": [
-        "Tech"
-      ],
-      "is_free": false,
-      "guest_count": 0,
-      "sold_out": false,
-      "waitlist_active": false,
-      "registration_deadline": null
-    },
-    "found_on_platforms": [
-      "luma"
-    ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
       "idioma": "no_especificado",
       "comida_gratis": "no_especificado",
       "se_graba": "no_especificado"
@@ -470,9 +435,9 @@
     "lat": null,
     "lng": null,
     "extra": {
-      "attendees": 21,
+      "attendees": 23,
       "max_tickets": 30,
-      "spots_left": 9
+      "spots_left": 7
     },
     "found_on_platforms": [
       "meetup"
@@ -530,7 +495,7 @@
     "lat": 40.4410744,
     "lng": -3.6187568,
     "extra": {
-      "attendees": 11,
+      "attendees": 12,
       "max_tickets": 0,
       "spots_left": null
     },
@@ -682,9 +647,9 @@
     "lat": 40.4490059,
     "lng": -3.6708446,
     "extra": {
-      "attendees": 77,
+      "attendees": 79,
       "max_tickets": 90,
-      "spots_left": 13
+      "spots_left": 11
     },
     "found_on_platforms": [
       "meetup"
@@ -712,7 +677,7 @@
     "lat": 40.4166565,
     "lng": -3.6742879,
     "extra": {
-      "attendees": 26,
+      "attendees": 28,
       "max_tickets": 0,
       "spots_left": null
     },

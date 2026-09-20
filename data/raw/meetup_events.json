@@ -11,9 +11,9 @@
     "city": "Madrid",
     "address": "P.º de La Habana, 9, 11, Chamartín, 28036 Madrid, Spain",
     "organizer": "Sirviendo Código",
-    "attendees": 21,
+    "attendees": 23,
     "max_tickets": 30,
-    "spots_left": 9,
+    "spots_left": 7,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -61,7 +61,7 @@
     "city": "Madrid",
     "address": "C. de Cronos, 63",
     "organizer": "Elixir Madrid",
-    "attendees": 11,
+    "attendees": 12,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -143,6 +143,29 @@
   },
   {
     "source": "meetup",
+    "source_slug": "Data Science",
+    "source_id": "316576718",
+    "name": "Grafana & Friends 🤝 Madrid GO UG",
+    "description": "The Grafana & Friends Madrid meetup is back, and this time we are partnering with the [Madrid GO User Group](https://www.meetup.com/go-mad/) and visiting our good friends at [Celonis](https://www.celonis.com/).\n\n⚠️ For this event, RSVP at https://www.meetup.com/go-mad/events/316570374 ⚠️\n\n🎙️ \"**From Counter.Inc() to a billion series**\", [Antonio Pitasi](https://www.linkedin.com/in/pitasi/), Senior Software Engineer at [Grafana Labs](https://grafana.com/).\n\nAdd a counter. Two lines and you can finally see how often your service fails.\nThen you add a label to tell failure reasons apart, and the counter becomes genuinely useful. You can now see why it's failing.\nSo you start adding more labels, one for the kind of user, one for the value of the operation. Each one seems reasonable and enables rich queries and alerts.\nThis talk follows that counter all the way down: from instrumenting a Go service, to how Prometheus scrapes and stores your data, to building a horizontally scalable distributed metrics database as you go from one counter to billions.\n\nYou don't need to know anything about observability to attend this session!\n\n📍**Location:**\n**[Celonis](https://www.celonis.com/)**: Pl\\. de Manuel Gómez\\-Moreno\\, 2 Madrid \\| [https://maps.app.goo.gl/tSeuMHXwwvaTC9VH9](https://maps.app.goo.gl/tSeuMHXwwvaTC9VH9)\n\nIt would be super cool to see you there! 👋\n\nGrafana & Friends Madrid",
+    "start_at": "2026-10-07T19:00:00+02:00",
+    "url": "https://www.meetup.com/grafana-and-friends-madrid/events/316576718/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Pl. de Manuel Gómez-Moreno, 2",
+    "organizer": "Grafana & Friends Madrid",
+    "attendees": 3,
+    "max_tickets": 1,
+    "spots_left": -2,
+    "found_in": [
+      "Data Science",
+      "DevOps",
+      "Hackathon"
+    ],
+    "lat": 40.4485287,
+    "lng": -3.6940143
+  },
+  {
+    "source": "meetup",
     "source_slug": "DevOps",
     "source_id": "316152297",
     "name": "Escalando con el particionado de postgresql y releases inmutables",
@@ -165,28 +188,6 @@
   {
     "source": "meetup",
     "source_slug": "DevOps",
-    "source_id": "316576718",
-    "name": "Grafana & Friends 🤝 Madrid GO UG",
-    "description": "The Grafana & Friends Madrid meetup is back, and this time we are partnering with the [Madrid GO User Group](https://www.meetup.com/go-mad/) and visiting our good friends at [Celonis](https://www.celonis.com/).\n\n⚠️ For this event, RSVP at https://www.meetup.com/go-mad/events/316570374 ⚠️\n\n🎙️ \"**From Counter.Inc() to a billion series**\", [Antonio Pitasi](https://www.linkedin.com/in/pitasi/), Senior Software Engineer at [Grafana Labs](https://grafana.com/).\n\nAdd a counter. Two lines and you can finally see how often your service fails.\nThen you add a label to tell failure reasons apart, and the counter becomes genuinely useful. You can now see why it's failing.\nSo you start adding more labels, one for the kind of user, one for the value of the operation. Each one seems reasonable and enables rich queries and alerts.\nThis talk follows that counter all the way down: from instrumenting a Go service, to how Prometheus scrapes and stores your data, to building a horizontally scalable distributed metrics database as you go from one counter to billions.\n\nYou don't need to know anything about observability to attend this session!\n\n📍**Location:**\n**[Celonis](https://www.celonis.com/)**: Pl\\. de Manuel Gómez\\-Moreno\\, 2 Madrid \\| [https://maps.app.goo.gl/tSeuMHXwwvaTC9VH9](https://maps.app.goo.gl/tSeuMHXwwvaTC9VH9)\n\nIt would be super cool to see you there! 👋\n\nGrafana & Friends Madrid",
-    "start_at": "2026-10-07T19:00:00+02:00",
-    "url": "https://www.meetup.com/grafana-and-friends-madrid/events/316576718/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "Pl. de Manuel Gómez-Moreno, 2",
-    "organizer": "Grafana & Friends Madrid",
-    "attendees": 3,
-    "max_tickets": 1,
-    "spots_left": -2,
-    "found_in": [
-      "DevOps",
-      "Hackathon"
-    ],
-    "lat": 40.4485287,
-    "lng": -3.6940143
-  },
-  {
-    "source": "meetup",
-    "source_slug": "DevOps",
     "source_id": "316446627",
     "name": "APIs for the Modern PM",
     "description": "**Introduction**\n\nAPIs are not just an engineering concern.\n\nThey shape the customer experience, determine how products connect with third parties, and create opportunities for new functionality, data sharing and monetisation.\n\nJoin ProductTank Madrid for a practical session designed for product managers and builders who want to work more confidently with APIs.\n\nWe will explore their foundations through real-world examples, use monitoring and observability to understand journeys spanning multiple services, and examine open-data use cases across banking and transport, third-party integrations, and how greater transparency into system behaviour can create value across B2B and B2C products.\n\nWe will also look at how APIs underpin MCPs, which are driving a major shift in how people and AI agents access tools, context and services, before finishing with Q&A and networking.\n\n**Timings**\n\n7:00 - Welcome\n7:10 - Talks begin\n8:00 - Q&A\n8:20 - Networking\n\n**Speakers**\n\n**Marisa Martin Serrano**\n*Engineering Manager / Solutions Architect at EcoVadis*\n\nMarisa is an engineering leader, solutions architect and technical product professional with 20 years of international experience across transport, finance, telecoms, consulting and other complex industries. She specialises in turning business needs into scalable technical architectures and aligning engineering delivery with product goals. She is also a public speaker and mentor with Step4ward and Tech SHEssions Madrid.\n**[LinkedIn](https://www.linkedin.com/in/marisa-martin-serrano/)**\n\n**Paloma Menéndez Palau**\n*Head of Product at Depay*\n\nPaloma is Head of Product at Depay and a computer science graduate specialising in scalable payment infrastructure. Her experience spans product strategy, REST API integrations, checkout and payment processing, and merchant onboarding at Depay, Yuno, AstroPay and Rappi. She works closely with engineering and commercial teams to improve reliability, reduce checkout friction and use data to increase merchant performance.\n**[LinkedIn](https://www.linkedin.com/in/paloma-men%C3%A9ndez-palau-5b4246109/)**\n\n**Who is this event for?**\n\n* Product managers who want real technical fluency, not a glossary\n* PMs working on platforms, integrations, payments or anything API-first\n* Designers and engineers curious about how product decisions shape technical contracts\n* Founders whose product is consumed by other developers\n* Anyone who has ever nodded along in an architecture review and then quietly googled it afterwards\n\nYou do not need to be technical to get value from this evening. You need to be curious.\n\n**About our sponsor — Cabify**\n\nHuge thanks to **Cabify** for hosting us and supporting Madrid's product community.\n\nFounded in Madrid in 2011, Cabify is an Iberoamerican multi-mobility platform connecting passengers, drivers and companies through technology.\n\nIt operates in more than 40 cities across six countries — Spain, Chile, Argentina, Peru, Colombia and Uruguay — serving over 50 million registered users and 40,000 companies, with around 1,000 employees across its offices in Spain and Latin America.\n\nCabify's stated ambition is to transform cities into better living spaces through mobility, built on a sustainable business model and a commitment to the UN Global Compact and the Sustainable Development Goals.\nCabify will kindly be providing drinks during the networking session.\n\n**Networking & Q&A**\n\nAfter the talks we'll open the floor for questions and debate, then stay on for drinks and conversation with Madrid's product community. ProductTank Madrid has sold out edition after edition this past year — come early, meet people, and stick around.\n\n**Join the event**\n\nPlease only RSVP if you intend to come — and if your plans change, update your RSVP so someone else can take your spot.",
@@ -196,9 +197,9 @@
     "city": "Madrid",
     "address": "Calle de Pradillo, 42, 28002 Madrid, Spain",
     "organizer": "ProductTank Madrid",
-    "attendees": 77,
+    "attendees": 79,
     "max_tickets": 90,
-    "spots_left": 13,
+    "spots_left": 11,
     "found_in": [
       "DevOps",
       "Startups"
@@ -218,7 +219,7 @@
     "city": "Madrid",
     "address": "C/ del Alcalde Sainz de Baranda, 32, Retiro, 28009 Madrid",
     "organizer": "Startup Oasis - Tech, Founders, nomads, devs, UI/UX, Product",
-    "attendees": 26,
+    "attendees": 28,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

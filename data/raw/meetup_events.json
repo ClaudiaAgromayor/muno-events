@@ -61,7 +61,7 @@
     "city": "Madrid",
     "address": "C. de Cronos, 63",
     "organizer": "Elixir Madrid",
-    "attendees": 12,
+    "attendees": 13,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -153,9 +153,9 @@
     "city": "Madrid",
     "address": "Pl. de Manuel Gómez-Moreno, 2",
     "organizer": "Grafana & Friends Madrid",
-    "attendees": 3,
+    "attendees": 2,
     "max_tickets": 1,
-    "spots_left": -2,
+    "spots_left": -1,
     "found_in": [
       "Data Science",
       "DevOps",
@@ -197,9 +197,9 @@
     "city": "Madrid",
     "address": "Calle de Pradillo, 42, 28002 Madrid, Spain",
     "organizer": "ProductTank Madrid",
-    "attendees": 79,
+    "attendees": 80,
     "max_tickets": 90,
-    "spots_left": 11,
+    "spots_left": 10,
     "found_in": [
       "DevOps",
       "Startups"
@@ -219,7 +219,7 @@
     "city": "Madrid",
     "address": "C/ del Alcalde Sainz de Baranda, 32, Retiro, 28009 Madrid",
     "organizer": "Startup Oasis - Tech, Founders, nomads, devs, UI/UX, Product",
-    "attendees": 28,
+    "attendees": 29,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

@@ -11,7 +11,7 @@
     "city": "",
     "address": "",
     "organizer": "Power Platform Madrid",
-    "attendees": 17,
+    "attendees": 25,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -50,7 +50,7 @@
     "city": "",
     "address": "",
     "organizer": "IA para Agencias, Freelancers y Consultores",
-    "attendees": 4,
+    "attendees": 5,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -196,7 +196,6 @@
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
-      "Data Science",
       "DevOps"
     ]
   },
@@ -329,7 +328,7 @@
     "city": "",
     "address": "",
     "organizer": "Microsoft Speakers Hub en Español",
-    "attendees": 10,
+    "attendees": 11,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -529,7 +528,7 @@
   },
   {
     "source": "meetup",
-    "source_slug": "DevOps",
+    "source_slug": "Data Science",
     "source_id": "316570374",
     "name": "From Counter.Inc() to a billion series",
     "description": "Add a counter. Two lines and you can finally see how often your service fails.\n\nThen you add a label to tell failure reasons apart and the counter becomes genuinely useful. You can now see why it's failing.\nSo you start adding more labels, one for the kind of user, one for the value of the operation. Each one seems reasonable and enables rich queries and alerts.\n\nThis talk follows that counter all the way down: from instrumenting a Go service, to how Prometheus scrapes and stores your data, to building a horizontally scalable distributed metrics database as you go from just one counter to billions of them.\n\nYou don't need to know anything about observability to attend this session!",
@@ -539,10 +538,11 @@
     "city": "Madrid",
     "address": "Pl. de Manuel Gómez-Moreno, 2, Tetuán, 28020 Madrid, Spain",
     "organizer": "GoMAD - Madrid Go UG",
-    "attendees": 27,
+    "attendees": 26,
     "max_tickets": 60,
-    "spots_left": 33,
+    "spots_left": 34,
     "found_in": [
+      "Data Science",
       "DevOps"
     ]
   },
@@ -596,7 +596,7 @@
     "city": "Madrid",
     "address": "Calle de Atocha, 123, Centro, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 82,
+    "attendees": 85,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

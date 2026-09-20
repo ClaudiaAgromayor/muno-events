@@ -369,7 +369,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 9,
+      "guest_count": 10,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -712,7 +712,7 @@
     "lat": 40.4166565,
     "lng": -3.6742879,
     "extra": {
-      "attendees": 25,
+      "attendees": 26,
       "max_tickets": 0,
       "spots_left": null
     },

@@ -136,7 +136,6 @@
     "found_in": [
       "Data Science",
       "DevOps",
-      "Startups",
       "Hackathon"
     ],
     "lat": 40.4485287,
@@ -179,7 +178,8 @@
     "max_tickets": 1,
     "spots_left": -2,
     "found_in": [
-      "DevOps"
+      "DevOps",
+      "Hackathon"
     ],
     "lat": 40.4485287,
     "lng": -3.6940143
@@ -196,13 +196,12 @@
     "city": "Madrid",
     "address": "Calle de Pradillo, 42, 28002 Madrid, Spain",
     "organizer": "ProductTank Madrid",
-    "attendees": 75,
+    "attendees": 77,
     "max_tickets": 90,
-    "spots_left": 15,
+    "spots_left": 13,
     "found_in": [
       "DevOps",
-      "Startups",
-      "Hackathon"
+      "Startups"
     ],
     "lat": 40.4490059,
     "lng": -3.6708446
@@ -261,7 +260,7 @@
     "city": "Madrid",
     "address": "C. de Belén, 7",
     "organizer": "Out in Tech - Madrid",
-    "attendees": 12,
+    "attendees": 13,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

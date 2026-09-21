@@ -18,7 +18,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 168,
+      "guest_count": 165,
       "sold_out": true,
       "waitlist_active": true,
       "registration_deadline": null
@@ -53,7 +53,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 32,
+      "guest_count": 38,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -229,7 +229,7 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 94,
+      "guest_count": 95,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -264,7 +264,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 73,
+      "guest_count": 74,
       "sold_out": true,
       "waitlist_active": true,
       "registration_deadline": null
@@ -563,7 +563,12 @@
       "meetup"
     ],
     "duplicate_ids": [],
-    "enrichment": null
+    "enrichment": {
+      "nivel": "principiante",
+      "idioma": "es",
+      "comida_gratis": "no_especificado",
+      "se_graba": "no_especificado"
+    }
   },
   {
     "id": "meetup:315790884",
@@ -702,9 +707,9 @@
     "lat": 40.4490059,
     "lng": -3.6708446,
     "extra": {
-      "attendees": 87,
+      "attendees": 88,
       "max_tickets": 90,
-      "spots_left": 3
+      "spots_left": 2
     },
     "found_on_platforms": [
       "meetup"

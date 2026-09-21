@@ -11,7 +11,7 @@
     "city": "",
     "address": "",
     "organizer": "Power Platform Madrid",
-    "attendees": 32,
+    "attendees": 33,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -49,7 +49,7 @@
     "city": "",
     "address": "",
     "organizer": "Escuela de Programación e IA a Profesionales",
-    "attendees": 5,
+    "attendees": 6,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -79,25 +79,6 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
-    "source_id": "316003588",
-    "name": "Disaggregated Speculative Decoding and Optimizing Inference Engines Across Chips",
-    "description": "**Zoom link**: [https://us02web.zoom.us/j/82308186562](https://us02web.zoom.us/j/82308186562)\n\n**Talk #0: Introductions and Meetup Updates**\nby Chris Fregly and Antje Barth\n\n**Talk #1: Disaggregated Speculative Decoding with d-Matrix Accelerators by Tom St. John, Head of Applied Research @ Gimlet Labs**\n\nTom will discuss and demonstrate disaggregated speculative decoding using d-Matrix chips on Gimlet Cloud.\n\n**Talk #2: Optimizing Inference Engine Performance by Head of Engineering @ Makora**\n\nMakora demos how to tune inference engine performance for the latest models and workloads.\n\n**Zoom link**: [https://us02web.zoom.us/j/82308186562](https://us02web.zoom.us/j/82308186562)\n\n**Related Links**\nGithub Repo: [http://github.com/cfregly/ai-performance-engineering/](http://github.com/cfregly/ai-performance-engineering/)\nO'Reilly Book: [https://www.amazon.com/Systems-Performance-Engineering-Optimizing-Algorithms/dp/B0F47689K8/](https://www.amazon.com/Systems-Performance-Engineering-Optimizing-Algorithms/dp/B0F47689K8/)\nYouTube: [https://www.youtube.com/@AIPerformanceEngineering](https://www.youtube.com/@AIPerformanceEngineering)\nGenerative AI Free Course on DeepLearning.ai: [https://bit.ly/gllm](https://bit.ly/gllm)",
-    "start_at": "2026-09-21T18:00:00+02:00",
-    "url": "https://www.meetup.com/ai-performance-engineering-meetup-madrid/events/316003588/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "AI Performance Engineering Meetup (Madrid)",
-    "attendees": 16,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
     "source_id": "315388183",
     "name": "Sept 24 - AI, ML and Computer Vision Meetup",
     "description": "Join our virtual meetup on September 24 to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Date, Time and Location**\n\nSep 24, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-september-24-2026)**\n\n**How Do Mercedes-Benz AI Principles Drive our Innovation?**\n\nAt Mercedes-Benz, our AI Principles guide every step of innovation, emphasizing responsible use, safety and reliability, explainability, and the protection of privacy. These principles go beyond statements and actively shape how we design, test, and deploy AI systems in real-world automotive and enterprise settings. In this talk, I will present how these principles inspired our recent research on when reusing LoRA (Low-Rank Adaptation) is effective. By combining theoretical analysis with synthetic data as a proxy for enterprise scenarios, we uncovered the strengths and limitations of modular AI components under constrained data access. Our findings provide practical guidance on when reused LoRAs could deliver high-quality results.\n\n*About the Speaker*\n\n[Mei-Yen Chen](https://www.linkedin.com/in/mei-yen-chen-22937787) is a Senior Data Scientist at Mercedes-Benz Tech Innovation GmbH in Germany with 10 years of industry experience in AI and data solutions. She leads early-stage AI projects across business functions and collaborates with research institutions on machine learning and responsible AI.\n\n**Region Tokens as the Visual Primitive: From Recognition to World Modeling**\n\nPatch-based tokenization has become the default interface between vision encoders and downstream models, yet patches carry no semantic structure and scale poorly with resolution and temporal extent. This talk presents a research program centered on replacing patch tokens with region-level representations — semantically dense tokens grounded in visual entities rather than arbitrary grid crops.\n\nI will describe RELOCATE, REN, and T-REN, a progression of methods that produce region tokens via pooling, train them with region-level objectives, and extend them to video with temporal coherence. I will then present ongoing work integrating region tokens into VLMs to directly expand visual context capacity, and preliminary results on future region trajectory prediction as a foundation for world modeling.\n\nThe broader thesis is that region-level tokens are a more natural unit of visual computation than patches, and their advantage compounds as task complexity, resolution, and temporal horizon increase.\n\n*About the Speaker*\n\n[Savya Khosla](https://www.linkedin.com/in/savyakhosla/) is a second-year Ph.D. student at the University of Illinois Urbana-Champaign, advised by Prof. Derek Hoiem and Prof. Alex Schwing.\n\n**Leveraging Text-To-Image Diffusion Models for Consistent Set-to-Set Generation**\n\nImage collections are humans' primary way of capturing the world, yet advances in generative editing remain largely inapplicable to this modality. We address this gap by introducing Match-and-Fuse - a zero-shot, training-free method for consistent set-to-set generation from image collections that share a common visual element but differ in viewpoint, capture time, and surrounding content.\nOur key idea is a unified graph-based framework that combines dense correspondences with an emergent prior in text-to-image diffusion models to generate coherent canvases. We achieve state-of-the-art consistency and visual quality, and unlock new creative capabilities for content generation.\n\n*About the Speaker*\n\n[Kate Feingold](https://www.linkedin.com/in/katefeingold/) is a PhD student in Computer Vision at the Weizmann Institute of Science. Her research sits at the intersection of generative models, 3D/4D perception, and multimodal learning, focusing on problems where vision meets other modalities or paradigms in creative tasks.\n\n**Yield Estimation of a Coffee in a dense environment**\n\nThis presentation provides a detailed workflow related to coffee yield estimation in a dense environment. With photos of pre-harvest coffee plants from a couple of coffee estates, details related to pre-processing, annotation to detect regions of interest (ROI), object detection training and inferencing results with various Yolo models and finally segmentation with SAM2 and Yolo\\*-seg with training and inference results to determine the count of raw, pre-mature, mature and over-mature coffee berries and finally the yield of the entire estate. All this is based on real world data captured on iPhone and android phones.\n\n*About the Speaker*\n\n[Raghu M. Rao](http://www.linkedin.com/in/raghumrao) is a consultant working on applications of computer vision AI models. He was previously with AMD and Xilinx. He has a Ph.D. in Wireless Communications from UCLA and is a Senior Member, IEEE. His current interests are in applications of AI for agriculture, health care and wireless communications.",
@@ -108,6 +89,26 @@
     "address": "",
     "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
     "attendees": 0,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence",
+      "Machine Learning"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316613772",
+    "name": "Oct 1 - APAC AI, ML and Computer Vision Meetup",
+    "description": "Join our APAC time-zone friendly virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Time, Date and Location**\n\nOct 1, 2026\n6:00 PM - 8:00 PM PDT\nOnline. **[Register for the Zoom!](https://voxel51.com/events/apac-ai-ml-and-computer-vision-meetup-october-1-2026)**\n\n**Beyond Exact Matches: Detecting Modified 3D Assets at Marketplace Scale**\n\nHow can a marketplace identify copied 3D assets when their orientation, geometry, or composition has changed? Drawing on my work in 3D content understanding at Roblox, this talk will explore multi-view and rotation-invariant representations for similarity and duplicate detection, including the challenges posed by deformed and fragmented copies.\nIt will examine how geometric and semantic signals can complement one another, and discuss practical trade-offs in evaluating detection quality and deploying these methods at scale. The presentation will draw on published patent applications and publicly shareable examples to offer practical lessons for engineers building visual search, content-understanding, and marketplace-safety systems.\n\n*About the Speaker*\n\n[Phani Harish Wajjala](https://www.linkedin.com/in/harish-wajjala-81a47119/) is a Principal Machine Learning Engineer at Roblox specializing in 3D computer vision, multimodal AI, and large-scale content understanding.\n\n**Sign Language: Towards Sign Understanding for Robot Autonomy**\n\nNavigational signs are common aids for human wayfinding and scene understanding, but are underutilized by robots. We argue that they benefit robot navigation and scene understanding, by directly encoding privileged information on actions, spatial regions, and relations.\n\nInterpreting signs in open-world settings remains a challenge owing to the complexity of scenes and signs, but recent advances in vision-language models (VLMs) make this feasible. To advance progress in this area, we introduce the task of visual sign grounding, which parses locations and associated directions from signs, and maps them to region in the sign’s local environment.\n\nAdditionally, we present a baseline approach using VLMs, and demonstrate their promise on the task. We also outline different applications, such as localization and navigation, which benefit from the spatial-symbolic information encoded by navigational signs.\n\n*About the Speaker*\n\n[Nicky Zimmerman](https://www.linkedin.com/in/nicky-zimmerman-41b71694/) I am a postdoctoral researcher in NUS, working on open world navigation. My PhD thesis focused on human-inspired strategies for semantic localization and mapping. Previously, I worked as computer vision algorithm developer in General Motors and Intel.\n\n**MeMo: Memory as a Model**\n\nLarge language models (LLMs) achieve strong performance across a wide range of tasks, but remain frozen after pretraining until subsequent updates. Many real-world applications require timely, domain-specific information, motivating the need for efficient mechanisms to incorporate new knowledge.\n\nIn this paper, we introduce MeMo (Memory as a Model), a modular framework that encodes new knowledge into a dedicated Memory model while keeping the LLM unchanged. Compared to existing methods, MeMo offers several advantages: (a) it captures complex cross-document relationships, (b) it is robust to retrieval noise, (c) it avoids catastrophic forgetting in the LLM, (d) it does not require access to the LLM’s weights or output logits that enabling plug-and-play integration with both open and proprietary LLMs, and (e) its retrieval cost is independent of corpus size at inference time.\n\nOur experiments on three benchmarks, BrowseComp-Plus, NarrativeQA, and MuSiQue, show that MeMo achieves strong performance compared to existing methods across diverse settings.\n\n*About the Speaker*\n\n[Arun Verma](https://www.linkedin.com/in/arunverma100) is a Postdoctoral Associate at the Singapore-MIT Alliance for Research and Technology Centre, where he works with Daniela Rus, Armando Solar-Lezama, and Bryan Low.",
+    "start_at": "2026-10-02T03:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-ai-machine-learning-and-computer-vision-meetup/events/316613772/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
+    "attendees": 1,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -138,26 +139,6 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
-    "source_id": "316613772",
-    "name": "Oct 1 - APAC AI, ML and Computer Vision Meetup",
-    "description": "Join our APAC time-zone friendly virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Time, Date and Location**\n\nOct 1, 2026\n6:00 PM - 8:00 PM PDT\nOnline. **[Register for the Zoom!](https://voxel51.com/events/apac-ai-ml-and-computer-vision-meetup-october-1-2026)**\n\n**Beyond Exact Matches: Detecting Modified 3D Assets at Marketplace Scale**\n\nHow can a marketplace identify copied 3D assets when their orientation, geometry, or composition has changed? Drawing on my work in 3D content understanding at Roblox, this talk will explore multi-view and rotation-invariant representations for similarity and duplicate detection, including the challenges posed by deformed and fragmented copies.\nIt will examine how geometric and semantic signals can complement one another, and discuss practical trade-offs in evaluating detection quality and deploying these methods at scale. The presentation will draw on published patent applications and publicly shareable examples to offer practical lessons for engineers building visual search, content-understanding, and marketplace-safety systems.\n\n*About the Speaker*\n\n[Phani Harish Wajjala](https://www.linkedin.com/in/harish-wajjala-81a47119/) is a Principal Machine Learning Engineer at Roblox specializing in 3D computer vision, multimodal AI, and large-scale content understanding.\n\n**Sign Language: Towards Sign Understanding for Robot Autonomy**\n\nNavigational signs are common aids for human wayfinding and scene understanding, but are underutilized by robots. We argue that they benefit robot navigation and scene understanding, by directly encoding privileged information on actions, spatial regions, and relations.\n\nInterpreting signs in open-world settings remains a challenge owing to the complexity of scenes and signs, but recent advances in vision-language models (VLMs) make this feasible. To advance progress in this area, we introduce the task of visual sign grounding, which parses locations and associated directions from signs, and maps them to region in the sign’s local environment.\n\nAdditionally, we present a baseline approach using VLMs, and demonstrate their promise on the task. We also outline different applications, such as localization and navigation, which benefit from the spatial-symbolic information encoded by navigational signs.\n\n*About the Speaker*\n\n[Nicky Zimmerman](https://www.linkedin.com/in/nicky-zimmerman-41b71694/) I am a postdoctoral researcher in NUS, working on open world navigation. My PhD thesis focused on human-inspired strategies for semantic localization and mapping. Previously, I worked as computer vision algorithm developer in General Motors and Intel.\n\n**MeMo: Memory as a Model**\n\nLarge language models (LLMs) achieve strong performance across a wide range of tasks, but remain frozen after pretraining until subsequent updates. Many real-world applications require timely, domain-specific information, motivating the need for efficient mechanisms to incorporate new knowledge.\n\nIn this paper, we introduce MeMo (Memory as a Model), a modular framework that encodes new knowledge into a dedicated Memory model while keeping the LLM unchanged. Compared to existing methods, MeMo offers several advantages: (a) it captures complex cross-document relationships, (b) it is robust to retrieval noise, (c) it avoids catastrophic forgetting in the LLM, (d) it does not require access to the LLM’s weights or output logits that enabling plug-and-play integration with both open and proprietary LLMs, and (e) its retrieval cost is independent of corpus size at inference time.\n\nOur experiments on three benchmarks, BrowseComp-Plus, NarrativeQA, and MuSiQue, show that MeMo achieves strong performance compared to existing methods across diverse settings.\n\n*About the Speaker*\n\n[Arun Verma](https://www.linkedin.com/in/arunverma100) is a Postdoctoral Associate at the Singapore-MIT Alliance for Research and Technology Centre, where he works with Daniela Rus, Armando Solar-Lezama, and Bryan Low.",
-    "start_at": "2026-10-02T03:00:00+02:00",
-    "url": "https://www.meetup.com/madrid-ai-machine-learning-and-computer-vision-meetup/events/316613772/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
-    "attendees": 1,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence",
-      "Machine Learning"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
     "source_id": "316064296",
     "name": "Sept 22 - FiftyOne Agent: Automate Visual AI Workflows with Natural Language",
     "description": "Learn about FiftyOne Agent, an AI assistant built directly into FiftyOne that turns plain-language requests into real dataset operations.\n\n**Date, Time and Location**\n\nSep 22, 2026\n9:00 AM - 10:00 AM Pacific\nOnline. **[Register for the Zoom!](https://voxel51.com/events/meet-the-fiftyone-agent-automate-visual-ai-workflows-with-natural-language-september-22-2026)**\n\nAsk it to find and remove duplicate images, run object detection and surface low-confidence predictions, or evaluate a model and summarize where it fails, and the agent handles execution end to end.\n\nWe will also walk through the newest capabilities shipping with this release, including code generation and plugin generation. You will see how to go from a conversational prompt to a custom dashboard, visualization, or full FiftyOne application, and how to package multi-step workflows as reusable skills the agent can call on demand.\n\nBecause the agent runs inside FiftyOne's secure guardrails, teams keep full control. Connect your preferred models from over 100 LLM providers, route requests through your own enterprise gateway, and maintain audit logging and user attribution for every action the agent takes.",
@@ -167,7 +148,7 @@
     "city": "",
     "address": "",
     "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
-    "attendees": 0,
+    "attendees": 1,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -234,6 +215,25 @@
     "found_in": [
       "Artificial Intelligence",
       "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316485518",
+    "name": "AI × Decentralized Trust: Kickoff of the LFDT AI Working Group",
+    "description": "AI is already in our pull requests — and agentic AI needs exactly what we build. Let's talk about both.\n\nAI has already arrived in our repositories. It writes patches, reviews pull requests, and is often the first thing a newcomer asks about a codebase they don't understand yet. At the same time, agentic AI is arriving from the other direction — as a use case. Autonomous agents need identities they can prove, credentials others can verify, and a way to pay each other for the things they consume. That is our home turf.\n\nLFDT has no shared position on either side of this yet. This meeting launches the LFDT AI Working Group and sets its scope together with the people who will do the work.\n\nWe will open three questions:\n\n**How do we use AI when building LFDT projects? What** is allowed, what has to be disclosed, and what does it mean for provenance, licensing, DCO sign-off, and security review? The Linux Foundation's existing generative AI guidance is the floor — the question is what our projects need on top of it.\n\n**Can AI help us grow our communities?** Review bots like CodeRabbit, automated triage of good first issues, and onboarding assistants promise a shorter path from first-time contributor to committer. Do they actually deliver that, or do they just add noise for maintainers to clean up? And if we want them, who runs them and who pays?\n\n**Where does our work connect to the AI world?** Two neighbours at the Linux Foundation matter most: the Agentic AI Foundation (MCP, goose, AGENTS.md) and the x402 Foundation, which stewards payments over HTTP for agents. Agentic identity and agent-to-agent commerce are exactly where DLT belongs — and where LFDT projects should be visible.\n\nThis is a kickoff, not a keynote. Bring your opinions, your objections, and the problems you already have. We want to leave with an initial scope, a meeting cadence, and named volunteers for the first work streams.\n\nOpen to everyone: maintainers, contributors, TSC members, LFDT staff, and anyone from the wider Linux Foundation AI ecosystem. No prior involvement in LFDT required.\n\n**Zoom Meeting Link**: [https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09](https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09)\n\n**Please note: This event is being shared with our entire global community. If you're interested in this content but can't attend the event live, feel free to sign up and we will send you a link to the recording after the meetup is over.**",
+    "start_at": "2026-10-06T18:00:00+02:00",
+    "url": "https://www.meetup.com/lfdt-madrid/events/316485518/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "LFDT Madrid",
+    "attendees": 2,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence"
     ]
   },
   {
@@ -611,7 +611,7 @@
     "city": "Madrid",
     "address": "Calle de Atocha, 123, Centro, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 96,
+    "attendees": 98,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

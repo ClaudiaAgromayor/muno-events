@@ -11,9 +11,9 @@
     "city": "Madrid",
     "address": "P.º de La Habana, 9, 11, Chamartín, 28036 Madrid, Spain",
     "organizer": "Sirviendo Código",
-    "attendees": 23,
+    "attendees": 24,
     "max_tickets": 30,
-    "spots_left": 7,
+    "spots_left": 6,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -37,9 +37,9 @@
     "city": "Madrid",
     "address": "Av. Gran Vía del Este, 1, Vicálvaro, 28032 Madrid",
     "organizer": "AI Security Engineers - Madrid, ES",
-    "attendees": 20,
+    "attendees": 22,
     "max_tickets": 50,
-    "spots_left": 30,
+    "spots_left": 28,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -61,7 +61,7 @@
     "city": "Madrid",
     "address": "C. de Cronos, 63",
     "organizer": "Elixir Madrid",
-    "attendees": 13,
+    "attendees": 14,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -84,9 +84,9 @@
     "city": "Madrid",
     "address": "de la comunidad, C. de Bravo Murillo, 39, Local interior, Chamberí, 28015 Madrid, Spain",
     "organizer": "Madrid Machine Learning Meetup",
-    "attendees": 24,
+    "attendees": 26,
     "max_tickets": 60,
-    "spots_left": 36,
+    "spots_left": 34,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -117,6 +117,29 @@
     ],
     "lat": 38.9879607,
     "lng": -1.845739
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Machine Learning",
+    "source_id": "316647405",
+    "name": "☎️ ¿Me puedes pasar con una IA? y Transformando imágenes satelitales",
+    "description": "Información y reserva de plaza en https://guild.host/events/me-puedes-pasar-con-xe7fcv",
+    "start_at": "2026-09-24T19:00:00+02:00",
+    "url": "https://www.meetup.com/pydata-madrid/events/316647405/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "C. de San Bernardo, 101, Chamberí, 28015 Madrid, Spain",
+    "organizer": "PyData Madrid",
+    "attendees": 1,
+    "max_tickets": 1,
+    "spots_left": 0,
+    "found_in": [
+      "Machine Learning",
+      "Data Science",
+      "Hackathon"
+    ],
+    "lat": 40.4311755,
+    "lng": -3.706308
   },
   {
     "source": "meetup",
@@ -196,9 +219,9 @@
     "city": "Madrid",
     "address": "Calle de Pradillo, 42, 28002 Madrid, Spain",
     "organizer": "ProductTank Madrid",
-    "attendees": 81,
+    "attendees": 85,
     "max_tickets": 90,
-    "spots_left": 9,
+    "spots_left": 5,
     "found_in": [
       "DevOps",
       "Startups"
@@ -218,7 +241,7 @@
     "city": "Madrid",
     "address": "C/ del Alcalde Sainz de Baranda, 32, Retiro, 28009 Madrid",
     "organizer": "Startup Oasis - Tech, Founders, nomads, devs, UI/UX, Product",
-    "attendees": 29,
+    "attendees": 33,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -260,7 +283,7 @@
     "city": "Madrid",
     "address": "C. de Belén, 7",
     "organizer": "Out in Tech - Madrid",
-    "attendees": 12,
+    "attendees": 13,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

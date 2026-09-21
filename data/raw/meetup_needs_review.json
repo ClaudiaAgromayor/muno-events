@@ -11,7 +11,26 @@
     "city": "",
     "address": "",
     "organizer": "Power Platform Madrid",
-    "attendees": 27,
+    "attendees": 32,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316581903",
+    "name": "Seguimiento comercial con IA - Diseña campañas para tus clientes.",
+    "description": "Muchas empresas acumulan contactos interesados, propuestas pendientes y clientes con los que han perdido el contacto. Dar seguimiento a esas relaciones requiere organización, contexto y mensajes que lleguen en el momento adecuado.\n\nEn este encuentro online veremos **cómo diseñar y ejecutar campañas de seguimiento de preventa y postventa con IA, y convertirlas en un servicio que puedas ofrecer a tus clientes.**\nTrabajaremos con ejemplos de seguimiento de propuestas, recuperación de oportunidades, acompañamiento tras la compra y reactivación de clientes.\n\nRecorreremos tanto el diseño de la campaña como los datos, la configuración del correo y los aspectos legales que debes revisar antes de activarla.\n\n## Qué veremos\n\n* Cómo identificar oportunidades de seguimiento en la base de leads y clientes de una empresa.\n* Cómo diferenciar campañas de **preventa, postventa, reactivación y recompra.**\n* Cómo segmentar contactos según su relación con el negocio, sus necesidades y sus interacciones anteriores.\n* Cómo definir el objetivo, el mensaje, la frecuencia y las condiciones de salida de cada campaña.\n* Qué aspectos revisar sobre **RGPD, LSSI, permisos de contacto y solicitudes de baja.**\n* Cómo preparar dominios y buzones y qué papel tienen **SPF, DKIM y DMARC.**\n* Cómo abordar el calentamiento de buzones y el volumen de envío según el caso, y cómo interpretar rebotes y quejas de spam.\n* Cómo utilizar IA para preparar mensajes personalizados y secuencias con revisión humana.\n* Cómo conectar las campañas con el CRM, gestionar respuestas y detener el seguimiento cuando corresponda.\n* Cómo medir resultados: respuestas, oportunidades recuperadas, conversiones y recompra.\n* Cómo convertir este proceso en un servicio con alcance, precio y responsabilidades definidos.\n* Un framework práctico: **objetivo → segmento → datos y permisos → mensajes → ejecución → seguimiento → resultados.**\n\n🎓 **Encuentro online gratuito**\n⏱️ **Duración aproximada: 90 min + Q&A**\n🤝 **Impulsado por InvokeApp**",
+    "start_at": "2026-10-20T16:00:00+02:00",
+    "url": "https://www.meetup.com/ia-para-agencias-freelancers-y-consultores/events/316581903/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "IA para Agencias, Freelancers y Consultores",
+    "attendees": 6,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -30,31 +49,12 @@
     "city": "",
     "address": "",
     "organizer": "Escuela de Programación e IA a Profesionales",
-    "attendees": 4,
+    "attendees": 5,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
-    "source_id": "316581903",
-    "name": "Seguimiento comercial con IA - Diseña campañas para tus clientes.",
-    "description": "Muchas empresas acumulan contactos interesados, propuestas pendientes y clientes con los que han perdido el contacto. Dar seguimiento a esas relaciones requiere organización, contexto y mensajes que lleguen en el momento adecuado.\n\nEn este encuentro online veremos **cómo diseñar y ejecutar campañas de seguimiento de preventa y postventa con IA, y convertirlas en un servicio que puedas ofrecer a tus clientes.**\nTrabajaremos con ejemplos de seguimiento de propuestas, recuperación de oportunidades, acompañamiento tras la compra y reactivación de clientes.\n\nRecorreremos tanto el diseño de la campaña como los datos, la configuración del correo y los aspectos legales que debes revisar antes de activarla.\n\n## Qué veremos\n\n* Cómo identificar oportunidades de seguimiento en la base de leads y clientes de una empresa.\n* Cómo diferenciar campañas de **preventa, postventa, reactivación y recompra.**\n* Cómo segmentar contactos según su relación con el negocio, sus necesidades y sus interacciones anteriores.\n* Cómo definir el objetivo, el mensaje, la frecuencia y las condiciones de salida de cada campaña.\n* Qué aspectos revisar sobre **RGPD, LSSI, permisos de contacto y solicitudes de baja.**\n* Cómo preparar dominios y buzones y qué papel tienen **SPF, DKIM y DMARC.**\n* Cómo abordar el calentamiento de buzones y el volumen de envío según el caso, y cómo interpretar rebotes y quejas de spam.\n* Cómo utilizar IA para preparar mensajes personalizados y secuencias con revisión humana.\n* Cómo conectar las campañas con el CRM, gestionar respuestas y detener el seguimiento cuando corresponda.\n* Cómo medir resultados: respuestas, oportunidades recuperadas, conversiones y recompra.\n* Cómo convertir este proceso en un servicio con alcance, precio y responsabilidades definidos.\n* Un framework práctico: **objetivo → segmento → datos y permisos → mensajes → ejecución → seguimiento → resultados.**\n\n🎓 **Encuentro online gratuito**\n⏱️ **Duración aproximada: 90 min + Q&A**\n🤝 **Impulsado por InvokeApp**",
-    "start_at": "2026-10-20T16:00:00+02:00",
-    "url": "https://www.meetup.com/ia-para-agencias-freelancers-y-consultores/events/316581903/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "IA para Agencias, Freelancers y Consultores",
-    "attendees": 5,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence"
     ]
   },
   {
@@ -80,15 +80,15 @@
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
     "source_id": "316003588",
-    "name": "Closing the Continuous Learning Loop: From Agent Traces to Agent Training",
-    "description": "**Zoom link**: [https://us02web.zoom.us/j/82308186562](https://us02web.zoom.us/j/82308186562)\n\n**Talk #0: Introductions and Meetup Updates**\nby Chris Fregly and Antje Barth\n\n**Talk #1: Closing the Continuous Learning Loop: From Agent Traces to Agent Training**\nby Rustem Feyzkhanov, Engineering Manager @ Snorkel.ai\nProduction traces show where agents fail, but how do we turn those failures into learning? This talk explores a practical loop from traces to reproducible simulations, verifiable rewards, and model improvement through fine-tuning or reinforcement learning. We’ll also look at when it’s better to change prompts, tools, or the agent harness instead of updating model weights.\n\n**Zoom link**: [https://us02web.zoom.us/j/82308186562](https://us02web.zoom.us/j/82308186562)\n\n**Related Links**\nGithub Repo: [http://github.com/cfregly/ai-performance-engineering/](http://github.com/cfregly/ai-performance-engineering/)\nO'Reilly Book: [https://www.amazon.com/Systems-Performance-Engineering-Optimizing-Algorithms/dp/B0F47689K8/](https://www.amazon.com/Systems-Performance-Engineering-Optimizing-Algorithms/dp/B0F47689K8/)\nYouTube: [https://www.youtube.com/@AIPerformanceEngineering](https://www.youtube.com/@AIPerformanceEngineering)\nGenerative AI Free Course on DeepLearning.ai: [https://bit.ly/gllm](https://bit.ly/gllm)",
+    "name": "Disaggregated Speculative Decoding and Optimizing Inference Engines Across Chips",
+    "description": "**Zoom link**: [https://us02web.zoom.us/j/82308186562](https://us02web.zoom.us/j/82308186562)\n\n**Talk #0: Introductions and Meetup Updates**\nby Chris Fregly and Antje Barth\n\n**Talk #1: Disaggregated Speculative Decoding with d-Matrix Accelerators by Tom St. John, Head of Applied Research @ Gimlet Labs**\n\nTom will discuss and demonstrate disaggregated speculative decoding using d-Matrix chips on Gimlet Cloud.\n\n**Talk #2: Optimizing Inference Engine Performance by Head of Engineering @ Makora**\n\nMakora demos how to tune inference engine performance for the latest models and workloads.\n\n**Zoom link**: [https://us02web.zoom.us/j/82308186562](https://us02web.zoom.us/j/82308186562)\n\n**Related Links**\nGithub Repo: [http://github.com/cfregly/ai-performance-engineering/](http://github.com/cfregly/ai-performance-engineering/)\nO'Reilly Book: [https://www.amazon.com/Systems-Performance-Engineering-Optimizing-Algorithms/dp/B0F47689K8/](https://www.amazon.com/Systems-Performance-Engineering-Optimizing-Algorithms/dp/B0F47689K8/)\nYouTube: [https://www.youtube.com/@AIPerformanceEngineering](https://www.youtube.com/@AIPerformanceEngineering)\nGenerative AI Free Course on DeepLearning.ai: [https://bit.ly/gllm](https://bit.ly/gllm)",
     "start_at": "2026-09-21T18:00:00+02:00",
     "url": "https://www.meetup.com/ai-performance-engineering-meetup-madrid/events/316003588/",
     "event_type": "ONLINE",
     "city": "",
     "address": "",
     "organizer": "AI Performance Engineering Meetup (Madrid)",
-    "attendees": 10,
+    "attendees": 12,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -190,7 +190,7 @@
     "city": "",
     "address": "",
     "organizer": "Madrid AI Developers Group",
-    "attendees": 8,
+    "attendees": 9,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -254,13 +254,31 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Machine Learning",
+      "Machine Learning"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Data Science",
+    "source_id": "316641844",
+    "name": "Crea una página web con IA en 30 min",
+    "description": "Crea una página web con IA en 30 min",
+    "start_at": "2026-10-02T19:00:00+02:00",
+    "url": "https://www.meetup.com/marketing-and-ai-systems/events/316641844/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Marketing con IA Madrid",
+    "attendees": 2,
+    "max_tickets": 45,
+    "spots_left": 43,
+    "found_in": [
       "Data Science"
     ]
   },
   {
     "source": "meetup",
-    "source_slug": "Machine Learning",
+    "source_slug": "Data Science",
     "source_id": "316418129",
     "name": "AIDataTech Connect: Global Virtual Networking Event for AI, Data & Tech Pros",
     "description": "Are you working in artificial intelligence, data science, or machine learning? Whether you're a developer, researcher, startup founder, or aspiring tech enthusiast — **AIDataTech Connect** is your go-to **AI networking event online** designed to foster career growth, real-time collaboration, and innovation exchange in a dynamic, community-driven environment.\n\nThis event brings together a global **virtual AI community meetup** hosted on a flexible Slack-style platform that supports group discussions and **1-1 video or text chats**, making it perfect for professionals looking to connect, collaborate, and build with others in the AI ecosystem.\n\n🎥 **Watch how it works:**\n👉 [https://www.youtube.com/watch?v=NRUTXUOFKm4](https://www.youtube.com/watch?v=NRUTXUOFKm4)\n\n**💬 What to Expect:**\nAt AIDataTech Connect, attendees are encouraged to explore, share, and engage across multiple interactive channels designed to support learning, networking, and opportunity discovery:\n\n* **General** – A central hub for orientation, announcements, and community-wide discussions.\n* **Intros** – Introduce yourself, your background, and your AI/tech journey. Spark meaningful introductions.\n* **Networking** – Share your resume, startup, or project pitch. Meet employers, peers, or collaborators.\n* **Help Wanted** – Ask for help or offer support on coding, data, research, or AI model deployment.\n* **Industry Room Tech** – Discuss AI frameworks, tools, and the latest tech trends in data and development.\n* **Project Showcase** – Perfect for those seeking a **machine learning career fair** experience or showcasing real-world work through our **AI project showcase platform**.\n* **Collaboration Pods** – Jump into discussions around **collaboration for AI specialists**, including open-source partnerships, research pods, and co-building opportunities.\n\n**📍 Where:**\nJoin virtually at:\n👉 [https://events.tao.ai/pod/analytics.club/q4j5imq9qjs9](https://events.tao.ai/pod/analytics.club/q4j5imq9qjs9)\n**🕔 When:**\nEvent runs globally from **5:00 PM – 7:00 PM local time** — designed for participation across time zones.\n\n**👥 Who Should Join:**\n\n* AI professionals, ML engineers, and data scientists\n* Tech founders, entrepreneurs, and product leaders\n* Students, job seekers, and aspiring AI talent\n* Recruiters, employers, and hiring managers in AI/tech\n* Researchers, open-source contributors, and peer mentors\n\n**🧠 Why Attend:**\n\n* Engage in a truly global **virtual tech networking event**\n* Discover AI jobs, freelance gigs, or partnership opportunities\n* Connect with experts and peers in AI, ML, and data\n* Explore AI applications and get feedback on your models or tools\n* Network directly via 1-on-1 video or text chats\n* Collaborate on new ideas, research papers, or open-source projects\n\n**❓ Questions or Suggestions?**\nWe’re here to help. Drop us a note at:\n👉 [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**🔖 Hashtags:**\n#AIDataTechConnect #AINetworkingEventOnline #VirtualAICommunityMeetup #MachineLearningCareerFair #AIProjectShowcasePlatform #CollaborationForAISpecialists #DataScienceMeetup #MLJobs #AIResearchNetworking #GlobalTechNetworking #TechCollaborationEvent",
@@ -274,7 +292,6 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Machine Learning",
       "Data Science"
     ]
   },
@@ -300,16 +317,16 @@
   {
     "source": "meetup",
     "source_slug": "Data Science",
-    "source_id": "316514403",
-    "name": "AI For Work | Webinar",
-    "description": "**AI for Work \\| Free Live Webinar**\n\n**Pre-Registration is REQUIRED. Joining link -**\n[https://streamyard.com/watch/QnfhUjb7qQXs](https://streamyard.com/watch/QnfhUjb7qQXs?utm_source=luma)\n\n## ​WHEN\n\n​**September 30 at 1:00 PM ET**\n**45-minute live webinar**\n\n## ​WHO SHOULD JOIN?\n\n​This session is for people who already use tools like ChatGPT or Claude, but want to go beyond asking questions and start using AI to actually get work done.\n​It’s especially useful for:\n\n* ​Product and project managers\n* ​Operations and process leads\n* ​Marketing and admin professionals\n* ​Founders and small business teams\n* ​Career changers and AI beginners\n* ​Anyone looking to automate everyday work without coding\n\n​Come curious. No coding, setup, or technical background required.\n\nWHAT YOU’LL LEARN\n\nIn this free, 45-minute hands-on session, ODSC's Sheamus McGovern shows you the difference between chatting with AI and putting it to work.\n\nYou'll watch Cowork sort a messy folder of files into order, turn raw notes and spreadsheets into a polished, ready-to-send document, and set up recurring work that runs on its own, no prompting required.\n\nJust the everyday tasks you can hand off to AI that eat your week: filing, formatting, summarizing, following up, etc.\n\nLeave with one task you can delegate this week, and a clear next step for what to automate after that.\n\n**​Stay Connected**\n\n* ​**Learn:** Free talks and trainings on the [Ai+ Training platform](https://aiplus.training/?utm_source=luma).\n* ​**Read:** The latest in AI research on the [ODSC Blog](https://opendatascience.com/?utm_source=luma).\n* ​**Chat:** Join the conversation in our [Slack Channel](https://www.google.com/search?q=https%3A%2F%2Fodsc.com%2Fslack&utm_source=luma).\n* ​**Community:** Review our [Code of Conduct](https://odsc.com/code-of-conduct/?utm_source=luma).",
-    "start_at": "2026-09-30T19:00:00+02:00",
-    "url": "https://www.meetup.com/odsc-madrid-data-science/events/316514403/",
+    "source_id": "316629017",
+    "name": "AIConnect: Global Virtual Job & Career Networking Event for AI Specialists",
+    "description": "Are you an AI engineer, data scientist, machine learning researcher, or aspiring innovator in the world of artificial intelligence? **AIConnect** is your dynamic **AI networking event online** designed to foster real-time conversations, career growth, and collaboration opportunities — all within a vibrant and self-led virtual space.\n\nWhether you're exploring job roles in AI, hoping to demo your latest project, or searching for your next co-developer or data scientist partner, **AIConnect** offers a one-of-a-kind experience to connect with the global **machine learning community meetup** — anytime, from anywhere.\n\n🎥 **Watch how it works in our explainer video:**\n👉 [https://www.youtube.com/watch?v=bH3uNrkUTuw](https://www.youtube.com/watch?v=bH3uNrkUTuw)\n\n**💡 Why Join AIConnect?**\n\nThis is not just another virtual event. It’s a **collaboration platform for AI specialists** where you can grow your professional network, showcase your AI/ML portfolio, exchange ideas, and chat directly with fellow participants, recruiters, and service providers.\nDesigned for **AI career fair virtual** seekers and builders alike, the platform supports live 1-1 **video or text chats**, and offers open access to diverse community-led channels tailored to your interests.\n\n**💬 Brainstorming & Discussion Channels Include:**\n\n* **General** – Your go-to hub for announcements, orientation, and casual community-wide conversation.\n* **Intros** – Introduce yourself, your research, your startup, or just share your journey in AI.\n* **Networking** – Showcase your AI/ML projects, portfolios, startup pitches, or job aspirations.\n* **Help Wanted** – Looking for team members, mentorship, freelance gigs, or offering support? Post here.\n* **Industry Room Tech** – Dive into the latest developments in AI frameworks, ML pipelines, data tools, and tech trends.\n\nWhether you’re a beginner or a pro, a researcher or a recruiter — this space empowers growth through **project demos, career discussions, and research conversations.**\n\n**🧠 What You’ll Gain:**\n\n* Direct access to a **global AI talent and hiring ecosystem**\n* Exposure to cutting-edge projects via the **AI project showcase event**\n* Connections with peers and thought leaders across AI, ML, and data science\n* Career insights and opportunities from fellow professionals and employers\n* A flexible environment to network, brainstorm, and build meaningful collaborations\n* Instant 1-on-1 video or text chats for deeper engagement\n\n**📍 Where:**\nJoin virtually at:\n👉 [https://events.tao.ai/pod/analytics.club/jknf0o9m3kix](https://events.tao.ai/pod/analytics.club/jknf0o9m3kix)\n**🕔 When:**\nEvery session starts at **5:00 PM – 7:00 PM local time** — recurring monthly on Fridays. Mark your calendar and come prepared to connect!\n\n**👥 Who Should Attend:**\n\n* AI engineers, ML developers, and data scientists\n* Startup founders and entrepreneurs in the AI/tech space\n* Recruiters, hiring managers, and project collaborators\n* Students, academics, and early-career professionals\n* Anyone passionate about AI, machine learning, and applied tech innovation\n\n**📩 Questions or Suggestions?**\nWe’d love to hear from you. Reach us anytime here:\n👉 [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**🔖 Hashtags:**\n#AIConnect #AINetworkingEventOnline #AICareerFairVirtual #MachineLearningCommunityMeetup #AIProjectShowcaseEvent #CollaborationPlatformForAISpecialists #MLJobs #GlobalAINetworking #TechNetworkingEvent #AIProfessionalsUnite",
+    "start_at": "2026-10-09T23:00:00+02:00",
+    "url": "https://www.meetup.com/ac-mad/events/316629017/",
     "event_type": "ONLINE",
     "city": "",
     "address": "",
-    "organizer": "ODSC AI Madrid",
-    "attendees": 2,
+    "organizer": "Analytics.CLUB Madrid",
+    "attendees": 1,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -538,9 +555,9 @@
     "city": "Madrid",
     "address": "Pl. de Manuel Gómez-Moreno, 2, Tetuán, 28020 Madrid, Spain",
     "organizer": "GoMAD - Madrid Go UG",
-    "attendees": 26,
+    "attendees": 27,
     "max_tickets": 60,
-    "spots_left": 34,
+    "spots_left": 33,
     "found_in": [
       "Data Science",
       "DevOps"
@@ -558,7 +575,7 @@
     "city": "Madrid",
     "address": "Cale Ibiza",
     "organizer": "NUEVOS AMIGOS",
-    "attendees": 11,
+    "attendees": 12,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -596,7 +613,7 @@
     "city": "Madrid",
     "address": "Calle de Atocha, 123, Centro, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 87,
+    "attendees": 93,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -615,7 +632,7 @@
     "city": "Madrid",
     "address": "C. de Gaztambide, 20, Chamberí, 28015 Madrid, Spain",
     "organizer": "HackMadrid %27",
-    "attendees": 2,
+    "attendees": 3,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -673,25 +690,6 @@
     "address": "Av. de Pablo Iglesias, 9, Chamberí, 28003 Madrid, Spain",
     "organizer": "Yoga in Parque Santander – Breathe, Flow & Connect",
     "attendees": 2,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Hackathon"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Hackathon",
-    "source_id": "316433462",
-    "name": "GAME NIGHT",
-    "description": "# Muy buenas ! Este proximo Viernes os esperamos para una noche de juegos en el Hacklab ! Juegos de mesa, retro, arcade, billar, futbolin, ajedrez. Tráe el tuyo y participa con nosotras : - ).[@la_enredadera_de_tetuan](https://www.instagram.com/la_enredadera_de_tetuan/) [@hacklab_la_raiz](https://www.instagram.com/hacklab_la_raiz/)",
-    "start_at": "2026-09-25T19:00:00+02:00",
-    "url": "https://www.meetup.com/hacklab/events/316433462/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "calle coruña 5",
-    "organizer": "Hacklab La Raiz",
-    "attendees": 1,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

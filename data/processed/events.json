@@ -18,7 +18,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 180,
+      "guest_count": 179,
       "sold_out": true,
       "waitlist_active": true,
       "registration_deadline": null
@@ -30,6 +30,41 @@
     "enrichment": {
       "nivel": "no_especificado",
       "idioma": "no_especificado",
+      "comida_gratis": "no_especificado",
+      "se_graba": "no_especificado"
+    }
+  },
+  {
+    "id": "luma:evt-rzTp6tP5bXpZFEy",
+    "source": "luma",
+    "source_id": "evt-rzTp6tP5bXpZFEy",
+    "name": "Vibe Coding Is Over: Building Software When AI Writes the Code",
+    "description": "We’re sitting down with Robert Douglass, founder of Spec Kitty, to talk about what happens after vibe coding.\nAI coding agents are getting very good, very fast. But as they write more of the implementation, a new set of problems shows up:\nHow do you keep them aligned with what you actually wanted?How do you manage multiple agents working at once?How do you review work you didn’t write?And how much autonomy should you really give them?\nRobert built Spec Kitty, an open-source framework for spec-driven development with AI agents, to tackle exactly that.\nWe’ll talk about why he built it, what he learned from letting agents loose on real codebases, where vibe coding breaks down, and what software development might look like when humans spend less time writing code and more time defining intent.\nWe’ll also get into:\nWhy better prompts aren’t enough\n\nSpecs vs. vibe coding\n\nHow to coordinate multiple coding agents\n\nWhere humans still need to stay in the loop\n\nWhat breaks when AI-generated code scales\n\nWhether developers will actually read the code AI writes\n\nBuilding an open-source product in a space moving this fast\n\nExpect a candid founder conversation, live examples, and questions from the room.\nThen we’ll hang out over some drinks with other founders, engineers, and people building with AI.",
+    "start_at": "2026-09-22T16:00:00.000Z",
+    "end_at": "2026-09-22T17:00:00.000Z",
+    "url": "https://lu.ma/homsbdzv",
+    "city": "Madrid",
+    "address": "Pl. del Callao, 1",
+    "organizer": "Mad Builders",
+    "lat": 40.419722,
+    "lng": -3.7061105000000003,
+    "extra": {
+      "categories": [
+        "AI"
+      ],
+      "is_free": true,
+      "guest_count": 18,
+      "sold_out": false,
+      "waitlist_active": false,
+      "registration_deadline": null
+    },
+    "found_on_platforms": [
+      "luma"
+    ],
+    "duplicate_ids": [],
+    "enrichment": {
+      "nivel": "no_especificado",
+      "idioma": "en",
       "comida_gratis": "no_especificado",
       "se_graba": "no_especificado"
     }
@@ -194,7 +229,7 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 90,
+      "guest_count": 92,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -264,7 +299,7 @@
         "Tech"
       ],
       "is_free": false,
-      "guest_count": 42,
+      "guest_count": 43,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": "2026-09-21T18:00:59.000Z"
@@ -465,9 +500,9 @@
     "lat": null,
     "lng": null,
     "extra": {
-      "attendees": 19,
+      "attendees": 20,
       "max_tickets": 50,
-      "spots_left": 31
+      "spots_left": 30
     },
     "found_on_platforms": [
       "meetup"
@@ -647,9 +682,9 @@
     "lat": 40.4490059,
     "lng": -3.6708446,
     "extra": {
-      "attendees": 80,
+      "attendees": 81,
       "max_tickets": 90,
-      "spots_left": 10
+      "spots_left": 9
     },
     "found_on_platforms": [
       "meetup"
@@ -740,7 +775,7 @@
     "lat": 40.4242298,
     "lng": -3.6963366,
     "extra": {
-      "attendees": 13,
+      "attendees": 12,
       "max_tickets": 0,
       "spots_left": null
     },

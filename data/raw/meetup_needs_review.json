@@ -11,7 +11,7 @@
     "city": "",
     "address": "",
     "organizer": "Power Platform Madrid",
-    "attendees": 25,
+    "attendees": 27,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -88,7 +88,7 @@
     "city": "",
     "address": "",
     "organizer": "AI Performance Engineering Meetup (Madrid)",
-    "attendees": 9,
+    "attendees": 10,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -202,6 +202,25 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
+    "source_id": "316022255",
+    "name": "Oct 8 - MCP, Agents and Skills Meetup Meetup",
+    "description": "Join our virtual meetup to hear talks from experts on MCP, agents and skills.\n\n**Date, Time and Location**\n\nOct 08, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/mcp-agents-skills-meetup-october-8-2026)**\n\n**Designing Multi‑Agent Systems: Sequential, Parallel, and Beyond with ADK**\n\nMulti‑agent systems are powerful but choosing the wrong interaction pattern can quickly lead to fragile, slow, or expensive AI systems.\nIn this talk, we explore the core multi‑agent design patterns enabled by ADK, including sequential, parallel, and more advanced coordination models. Rather than focusing on tools alone, we’ll look at how to think architecturally about agent collaboration.\n\nYou’ll learn:\n\n* When sequential agents are the right choice and when they become a bottleneck\n* How parallel agents improve speed and coverage (and the trade‑offs they introduce)\n* Common failure modes in poorly designed agent interactions\n* Practical criteria for choosing the right pattern based on task, latency, and reliability\n\nBy the end of the session, you’ll have a clear mental model for designing multi‑agent systems that are intentional, scalable, and production‑ready.\n\n*About the Speaker*\n\n[Dr Roushanak Rahmat](https://www.linkedin.com/in/roushanakrahmat/) is an Enterprise AI Architect, Google Developer Expert (AI & Cloud), and recognized among the Top 100 Women in Tech (2025). With a PhD in Artificial Intelligence and over 15 years of experience, she specializes in designing and delivering enterprise-scale Generative AI, Agentic AI, and Deep Learning solutions that transform industries including healthcare, finance, energy, and public services.\n\n**Privacy by Deployment: Architecting Agent-Driven Localization Workflows for Regulated Environments**\n\nMost enterprise AI today is private by promise - a DPA, a SOC 2 report, or a contract clause that says, \"we won't train on your data\". For a regulated buyer, these are remedies after a breach, not controls that prevent or contain one. For organizations in healthcare, finance, defense, and government, privacy often requires stronger guarantees: data residency, customer-controlled execution, and, in some cases, operation within air-gapped environments.\n\nThis session demonstrates how agentic AI can automate a localization workflow while operating within these constraints. Using a real-world localization pipeline as an example, we will show how agentic systems can coordinate translation, review, quality assurance, and content preparation tasks while incorporating human checkpoints for approval and oversight.\n\nWe will also walk through the architectural patterns that enable these workflows to run inside customer-controlled and air-gapped environments without transferring sensitive content outside the customer boundary. The session includes a live product demonstration.\n\nKey Takeaways\n\n* Architectural patterns for deploying agentic AI in air-gapped and customer-controlled environments\n* How agentic systems can automate localization workflows while preserving critical human review and approval processes\n* Practical considerations for operating agentic workflows in regulated environments with auditability and governance requirements\n\n*About the Speaker*\n\n[Shruti Joshi](https://www.linkedin.com/in/28shruti) is building an AI powered secure localization stack for regulated industries such as healthcare, legal, finance that cannot send their content to a typical hosted SaaS. She brings 12+ years of engineering and architecture experience to the question this talk addresses: how do you make an agentic AI system deployable inside a regulated perimeter.\n\n**MCP Is the Interface; Skills Are the Operating Discipline**\n\nThis talk shows how MCP and Agent Skills work together in practical agent systems. MCP gives agents a standard interface to tools, data, and workflows; skills encode the operating discipline that makes those connections reliable. Using a sanitized field-operations ledger as the case study, the talk walks through source intake, normalized state, uncertainty labels, role prompts, QA gates, and share-safe status drafting.\n\n*About the Speaker*\n\n[Chuck Hernandez](https://www.linkedin.com/in/chuck-hernandez/) is an AI engineering and client-delivery leader with 10+ years across software, data platforms, and enterprise implementation, including 3+ years shipping production GenAI systems.\n\n**Agentic engineering is about good guidance.**\n\nGarbage Inn. Is garbage out? This is true. For many input and output processes. In biological life and in computer systems, and equally true when working with LLM’s. The better the prompt, the better the context, the better the focus, And the better the contextual awareness, the better the quality of the output the LLM’s generates.\nThis is the governance, art and practice of what we like to call agentic engineering, something I've been practicing over the last year.\n\n*About the Speaker*\n\n[Dimitri Geelen](https://www.linkedin.com/in/dimitrigeelen/) builds things that don't need him once they're done. Frameworks, transitions, agentic systems — the measure of success is always the same: does it hold up when he leaves the room? He understands not just how to deploy, but what it takes for a new service to survive and scale inside a complex enterprise.",
+    "start_at": "2026-10-08T18:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-ai-machine-learning-and-computer-vision-meetup/events/316022255/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
+    "attendees": 3,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
     "source_id": "316397919",
     "name": "AI Deep Dive Webinar - Taking LangGraph to production",
     "description": "**Important**: Register on the [event website](https://www.aicamp.ai/event/eventdetails/W2026091710) to receive the joining link. (rsvp on meetup will NOT receive anything).\n\nThis is virtual event for our AI global community, please double-check your local time. Can't make it live? Register anyway to receive the webinar recording.\n\nJoin Diagrid to learn taking LangGraph to production\n\n**Tech Talk: Taking LangGraph to production**\n**Speaker:** Mark Fussell\\, Co\\-founder & CEO\\, Diagrid \\| Co\\-creator of Dapr\\. and Yaron Schneider\\, Co\\-founder & CTO\\, Diagrid \\| Co\\-creator of Dapr\n**Abstract:** In this session, Dapr co-creators Mark Fussell and Yaron Schneider draw the line between checkpointing and durable execution, show exactly where LangGraph's persistence stops, and kill a live LangGraph agent mid-run to show Diagrid Catalyst bring it back without any re-architecture or custom recovery code.\nYou'll walk away knowing:\n\n* How to make LangGraph agents failure-proof, even in the face of complete outages\n* How to keep a complete, tamper-proof system of record that proves what your agents did\n* How to secure LangGraph deployments in any environment and specifically on Kubernetes\n\n**Who should attend**\nEngineers and architects running or planning to run LangGraph agents, platform teams responsible for agent reliability, and engineering leaders deciding how much of the reliability stack to build themselves.\n\n**Venue:**\nVirtual, join from anywhere\n\n**More virtual sessions:**\n\n* Sep 22nd: Google Agents in Production for Enterprises (#1). [RSVP](https://www.aicamp.ai/event/eventdetails/W2026081110)\n* Oct 14th: AI Deep Dive with Google Ep 4. [RSVP](https://www.aicamp.ai/event/eventdetails/W2026101410)",
@@ -217,25 +236,6 @@
     "found_in": [
       "Artificial Intelligence",
       "DevOps"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
-    "source_id": "316485518",
-    "name": "AI × Decentralized Trust: Kickoff of the LFDT AI Working Group",
-    "description": "AI is already in our pull requests — and agentic AI needs exactly what we build. Let's talk about both.\n\nAI has already arrived in our repositories. It writes patches, reviews pull requests, and is often the first thing a newcomer asks about a codebase they don't understand yet. At the same time, agentic AI is arriving from the other direction — as a use case. Autonomous agents need identities they can prove, credentials others can verify, and a way to pay each other for the things they consume. That is our home turf.\n\nLFDT has no shared position on either side of this yet. This meeting launches the LFDT AI Working Group and sets its scope together with the people who will do the work.\n\nWe will open three questions:\n\n**How do we use AI when building LFDT projects? What** is allowed, what has to be disclosed, and what does it mean for provenance, licensing, DCO sign-off, and security review? The Linux Foundation's existing generative AI guidance is the floor — the question is what our projects need on top of it.\n\n**Can AI help us grow our communities?** Review bots like CodeRabbit, automated triage of good first issues, and onboarding assistants promise a shorter path from first-time contributor to committer. Do they actually deliver that, or do they just add noise for maintainers to clean up? And if we want them, who runs them and who pays?\n\n**Where does our work connect to the AI world?** Two neighbours at the Linux Foundation matter most: the Agentic AI Foundation (MCP, goose, AGENTS.md) and the x402 Foundation, which stewards payments over HTTP for agents. Agentic identity and agent-to-agent commerce are exactly where DLT belongs — and where LFDT projects should be visible.\n\nThis is a kickoff, not a keynote. Bring your opinions, your objections, and the problems you already have. We want to leave with an initial scope, a meeting cadence, and named volunteers for the first work streams.\n\nOpen to everyone: maintainers, contributors, TSC members, LFDT staff, and anyone from the wider Linux Foundation AI ecosystem. No prior involvement in LFDT required.\n\n**Zoom Meeting Link**: [https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09](https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09)\n\n**Please note: This event is being shared with our entire global community. If you're interested in this content but can't attend the event live, feel free to sign up and we will send you a link to the recording after the meetup is over.**",
-    "start_at": "2026-10-06T18:00:00+02:00",
-    "url": "https://www.meetup.com/lfdt-madrid/events/316485518/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "LFDT Madrid",
-    "attendees": 2,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence"
     ]
   },
   {
@@ -596,7 +596,7 @@
     "city": "Madrid",
     "address": "Calle de Atocha, 123, Centro, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 85,
+    "attendees": 87,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -606,16 +606,16 @@
   {
     "source": "meetup",
     "source_slug": "Hackathon",
-    "source_id": "316529421",
-    "name": "OPEN DAY",
-    "description": "[EVENTOS DEL HACKLAB](https://hacklab.laenre.net/eventos)\n\nHACKLAB LA RAIZ OPEN DAY : VIERNES 5 DE DICIEMBRE.\n\nVen a conocer el espacio y el colectivo!!\nTe encantará ; - )\nCalle de la coruña numer 5 , 3ra planta.\n19:00 - 22:00\nPrimer viernes de cada mes:",
-    "start_at": "2026-10-02T19:00:00+02:00",
-    "url": "https://www.meetup.com/hacklab/events/316529421/",
+    "source_id": "316641862",
+    "name": "Jakeando Kañas en MADRIZ MADRID Rock Bar",
+    "description": "muy buenas de nuevo éste viernes, nos reuniremos y esta vez, cambiamos, en la calle C. de Gaztambide, 20, Chamberí, 28015 Madrid, por unas kñas frescas, para luego continuar hasta la hora que sea y dónde se tercie. También hay buena comida cerca.\n\nJackeando kañas es para nuestras propuestas como comunicación securizada, charlas curiosas y fuera de lo común, eventos o congresos que puede haber por la zona sobre Hacking, proponer nuevos proyectos, etc, etc. Y continuaremos hablando del WorldParty2k26!! que va a tener lugar.\nHasta el viernes,\nY recordad;\nEl intercambio de conocimiento, nos hace libres.",
+    "start_at": "2026-09-25T20:00:00+02:00",
+    "url": "https://www.meetup.com/hackmadrid-27/events/316641862/",
     "event_type": "PHYSICAL",
     "city": "Madrid",
-    "address": "calle coruña 5",
-    "organizer": "Hacklab La Raiz",
-    "attendees": 3,
+    "address": "C. de Gaztambide, 20, Chamberí, 28015 Madrid, Spain",
+    "organizer": "HackMadrid %27",
+    "attendees": 2,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -637,6 +637,25 @@
     "attendees": 1,
     "max_tickets": 10,
     "spots_left": 9,
+    "found_in": [
+      "Hackathon"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Hackathon",
+    "source_id": "316529421",
+    "name": "OPEN DAY",
+    "description": "[EVENTOS DEL HACKLAB](https://hacklab.laenre.net/eventos)\n\nHACKLAB LA RAIZ OPEN DAY : VIERNES 5 DE DICIEMBRE.\n\nVen a conocer el espacio y el colectivo!!\nTe encantará ; - )\nCalle de la coruña numer 5 , 3ra planta.\n19:00 - 22:00\nPrimer viernes de cada mes:",
+    "start_at": "2026-10-02T19:00:00+02:00",
+    "url": "https://www.meetup.com/hacklab/events/316529421/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "calle coruña 5",
+    "organizer": "Hacklab La Raiz",
+    "attendees": 3,
+    "max_tickets": 0,
+    "spots_left": null,
     "found_in": [
       "Hackathon"
     ]

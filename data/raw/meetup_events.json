@@ -37,9 +37,9 @@
     "city": "Madrid",
     "address": "Av. Gran Vía del Este, 1, Vicálvaro, 28032 Madrid",
     "organizer": "AI Security Engineers - Madrid, ES",
-    "attendees": 19,
+    "attendees": 20,
     "max_tickets": 50,
-    "spots_left": 31,
+    "spots_left": 30,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -135,8 +135,7 @@
     "spots_left": null,
     "found_in": [
       "Data Science",
-      "DevOps",
-      "Hackathon"
+      "DevOps"
     ],
     "lat": 40.4485287,
     "lng": -3.6940143
@@ -176,7 +175,7 @@
     "city": "Madrid",
     "address": "Plaza de Manuel Gómez-Moreno, 2, Tetuán, 28020",
     "organizer": "Madrid DevOps",
-    "attendees": 26,
+    "attendees": 27,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -197,9 +196,9 @@
     "city": "Madrid",
     "address": "Calle de Pradillo, 42, 28002 Madrid, Spain",
     "organizer": "ProductTank Madrid",
-    "attendees": 80,
+    "attendees": 81,
     "max_tickets": 90,
-    "spots_left": 10,
+    "spots_left": 9,
     "found_in": [
       "DevOps",
       "Startups"
@@ -261,7 +260,7 @@
     "city": "Madrid",
     "address": "C. de Belén, 7",
     "organizer": "Out in Tech - Madrid",
-    "attendees": 13,
+    "attendees": 12,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

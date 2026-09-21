@@ -18,7 +18,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 177,
+      "guest_count": 168,
       "sold_out": true,
       "waitlist_active": true,
       "registration_deadline": null
@@ -53,7 +53,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 31,
+      "guest_count": 32,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -299,7 +299,7 @@
         "Tech"
       ],
       "is_free": false,
-      "guest_count": 43,
+      "guest_count": 48,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": "2026-09-21T18:00:59.000Z"
@@ -335,8 +335,8 @@
       ],
       "is_free": true,
       "guest_count": 0,
-      "sold_out": false,
-      "waitlist_active": false,
+      "sold_out": true,
+      "waitlist_active": true,
       "registration_deadline": null
     },
     "found_on_platforms": [
@@ -348,41 +348,6 @@
       "idioma": "es",
       "comida_gratis": "no_especificado",
       "se_graba": "no_especificado"
-    }
-  },
-  {
-    "id": "luma:evt-AB6eSlcEOuMNykO",
-    "source": "luma",
-    "source_id": "evt-AB6eSlcEOuMNykO",
-    "name": "SheAI ft. Pitchless Show-and-Tell: Women Curious About AI",
-    "description": "SheAI Madrid ft. Pitchless Show-and-Tell: Women Curious About AI\nA SheAI Madrid & Pitchless first joint community evening open to where women share what they've been experimenting with in AI. Tools, workflows, side projects, frameworks ... whatever they've been curious about lately.\nFive women from our the Madrid AI community will each take 5–7 minutes to show something they've been playing with — from vibe coding to AI frameworks — followed by questions from the room. We'll wrap up with an open discussion and then head out for drinks nearby.\nAll experience levels welcome.\n🗓 Friday, 2nd October⏰ 5:00 pm – 7:30 pm📍 Puerta Innovación, Calle de Toledo 110, Madrid🎟 Free\n👩‍💻👩‍💻 Your hosts:\nThis evening came together the way the best things do — Petr Bilikova (SheAI Madrid) and Sarah Malinowski Coutanson (Pitchless) kept running into each other at AI events across Madrid in spring 2026, and at some point it just became obvious they had to organise something together.\n💛 Part of something bigger. This meetup is a joint initiative of two communities:\nSheAI Madrid – a local chapter of SheAI, a global community of 1,000+ women learning and building with AI. After you join, you'll find us on WhatsApp too — make sure to join the Madrid local hub. 👉 sheai.co\nPitchless – accelerating builder journeys. Pre-accelerator for 1000+ early-stage tech founders in Madrid and Spain. Build, ship, and raise with people doing the same. 👉https://luma.com/pitchless.community\n---------\nCan't make it? Register on the SheAI platform to stay informed about upcoming events! Click HERE.\nBy attending this event, participants consent to being photographed or filmed. Photos and videos may be used by SheAI for community communications and promotional purposes. If you'd prefer not to be photographed, just let the host know at the start of the event - no problem at all! 📸",
-    "start_at": "2026-10-02T15:00:00.000Z",
-    "end_at": "2026-10-02T17:30:00.000Z",
-    "url": "https://lu.ma/6c3cl0u5",
-    "city": "Madrid",
-    "address": "Puerta Innovación",
-    "organizer": "SheAI Madrid Community",
-    "lat": 40.4074994,
-    "lng": -3.7114533,
-    "extra": {
-      "categories": [
-        "AI"
-      ],
-      "is_free": true,
-      "guest_count": 48,
-      "sold_out": true,
-      "waitlist_active": true,
-      "registration_deadline": null
-    },
-    "found_on_platforms": [
-      "luma"
-    ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "si"
     }
   },
   {
@@ -404,7 +369,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 11,
+      "guest_count": 13,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -470,9 +435,9 @@
     "lat": null,
     "lng": null,
     "extra": {
-      "attendees": 24,
+      "attendees": 25,
       "max_tickets": 30,
-      "spots_left": 6
+      "spots_left": 5
     },
     "found_on_platforms": [
       "meetup"
@@ -500,9 +465,9 @@
     "lat": null,
     "lng": null,
     "extra": {
-      "attendees": 22,
+      "attendees": 23,
       "max_tickets": 50,
-      "spots_left": 28
+      "spots_left": 27
     },
     "found_on_platforms": [
       "meetup"
@@ -574,6 +539,31 @@
       "comida_gratis": "no_especificado",
       "se_graba": "no_especificado"
     }
+  },
+  {
+    "id": "meetup:316649677",
+    "source": "meetup",
+    "source_id": "316649677",
+    "name": "Crea tu Avatar con Inteligencia Artificial 🤖",
+    "description": "En este evento encontrarás el camino ideal para crear tu Propio Avatar con Inteligencia Artificial.\n\nEl evento empezará a las 7Pm\n\nen la calle Navarra 37, máximo 20 personas.\n\n1€ será la entrada en Efectivo.\n\nPrepárate para llevarte todo el Valor!",
+    "start_at": "2026-09-30T19:00:00+02:00",
+    "end_at": null,
+    "url": "https://www.meetup.com/inteligencia-artificial-y-negocios-networking/events/316649677/",
+    "city": "Madrid",
+    "address": "Calle Navarra 37",
+    "organizer": "Inteligencia Artificial y Marketing",
+    "lat": 40.4537078,
+    "lng": -3.7056271,
+    "extra": {
+      "attendees": 3,
+      "max_tickets": 25,
+      "spots_left": 22
+    },
+    "found_on_platforms": [
+      "meetup"
+    ],
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "meetup:315790884",
@@ -712,9 +702,9 @@
     "lat": 40.4490059,
     "lng": -3.6708446,
     "extra": {
-      "attendees": 85,
+      "attendees": 87,
       "max_tickets": 90,
-      "spots_left": 5
+      "spots_left": 3
     },
     "found_on_platforms": [
       "meetup"
@@ -742,7 +732,7 @@
     "lat": 40.4166565,
     "lng": -3.6742879,
     "extra": {
-      "attendees": 33,
+      "attendees": 35,
       "max_tickets": 0,
       "spots_left": null
     },

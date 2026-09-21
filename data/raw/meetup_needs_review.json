@@ -88,33 +88,11 @@
     "city": "",
     "address": "",
     "organizer": "AI Performance Engineering Meetup (Madrid)",
-    "attendees": 12,
+    "attendees": 16,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Data Science"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
-    "source_id": "316496875",
-    "name": "3 Hours to Research Intelligence: Build Your First AI Agent",
-    "description": "There are many groups promoting this event.\n\nOur meetup group is participating by promoting this event.\n\nThis event is organized by Albert's List.\n\nThis is an online event.\n\nAttendees can be located anywhere in the world!\n\nThere is a cost to attend this event.\nOur Meetup members get 25% OFF with Code MEETUP\n\nIn order to attend, please register here:\n[https://www.eventbrite.com/e/3-hours-to-research-intelligence-build-your-first-ai-agent-tickets-2000234783081?discount=MEETUP&keep_tld=true](https://www.eventbrite.com/e/3-hours-to-research-intelligence-build-your-first-ai-agent-tickets-2000234783081?discount=MEETUP&keep_tld=true)\n\nYou're either looking at a company to join, or you're trying to understand what your competitors are doing. Either way, you're researching blind—reading scattered reviews, googling company news, checking LinkedIn. It takes forever and you miss things.\nStop doing this manually.\nIn this workshop, you'll customize and deploy a working AI research agent in 3 hours. Fork an existing competitive intelligence agent, wire in your own data sources (RSS feeds, APIs, whatever's available), and run it. Feed it a company or industry keyword. Get back structured intelligence: recent news, hiring patterns, market positioning, gaps, red flags.\n**What you'll actually do:**\n\n* Clone a working competitive intelligence agent from GitHub\n* Add your own custom data sources (RSS feeds, open APIs, etc.)\n* Test it live on a real company or competitor\n* Walk away with a deployed agent you can run 100+ times\n\n**Two use cases, one agent:**\n\n1. **Job Seeker Mode** — Research a company before you apply, interview, or accept an offer. Understand growth, hiring, leadership, red flags.\n2. **Competitive Mode** — Understand what competitors are doing, market gaps, hiring trends, strategic moves. For employees and side hustlers.\n\n**What you need before the workshop:**\n\n* 10 min of pre-work (optional, but recommended): Clone the GitHub repo, set up your API key, test it runs\n* A laptop with a browser (Claude.ai)\n* Basic comfort with Claude—you should already be asking it questions and iterating\n\n**After the workshop:**\n\n* Post-work recap doc: What you built, how to iterate, advanced techniques, troubleshooting\n* Optional upsell: Advanced agent techniques course (separate paid offering)\n\n**This is NOT:**\n\n* A tutorial on \"how to use AI\"\n* A guide to corporate strategy\n* A tool for stalking or privacy violations (we cover ethical guardrails)\n\n**Price:** $17–27 (one-time, includes materials + post-work doc)\n**Pre-work is optional.** If you complete it, you'll hit the ground running. If you skip it, no problem—we'll set up during the first 20 minutes.",
-    "start_at": "2026-10-05T23:00:00+02:00",
-    "url": "https://www.meetup.com/spain-startup-idea-to-ipo/events/316496875/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Spain  Startup: Idea to IPO",
-    "attendees": 1,
-    "max_tickets": 100,
-    "spots_left": 99,
-    "found_in": [
-      "Artificial Intelligence",
-      "Startups"
+      "Artificial Intelligence"
     ]
   },
   {
@@ -135,6 +113,26 @@
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316496875",
+    "name": "3 Hours to Research Intelligence: Build Your First AI Agent",
+    "description": "There are many groups promoting this event.\n\nOur meetup group is participating by promoting this event.\n\nThis event is organized by Albert's List.\n\nThis is an online event.\n\nAttendees can be located anywhere in the world!\n\nThere is a cost to attend this event.\nOur Meetup members get 25% OFF with Code MEETUP\n\nIn order to attend, please register here:\n[https://www.eventbrite.com/e/3-hours-to-research-intelligence-build-your-first-ai-agent-tickets-2000234783081?discount=MEETUP&keep_tld=true](https://www.eventbrite.com/e/3-hours-to-research-intelligence-build-your-first-ai-agent-tickets-2000234783081?discount=MEETUP&keep_tld=true)\n\nYou're either looking at a company to join, or you're trying to understand what your competitors are doing. Either way, you're researching blind—reading scattered reviews, googling company news, checking LinkedIn. It takes forever and you miss things.\nStop doing this manually.\nIn this workshop, you'll customize and deploy a working AI research agent in 3 hours. Fork an existing competitive intelligence agent, wire in your own data sources (RSS feeds, APIs, whatever's available), and run it. Feed it a company or industry keyword. Get back structured intelligence: recent news, hiring patterns, market positioning, gaps, red flags.\n**What you'll actually do:**\n\n* Clone a working competitive intelligence agent from GitHub\n* Add your own custom data sources (RSS feeds, open APIs, etc.)\n* Test it live on a real company or competitor\n* Walk away with a deployed agent you can run 100+ times\n\n**Two use cases, one agent:**\n\n1. **Job Seeker Mode** — Research a company before you apply, interview, or accept an offer. Understand growth, hiring, leadership, red flags.\n2. **Competitive Mode** — Understand what competitors are doing, market gaps, hiring trends, strategic moves. For employees and side hustlers.\n\n**What you need before the workshop:**\n\n* 10 min of pre-work (optional, but recommended): Clone the GitHub repo, set up your API key, test it runs\n* A laptop with a browser (Claude.ai)\n* Basic comfort with Claude—you should already be asking it questions and iterating\n\n**After the workshop:**\n\n* Post-work recap doc: What you built, how to iterate, advanced techniques, troubleshooting\n* Optional upsell: Advanced agent techniques course (separate paid offering)\n\n**This is NOT:**\n\n* A tutorial on \"how to use AI\"\n* A guide to corporate strategy\n* A tool for stalking or privacy violations (we cover ethical guardrails)\n\n**Price:** $17–27 (one-time, includes materials + post-work doc)\n**Pre-work is optional.** If you complete it, you'll hit the ground running. If you skip it, no problem—we'll set up during the first 20 minutes.",
+    "start_at": "2026-10-05T23:00:00+02:00",
+    "url": "https://www.meetup.com/spain-startup-idea-to-ipo/events/316496875/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Spain  Startup: Idea to IPO",
+    "attendees": 1,
+    "max_tickets": 100,
+    "spots_left": 99,
+    "found_in": [
+      "Artificial Intelligence",
+      "Startups"
     ]
   },
   {
@@ -259,6 +257,26 @@
   },
   {
     "source": "meetup",
+    "source_slug": "Machine Learning",
+    "source_id": "316418129",
+    "name": "AIDataTech Connect: Global Virtual Networking Event for AI, Data & Tech Pros",
+    "description": "Are you working in artificial intelligence, data science, or machine learning? Whether you're a developer, researcher, startup founder, or aspiring tech enthusiast — **AIDataTech Connect** is your go-to **AI networking event online** designed to foster career growth, real-time collaboration, and innovation exchange in a dynamic, community-driven environment.\n\nThis event brings together a global **virtual AI community meetup** hosted on a flexible Slack-style platform that supports group discussions and **1-1 video or text chats**, making it perfect for professionals looking to connect, collaborate, and build with others in the AI ecosystem.\n\n🎥 **Watch how it works:**\n👉 [https://www.youtube.com/watch?v=NRUTXUOFKm4](https://www.youtube.com/watch?v=NRUTXUOFKm4)\n\n**💬 What to Expect:**\nAt AIDataTech Connect, attendees are encouraged to explore, share, and engage across multiple interactive channels designed to support learning, networking, and opportunity discovery:\n\n* **General** – A central hub for orientation, announcements, and community-wide discussions.\n* **Intros** – Introduce yourself, your background, and your AI/tech journey. Spark meaningful introductions.\n* **Networking** – Share your resume, startup, or project pitch. Meet employers, peers, or collaborators.\n* **Help Wanted** – Ask for help or offer support on coding, data, research, or AI model deployment.\n* **Industry Room Tech** – Discuss AI frameworks, tools, and the latest tech trends in data and development.\n* **Project Showcase** – Perfect for those seeking a **machine learning career fair** experience or showcasing real-world work through our **AI project showcase platform**.\n* **Collaboration Pods** – Jump into discussions around **collaboration for AI specialists**, including open-source partnerships, research pods, and co-building opportunities.\n\n**📍 Where:**\nJoin virtually at:\n👉 [https://events.tao.ai/pod/analytics.club/q4j5imq9qjs9](https://events.tao.ai/pod/analytics.club/q4j5imq9qjs9)\n**🕔 When:**\nEvent runs globally from **5:00 PM – 7:00 PM local time** — designed for participation across time zones.\n\n**👥 Who Should Join:**\n\n* AI professionals, ML engineers, and data scientists\n* Tech founders, entrepreneurs, and product leaders\n* Students, job seekers, and aspiring AI talent\n* Recruiters, employers, and hiring managers in AI/tech\n* Researchers, open-source contributors, and peer mentors\n\n**🧠 Why Attend:**\n\n* Engage in a truly global **virtual tech networking event**\n* Discover AI jobs, freelance gigs, or partnership opportunities\n* Connect with experts and peers in AI, ML, and data\n* Explore AI applications and get feedback on your models or tools\n* Network directly via 1-on-1 video or text chats\n* Collaborate on new ideas, research papers, or open-source projects\n\n**❓ Questions or Suggestions?**\nWe’re here to help. Drop us a note at:\n👉 [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**🔖 Hashtags:**\n#AIDataTechConnect #AINetworkingEventOnline #VirtualAICommunityMeetup #MachineLearningCareerFair #AIProjectShowcasePlatform #CollaborationForAISpecialists #DataScienceMeetup #MLJobs #AIResearchNetworking #GlobalTechNetworking #TechCollaborationEvent",
+    "start_at": "2026-09-24T17:00:00+02:00",
+    "url": "https://www.meetup.com/ac-mad/events/316418129/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Analytics.CLUB Madrid",
+    "attendees": 3,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Machine Learning",
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
     "source_slug": "Data Science",
     "source_id": "316641844",
     "name": "Crea una página web con IA en 30 min",
@@ -272,25 +290,6 @@
     "attendees": 2,
     "max_tickets": 45,
     "spots_left": 43,
-    "found_in": [
-      "Data Science"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Data Science",
-    "source_id": "316418129",
-    "name": "AIDataTech Connect: Global Virtual Networking Event for AI, Data & Tech Pros",
-    "description": "Are you working in artificial intelligence, data science, or machine learning? Whether you're a developer, researcher, startup founder, or aspiring tech enthusiast — **AIDataTech Connect** is your go-to **AI networking event online** designed to foster career growth, real-time collaboration, and innovation exchange in a dynamic, community-driven environment.\n\nThis event brings together a global **virtual AI community meetup** hosted on a flexible Slack-style platform that supports group discussions and **1-1 video or text chats**, making it perfect for professionals looking to connect, collaborate, and build with others in the AI ecosystem.\n\n🎥 **Watch how it works:**\n👉 [https://www.youtube.com/watch?v=NRUTXUOFKm4](https://www.youtube.com/watch?v=NRUTXUOFKm4)\n\n**💬 What to Expect:**\nAt AIDataTech Connect, attendees are encouraged to explore, share, and engage across multiple interactive channels designed to support learning, networking, and opportunity discovery:\n\n* **General** – A central hub for orientation, announcements, and community-wide discussions.\n* **Intros** – Introduce yourself, your background, and your AI/tech journey. Spark meaningful introductions.\n* **Networking** – Share your resume, startup, or project pitch. Meet employers, peers, or collaborators.\n* **Help Wanted** – Ask for help or offer support on coding, data, research, or AI model deployment.\n* **Industry Room Tech** – Discuss AI frameworks, tools, and the latest tech trends in data and development.\n* **Project Showcase** – Perfect for those seeking a **machine learning career fair** experience or showcasing real-world work through our **AI project showcase platform**.\n* **Collaboration Pods** – Jump into discussions around **collaboration for AI specialists**, including open-source partnerships, research pods, and co-building opportunities.\n\n**📍 Where:**\nJoin virtually at:\n👉 [https://events.tao.ai/pod/analytics.club/q4j5imq9qjs9](https://events.tao.ai/pod/analytics.club/q4j5imq9qjs9)\n**🕔 When:**\nEvent runs globally from **5:00 PM – 7:00 PM local time** — designed for participation across time zones.\n\n**👥 Who Should Join:**\n\n* AI professionals, ML engineers, and data scientists\n* Tech founders, entrepreneurs, and product leaders\n* Students, job seekers, and aspiring AI talent\n* Recruiters, employers, and hiring managers in AI/tech\n* Researchers, open-source contributors, and peer mentors\n\n**🧠 Why Attend:**\n\n* Engage in a truly global **virtual tech networking event**\n* Discover AI jobs, freelance gigs, or partnership opportunities\n* Connect with experts and peers in AI, ML, and data\n* Explore AI applications and get feedback on your models or tools\n* Network directly via 1-on-1 video or text chats\n* Collaborate on new ideas, research papers, or open-source projects\n\n**❓ Questions or Suggestions?**\nWe’re here to help. Drop us a note at:\n👉 [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**🔖 Hashtags:**\n#AIDataTechConnect #AINetworkingEventOnline #VirtualAICommunityMeetup #MachineLearningCareerFair #AIProjectShowcasePlatform #CollaborationForAISpecialists #DataScienceMeetup #MLJobs #AIResearchNetworking #GlobalTechNetworking #TechCollaborationEvent",
-    "start_at": "2026-09-24T17:00:00+02:00",
-    "url": "https://www.meetup.com/ac-mad/events/316418129/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Analytics.CLUB Madrid",
-    "attendees": 3,
-    "max_tickets": 0,
-    "spots_left": null,
     "found_in": [
       "Data Science"
     ]
@@ -327,6 +326,25 @@
     "address": "",
     "organizer": "Analytics.CLUB Madrid",
     "attendees": 1,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Data Science",
+    "source_id": "316514403",
+    "name": "AI For Work | Webinar",
+    "description": "**AI for Work \\| Free Live Webinar**\n\n**Pre-Registration is REQUIRED. Joining link -**\n[https://streamyard.com/watch/QnfhUjb7qQXs](https://streamyard.com/watch/QnfhUjb7qQXs?utm_source=luma)\n\n## ​WHEN\n\n​**September 30 at 1:00 PM ET**\n**45-minute live webinar**\n\n## ​WHO SHOULD JOIN?\n\n​This session is for people who already use tools like ChatGPT or Claude, but want to go beyond asking questions and start using AI to actually get work done.\n​It’s especially useful for:\n\n* ​Product and project managers\n* ​Operations and process leads\n* ​Marketing and admin professionals\n* ​Founders and small business teams\n* ​Career changers and AI beginners\n* ​Anyone looking to automate everyday work without coding\n\n​Come curious. No coding, setup, or technical background required.\n\nWHAT YOU’LL LEARN\n\nIn this free, 45-minute hands-on session, ODSC's Sheamus McGovern shows you the difference between chatting with AI and putting it to work.\n\nYou'll watch Cowork sort a messy folder of files into order, turn raw notes and spreadsheets into a polished, ready-to-send document, and set up recurring work that runs on its own, no prompting required.\n\nJust the everyday tasks you can hand off to AI that eat your week: filing, formatting, summarizing, following up, etc.\n\nLeave with one task you can delegate this week, and a clear next step for what to automate after that.\n\n**​Stay Connected**\n\n* ​**Learn:** Free talks and trainings on the [Ai+ Training platform](https://aiplus.training/?utm_source=luma).\n* ​**Read:** The latest in AI research on the [ODSC Blog](https://opendatascience.com/?utm_source=luma).\n* ​**Chat:** Join the conversation in our [Slack Channel](https://www.google.com/search?q=https%3A%2F%2Fodsc.com%2Fslack&utm_source=luma).\n* ​**Community:** Review our [Code of Conduct](https://odsc.com/code-of-conduct/?utm_source=luma).",
+    "start_at": "2026-09-30T19:00:00+02:00",
+    "url": "https://www.meetup.com/odsc-madrid-data-science/events/316514403/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "ODSC AI Madrid",
+    "attendees": 2,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -506,26 +524,6 @@
   },
   {
     "source": "meetup",
-    "source_slug": "Artificial Intelligence",
-    "source_id": "316314307",
-    "name": "Hello World! Lanzamiento Oficial de Cloudflare User Group España",
-    "description": "¡Arrancamos el **Cloudflare User Group España**! Únete a nuestra sesión inaugural para conocer a la comunidad, descubrir cómo empresas locales están escalando sus proyectos y conectar con otros creadores.\n\n¡Reserva tu plaza y ven a trastear con nosotros! 🚀\n\n**Localización:** NH Collection Madrid Suecia",
-    "start_at": "2026-10-01T19:00:00+02:00",
-    "url": "https://www.meetup.com/cloudflare-user-group-espana-ia-cyber/events/316314307/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "C. del Marqués de Casa Riera, 4, Centro, 28014 Madrid, Spain",
-    "organizer": "Cloudflare User Group España (IA, CyberSecurity & Edge Dev)",
-    "attendees": 50,
-    "max_tickets": 50,
-    "spots_left": 0,
-    "found_in": [
-      "Artificial Intelligence",
-      "Hackathon"
-    ]
-  },
-  {
-    "source": "meetup",
     "source_slug": "Data Science",
     "source_id": "316564064",
     "name": "Invitación gratuita a una sesión de cuidado piel y bienestar",
@@ -536,9 +534,9 @@
     "city": "Madrid",
     "address": "Francisco Silvela 36, planta 1-puerta 3",
     "organizer": "Sisu · Mujeres en Bienestar y Consciencia",
-    "attendees": 7,
+    "attendees": 9,
     "max_tickets": 10,
-    "spots_left": 3,
+    "spots_left": 1,
     "found_in": [
       "Data Science"
     ]
@@ -613,7 +611,7 @@
     "city": "Madrid",
     "address": "Calle de Atocha, 123, Centro, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 93,
+    "attendees": 96,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -632,7 +630,7 @@
     "city": "Madrid",
     "address": "C. de Gaztambide, 20, Chamberí, 28015 Madrid, Spain",
     "organizer": "HackMadrid %27",
-    "attendees": 3,
+    "attendees": 4,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -692,6 +690,25 @@
     "attendees": 2,
     "max_tickets": 0,
     "spots_left": null,
+    "found_in": [
+      "Hackathon"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Hackathon",
+    "source_id": "316314307",
+    "name": "Hello World! Lanzamiento Oficial de Cloudflare User Group España",
+    "description": "¡Arrancamos el **Cloudflare User Group España**! Únete a nuestra sesión inaugural para conocer a la comunidad, descubrir cómo empresas locales están escalando sus proyectos y conectar con otros creadores.\n\n¡Reserva tu plaza y ven a trastear con nosotros! 🚀\n\n**Localización:** NH Collection Madrid Suecia",
+    "start_at": "2026-10-01T19:00:00+02:00",
+    "url": "https://www.meetup.com/cloudflare-user-group-espana-ia-cyber/events/316314307/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "C. del Marqués de Casa Riera, 4, Centro, 28014 Madrid, Spain",
+    "organizer": "Cloudflare User Group España (IA, CyberSecurity & Edge Dev)",
+    "attendees": 50,
+    "max_tickets": 50,
+    "spots_left": 0,
     "found_in": [
       "Hackathon"
     ]

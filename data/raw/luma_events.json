@@ -21,7 +21,7 @@
     "categories": [
       "AI"
     ],
-    "guest_count": 177,
+    "guest_count": 168,
     "sold_out": true,
     "waitlist_active": true,
     "registration_deadline": null,
@@ -49,7 +49,7 @@
     "categories": [
       "AI"
     ],
-    "guest_count": 31,
+    "guest_count": 32,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,
@@ -247,7 +247,7 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 43,
+    "guest_count": 48,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": "2026-09-21T18:00:59.000Z",
@@ -276,39 +276,11 @@
       "AI"
     ],
     "guest_count": 0,
-    "sold_out": false,
-    "waitlist_active": false,
-    "registration_deadline": null,
-    "lat": 40.4090771,
-    "lng": -3.7068435999999996
-  },
-  {
-    "source": "luma",
-    "source_slug": "madrid",
-    "source_id": "evt-AB6eSlcEOuMNykO",
-    "name": "SheAI ft. Pitchless Show-and-Tell: Women Curious About AI",
-    "start_at": "2026-10-02T15:00:00.000Z",
-    "end_at": "2026-10-02T17:30:00.000Z",
-    "timezone": "Europe/Madrid",
-    "url": "https://lu.ma/6c3cl0u5",
-    "city": "Madrid",
-    "address": "Puerta Innovación",
-    "organizer": "SheAI Madrid Community",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/he/ece822c2-7c09-4a6e-b1f2-66a2de5fb550.png",
-    "found_in": [
-      "madrid"
-    ],
-    "description": "SheAI Madrid ft. Pitchless Show-and-Tell: Women Curious About AI\nA SheAI Madrid & Pitchless first joint community evening open to where women share what they've been experimenting with in AI. Tools, workflows, side projects, frameworks ... whatever they've been curious about lately.\nFive women from our the Madrid AI community will each take 5–7 minutes to show something they've been playing with — from vibe coding to AI frameworks — followed by questions from the room. We'll wrap up with an open discussion and then head out for drinks nearby.\nAll experience levels welcome.\n🗓 Friday, 2nd October⏰ 5:00 pm – 7:30 pm📍 Puerta Innovación, Calle de Toledo 110, Madrid🎟 Free\n👩‍💻👩‍💻 Your hosts:\nThis evening came together the way the best things do — Petr Bilikova (SheAI Madrid) and Sarah Malinowski Coutanson (Pitchless) kept running into each other at AI events across Madrid in spring 2026, and at some point it just became obvious they had to organise something together.\n💛 Part of something bigger. This meetup is a joint initiative of two communities:\nSheAI Madrid – a local chapter of SheAI, a global community of 1,000+ women learning and building with AI. After you join, you'll find us on WhatsApp too — make sure to join the Madrid local hub. 👉 sheai.co\nPitchless – accelerating builder journeys. Pre-accelerator for 1000+ early-stage tech founders in Madrid and Spain. Build, ship, and raise with people doing the same. 👉https://luma.com/pitchless.community\n---------\nCan't make it? Register on the SheAI platform to stay informed about upcoming events! Click HERE.\nBy attending this event, participants consent to being photographed or filmed. Photos and videos may be used by SheAI for community communications and promotional purposes. If you'd prefer not to be photographed, just let the host know at the start of the event - no problem at all! 📸",
-    "categories": [
-      "AI"
-    ],
-    "guest_count": 48,
     "sold_out": true,
     "waitlist_active": true,
     "registration_deadline": null,
-    "lat": 40.4074994,
-    "lng": -3.7114533
+    "lat": 40.4090771,
+    "lng": -3.7068435999999996
   },
   {
     "source": "luma",
@@ -331,7 +303,7 @@
     "categories": [
       "AI"
     ],
-    "guest_count": 11,
+    "guest_count": 13,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,

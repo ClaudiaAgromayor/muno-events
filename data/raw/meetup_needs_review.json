@@ -30,7 +30,26 @@
     "city": "",
     "address": "",
     "organizer": "IA para Agencias, Freelancers y Consultores",
-    "attendees": 6,
+    "attendees": 7,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316593085",
+    "name": "Depurar medidas DAX en modelos semánticos",
+    "description": "En esta sesión práctica veremos varias técnicas para depurar medidas que van desde el uso de variables DAX al trabajo con herramientas externas como DAX Studio y Tabular Editor.",
+    "start_at": "2026-10-29T19:00:00+01:00",
+    "url": "https://www.meetup.com/power-platform-madrid/events/316593085/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Power Platform Madrid",
+    "attendees": 5,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -99,26 +118,6 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
-    "source_id": "316613772",
-    "name": "Oct 1 - APAC AI, ML and Computer Vision Meetup",
-    "description": "Join our APAC time-zone friendly virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Time, Date and Location**\n\nOct 1, 2026\n6:00 PM - 8:00 PM PDT\nOnline. **[Register for the Zoom!](https://voxel51.com/events/apac-ai-ml-and-computer-vision-meetup-october-1-2026)**\n\n**Beyond Exact Matches: Detecting Modified 3D Assets at Marketplace Scale**\n\nHow can a marketplace identify copied 3D assets when their orientation, geometry, or composition has changed? Drawing on my work in 3D content understanding at Roblox, this talk will explore multi-view and rotation-invariant representations for similarity and duplicate detection, including the challenges posed by deformed and fragmented copies.\nIt will examine how geometric and semantic signals can complement one another, and discuss practical trade-offs in evaluating detection quality and deploying these methods at scale. The presentation will draw on published patent applications and publicly shareable examples to offer practical lessons for engineers building visual search, content-understanding, and marketplace-safety systems.\n\n*About the Speaker*\n\n[Phani Harish Wajjala](https://www.linkedin.com/in/harish-wajjala-81a47119/) is a Principal Machine Learning Engineer at Roblox specializing in 3D computer vision, multimodal AI, and large-scale content understanding.\n\n**Sign Language: Towards Sign Understanding for Robot Autonomy**\n\nNavigational signs are common aids for human wayfinding and scene understanding, but are underutilized by robots. We argue that they benefit robot navigation and scene understanding, by directly encoding privileged information on actions, spatial regions, and relations.\n\nInterpreting signs in open-world settings remains a challenge owing to the complexity of scenes and signs, but recent advances in vision-language models (VLMs) make this feasible. To advance progress in this area, we introduce the task of visual sign grounding, which parses locations and associated directions from signs, and maps them to region in the sign’s local environment.\n\nAdditionally, we present a baseline approach using VLMs, and demonstrate their promise on the task. We also outline different applications, such as localization and navigation, which benefit from the spatial-symbolic information encoded by navigational signs.\n\n*About the Speaker*\n\n[Nicky Zimmerman](https://www.linkedin.com/in/nicky-zimmerman-41b71694/) I am a postdoctoral researcher in NUS, working on open world navigation. My PhD thesis focused on human-inspired strategies for semantic localization and mapping. Previously, I worked as computer vision algorithm developer in General Motors and Intel.\n\n**MeMo: Memory as a Model**\n\nLarge language models (LLMs) achieve strong performance across a wide range of tasks, but remain frozen after pretraining until subsequent updates. Many real-world applications require timely, domain-specific information, motivating the need for efficient mechanisms to incorporate new knowledge.\n\nIn this paper, we introduce MeMo (Memory as a Model), a modular framework that encodes new knowledge into a dedicated Memory model while keeping the LLM unchanged. Compared to existing methods, MeMo offers several advantages: (a) it captures complex cross-document relationships, (b) it is robust to retrieval noise, (c) it avoids catastrophic forgetting in the LLM, (d) it does not require access to the LLM’s weights or output logits that enabling plug-and-play integration with both open and proprietary LLMs, and (e) its retrieval cost is independent of corpus size at inference time.\n\nOur experiments on three benchmarks, BrowseComp-Plus, NarrativeQA, and MuSiQue, show that MeMo achieves strong performance compared to existing methods across diverse settings.\n\n*About the Speaker*\n\n[Arun Verma](https://www.linkedin.com/in/arunverma100) is a Postdoctoral Associate at the Singapore-MIT Alliance for Research and Technology Centre, where he works with Daniela Rus, Armando Solar-Lezama, and Bryan Low.",
-    "start_at": "2026-10-02T03:00:00+02:00",
-    "url": "https://www.meetup.com/madrid-ai-machine-learning-and-computer-vision-meetup/events/316613772/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
-    "attendees": 1,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence",
-      "Machine Learning"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
     "source_id": "316496875",
     "name": "3 Hours to Research Intelligence: Build Your First AI Agent",
     "description": "There are many groups promoting this event.\n\nOur meetup group is participating by promoting this event.\n\nThis event is organized by Albert's List.\n\nThis is an online event.\n\nAttendees can be located anywhere in the world!\n\nThere is a cost to attend this event.\nOur Meetup members get 25% OFF with Code MEETUP\n\nIn order to attend, please register here:\n[https://www.eventbrite.com/e/3-hours-to-research-intelligence-build-your-first-ai-agent-tickets-2000234783081?discount=MEETUP&keep_tld=true](https://www.eventbrite.com/e/3-hours-to-research-intelligence-build-your-first-ai-agent-tickets-2000234783081?discount=MEETUP&keep_tld=true)\n\nYou're either looking at a company to join, or you're trying to understand what your competitors are doing. Either way, you're researching blind—reading scattered reviews, googling company news, checking LinkedIn. It takes forever and you miss things.\nStop doing this manually.\nIn this workshop, you'll customize and deploy a working AI research agent in 3 hours. Fork an existing competitive intelligence agent, wire in your own data sources (RSS feeds, APIs, whatever's available), and run it. Feed it a company or industry keyword. Get back structured intelligence: recent news, hiring patterns, market positioning, gaps, red flags.\n**What you'll actually do:**\n\n* Clone a working competitive intelligence agent from GitHub\n* Add your own custom data sources (RSS feeds, open APIs, etc.)\n* Test it live on a real company or competitor\n* Walk away with a deployed agent you can run 100+ times\n\n**Two use cases, one agent:**\n\n1. **Job Seeker Mode** — Research a company before you apply, interview, or accept an offer. Understand growth, hiring, leadership, red flags.\n2. **Competitive Mode** — Understand what competitors are doing, market gaps, hiring trends, strategic moves. For employees and side hustlers.\n\n**What you need before the workshop:**\n\n* 10 min of pre-work (optional, but recommended): Clone the GitHub repo, set up your API key, test it runs\n* A laptop with a browser (Claude.ai)\n* Basic comfort with Claude—you should already be asking it questions and iterating\n\n**After the workshop:**\n\n* Post-work recap doc: What you built, how to iterate, advanced techniques, troubleshooting\n* Optional upsell: Advanced agent techniques course (separate paid offering)\n\n**This is NOT:**\n\n* A tutorial on \"how to use AI\"\n* A guide to corporate strategy\n* A tool for stalking or privacy violations (we cover ethical guardrails)\n\n**Price:** $17–27 (one-time, includes materials + post-work doc)\n**Pre-work is optional.** If you complete it, you'll hit the ground running. If you skip it, no problem—we'll set up during the first 20 minutes.",
@@ -134,6 +133,26 @@
     "found_in": [
       "Artificial Intelligence",
       "Startups"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316613772",
+    "name": "Oct 1 - APAC AI, ML and Computer Vision Meetup",
+    "description": "Join our APAC time-zone friendly virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Time, Date and Location**\n\nOct 1, 2026\n6:00 PM - 8:00 PM PDT\nOnline. **[Register for the Zoom!](https://voxel51.com/events/apac-ai-ml-and-computer-vision-meetup-october-1-2026)**\n\n**Beyond Exact Matches: Detecting Modified 3D Assets at Marketplace Scale**\n\nHow can a marketplace identify copied 3D assets when their orientation, geometry, or composition has changed? Drawing on my work in 3D content understanding at Roblox, this talk will explore multi-view and rotation-invariant representations for similarity and duplicate detection, including the challenges posed by deformed and fragmented copies.\nIt will examine how geometric and semantic signals can complement one another, and discuss practical trade-offs in evaluating detection quality and deploying these methods at scale. The presentation will draw on published patent applications and publicly shareable examples to offer practical lessons for engineers building visual search, content-understanding, and marketplace-safety systems.\n\n*About the Speaker*\n\n[Phani Harish Wajjala](https://www.linkedin.com/in/harish-wajjala-81a47119/) is a Principal Machine Learning Engineer at Roblox specializing in 3D computer vision, multimodal AI, and large-scale content understanding.\n\n**Sign Language: Towards Sign Understanding for Robot Autonomy**\n\nNavigational signs are common aids for human wayfinding and scene understanding, but are underutilized by robots. We argue that they benefit robot navigation and scene understanding, by directly encoding privileged information on actions, spatial regions, and relations.\n\nInterpreting signs in open-world settings remains a challenge owing to the complexity of scenes and signs, but recent advances in vision-language models (VLMs) make this feasible. To advance progress in this area, we introduce the task of visual sign grounding, which parses locations and associated directions from signs, and maps them to region in the sign’s local environment.\n\nAdditionally, we present a baseline approach using VLMs, and demonstrate their promise on the task. We also outline different applications, such as localization and navigation, which benefit from the spatial-symbolic information encoded by navigational signs.\n\n*About the Speaker*\n\n[Nicky Zimmerman](https://www.linkedin.com/in/nicky-zimmerman-41b71694/) I am a postdoctoral researcher in NUS, working on open world navigation. My PhD thesis focused on human-inspired strategies for semantic localization and mapping. Previously, I worked as computer vision algorithm developer in General Motors and Intel.\n\n**MeMo: Memory as a Model**\n\nLarge language models (LLMs) achieve strong performance across a wide range of tasks, but remain frozen after pretraining until subsequent updates. Many real-world applications require timely, domain-specific information, motivating the need for efficient mechanisms to incorporate new knowledge.\n\nIn this paper, we introduce MeMo (Memory as a Model), a modular framework that encodes new knowledge into a dedicated Memory model while keeping the LLM unchanged. Compared to existing methods, MeMo offers several advantages: (a) it captures complex cross-document relationships, (b) it is robust to retrieval noise, (c) it avoids catastrophic forgetting in the LLM, (d) it does not require access to the LLM’s weights or output logits that enabling plug-and-play integration with both open and proprietary LLMs, and (e) its retrieval cost is independent of corpus size at inference time.\n\nOur experiments on three benchmarks, BrowseComp-Plus, NarrativeQA, and MuSiQue, show that MeMo achieves strong performance compared to existing methods across diverse settings.\n\n*About the Speaker*\n\n[Arun Verma](https://www.linkedin.com/in/arunverma100) is a Postdoctoral Associate at the Singapore-MIT Alliance for Research and Technology Centre, where he works with Daniela Rus, Armando Solar-Lezama, and Bryan Low.",
+    "start_at": "2026-10-02T03:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-ai-machine-learning-and-computer-vision-meetup/events/316613772/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
+    "attendees": 1,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence",
+      "Machine Learning"
     ]
   },
   {
@@ -174,8 +193,7 @@
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence",
-      "Machine Learning",
-      "DevOps"
+      "Machine Learning"
     ]
   },
   {
@@ -190,11 +208,12 @@
     "city": "",
     "address": "",
     "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
-    "attendees": 3,
+    "attendees": 4,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Artificial Intelligence"
+      "Artificial Intelligence",
+      "Machine Learning"
     ]
   },
   {
@@ -506,6 +525,25 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
+    "source_id": "316651366",
+    "name": "MADRID LONGEVITY RAVE PARTY: Jueves 1 de octubre, 21:00 - 01:00, CET",
+    "description": "MADRID LONGEVITY RAVE PARTY\nJueves 1 de octubre, 21:00 - 01:00, CET\n\nINSCRIPCIÓN: https://www.MeetUp.com/MadridSingularity/\nLONGEVITY RAVE PARTY: https://transvisionmadrid.com/es/rave.html\n\nDurante el jueves 1 de octubre, Día Internacional de la Longevidad, la cita para seguir compartiendo, conectar y celebrar juntos por el antienvejecimiento y la longevidad. Nos vemos en el histórico Club Araña con las DJs internacionales Tina Woods de Londres y Yukari Takehisa de Japón. Habrá música de longevidad, bebidas de longevidad y comida de longevidad, no te lo pierdas. ¡Será inmortal, muy literalmente!\n\nÚnete a la gira internacional de Longevity Rave World para promover la salud y la longevidad alrededor del mundo entero https://www.LongevityRave.World/\n\n### Club Araña\n\nCalle Flor Baja, 6 · Madrid\nUn club con historia en la noche madrileña. Nació en 1970 como Araña Lunar y hoy recupera su esencia como punto de encuentro para la música y la vida nocturna. Este será el escenario de nuestra Longevity Rave Party.\n\nINTERNATIONAL LONGEVITY SUMMIT\nOctober 1, 2026: https://www.LongevitySummit. Madrid/\n\nMeetUp: https://www.meetup.com/madridsingularity/\nFacebook: https://www.facebook.com/TransVisionMadrid2021\nTwitter: https://twitter.com/transvisionmad1\nYT: https://www.youtube.com/channel/UC3TSgLLvmKCeqwTD7nX4MNg\nLinkedIn: https://www.linkedin.com/company/transvisionconferences/\nInstagram: https://www.instagram.com/p/CLyt6YRg8Ov/\n\nInternational Longevity Sumnmit: www.LongevitySummit.Madrid/\nInternational Longevity Alliance: www.LongevityAlliance.org/\n\nCronología de la Vida: https://lifeboat.com/ex/big.chronology.of.life.on.earth",
+    "start_at": "2026-10-01T21:00:00+02:00",
+    "url": "https://www.meetup.com/madridsingularity/events/316651366/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "C. de la Flor Baja, 6, Centro, 28013 Madrid, Spain",
+    "organizer": "Madrid Singularity",
+    "attendees": 42,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
     "source_id": "316634854",
     "name": "INTUICIÓN y sus Aplicaciones",
     "description": "En la conferencia explico:\n\\- que es la intuición\n\\- cómo se usa\n\\- qué resultados se pueden obtener\n\\- campos o áreas de aplicación\n\n\\- ejercicio práctico:\nUna de las posibilidades de uso de la intuición es hallar las causas principales que hacen que las personas padezcamos malestares, dolores, etc. y poder aliviarlos. En la segunda parte de la conferencia lo muestro con los asistentes, para que puedan tener una experiencia directa, y beneficiarse.\n\nLa sala es pequeña. **Es NECESARIO CONFIRMAR ASISTENCIA por whatsapp:** 660 946 665\n\nLUGAR: Oasis de Bienestar\nAvenida Doctor Federico Rubio y Gali 6, Madrid\nMetro: Cuatro Caminos y Guzmán el Bueno\n\nJose Antonio Gómez\nwww.intuicionyresultados.com",
@@ -520,6 +558,26 @@
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316314307",
+    "name": "Hello World! Lanzamiento Oficial de Cloudflare User Group España",
+    "description": "¡Arrancamos el **Cloudflare User Group España**! Únete a nuestra sesión inaugural para conocer a la comunidad, descubrir cómo empresas locales están escalando sus proyectos y conectar con otros creadores.\n\n¡Reserva tu plaza y ven a trastear con nosotros! 🚀\n\n**Localización:** NH Collection Madrid Suecia",
+    "start_at": "2026-10-01T19:00:00+02:00",
+    "url": "https://www.meetup.com/cloudflare-user-group-espana-ia-cyber/events/316314307/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "C. del Marqués de Casa Riera, 4, Centro, 28014 Madrid, Spain",
+    "organizer": "Cloudflare User Group España (IA, CyberSecurity & Edge Dev)",
+    "attendees": 50,
+    "max_tickets": 50,
+    "spots_left": 0,
+    "found_in": [
+      "Artificial Intelligence",
+      "Hackathon"
     ]
   },
   {
@@ -553,9 +611,9 @@
     "city": "Madrid",
     "address": "Pl. de Manuel Gómez-Moreno, 2, Tetuán, 28020 Madrid, Spain",
     "organizer": "GoMAD - Madrid Go UG",
-    "attendees": 27,
+    "attendees": 28,
     "max_tickets": 60,
-    "spots_left": 33,
+    "spots_left": 32,
     "found_in": [
       "Data Science",
       "DevOps"
@@ -611,7 +669,7 @@
     "city": "Madrid",
     "address": "Calle de Atocha, 123, Centro, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 100,
+    "attendees": 104,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -690,25 +748,6 @@
     "attendees": 2,
     "max_tickets": 0,
     "spots_left": null,
-    "found_in": [
-      "Hackathon"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Hackathon",
-    "source_id": "316314307",
-    "name": "Hello World! Lanzamiento Oficial de Cloudflare User Group España",
-    "description": "¡Arrancamos el **Cloudflare User Group España**! Únete a nuestra sesión inaugural para conocer a la comunidad, descubrir cómo empresas locales están escalando sus proyectos y conectar con otros creadores.\n\n¡Reserva tu plaza y ven a trastear con nosotros! 🚀\n\n**Localización:** NH Collection Madrid Suecia",
-    "start_at": "2026-10-01T19:00:00+02:00",
-    "url": "https://www.meetup.com/cloudflare-user-group-espana-ia-cyber/events/316314307/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "C. del Marqués de Casa Riera, 4, Centro, 28014 Madrid, Spain",
-    "organizer": "Cloudflare User Group España (IA, CyberSecurity & Edge Dev)",
-    "attendees": 50,
-    "max_tickets": 50,
-    "spots_left": 0,
     "found_in": [
       "Hackathon"
     ]

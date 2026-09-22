@@ -11,7 +11,7 @@
     "city": "",
     "address": "",
     "organizer": "Power Platform Madrid",
-    "attendees": 34,
+    "attendees": 36,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -172,8 +172,7 @@
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence",
-      "Machine Learning",
-      "Data Science"
+      "Machine Learning"
     ]
   },
   {
@@ -271,7 +270,8 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Machine Learning"
+      "Machine Learning",
+      "Data Science"
     ]
   },
   {
@@ -669,7 +669,7 @@
     "city": "Madrid",
     "address": "Calle de Atocha, 123, Centro, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 104,
+    "attendees": 105,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -707,9 +707,9 @@
     "city": "Madrid",
     "address": "https://maps.app.goo.gl/A2pbJ1RsdwyDv84VA",
     "organizer": "Healing Crystal Bowl Sound Bath",
-    "attendees": 1,
+    "attendees": 4,
     "max_tickets": 10,
-    "spots_left": 9,
+    "spots_left": 6,
     "found_in": [
       "Hackathon"
     ]

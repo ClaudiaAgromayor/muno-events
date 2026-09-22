@@ -197,9 +197,9 @@
     "city": "Madrid",
     "address": "c/ Génova 17",
     "organizer": "Madrid GUG",
-    "attendees": 3,
+    "attendees": 5,
     "max_tickets": 20,
-    "spots_left": 17,
+    "spots_left": 15,
     "found_in": [
       "Data Science",
       "DevOps"
@@ -276,6 +276,27 @@
   {
     "source": "meetup",
     "source_slug": "Startups",
+    "source_id": "316662495",
+    "name": "🚀🌴 [Startup Oasis - Madrid] Against the Odds: Building a Startup Today!",
+    "description": "🚀🌴 **[Startup Oasis - Madrid] Against the Odds: Building a Startup Today!**\n\n**Is it getting harder to build a startup… or are the rules simply changing?**\n\nFunding is tighter. Investors are more selective. AI is transforming entire industries almost overnight. Teams can build more with fewer people — but expectations are also higher than ever.\nWelcome to startup life in 2026. 😅\n\nOn **September 29**, Startup Oasis Madrid is bringing founders, investors, entrepreneurs and startup enthusiasts together for a candid **2-hour round table** about what it really means to build an early-stage company today.\nAnd we want this to be a conversation — not another event where you quietly sit through 45 slides. 😉\n\n### 🔥 What are we talking about?\n\nWe’ll dig into some of the questions many founders and investors are asking right now:\n\n💰 **Funding** – Is the early-stage investment landscape fundamentally different today?\n\n📊 **Traction** – How much validation, revenue or momentum do investors expect before taking a startup seriously?\n\n🤖 **AI** – Has AI lowered the barrier to building startups… or simply raised the bar for everyone?\n\n🌍 **Europe** – What are the advantages and disadvantages of building an ambitious startup in Europe in 2026?\n\n🥾 **Bootstrapping vs. fundraising** – Should founders stay lean longer before looking for capital?\n\n🧠 **Founder resilience** – How do you keep making good decisions when uncertainty is basically part of your job description?\n\n🚀 **Opportunities** – Where are founders and investors seeing genuine opportunities right now?\nThere won’t necessarily be one answer — and that’s exactly the point.\n\n### 🎙️ Joining the conversation: Dan Marques\n\nDan Marques is a founder, entrepreneur and startup ecosystem builder who has spent years connecting founders, investors and technology communities.\nHe is a Serial Founder, the founder of **Startup Oasis**, co-founder of **MalagaStartups.com**, and an active mentor and community organizer involved in helping entrepreneurs turn ideas into real companies.\nExpect practical experience, strong opinions, plenty of questions — and an open conversation about what founders are really facing today.\n\n### 🗣️ This is a ROUND TABLE\n\nThat means **you’re part of the event.**\n\n* Bring your questions.\n* Bring your experience.\n* Bring the startup challenge that has been keeping you awake at 2 AM. 😅\n* Founders can hear how investors are thinking.\n* Investors can hear what founders are actually experiencing.\n* And everyone gets the chance to connect with people building, investing and working in the startup ecosystem.\n\n### 🙌 Who should join?\n\n✨ Startup founders\n💸 Angel investors & VCs\n🧑‍💻 Aspiring entrepreneurs\n🚀 Startup operators\n🤝 Ecosystem builders\n💡 Anyone seriously considering building a company\n\nWhether you're already fundraising, bootstrapping your MVP, investing in early-stage companies, or still wondering whether now is the right time to start — you’ll find people here asking many of the same questions.\n\n### 🕒 Event Details\n\n📅 **Tuesday, September 29, 2026**\n🕗 **20:00**\n⏱️ **Duration: 2 hours**\n📍 **Madrid — Venue announced soon**\n🎙️ **Format: Interactive Round Table**\n\nExpect **real conversations, new connections, startup war stories, useful insights and plenty of opportunities to meet people actually building things.**\nBecause startups have always been about beating the odds.\nThe odds might just look a little different in 2026. 😉\n\n🌴 **Come meet the Startup Oasis Madrid community and join the conversation!**\n\n🔗 **RSVP and see you there! 🚀**",
+    "start_at": "2026-09-29T20:00:00+02:00",
+    "url": "https://www.meetup.com/startup-oasis/events/316662495/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "1 plaza del sol",
+    "organizer": "Startup Oasis - Tech, Founders, nomads, devs, UI/UX, Product",
+    "attendees": 3,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Startups"
+    ],
+    "lat": 43.36032,
+    "lng": -5.8442344
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Startups",
     "source_id": "315675863",
     "name": "[🌴 Startup Oasis] Innovation Café - MADRID!",
     "description": "🚀 Hey, everyone!\n\nThe **largest English-speaking tech & business community from Andalucía** is now coming to **Madrid**!\n\nWhat started as a bi-weekly morning coffee uniting like-minded entrepreneurial minds in Málaga ☕️ is expanding — and we’re bringing that same raw energy, openness, and connection to Madrid.\n\nAs always, there’s no formal agenda or moderation — just real, unfiltered conversations in English (and a bit of Spanish) 🗣️\n\n**Our focus remains the same:**\n\n* cultivating meaningful relationships\n* creating space to exchange ideas\n* share journeys\n* and learn from others building in the startup ecosystem 👥\n\nIt’s the perfect environment to test ideas, form new alliances, and spark unexpected collaborations — all over great coffee and breakfast.\n\nLet’s gather, connect, and dive into thoughtful conversations in a relaxed setting.\n\n**Madrid**, we’re coming!",
@@ -293,27 +314,6 @@
     ],
     "lat": 40.4166565,
     "lng": -3.6742879
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Startups",
-    "source_id": "316486466",
-    "name": "MICA: ¿Quién ganará el mercado Cripto? - Encuentro SuperPioneros #137",
-    "description": "✳️ **MiCA ha cambiado las reglas del juego en Europa. Ahora empieza la verdadera partida.**\n​PARA LOS MÁS RÁPIDOS LA ENTRADA ES GRATIS.\n\nPuedes encontrar [entradas gratuitas aquí](https://luma.com/whgqf8mf)\n\n\\*\\*Si quieres participar como speaker o colaborador de estos encuentros escríbenos un mensaje\\*\\*\n\n​La pregunta es inevitable:\n​👉 **¿Quién se queda con el mercado cripto europeo?**\n​El próximo **22 de septiembre reuniremos en Madrid miembros, empresas, inversores y builders de SuperPioneros** para debatirlo con algunos de sus protagonistas.\n​🎙️ **José Luis Cáceres**, CEO de SuperPioneros y NWC10, presentará y moderará una conversación en la que ya contaremos con:\n​👉 **Javier Pastor · Bit2Me**\n👉 David Dahan **· Bitpanda**\n👉 Christian Navarro **· Bitvavo**\n👉 Aldona Zukowska **· Invity**\n👉 **Más invitados TOP que iremos desvelando.**\n​No queremos hacer una sucesión de presentaciones.\n​Queremos generar **debate**.\n​Hablaremos de cómo MiCA está transformando la competición en Europa, qué oportunidades aparecen para nuevos actores, qué modelos de negocio pueden ganar protagonismo y qué necesita la industria para llevar cripto a millones de nuevos usuarios.\n\nCo-organizadores: SuperPioneros NWC10 / Yoseyomo\nColaboradores: Osmotic, Hyxora, y próximos anuncios.\n\n## ​🚀 Y DESPUÉS, A CONSTRUIR\n\n​Este encuentro también servirá para compartir hacia dónde va SuperPioneros en los próximos meses.\n​Junto a Luis Mateo Keim\\*\\*, de Osmotic\\*\\*, presentaremos cómo estamos preparando la expansión de la Comunidad junto a algunas de las mejores **infraestructuras, marcas e instituciones de los ecosistemas cripto, IA e innovación**.\n​Queremos que las empresas no sean únicamente patrocinadores o invitados sino partners de esta infraestructura de crecimiento cripto que estamos creando con +80K SuperPioneros.\n​Queremos que planteen **desafíos reales**, conecten con nuestros miembros y encuentren dentro de la Comunidad talento, conocimiento, partners, oportunidades y clientes que les ayuden a conseguir sus objetivos.\n​Ese es precisamente el espíritu de nuestros **444**:\n​**4 meses. Un objetivo. Una Comunidad ayudándote a conseguirlo.**\n​🔥 Y la conversación no terminará en iLAB.\n​Los participantes y portavoces que más valor aporten durante el encuentro serán invitados posteriormente a continuar este debate en **Negocios TV con Skiller Academy y** Juan Antonio Muñoz.\n​📍 iLAB · Madrid\n📅 Martes 22 de septiembre\n🕕 18:00h\n👥 Aforo aproximado: 80 personas\n​**Las nuevas reglas ya están aquí. Ahora toca construir.**\n\n\\*\\*Si quieres participar como speaker o colaborador de estos encuentros escríbenos un mensaje\\*\\*\n​¡GANAS DE VEROS! 🚀",
-    "start_at": "2026-09-22T18:00:00+02:00",
-    "url": "https://www.meetup.com/innovacion-web3-para-todos-con-super-pioneros/events/316486466/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "41 Calle de Bailén",
-    "organizer": "NWC10Lab: Innovación WEB3, CRIPTO y blockchain para todos",
-    "attendees": 2,
-    "max_tickets": 10,
-    "spots_left": 8,
-    "found_in": [
-      "Startups"
-    ],
-    "lat": 40.4120034,
-    "lng": -3.7137386
   },
   {
     "source": "meetup",

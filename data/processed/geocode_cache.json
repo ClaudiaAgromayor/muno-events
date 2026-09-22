@@ -81,5 +81,9 @@
   "1 plaza del sol": {
     "lat": 43.36032,
     "lng": -5.8442344
+  },
+  "Calle de Sta Engracia, 53": {
+    "lat": 40.4325951,
+    "lng": -3.6980319
   }
 }

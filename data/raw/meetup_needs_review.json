@@ -158,46 +158,6 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
-    "source_id": "316064296",
-    "name": "Sept 22 - FiftyOne Agent: Automate Visual AI Workflows with Natural Language",
-    "description": "Learn about FiftyOne Agent, an AI assistant built directly into FiftyOne that turns plain-language requests into real dataset operations.\n\n**Date, Time and Location**\n\nSep 22, 2026\n9:00 AM - 10:00 AM Pacific\nOnline. **[Register for the Zoom!](https://voxel51.com/events/meet-the-fiftyone-agent-automate-visual-ai-workflows-with-natural-language-september-22-2026)**\n\nAsk it to find and remove duplicate images, run object detection and surface low-confidence predictions, or evaluate a model and summarize where it fails, and the agent handles execution end to end.\n\nWe will also walk through the newest capabilities shipping with this release, including code generation and plugin generation. You will see how to go from a conversational prompt to a custom dashboard, visualization, or full FiftyOne application, and how to package multi-step workflows as reusable skills the agent can call on demand.\n\nBecause the agent runs inside FiftyOne's secure guardrails, teams keep full control. Connect your preferred models from over 100 LLM providers, route requests through your own enterprise gateway, and maintain audit logging and user attribution for every action the agent takes.",
-    "start_at": "2026-09-22T18:00:00+02:00",
-    "url": "https://www.meetup.com/madrid-ai-machine-learning-and-computer-vision-meetup/events/316064296/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
-    "attendees": 1,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence",
-      "Machine Learning"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
-    "source_id": "315935906",
-    "name": "Google Agents in Production for Enterprises (Virtual) - Ep 1",
-    "description": "**Important**: Register on the [event website](https://www.aicamp.ai/event/eventdetails/W2026081110) to receive the joining link. (rsvp on meetup will NOT receive anything).\n\nThis is virtual event for our AI global community, please double-check your local time. Can't make it live? Register anyway to receive the webinar recording.\n\nBrought to you by Google Cloud and AICamp, Agents in Production for Enterprises is a global event series designed for organizations ready to move beyond AI experimentation and into production reality. This series brings together Google Cloud engineers, partner architects, and enterprise practitioners to tackle the real-world challenges of building and deploying agentic AI at scale.\n\n**What to Expect:**\n\n* ▶️ Deep-Dive Talk: Strategic insights from Google Cloud engineers and partner architects on enterprise-grade AI architectures\n* 💻 Live Demo: See production-ready agentic AI in action across real enterprise scenarios\n* 🛠️ Hands-On Code Labs: Build and deploy agentic workflows with guided, code-first labs\n* 🤝 Community & Networking: Connect with peers, speakers, and tech leaders solving the same challenges you face\n\n**Venue:**\nVirtual, join from anywhere\n\n**More virtual sessions:**\n\n* Aug 20th: NVIDIA Flare Webinar Q3. [RSVP](https://www.aicamp.ai/event/eventdetails/W2026082010)\n* Aug 25th: Google Agents in Production for Enterprises (#2). [RSVP](https://www.aicamp.ai/event/eventdetails/W2026082501)\n* Sep 2nd: AI Deep Dive with Google Ep 3. [RSVP](https://www.aicamp.ai/event/eventdetails/W2026090210)",
-    "start_at": "2026-09-22T19:00:00+02:00",
-    "url": "https://www.meetup.com/madrid-ai-developers-group/events/315935906/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Madrid AI Developers Group",
-    "attendees": 9,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence",
-      "Machine Learning"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
     "source_id": "316022255",
     "name": "Oct 8 - MCP, Agents and Skills Meetup Meetup",
     "description": "Join our virtual meetup to hear talks from experts on MCP, agents and skills.\n\n**Date, Time and Location**\n\nOct 08, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/mcp-agents-skills-meetup-october-8-2026)**\n\n**Designing Multi‑Agent Systems: Sequential, Parallel, and Beyond with ADK**\n\nMulti‑agent systems are powerful but choosing the wrong interaction pattern can quickly lead to fragile, slow, or expensive AI systems.\nIn this talk, we explore the core multi‑agent design patterns enabled by ADK, including sequential, parallel, and more advanced coordination models. Rather than focusing on tools alone, we’ll look at how to think architecturally about agent collaboration.\n\nYou’ll learn:\n\n* When sequential agents are the right choice and when they become a bottleneck\n* How parallel agents improve speed and coverage (and the trade‑offs they introduce)\n* Common failure modes in poorly designed agent interactions\n* Practical criteria for choosing the right pattern based on task, latency, and reliability\n\nBy the end of the session, you’ll have a clear mental model for designing multi‑agent systems that are intentional, scalable, and production‑ready.\n\n*About the Speaker*\n\n[Dr Roushanak Rahmat](https://www.linkedin.com/in/roushanakrahmat/) is an Enterprise AI Architect, Google Developer Expert (AI & Cloud), and recognized among the Top 100 Women in Tech (2025). With a PhD in Artificial Intelligence and over 15 years of experience, she specializes in designing and delivering enterprise-scale Generative AI, Agentic AI, and Deep Learning solutions that transform industries including healthcare, finance, energy, and public services.\n\n**Privacy by Deployment: Architecting Agent-Driven Localization Workflows for Regulated Environments**\n\nMost enterprise AI today is private by promise - a DPA, a SOC 2 report, or a contract clause that says, \"we won't train on your data\". For a regulated buyer, these are remedies after a breach, not controls that prevent or contain one. For organizations in healthcare, finance, defense, and government, privacy often requires stronger guarantees: data residency, customer-controlled execution, and, in some cases, operation within air-gapped environments.\n\nThis session demonstrates how agentic AI can automate a localization workflow while operating within these constraints. Using a real-world localization pipeline as an example, we will show how agentic systems can coordinate translation, review, quality assurance, and content preparation tasks while incorporating human checkpoints for approval and oversight.\n\nWe will also walk through the architectural patterns that enable these workflows to run inside customer-controlled and air-gapped environments without transferring sensitive content outside the customer boundary. The session includes a live product demonstration.\n\nKey Takeaways\n\n* Architectural patterns for deploying agentic AI in air-gapped and customer-controlled environments\n* How agentic systems can automate localization workflows while preserving critical human review and approval processes\n* Practical considerations for operating agentic workflows in regulated environments with auditability and governance requirements\n\n*About the Speaker*\n\n[Shruti Joshi](https://www.linkedin.com/in/28shruti) is building an AI powered secure localization stack for regulated industries such as healthcare, legal, finance that cannot send their content to a typical hosted SaaS. She brings 12+ years of engineering and architecture experience to the question this talk addresses: how do you make an agentic AI system deployable inside a regulated perimeter.\n\n**MCP Is the Interface; Skills Are the Operating Discipline**\n\nThis talk shows how MCP and Agent Skills work together in practical agent systems. MCP gives agents a standard interface to tools, data, and workflows; skills encode the operating discipline that makes those connections reliable. Using a sanitized field-operations ledger as the case study, the talk walks through source intake, normalized state, uncertainty labels, role prompts, QA gates, and share-safe status drafting.\n\n*About the Speaker*\n\n[Chuck Hernandez](https://www.linkedin.com/in/chuck-hernandez/) is an AI engineering and client-delivery leader with 10+ years across software, data platforms, and enterprise implementation, including 3+ years shipping production GenAI systems.\n\n**Agentic engineering is about good guidance.**\n\nGarbage Inn. Is garbage out? This is true. For many input and output processes. In biological life and in computer systems, and equally true when working with LLM’s. The better the prompt, the better the context, the better the focus, And the better the contextual awareness, the better the quality of the output the LLM’s generates.\nThis is the governance, art and practice of what we like to call agentic engineering, something I've been practicing over the last year.\n\n*About the Speaker*\n\n[Dimitri Geelen](https://www.linkedin.com/in/dimitrigeelen/) builds things that don't need him once they're done. Frameworks, transitions, agentic systems — the measure of success is always the same: does it hold up when he leaves the room? He understands not just how to deploy, but what it takes for a new service to survive and scale inside a complex enterprise.",
@@ -256,7 +216,7 @@
   },
   {
     "source": "meetup",
-    "source_slug": "Machine Learning",
+    "source_slug": "Artificial Intelligence",
     "source_id": "316064663",
     "name": "Sept 30 - Building Composable Vision Workflows in FiftyOne",
     "description": "This workshop explores the [FiftyOne](https://docs.voxel51.com/index.html) plugin framework to build custom computer vision applications. You’ll learn to extend the FiftyOne App with Python based panels and server side operators, as well as integrate external tools for labeling, vector search, and model inference into your dataset views.\n\n**Date, Time and Location**\n\nSep 30, 2026\n9 AM - 10 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/building-composable-vision-workflows-in-fiftyone-september-30-2026)**\n\nYou’ll also automate repetitive tasks by writing custom workflows executing within the FiftyOne environment. Attendees will learn to transform FiftyOne from a visualization tool into a central hub for your vision stack.\n\nWhat you'll learn:\n\n* **Build Python plugins.** Define plugin manifests and directory structures to register custom functionality within the FiftyOne ecosystem.\n* **Develop server side operators.** Write functions to execute model inference, data cleaning, or metadata updates from the App interface.\n* **Build interactive panels.** Create custom UI dashboards using to visualize model metrics or specialized dataset distributions.\n* **Manage operator execution contexts.** Pass data between the App front end and your backend to build dynamic user workflows.\n* **Implement delegated execution.** Configure background workers to handle long running data processing tasks without blocking the user interface.\n* **Build labeling integrations.** Streamline the flow of data between FiftyOne and annotation platforms through custom triggers and ingestion scripts.\n* **Extend vector database support.** Program custom connectors for external vector stores to enable semantic search across large sample datasets.\n* **Package and share plugins.** Distribute your extensions internally and externally",
@@ -270,13 +230,14 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
+      "Artificial Intelligence",
       "Machine Learning",
       "Data Science"
     ]
   },
   {
     "source": "meetup",
-    "source_slug": "Machine Learning",
+    "source_slug": "Artificial Intelligence",
     "source_id": "316418129",
     "name": "AIDataTech Connect: Global Virtual Networking Event for AI, Data & Tech Pros",
     "description": "Are you working in artificial intelligence, data science, or machine learning? Whether you're a developer, researcher, startup founder, or aspiring tech enthusiast — **AIDataTech Connect** is your go-to **AI networking event online** designed to foster career growth, real-time collaboration, and innovation exchange in a dynamic, community-driven environment.\n\nThis event brings together a global **virtual AI community meetup** hosted on a flexible Slack-style platform that supports group discussions and **1-1 video or text chats**, making it perfect for professionals looking to connect, collaborate, and build with others in the AI ecosystem.\n\n🎥 **Watch how it works:**\n👉 [https://www.youtube.com/watch?v=NRUTXUOFKm4](https://www.youtube.com/watch?v=NRUTXUOFKm4)\n\n**💬 What to Expect:**\nAt AIDataTech Connect, attendees are encouraged to explore, share, and engage across multiple interactive channels designed to support learning, networking, and opportunity discovery:\n\n* **General** – A central hub for orientation, announcements, and community-wide discussions.\n* **Intros** – Introduce yourself, your background, and your AI/tech journey. Spark meaningful introductions.\n* **Networking** – Share your resume, startup, or project pitch. Meet employers, peers, or collaborators.\n* **Help Wanted** – Ask for help or offer support on coding, data, research, or AI model deployment.\n* **Industry Room Tech** – Discuss AI frameworks, tools, and the latest tech trends in data and development.\n* **Project Showcase** – Perfect for those seeking a **machine learning career fair** experience or showcasing real-world work through our **AI project showcase platform**.\n* **Collaboration Pods** – Jump into discussions around **collaboration for AI specialists**, including open-source partnerships, research pods, and co-building opportunities.\n\n**📍 Where:**\nJoin virtually at:\n👉 [https://events.tao.ai/pod/analytics.club/q4j5imq9qjs9](https://events.tao.ai/pod/analytics.club/q4j5imq9qjs9)\n**🕔 When:**\nEvent runs globally from **5:00 PM – 7:00 PM local time** — designed for participation across time zones.\n\n**👥 Who Should Join:**\n\n* AI professionals, ML engineers, and data scientists\n* Tech founders, entrepreneurs, and product leaders\n* Students, job seekers, and aspiring AI talent\n* Recruiters, employers, and hiring managers in AI/tech\n* Researchers, open-source contributors, and peer mentors\n\n**🧠 Why Attend:**\n\n* Engage in a truly global **virtual tech networking event**\n* Discover AI jobs, freelance gigs, or partnership opportunities\n* Connect with experts and peers in AI, ML, and data\n* Explore AI applications and get feedback on your models or tools\n* Network directly via 1-on-1 video or text chats\n* Collaborate on new ideas, research papers, or open-source projects\n\n**❓ Questions or Suggestions?**\nWe’re here to help. Drop us a note at:\n👉 [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**🔖 Hashtags:**\n#AIDataTechConnect #AINetworkingEventOnline #VirtualAICommunityMeetup #MachineLearningCareerFair #AIProjectShowcasePlatform #CollaborationForAISpecialists #DataScienceMeetup #MLJobs #AIResearchNetworking #GlobalTechNetworking #TechCollaborationEvent",
@@ -290,8 +251,28 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
+      "Artificial Intelligence",
       "Machine Learning",
       "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Machine Learning",
+    "source_id": "316666893",
+    "name": "Oct 14 - Advances in AI at SDSU",
+    "description": "Join our virtual meetup to hear talks from AI researchers at San Diego State University.\n\n**Date, Time Location**\n\nOct 14, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/advances-in-ai-at-sdsu-october-14-2026)**\n\n**Agent as Policy for Robotic Manipulation**\n\nThis talk will introduces how a general-purpose agent can directly drive a physical robot throughout task execution without any task-specific or environment-specific training. We introduce Agent as Policy (AGP), which places task planning and execution under the agent’s control.\n\n*About the Speaker*\n\n[Xiaobai Liu](https://www.linkedin.com/in/xiaobai-liu-33598336/) is a Professor of Computer Science at San Diego State University (SDSU), where he directs the Machine Vision and Perception Lab. Prior to joining SDSU in 2015, he conducted research and taught at UCLA.\n\n**Grounding Multimodal Open-World Learning for Physical AI**\n\nPhysical AI systems such as robots, unmanned vehicles, and embodied agents must perceive and reason about a world that is dynamic, unstructured, and rarely matches their training distribution. Yet most multimodal models remain brittle when confronted with novel objects, unseen conditions, and a messy unstructured environment.\n\nThis talk develops how grounding perception across modalities and environments can make open-world learning more robust for physically situated systems. Drawing on our recent work, I will highlight the core challenges of multimodal open-world learning including out-of-distribution detection, distribution shift generalization, and cascaded semantic grounding and point toward multimodal systems that stay reliable when deployed in the unpredictable open world.\n\n*About the Speakers*\n\n[Salimeh Sekeh](https://www.linkedin.com/in/salimeh-sekeh-65473344/) is an Associate Professor of Computer Science at San Diego State University (SDSU), where she directs the Sekeh Laboratory. Her recognition includes an NSF CAREER Award and a Cisco research gift (both 2022), and the Maine College of Engineering and Computing Early Career Research Award (2023), along with multiple industry and federal research awards.\n\n[Mary Wisell ](https://www.linkedin.com/in/mary-isabelle-wisell/)is a second-year PhD student in the Sekeh Lab and leads the lab's work on environment-aware OOD detection and cascaded failure analysis for multimodal intelligence with several publications in top-tier Machine Learning and computer vision conferences.",
+    "start_at": "2026-10-14T18:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-ai-machine-learning-and-computer-vision-meetup/events/316666893/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
+    "attendees": 0,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Machine Learning"
     ]
   },
   {
@@ -344,7 +325,7 @@
     "city": "",
     "address": "",
     "organizer": "Analytics.CLUB Madrid",
-    "attendees": 1,
+    "attendees": 2,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -368,25 +349,6 @@
     "spots_left": null,
     "found_in": [
       "Data Science"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "DevOps",
-    "source_id": "316267997",
-    "name": "CI/CD con GitHub Actions: de local a producción sin miedo",
-    "description": "¿Sigues realizando despliegues manuales o te preocupa que un cambio inesperado rompa tu proyecto en producción? En esta sesión aprenderás los conceptos fundamentales de **CI/CD** utilizando **GitHub Actions** desde cero.\n\nDescubriremos cómo automatizar tareas, ejecutar pruebas, validar cambios y construir flujos de trabajo que permitan entregar soluciones con mayor confianza y menor esfuerzo manual.\n\nA través de ejemplos paso a paso, conoceremos cómo funciona un archivo YAML de GitHub Actions, cómo crear pipelines básicos y qué buenas prácticas aplicar para comenzar a automatizar procesos desde el primer día.\n\n🗣️ **Speaker:** Jeyson Meuses\n🎤 **Host**: Mike Matamoros",
-    "start_at": "2026-10-01T01:00:00+02:00",
-    "url": "https://www.meetup.com/microsoft-speakers-hub-en-espanol/events/316267997/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Microsoft Speakers Hub en Español",
-    "attendees": 11,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "DevOps"
     ]
   },
   {
@@ -592,9 +554,9 @@
     "city": "Madrid",
     "address": "Francisco Silvela 36, planta 1-puerta 3",
     "organizer": "Sisu · Mujeres en Bienestar y Consciencia",
-    "attendees": 9,
+    "attendees": 10,
     "max_tickets": 10,
-    "spots_left": 1,
+    "spots_left": 0,
     "found_in": [
       "Data Science"
     ]
@@ -661,7 +623,7 @@
     "source": "meetup",
     "source_slug": "Startups",
     "source_id": "316369827",
-    "name": "Business Networking | PNM Octubre",
+    "name": "Business Networking | PNM Octubre 🌇 Rooftop",
     "description": "💲The event has an ENTRANCE FEE, read all below.\n.......\n*Que pasa en este EVENTO?*\n**Podrás conocer profesionales, freelancers, emprendedores que quieren conectar y compartir** ✨y que tienen esa *misma 'hambre' que tú*.\n__\nNuestros eventos cuentan con una **dinámica pensada para facilitarte conocer a varias personas** durante la noche. La participación es opcional, ¡pero *muy recomendable*!👌🏼\n__\n\n**¿Por qué participar en Business Networking PNM y en qué consiste?**\n\n* Amplía tu red de contactos y haz crecer tu negocio\n* Conéctate con otros profesionales y crea nuevas relaciones\n* Descubre nuevas oportunidades con clientes, socios, proveedores e inversores\n* Intercambia ideas con otros profesionales y genera vínculos de valor\n❌***NO ES un afterwork***\n\n***PÚBLICO***\\*:\\* Evento **mensual**, especialmente para Entrepreneurs, Freelancers, Autónomos, Solopreneurs, Creators, Profesionales de todos los sectores\n\n*LANGUAGES*: **English** and **Spanish** are spoken although most of the people present have Spanish as their native language.\n\n⏰ **19:15 - 23:00**\n*(Recomendamos llegar no más tarde de las 21:30)*\nLunes 5 Octubre\n🌇**RED by Martini Rooftop**\nRadisson RED Madrid (Atocha)\nCalle Atocha 123 - Madrid\n*[Check la location por cada evento]*\nSalón interior y terraza\n🚇**METRO**: Estación del Arte/Atocha/Antón Martín\n🚗**PARKING** en la zona\n\n**‍Dress Code**: Business casual/Smart casual\n**💲PRICE: € 15** se paga en el bar (Incluye 2 soft drinks - con o sin alcohol - )\nVálido durante toda la duración del evento\n**✍Pásate en nuestra mesa de registro** para tu name-tag y tu color\n\n**✨Si vienes solo no te preocupes:** todos estamos aquí con las mismas ganas y la energía de crecer y conectar y el name-tag y tu color te harán más fácil el primer contacto.\n\n**➡ ¿Qué necesito para participar?**\nSolo tienes que **inscribirte aquí en Meetup** (haz clic en el botón *“**Asistiré**”*) y **añadir este evento a tu calendario**. Sigue leyendo para más detalles y mándanos un mensaje privado si tienes alguna pregunta - ¡estaremos encantados de ayudarte!\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n**⚡️Si deseas colaborar con nosotros o promocionarte, [escríbenos en privado.](https://wa.me/+393395021742)**\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n**⚠** Si la app Meetup te pide que pagues, haz clic en \"***Continúa con el plan gratuito***\" o le \"X\" arriba y **apúntate** al evento (esta app es gratis)! El evento se paga en el bar.\n\n**REMINDER**: Cuando te inscribes aqui añade una ALERTA⏰ A TU CALENDARIO para recordarte que tienes que venir o darte de baja aquí.\n\n*Que pasa en este EVENTO?*\n**Podrás conocer profesionales, freelancers, emprendedores, creators sino también estudiantes, que quieren conectar y compartir** ✨y que tienen esa *misma 'hambre' que tú* [❌NO ES un afterwork]\n\n**✔️Llevamos 4 años** organizando este evento\n✔️Cada mes reunimos alrededor de **100 profesionales y empresarios**\n✔️+**60% de los participantes son nuevos**, excelente razón para volver\n**✔️**Te daremos unas ➿**DINÁMICAS y TIPS** para conectar\n**✔️**Solo nos reunimos **1 lunes al mes, así que no te lo pierdas**!\n\nSíguenos y descubre más en **[Instagram](https://www.instagram.com/professionalsnetwork.madrid/)**[ ](https://www.instagram.com/professionalsnetwork.madrid/)**PNM** y únete al **canal de Telegram** **o Whatsapp** durante el evento.\n\n**🙏🏼*Nos disculpamos de antemano si todo no es perfecto***, pero eso se debe a que el evento es más exitoso de lo que siempre esperamos.\nEl evento lo construimos entre todos, así que si notas algo que se pueda mejorar durante el evento, ⚠️ **házmelo saber de inmediato y lo ajustamos en el momento** (una mala review no ayuda, porque podemos solucionar las cosas ahi mismo ;) ).\n\nSi habrá un poco de cola en la entrada para inscribirte, aprovecha para empezar a hacer networking con la persona a tu lado.\n...............\n**WHATSAPP / TELEGRAM**\nDurante el evento te daremos el link **para unirte al grupo de** WhatsApp **o** Telegram: la community de Networking más grande de Madrid!\n\n**¿Por qué unirse a WhatsApp?**\nEs una forma de estar conectados unos con otros, tener otras formas de promocionarte, aprovechar las colaboraciones que creamos anualmente y nuestros TIPS para mejorar en el mundo de los negocios y el networking.\n\n**Instagram**: [https://www.instagram.com/professionalsnetwork.madrid/](https://www.instagram.com/professionalsnetwork.madrid/)\n...\n**•*WhatsApp INFO [direct](https://wa.me/+393395021742)***\n\n**No dudes en traer amigos o colegas!** Para invitarles, **pásales el link** al evento o añade +1 a tu participación.\n...\n🇬🇧ENG\n**Create a network around interesting and inspiring people for you and your business!**\nWe are proud to present you the **1st and only business-oriented meetup in the capital for professionals!**\n\n❗The event will take place **once a month**, so don't miss this opportunity.\n**Why attend Business Networking PNM?**\n\n* Expand your network and grow your business\n* Connect with fellow professionals and build meaningful relationships\n* Uncover new opportunities with clients, partners, vendors, and investors\n* Exchange ideas with industry peers and create high-value connections\n\nOur events feature a **facilitated dynamic** to help you meet new people throughout the night. Participation is optional, but highly recommended!\n\n*Come and enjoy an evening with like-minded people, where you can learn about new projects and discuss your business ideas over a few drinks*.\n\nYou can speak English or Spanish. **Feel free to bring along friends or colleagues**! To invite them, pass them the link to the event or add +1 to your participation.\n\nAt the event don't forget to join the **WhatsApp or Telegram group**.\n\n*By buying a ticket and joining the event, you authorize possible digital recordings and the publication of that content on social media.*\n\n**🌸[Únete al grupo de](https://wa.me/+393395021742) Professional Women and entrepreneurs en Madrid**\n\n**[FOTOS de los eventos](https://www.facebook.com/professionalsnetwork.madrid) en Facebook** (entra en MÁS >FOTOS >Ver todo)\n\n**Si quieres mostrar TU SERVICIO/PRODUCTO** durante el evento o COLABORAR, [escríbenos por privado](https://wa.me/+393395021742) y agendamos una llamada\n\n⚡️Únete a nosotros como **SPONSOR** para darte visibilidad ante más de 100 asistentes cada día y miles de personas en nuestros canales online.\n\n⚡️Community \"**Real Estate**\": únete al [grupo Meetup](https://www.meetup.com/meetup-group-bcxrvqzr)\n\n**Others events:**\n**[>>](https://www.meetup.com/madrid-professionals-network/)**[ Business Networking (Emprendedores, Freelancers, Autónomos)](https://www.meetup.com/madrid-professionals-network/)\n**[>>](https://www.meetup.com/real-estate-tribe-madrid/)**[ Real Estate RET🏠| Networking & Drinks de Inversión Inmobiliaria](https://www.meetup.com/real-estate-tribe-madrid/)\nAll events by [Domeet](https://www.instagram.com/domeet.madrid/)",
     "start_at": "2026-10-05T19:15:00+02:00",
     "url": "https://www.meetup.com/madrid-professionals-network/events/316369827/",
@@ -669,7 +631,7 @@
     "city": "Madrid",
     "address": "Calle de Atocha, 123, Centro, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 105,
+    "attendees": 113,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -736,16 +698,16 @@
   {
     "source": "meetup",
     "source_slug": "Hackathon",
-    "source_id": "316386856",
+    "source_id": "316485782",
     "name": "Yoga in Parque Santander – Breathe, Flow & Connect",
     "description": "Welcome to **Yoga in Parque Santander – Breathe, Flow & Connect** 🌿\n\nJoin us every **Tuesday at 6:30 pm** for a relaxing outdoor yoga class in the beautiful surroundings of Park Santanter Park.\n\nThese 60-minute sessions combine mindful movement, breathing and a gentle flow to help you release the stress of the day, reconnect with your body and enjoy some time outdoors.\n\nThis group is also about connection. It’s a welcoming, international community for anyone who would like to practise yoga, meet new people and bring a little more calm and positive energy into their week.\nPlease bring:\n\n* Your own yoga mat\n* Comfortable clothes\n* Water\n* A warm layer for the final relaxation as autumn approaches\n\nThe exact meeting point in Park Santander will be shared with registered participants.\n\nCome move, breathe and reset with us. See you on Tuesday! 🧘‍♂️✨",
-    "start_at": "2026-09-22T18:30:00+02:00",
-    "url": "https://www.meetup.com/yoga-in-parque-santander/events/316386856/",
+    "start_at": "2026-09-29T18:30:00+02:00",
+    "url": "https://www.meetup.com/yoga-in-parque-santander/events/316485782/",
     "event_type": "PHYSICAL",
     "city": "Madrid",
     "address": "Av. de Pablo Iglesias, 9, Chamberí, 28003 Madrid, Spain",
     "organizer": "Yoga in Parque Santander – Breathe, Flow & Connect",
-    "attendees": 2,
+    "attendees": 1,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

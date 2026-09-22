@@ -2,63 +2,6 @@
   {
     "source": "luma",
     "source_slug": "madrid",
-    "source_id": "evt-9vTrr960qGUwFgG",
-    "name": "Café Helmcode Madrid",
-    "start_at": "2026-09-22T15:00:00.000Z",
-    "end_at": "2026-09-22T19:00:00.000Z",
-    "timezone": "Europe/Madrid",
-    "url": "https://lu.ma/gh5vx0wk",
-    "city": "Madrid",
-    "address": "Mad Tech Campus",
-    "organizer": "Helmcode Community",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/q8/56659517-89f1-464c-828d-e07bb98425bd.png",
-    "found_in": [
-      "madrid",
-      "helmcode"
-    ],
-    "description": "El afterwork de Helmcode para la gente que construye con modelos abiertos.\nTres charlas de 15-20 minutos y después lo importante: tiempo para hablar. El 22 de septiembre a partir de las 17:00 en Mad Tech Campus. El café, los refrescos y algo de picoteo corren de nuestra cuenta.\nLas charlas son la excusa, pero las conversaciones que surjan son lo que buscamos con el evento. Queremos que haya debate sano y compartir realidades: vuestra visión del desarrollo con IA, del sector, de los modelos abiertos y cómo lo vais implementando en vuestras empresas.\nLas charlas serán cortas y sirven como apertura del debate.\nCómo se organiza la tarde\n17:00. Puertas abiertas. Llega, pilla algo de beber y ve conociendo gente. El equipo de Helmcode estará ya por allí. Es el momento tranquilo si quieres charlar con nosotros.\n\n17:30. Bienvenida corta.\n\n17:45 a 19:30. Tres charlas de 15-20 minutos + preguntas.\nAlejandro Martínez de RevenueCat hablando de Monitorizando los bloqueos del fútbol: la importancia de las ñapas que no escalan\n\nAdrián Laborda, Software Dev en Ministerio del Interior hablando de IA en la Administración Pública\n\nJason Jiménez de Santander Bank hablando de Data Grounding en fine tunning\n\n\n19:30 a 21:00. Afterwork: conversación, ideas y lo que surja.\n\nEl equipo de Helmcode estará toda la tarde. Si tienes dudas sobre inferencia, modelos abiertos, migración desde otros proveedores o costes, búscanos en el afterwork y hablamos.\n¿Quieres dar una de las charlas?\nUno de los tres huecos está abierto a la comunidad. Si has construido algo con modelos abiertos y tienes una historia que contar, propón tu tema al registrarte. Formato corto e informal: 15 minutos, pantalla si la necesitas y cero presión.\nAntes de venir\nLas plazas son limitadas. Si al final no puedes venir, cancela tu registro para que entre alguien de la lista de espera.\n\nEl evento es en castellano. Si vienes de fuera, nos apañamos en inglés sin problema.\n\nNo hace falta portátil. Esto va de hablar.\n\nAl acabar, montaremos un grupo opcional para quien quiera seguir en contacto.\n\nQuien no forme parte de la comunidad de nan.builders, recibirá al día siguiente una invitación exclusiva.\n\nHabrá fotógrafo haciendo fotos y vídeo durante la tarde. Al asistir, aceptas aparecer en ese material, que podremos usar en nuestros canales.\nNos vemos en Matadero, Madrid.",
-    "categories": [
-      "AI"
-    ],
-    "guest_count": 152,
-    "sold_out": true,
-    "waitlist_active": true,
-    "registration_deadline": null,
-    "lat": 40.392235899999996,
-    "lng": -3.699101
-  },
-  {
-    "source": "luma",
-    "source_slug": "madrid",
-    "source_id": "evt-rzTp6tP5bXpZFEy",
-    "name": "Vibe Coding Is Over: Building Software When AI Writes the Code",
-    "start_at": "2026-09-22T16:00:00.000Z",
-    "end_at": "2026-09-22T17:00:00.000Z",
-    "timezone": "Europe/Madrid",
-    "url": "https://lu.ma/homsbdzv",
-    "city": "Madrid",
-    "address": "Pl. del Callao, 1",
-    "organizer": "Mad Builders",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/3v/78da20fa-b3d8-4f01-b777-edc59e25cf12.png",
-    "found_in": [
-      "madrid"
-    ],
-    "description": "We’re sitting down with Robert Douglass, founder of Spec Kitty, to talk about what happens after vibe coding.\nAI coding agents are getting very good, very fast. But as they write more of the implementation, a new set of problems shows up:\nHow do you keep them aligned with what you actually wanted?How do you manage multiple agents working at once?How do you review work you didn’t write?And how much autonomy should you really give them?\nRobert built Spec Kitty, an open-source framework for spec-driven development with AI agents, to tackle exactly that.\nWe’ll talk about why he built it, what he learned from letting agents loose on real codebases, where vibe coding breaks down, and what software development might look like when humans spend less time writing code and more time defining intent.\nWe’ll also get into:\nWhy better prompts aren’t enough\n\nSpecs vs. vibe coding\n\nHow to coordinate multiple coding agents\n\nWhere humans still need to stay in the loop\n\nWhat breaks when AI-generated code scales\n\nWhether developers will actually read the code AI writes\n\nBuilding an open-source product in a space moving this fast\n\nExpect a candid founder conversation, live examples, and questions from the room.\nThen we’ll hang out over some drinks with other founders, engineers, and people building with AI.",
-    "categories": [
-      "AI"
-    ],
-    "guest_count": 42,
-    "sold_out": false,
-    "waitlist_active": false,
-    "registration_deadline": null,
-    "lat": 40.419722,
-    "lng": -3.7061105000000003
-  },
-  {
-    "source": "luma",
-    "source_slug": "madrid",
     "source_id": "evt-VgbazrqX9Ef4PBv",
     "name": "Premiere · Contanimation x Magnific Originals",
     "start_at": "2026-09-23T16:15:00.000Z",
@@ -106,7 +49,7 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 58,
+    "guest_count": 59,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,
@@ -191,7 +134,7 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 102,
+    "guest_count": 104,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,
@@ -284,6 +227,34 @@
   },
   {
     "source": "luma",
+    "source_slug": "madrid",
+    "source_id": "evt-AB6eSlcEOuMNykO",
+    "name": "SheAI ft. Pitchless Show-and-Tell: Women Curious About AI",
+    "start_at": "2026-10-02T15:00:00.000Z",
+    "end_at": "2026-10-02T17:30:00.000Z",
+    "timezone": "Europe/Madrid",
+    "url": "https://lu.ma/6c3cl0u5",
+    "city": "Madrid",
+    "address": "Puerta Innovación",
+    "organizer": "SheAI Madrid Community",
+    "is_free": true,
+    "cover_image": "https://images.lumacdn.com/uploads/he/ece822c2-7c09-4a6e-b1f2-66a2de5fb550.png",
+    "found_in": [
+      "madrid"
+    ],
+    "description": "SheAI Madrid ft. Pitchless Show-and-Tell: Women Curious About AI\nA SheAI Madrid & Pitchless first joint community evening open to where women share what they've been experimenting with in AI. Tools, workflows, side projects, frameworks ... whatever they've been curious about lately.\nFive women from our the Madrid AI community will each take 5–7 minutes to show something they've been playing with — from vibe coding to AI frameworks — followed by questions from the room. We'll wrap up with an open discussion and then head out for drinks nearby.\nAll experience levels welcome.\n🗓 Friday, 2nd October⏰ 5:00 pm – 7:30 pm📍 Puerta Innovación, Calle de Toledo 110, Madrid🎟 Free\n👩‍💻👩‍💻 Your hosts:\nThis evening came together the way the best things do — Petr Bilikova (SheAI Madrid) and Sarah Malinowski Coutanson (Pitchless) kept running into each other at AI events across Madrid in spring 2026, and at some point it just became obvious they had to organise something together.\n💛 Part of something bigger. This meetup is a joint initiative of two communities:\nSheAI Madrid – a local chapter of SheAI, a global community of 1,000+ women learning and building with AI. After you join, you'll find us on WhatsApp too — make sure to join the Madrid local hub. 👉 sheai.co\nPitchless – accelerating builder journeys. Pre-accelerator for 1000+ early-stage tech founders in Madrid and Spain. Build, ship, and raise with people doing the same. 👉https://luma.com/pitchless.community\n---------\nCan't make it? Register on the SheAI platform to stay informed about upcoming events! Click HERE.\nBy attending this event, participants consent to being photographed or filmed. Photos and videos may be used by SheAI for community communications and promotional purposes. If you'd prefer not to be photographed, just let the host know at the start of the event - no problem at all! 📸",
+    "categories": [
+      "AI"
+    ],
+    "guest_count": 47,
+    "sold_out": false,
+    "waitlist_active": false,
+    "registration_deadline": null,
+    "lat": 40.4074994,
+    "lng": -3.7114533
+  },
+  {
+    "source": "luma",
     "source_slug": "madai",
     "source_id": "evt-BGzmAd9sLbh5DCg",
     "name": "Anatomía de un agente de soporte en producción: del contacto real a la resolución",
@@ -303,7 +274,7 @@
     "categories": [
       "AI"
     ],
-    "guest_count": 13,
+    "guest_count": 14,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,

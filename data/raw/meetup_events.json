@@ -11,9 +11,9 @@
     "city": "Madrid",
     "address": "P.º de La Habana, 9, 11, Chamartín, 28036 Madrid, Spain",
     "organizer": "Sirviendo Código",
-    "attendees": 27,
+    "attendees": 28,
     "max_tickets": 35,
-    "spots_left": 8,
+    "spots_left": 7,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -61,7 +61,7 @@
     "city": "Madrid",
     "address": "C. de Cronos, 63",
     "organizer": "Elixir Madrid",
-    "attendees": 14,
+    "attendees": 15,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -157,6 +157,7 @@
     "spots_left": 0,
     "found_in": [
       "Artificial Intelligence",
+      "Machine Learning",
       "Startups",
       "Hackathon"
     ],
@@ -197,9 +198,9 @@
     "city": "Madrid",
     "address": "c/ Génova 17",
     "organizer": "Madrid GUG",
-    "attendees": 5,
+    "attendees": 6,
     "max_tickets": 20,
-    "spots_left": 15,
+    "spots_left": 14,
     "found_in": [
       "Data Science",
       "DevOps"
@@ -272,6 +273,27 @@
     ],
     "lat": 40.4490059,
     "lng": -3.6708446
+  },
+  {
+    "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "316666823",
+    "name": "#AdminBirras Madrid - Octubre",
+    "description": "Tengas el rol que tengas: SysAdmin, Developer, DBA, InfoSec, Networking, UI/UX, o cualquier otra profesión relacionada con sistemas, o incluso si simplemente te interesa este mundillo, las #AdminBirras son tu sitio.\n\nDespués de varios años reuniéndonos en otras ciudades (Galicia, Barcelona y varias más en Argentina), ahora abrimos un nuevo capítulo en Madrid.\n\nComenzamos a las 19:00. La primera ronda la invitamos nosotros y el primero en llegar se lleva una camiseta de NERD :)\n\nCuando llegues, pregunta por el afterwork de sysarmy (habitualmente estamos en la planta alta!).\n\n¿Qué es sysarmy?\n\nSomos una comunidad de profesionales de sistemas que, desde hace más de 12 años, fomenta el contacto, la colaboración y el intercambio de conocimiento de forma informal.\n\n¿Qué hacemos?\n\nAdemás de ser la comunidad tecnológica más grande de Latinoamérica (y en castellano!), organizamos [nerdear.la](https://nerdear.la), uno de los eventos de tecnología más destacados de sudamérica y que recientemente llegó a Madrid.\n\nTambién tenemos un podcast: [“No hay backup”](https://www.youtube.com/playlist?list=PLPXjriojfnRWZD-qMcTxQGZtOS_Uj0Amg).\n\nPuedes conocer más sobre nosotros en [sysarmy.com](https://sysarmy.com)",
+    "start_at": "2026-10-01T19:00:00+02:00",
+    "url": "https://www.meetup.com/sysarmy-madrid/events/316666823/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Calle de Sta Engracia, 53",
+    "organizer": "Sysarmy Madrid",
+    "attendees": 1,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "DevOps"
+    ],
+    "lat": 40.4325951,
+    "lng": -3.6980319
   },
   {
     "source": "meetup",

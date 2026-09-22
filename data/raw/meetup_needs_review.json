@@ -11,7 +11,7 @@
     "city": "",
     "address": "",
     "organizer": "Power Platform Madrid",
-    "attendees": 33,
+    "attendees": 34,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -49,7 +49,7 @@
     "city": "",
     "address": "",
     "organizer": "Escuela de Programación e IA a Profesionales",
-    "attendees": 6,
+    "attendees": 7,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -507,7 +507,7 @@
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
     "source_id": "316634854",
-    "name": "Conferencia: INTUICIÓN y Aplicaciones",
+    "name": "INTUICIÓN y sus Aplicaciones",
     "description": "En la conferencia explico:\n\\- que es la intuición\n\\- cómo se usa\n\\- qué resultados se pueden obtener\n\\- campos o áreas de aplicación\n\n\\- ejercicio práctico:\nUna de las posibilidades de uso de la intuición es hallar las causas principales que hacen que las personas padezcamos malestares, dolores, etc. y poder aliviarlos. En la segunda parte de la conferencia lo muestro con los asistentes, para que puedan tener una experiencia directa, y beneficiarse.\n\nLa sala es pequeña. **Es NECESARIO CONFIRMAR ASISTENCIA por whatsapp:** 660 946 665\n\nLUGAR: Oasis de Bienestar\nAvenida Doctor Federico Rubio y Gali 6, Madrid\nMetro: Cuatro Caminos y Guzmán el Bueno\n\nJose Antonio Gómez\nwww.intuicionyresultados.com",
     "start_at": "2026-09-24T19:00:00+02:00",
     "url": "https://www.meetup.com/intuicion-y-resultados/events/316634854/",
@@ -611,7 +611,7 @@
     "city": "Madrid",
     "address": "Calle de Atocha, 123, Centro, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 98,
+    "attendees": 100,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

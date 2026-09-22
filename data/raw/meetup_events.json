@@ -11,9 +11,9 @@
     "city": "Madrid",
     "address": "P.º de La Habana, 9, 11, Chamartín, 28036 Madrid, Spain",
     "organizer": "Sirviendo Código",
-    "attendees": 25,
+    "attendees": 27,
     "max_tickets": 30,
-    "spots_left": 5,
+    "spots_left": 3,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -240,9 +240,9 @@
     "city": "Madrid",
     "address": "Calle de Pradillo, 42, 28002 Madrid, Spain",
     "organizer": "ProductTank Madrid",
-    "attendees": 88,
+    "attendees": 89,
     "max_tickets": 90,
-    "spots_left": 2,
+    "spots_left": 1,
     "found_in": [
       "DevOps",
       "Startups"

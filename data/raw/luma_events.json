@@ -49,9 +49,9 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 59,
-    "sold_out": false,
-    "waitlist_active": false,
+    "guest_count": 60,
+    "sold_out": true,
+    "waitlist_active": true,
     "registration_deadline": null,
     "lat": 40.45623344565284,
     "lng": -3.6870295799477137
@@ -134,7 +134,7 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 104,
+    "guest_count": 105,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,
@@ -246,9 +246,9 @@
     "categories": [
       "AI"
     ],
-    "guest_count": 47,
-    "sold_out": false,
-    "waitlist_active": false,
+    "guest_count": 48,
+    "sold_out": true,
+    "waitlist_active": true,
     "registration_deadline": null,
     "lat": 40.4074994,
     "lng": -3.7114533

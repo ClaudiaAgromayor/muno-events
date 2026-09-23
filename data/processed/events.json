@@ -1,76 +1,5 @@
 [
   {
-    "id": "luma:evt-VgbazrqX9Ef4PBv",
-    "source": "luma",
-    "source_id": "evt-VgbazrqX9Ef4PBv",
-    "name": "Premiere · Contanimation x Magnific Originals",
-    "description": "Un caballero ve gigantes donde todos ven molinos. Nos hemos tomado su versión en serio.\nEstrenamos en Madrid La Triste Figura, primer episodio de Contanimation TV, la antología creada por Contanimation Films y producida por Magnific Originals. Después de la proyección, el equipo cuenta cómo se hizo: dirección de animación con IA y la batalla con los molinos.\nSinopsis\nSancho sospecha que su señor está mucho más loco de lo que parecía. La certeza llega con una fila de gigantes en el horizonte que solo Don Quijote ve. Y su señor, lanza en ristre, carga contra ellos.\nPara quién es\nDirectores, animadores, guionistas y curiosos que quieran ver de cerca cómo se produce animación con IA hoy.\nPrograma\n18:15 – 18:45 · Check-inPuertas abiertas, palomitas y saludos.\n18:45 – 19:15 · BienvenidaContanimation y Magnific Originals presentan la antología y el episodio.\n19:15 – 20:00 · Proyección + Q&ALa Triste Figura, y a continuación el equipo respondiendo.\n20:00 – 21:00 · NetworkingPicoteo en la mano y charla.\n📍 UbicaciónSala EQUIS, Madrid.\n🧠 RSVP obligatorioAforo limitado. Revisamos las solicitudes una a una para mantener la sala pequeña y las conversaciones reales.",
-    "start_at": "2026-09-23T16:15:00.000Z",
-    "end_at": "2026-09-23T19:00:00.000Z",
-    "url": "https://lu.ma/magnific-contanimation",
-    "city": "Madrid",
-    "address": "SALA EQUIS",
-    "organizer": "Magnific",
-    "lat": 40.4119879,
-    "lng": -3.7058726,
-    "extra": {
-      "categories": [
-        "AI",
-        "Arts & Culture"
-      ],
-      "is_free": true,
-      "guest_count": 0,
-      "sold_out": false,
-      "waitlist_active": false,
-      "registration_deadline": null
-    },
-    "found_on_platforms": [
-      "luma"
-    ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
-  },
-  {
-    "id": "luma:evt-1JvWiMDTEj9lY89",
-    "source": "luma",
-    "source_id": "evt-1JvWiMDTEj9lY89",
-    "name": "Beers & Reliability",
-    "description": "ENGJoin us for an evening of after-work drinks and real talk about building resilient systems. PagerDuty's Senior Developer Advocate, Daniel Afonso, will walk us through Chaos Engineering: how top teams break things on purpose to build more reliable software. Casual, hands-on, and open bar.Session will be delivered in English.\nAgenda18:30: Doors open; say hi, grab a seat, and eat some food19:00: Talk - Chaos Engineering, with Daniel Afonso. Sr. Developer Advocate (PagerDuty) + Q&A20:00: Networking time with food & drinks21:00: Wrap upPagerDuty is an incident management and real-time operations platform powered by AI designed to help teams detect, respond to, and resolve critical issues faster. For developers, PagerDuty streamlines on-call management, automates alerting, and integrates seamlessly with popular tools like Slack, GitHub, and AWS. Whether you’re building, deploying, or maintaining services, PagerDuty empowers engineering teams to minimise downtime, collaborate efficiently, and deliver reliable digital experiences. Learn more at https://www.pagerduty.com/.__________________________________________________________________ESPÚnete a nosotros para una tarde de after-work con cervezas y una charla sobre cómo construir sistemas más resilientes. Daniel Afonso, Senior Developer Advocate de PagerDuty, nos hablará de Chaos Engineering: cómo los mejores equipos rompen cosas a propósito para mejorar la fiabilidad de su software. Ambiente informal, cercano, y barra libre.La sesión será en inglés.Agenda\n18:30: Apertura de puertas: saluda, coge sitio y pilla algo de comer\n\n19:00: Charla: Chaos Engineering, con Daniel Afonso, Sr. Developer Advocate (PagerDuty) + Turno de preguntas\n\n20:00: Tiempo de networking con comida y bebida\n\n21:00: Cierre del evento\n\nPagerDuty es una plataforma de gestión de incidentes y operaciones en tiempo real impulsada por IA, diseñada para ayudar a los equipos a detectar, responder y resolver problemas críticos de forma más rápida. Para los desarrolladores, PagerDuty agiliza la gestión de las guardias (on-call), automatiza las alertas y se integra sin problemas con herramientas populares como Slack, GitHub y AWS. Ya estés construyendo, desplegando o manteniendo servicios, PagerDuty capacita a los equipos de ingeniería para minimizar el tiempo de inactividad, colaborar de manera eficiente y ofrecer experiencias digitales fiables. Más información en https://www.pagerduty.com/.",
-    "start_at": "2026-09-23T16:30:00.000Z",
-    "end_at": "2026-09-23T19:00:00.000Z",
-    "url": "https://lu.ma/zb95bhdg",
-    "city": "Madrid",
-    "address": "Hispanoamérica",
-    "organizer": "PagerDuty Community Events",
-    "lat": 40.45623344565284,
-    "lng": -3.6870295799477137,
-    "extra": {
-      "categories": [
-        "Tech"
-      ],
-      "is_free": true,
-      "guest_count": 59,
-      "sold_out": false,
-      "waitlist_active": false,
-      "registration_deadline": null
-    },
-    "found_on_platforms": [
-      "luma"
-    ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "en",
-      "comida_gratis": "si",
-      "se_graba": "no_especificado"
-    }
-  },
-  {
     "id": "luma:evt-w0TeDPIBFDGUvbJ",
     "source": "luma",
     "source_id": "evt-w0TeDPIBFDGUvbJ",
@@ -159,7 +88,7 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 109,
+      "guest_count": 110,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -400,39 +329,9 @@
     "lat": null,
     "lng": null,
     "extra": {
-      "attendees": 28,
+      "attendees": 29,
       "max_tickets": 35,
-      "spots_left": 7
-    },
-    "found_on_platforms": [
-      "meetup"
-    ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
-  },
-  {
-    "id": "meetup:316470797",
-    "source": "meetup",
-    "source_id": "316470797",
-    "name": "Cacharreando con Nerves, IA y Telegram | Pepe Márquez",
-    "description": "En esta charla Pepe Márquez (Doofinder) nos contará cómo cacharrear con Nerves para construir un pequeño dispositivo conectado usando Elixir.\n\nAdemás, integraremos IA y Telegram para convertirlo en un sistema interactivo capaz de recibir órdenes, responder y automatizar tareas desde el chat.\n\nTras la charla tendremos networking y pizza, cortesia de Doofinder.\n\n(Para el control de acceso es necesario apuntarse en el siguiente formulario: https://forms.gle/aRtSBtsQoaZzfyr1A)\n\n¡Nos vemos!\nHector",
-    "start_at": "2026-09-23T19:00:00+02:00",
-    "end_at": null,
-    "url": "https://www.meetup.com/madrid-elixir/events/316470797/",
-    "city": "Madrid",
-    "address": "C. de Cronos, 63",
-    "organizer": "Elixir Madrid",
-    "lat": 40.4410744,
-    "lng": -3.6187568,
-    "extra": {
-      "attendees": 13,
-      "max_tickets": 0,
-      "spots_left": null
+      "spots_left": 6
     },
     "found_on_platforms": [
       "meetup"
@@ -460,9 +359,9 @@
     "lat": null,
     "lng": null,
     "extra": {
-      "attendees": 24,
+      "attendees": 26,
       "max_tickets": 50,
-      "spots_left": 26
+      "spots_left": 24
     },
     "found_on_platforms": [
       "meetup"
@@ -704,7 +603,7 @@
     "lat": 40.4325951,
     "lng": -3.6980319,
     "extra": {
-      "attendees": 4,
+      "attendees": 6,
       "max_tickets": 0,
       "spots_left": null
     },
@@ -794,7 +693,7 @@
     "lat": 40.4166565,
     "lng": -3.6742879,
     "extra": {
-      "attendees": 36,
+      "attendees": 37,
       "max_tickets": 0,
       "spots_left": null
     },
@@ -824,7 +723,7 @@
     "lat": 40.4242298,
     "lng": -3.6963366,
     "extra": {
-      "attendees": 13,
+      "attendees": 14,
       "max_tickets": 0,
       "spots_left": null
     },

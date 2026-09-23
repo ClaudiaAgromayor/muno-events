@@ -11,7 +11,7 @@
     "city": "",
     "address": "",
     "organizer": "Power Platform Madrid",
-    "attendees": 38,
+    "attendees": 40,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -30,7 +30,7 @@
     "city": "",
     "address": "",
     "organizer": "IA para Agencias, Freelancers y Consultores",
-    "attendees": 7,
+    "attendees": 8,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -178,6 +178,26 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
+    "source_id": "316680054",
+    "name": "*ULTIMA EDICION* Master en Deep Learning con IA Agéntica",
+    "description": "\\*\\*\\*\\* ÚLTIMA EDICIÓN CON MÓDULO IA AGÉNTICA \\*\\*\\*\\*\n\nSi quieres trabajar con IA en modelos de imagen, texto, audio... no lo dejes pasar. Contenido totalmente actualizado, módulo de IA Agéntica y docentes profesionales con amplia experiencia en proyectos de IA en todos los sectores.\nESTA SERÁ LA ÚLTIMA EDICIÓN DE LA FORMACIÓN. Como siempre, el soporte de docentes y todo el equipo Datamecum está más que garantizado antes, durante y después de la formación.\n**3**ª 𝗲𝗱. 𝗠𝗔𝗦𝗧𝗘𝗥 𝗗𝗘𝗘𝗣 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 𝗖𝗢𝗡 𝗜𝗔 **AGÉNTICA**\n𝟮.𝟮𝟵𝟱€ con 180h. clases online 𝗲𝗻 𝗱𝗶𝗿𝗲𝗰𝘁𝗼 que se graban + TFM\nDuración: 2 octubre 2026 al 16 abril 2027\nHorario: Viernes 16-20h y Sábados 9-13h. TODAS LAS CLASES SE GRABAN\nContenido e inscripción en el link [https://datamecum.com/master-en-deep-learning-con-ia-agentica/](https://datamecum.com/master-en-deep-learning-con-ia-agentica/)\n👉 [ruth.gamero@datamecum.com](mailto:ruth.gamero@datamecum.com)\n📞 [613.08.30.04](http://613.08.30.04/) Whatsapp o llamada tradicional\n\n+++++ CÓDIGO DE CONDUCTA +++++\nPropósito:\nEste grupo de Meetup cree en una comunidad abierta a todo el mundo. Como tal, estamos comprometidos a proporcionar un ambiente amigable, seguro y acogedor para todos independientemente de su orientación sexual, religión o sistema operativo preferido.\nEste código de conducta resume nuestras expectativas para el comportamiento de los participantes así como las consecuencias para el comportamiento inaceptable.\nComportamiento esperado:\nSer considerado, respetuoso y colaborativo. Abstenerse de comportamiento degradante, discriminatorio o de acoso. Alertar a los organizadores al observar una situación peligrosa o de riesgo. Participar de una manera auténtica y activa.\nComportamiento inaceptable:\nIntimidación. Abuso. Conducta discriminatoria/ofensiva relacionado con el género, raza, religión o discapacidad. Tratamiento despectivo o degradante. Acoso. Uso inadecuado de desnudez y/o imágenes sexuales. Interrupción sostenida de charlas u otros eventos.\nConsecuencias de un comportamiento inaceptable:\nLos organizadores pueden tomar cualquier acción que consideren apropiada, incluso la expulsión del evento sin previo aviso o reembolso.\nQué hacer si eres testigo u objeto de un comportamiento inaceptable:\nSi estás involucrado en un comportamiento inaceptable, eres testigo de dicho comportamiento o cualquier situación similar, por favor notifícalo al organizador del evento tan pronto como sea posible.\nInformación de contacto:\nCualquier participante puede ponerse en contacto con la organización a través del contacto de MeetUp.\nÁmbito de aplicación:\nEsperamos que todos los participantes del evento (patrocinadores, voluntarios, ponentes, asistentes y otros invitados) cumplan con el código de conducta en todas las reuniones virtuales y eventos presenciales organizados por este grupo de MeetUp.",
+    "start_at": "2026-10-02T16:00:00+02:00",
+    "url": "https://www.meetup.com/aidatascience-datamecum/events/316680054/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "AI Data Science @Datamecum",
+    "attendees": 1,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence",
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
     "source_id": "316397919",
     "name": "AI Deep Dive Webinar - Taking LangGraph to production",
     "description": "**Important**: Register on the [event website](https://www.aicamp.ai/event/eventdetails/W2026091710) to receive the joining link. (rsvp on meetup will NOT receive anything).\n\nThis is virtual event for our AI global community, please double-check your local time. Can't make it live? Register anyway to receive the webinar recording.\n\nJoin Diagrid to learn taking LangGraph to production\n\n**Tech Talk: Taking LangGraph to production**\n**Speaker:** Mark Fussell\\, Co\\-founder & CEO\\, Diagrid \\| Co\\-creator of Dapr\\. and Yaron Schneider\\, Co\\-founder & CTO\\, Diagrid \\| Co\\-creator of Dapr\n**Abstract:** In this session, Dapr co-creators Mark Fussell and Yaron Schneider draw the line between checkpointing and durable execution, show exactly where LangGraph's persistence stops, and kill a live LangGraph agent mid-run to show Diagrid Catalyst bring it back without any re-architecture or custom recovery code.\nYou'll walk away knowing:\n\n* How to make LangGraph agents failure-proof, even in the face of complete outages\n* How to keep a complete, tamper-proof system of record that proves what your agents did\n* How to secure LangGraph deployments in any environment and specifically on Kubernetes\n\n**Who should attend**\nEngineers and architects running or planning to run LangGraph agents, platform teams responsible for agent reliability, and engineering leaders deciding how much of the reliability stack to build themselves.\n\n**Venue:**\nVirtual, join from anywhere\n\n**More virtual sessions:**\n\n* Sep 22nd: Google Agents in Production for Enterprises (#1). [RSVP](https://www.aicamp.ai/event/eventdetails/W2026081110)\n* Oct 14th: AI Deep Dive with Google Ep 4. [RSVP](https://www.aicamp.ai/event/eventdetails/W2026101410)",
@@ -231,29 +251,7 @@
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence",
-      "Machine Learning",
-      "Data Science"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
-    "source_id": "316418129",
-    "name": "AIDataTech Connect: Global Virtual Networking Event for AI, Data & Tech Pros",
-    "description": "Are you working in artificial intelligence, data science, or machine learning? Whether you're a developer, researcher, startup founder, or aspiring tech enthusiast — **AIDataTech Connect** is your go-to **AI networking event online** designed to foster career growth, real-time collaboration, and innovation exchange in a dynamic, community-driven environment.\n\nThis event brings together a global **virtual AI community meetup** hosted on a flexible Slack-style platform that supports group discussions and **1-1 video or text chats**, making it perfect for professionals looking to connect, collaborate, and build with others in the AI ecosystem.\n\n🎥 **Watch how it works:**\n👉 [https://www.youtube.com/watch?v=NRUTXUOFKm4](https://www.youtube.com/watch?v=NRUTXUOFKm4)\n\n**💬 What to Expect:**\nAt AIDataTech Connect, attendees are encouraged to explore, share, and engage across multiple interactive channels designed to support learning, networking, and opportunity discovery:\n\n* **General** – A central hub for orientation, announcements, and community-wide discussions.\n* **Intros** – Introduce yourself, your background, and your AI/tech journey. Spark meaningful introductions.\n* **Networking** – Share your resume, startup, or project pitch. Meet employers, peers, or collaborators.\n* **Help Wanted** – Ask for help or offer support on coding, data, research, or AI model deployment.\n* **Industry Room Tech** – Discuss AI frameworks, tools, and the latest tech trends in data and development.\n* **Project Showcase** – Perfect for those seeking a **machine learning career fair** experience or showcasing real-world work through our **AI project showcase platform**.\n* **Collaboration Pods** – Jump into discussions around **collaboration for AI specialists**, including open-source partnerships, research pods, and co-building opportunities.\n\n**📍 Where:**\nJoin virtually at:\n👉 [https://events.tao.ai/pod/analytics.club/q4j5imq9qjs9](https://events.tao.ai/pod/analytics.club/q4j5imq9qjs9)\n**🕔 When:**\nEvent runs globally from **5:00 PM – 7:00 PM local time** — designed for participation across time zones.\n\n**👥 Who Should Join:**\n\n* AI professionals, ML engineers, and data scientists\n* Tech founders, entrepreneurs, and product leaders\n* Students, job seekers, and aspiring AI talent\n* Recruiters, employers, and hiring managers in AI/tech\n* Researchers, open-source contributors, and peer mentors\n\n**🧠 Why Attend:**\n\n* Engage in a truly global **virtual tech networking event**\n* Discover AI jobs, freelance gigs, or partnership opportunities\n* Connect with experts and peers in AI, ML, and data\n* Explore AI applications and get feedback on your models or tools\n* Network directly via 1-on-1 video or text chats\n* Collaborate on new ideas, research papers, or open-source projects\n\n**❓ Questions or Suggestions?**\nWe’re here to help. Drop us a note at:\n👉 [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**🔖 Hashtags:**\n#AIDataTechConnect #AINetworkingEventOnline #VirtualAICommunityMeetup #MachineLearningCareerFair #AIProjectShowcasePlatform #CollaborationForAISpecialists #DataScienceMeetup #MLJobs #AIResearchNetworking #GlobalTechNetworking #TechCollaborationEvent",
-    "start_at": "2026-09-24T17:00:00+02:00",
-    "url": "https://www.meetup.com/ac-mad/events/316418129/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Analytics.CLUB Madrid",
-    "attendees": 3,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Data Science"
+      "Machine Learning"
     ]
   },
   {
@@ -277,6 +275,45 @@
   },
   {
     "source": "meetup",
+    "source_slug": "Machine Learning",
+    "source_id": "316680008",
+    "name": "*ULTIMA EDICION* Master en Deep Learning con IA Agéntica",
+    "description": "\\*\\*\\*\\* ÚLTIMA EDICIÓN CON MÓDULO IA AGÉNTICA \\*\\*\\*\\*\nSi quieres trabajar con IA en modelos de imagen, texto, [audio...no](http://audio...no/) lo dejes pasar. Contenido totalmente actualizado, módulo de IA Agéntica y docentes profesionales con amplia experiencia en proyectos de IA en todos los sectores.\nESTA SERÁ LA ÚLTIMA EDICIÓN DE LA FORMACIÓN. Como siempre, el soporte de docentes y todo el equipo Datamecum está más que garantizado antes, durante y después de la formación.\n**3**ª 𝗲𝗱. 𝗠𝗔𝗦𝗧𝗘𝗥 𝗗𝗘𝗘𝗣 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 𝗖𝗢𝗡 𝗜𝗔 **AGÉNTICA**\n𝟮.𝟮𝟵𝟱€ con 180h. clases online 𝗲𝗻 𝗱𝗶𝗿𝗲𝗰𝘁𝗼 que se graban + TFM\nDuración: 2 octubre 2026 al 16 abril 2027\nHorario: Viernes 16-20h y Sábados 9-13h. TODAS LAS CLASES SE GRABAN\nContenido e inscripción en el link [https://datamecum.com/master-en-deep-learning-con-ia-agentica/](https://datamecum.com/master-en-deep-learning-con-ia-agentica/)\n👉 [[ruth.gamero@datamecum.com](mailto:ruth.gamero@datamecum.com)]\n📞 [613.08.30.04](http://613.08.30.04/) Whatsapp o llamada tradicional\n\n+++++ CÓDIGO DE CONDUCTA +++++\nPropósito:\nDATAMECUM cree en una comunidad abierta a todo el mundo. Como tal, estamos comprometidos a proporcionar un ambiente amigable, seguro y acogedor para todos independientemente de su orientación sexual, religión o sistema operativo preferido.\nEste código de conducta resume nuestras expectativas para el comportamiento de los participantes así como las consecuencias para el comportamiento inaceptable.\nComportamiento esperado:\nSer considerado, respetuoso y colaborativo. Abstenerse de comportamiento degradante, discriminatorio o de acoso. Alertar a los organizadores al observar una situación peligrosa o de riesgo. Participar de una manera auténtica y activa.\nComportamiento inaceptable:\nIntimidación. Abuso. Conducta discriminatoria/ofensiva relacionada con el género, raza, religión o discapacidad. Tratamiento despectivo o degradante. Acoso. Uso inadecuado de desnudez y/o imágenes sexuales. Interrupción sostenida de charlas u otros eventos.\nConsecuencias de un comportamiento inaceptable:\nLos organizadores pueden tomar cualquier acción que consideren apropiada, incluso la expulsión del evento sin previo aviso o reembolso.\nQué hacer si eres testigo u objeto de un comportamiento inaceptable:\nSi estás involucrado en un comportamiento inaceptable, eres testigo de dicho comportamiento o cualquier situación similar, por favor notifícalo al organizador del evento tan pronto como sea posible.\nInformación de contacto:\nCualquier participante puede ponerse en contacto con la organización a través del contacto de MeetUp.\nÁmbito de aplicación:\nEsperamos que todos los participantes del evento (patrocinadores, voluntarios, ponentes, asistentes y otros invitados) cumplan con el código de conducta en todas las reuniones virtuales y eventos presenciales organizados por el grupo MeetUp DATAMECUM.",
+    "start_at": "2026-10-02T16:00:00+02:00",
+    "url": "https://www.meetup.com/datamecum/events/316680008/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Datamecum {Tu referencia en datos}",
+    "attendees": 1,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Machine Learning",
+    "source_id": "316679848",
+    "name": "*ULTIMA EDICION* Programa Experto en Data Science con IA Generativa",
+    "description": "\\*\\*\\*\\* ÚLTIMA EDICIÓN \\*\\*\\*\\*\nSi quieres formarte en datos y conocer los fundamentos de la Inteligencia Artificial, con máxima calidad docente al mínimo precio y empezando desde cero ¡¡empezamos este viernes 25 septiembre!!.\n\nESTA SERÁ LA ÚLTIMA EDICIÓN DE LA FORMACIÓN. Como siempre, el soporte de docentes y todo el equipo Datamecum está más que garantizado antes, durante y después de la formación.\n\n𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗔 𝗘𝗫𝗣𝗘𝗥𝗧𝗢 𝗘𝗡 𝗗𝗔𝗧𝗔 𝗦𝗖𝗜𝗘𝗡𝗖𝗘 **CON IA GENERATIVA**\n**𝟭.𝟲𝟵𝟱**€ con 200h. clases online 𝗲𝗻 𝗱𝗶𝗿𝗲𝗰𝘁𝗼 que se graban\nDuración: 25 septiembre 2026 al 24 abril 2027\nHorario: Viernes 16-20h y Sábados 9-13h. TODAS LAS CLASES SE GRABAN\nContenido e inscripción en el link [https://datamecum.com/programa-experto-en-data-science-con-ia-generativa/](https://datamecum.com/programa-experto-en-data-science-con-ia-generativa/)\n\n👉 [ruth.gamero@datamecum.com](ruth.gamero@datamecum.com)\n📞 [613.08.30.04](http://613.08.30.04) Whatsapp o llamada tradicional\n\n+++++ CÓDIGO DE CONDUCTA +++++\nPropósito:\nDATAMECUM cree en una comunidad abierta a todo el mundo. Como tal, estamos comprometidos a proporcionar un ambiente amigable, seguro y acogedor para todos independientemente de su orientación sexual, religión o sistema operativo preferido.\nEste código de conducta resume nuestras expectativas para el comportamiento de los participantes así como las consecuencias para el comportamiento inaceptable.\nComportamiento esperado:\nSer considerado, respetuoso y colaborativo. Abstenerse de comportamiento degradante, discriminatorio o de acoso. Alertar a los organizadores al observar una situación peligrosa o de riesgo. Participar de una manera auténtica y activa.\nComportamiento inaceptable:\nIntimidación. Abuso. Conducta discriminatoria/ofensiva relacionada con el género, raza, religión o discapacidad. Tratamiento despectivo o degradante. Acoso. Uso inadecuado de desnudez y/o imágenes sexuales. Interrupción sostenida de charlas u otros eventos.\nConsecuencias de un comportamiento inaceptable:\nLos organizadores pueden tomar cualquier acción que consideren apropiada, incluso la expulsión del evento sin previo aviso o reembolso.\nQué hacer si eres testigo u objeto de un comportamiento inaceptable:\nSi estás involucrado en un comportamiento inaceptable, eres testigo de dicho comportamiento o cualquier situación similar, por favor notifícalo al organizador del evento tan pronto como sea posible.\nInformación de contacto:\nCualquier participante puede ponerse en contacto con la organización a través del contacto de MeetUp.\nÁmbito de aplicación:\nEsperamos que todos los participantes del evento (patrocinadores, voluntarios, ponentes, asistentes y otros invitados) cumplan con el código de conducta en todas las reuniones virtuales y eventos presenciales organizados por el grupo MeetUp DATAMECUM.",
+    "start_at": "2026-09-25T16:00:00+02:00",
+    "url": "https://www.meetup.com/datamecum/events/316679848/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Datamecum {Tu referencia en datos}",
+    "attendees": 1,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Machine Learning",
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
     "source_slug": "Data Science",
     "source_id": "316641844",
     "name": "Crea una página web con IA en 30 min",
@@ -287,9 +324,9 @@
     "city": "",
     "address": "",
     "organizer": "Marketing con IA Madrid",
-    "attendees": 2,
+    "attendees": 3,
     "max_tickets": 45,
-    "spots_left": 43,
+    "spots_left": 42,
     "found_in": [
       "Data Science"
     ]
@@ -297,11 +334,11 @@
   {
     "source": "meetup",
     "source_slug": "Data Science",
-    "source_id": "316370890",
-    "name": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
-    "description": "Calling all developers, AI engineers, software architects, data scientists, DevOps professionals, and tech enthusiasts — **TechConnect** is your ultimate destination for career growth, project showcasing, and global peer networking in the tech ecosystem.\n\nHosted in a self-led, Slack-style virtual space, this **virtual tech networking event** invites you to connect, collaborate, and innovate with a diverse community of tech minds and hiring professionals from around the world. Whether you're looking for your next job, exploring startups, showcasing tools, or building a **peer coding accountability group**, **TechConnect** is where meaningful connections are made.\n\n🎥 **Watch the explainer video to see how it works:**\n👉 [https://www.youtube.com/watch?v=pgm2_MiHLDk](https://www.youtube.com/watch?v=pgm2_MiHLDk)\n\n**💬 What to Expect:**\nAt TechConnect, participants enjoy full access to group discussions and 1-on-1 video/text chats, with zero moderation — allowing spontaneous, genuine interaction across roles and regions.\n\nAttendees can engage across several thoughtfully organized channels:\n\n* **General** – A community-wide welcome zone for announcements, orientation, and casual conversation.\n* **Intros** – Share your tech background, favorite projects, or personal story. Find shared passions with others.\n* **Networking** – Showcase your startup, GitHub repo, app, or career goals. Build relationships and get feedback.\n* **Help Wanted** – Looking for a co-founder, DevOps hand, designer, or marketer? Post or respond here.\n* **Industry Room Tech** – Dive into the newest programming trends, frameworks, and stacks shaping the future.\n* **Projects & Collabs** – A showcase area tailored for **developer project sharing platforms**, where you can post demos, join builds, or spark new ideas.\n* **Coding Sprints & Accountability Pods** – For those building in public or looking for **peer coding accountability groups**, this space will keep your momentum strong.\n\n**📍 Where:**\nJoin virtually at:\n👉 [https://events.tao.ai/pod/analytics.club/te5gd5wngmz9](https://events.tao.ai/pod/analytics.club/te5gd5wngmz9)\n**🕓 When:**\nThe event takes place from **4:00 PM – 6:00 PM local time**, globally. Join to network, hire, learn, and collaborate.\n\n**👥 Who Should Attend:**\n\n* Developers and software engineers across all stacks\n* Data professionals, AI researchers, and machine learning engineers\n* Startup founders and tech entrepreneurs\n* Recruiters and employers hiring in the tech space\n* Students and learners aiming to connect and grow in the industry\n* Tech enthusiasts looking to explore career pivots, personal projects, or trends\n\n**🔧 Why You’ll Love It:**\n\n* Connect with professionals, recruiters, and peers in real time\n* Explore a live **tech job fair online** that’s open and interactive\n* Showcase your innovations, code, or startup demo\n* Get feedback or help on your latest dev build\n* Join project-based groups or accountability pods to stay productive\n* Make global tech connections via 1-on-1 **video and text chats**\n\n**❓ Have Questions or Suggestions?**\nWe’re here to help. Reach out at:\n👉 [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**🔖 Hashtags:**\n#TechConnect #VirtualTechNetworkingEvent #OnlineDeveloperCommunityMeetup #TechJobFairOnline #DeveloperProjectShowcasePlatform #PeerCodingAccountabilityGroup #AIJobs #DataScienceNetworking #SoftwareEngineerMeetup #GlobalTechEvent #TechCareersVirtual",
-    "start_at": "2026-10-07T16:00:00+02:00",
-    "url": "https://www.meetup.com/ac-mad/events/316370890/",
+    "source_id": "316418129",
+    "name": "AIDataTech Connect: Global Virtual Networking Event for AI, Data & Tech Pros",
+    "description": "Are you working in artificial intelligence, data science, or machine learning? Whether you're a developer, researcher, startup founder, or aspiring tech enthusiast — **AIDataTech Connect** is your go-to **AI networking event online** designed to foster career growth, real-time collaboration, and innovation exchange in a dynamic, community-driven environment.\n\nThis event brings together a global **virtual AI community meetup** hosted on a flexible Slack-style platform that supports group discussions and **1-1 video or text chats**, making it perfect for professionals looking to connect, collaborate, and build with others in the AI ecosystem.\n\n🎥 **Watch how it works:**\n👉 [https://www.youtube.com/watch?v=NRUTXUOFKm4](https://www.youtube.com/watch?v=NRUTXUOFKm4)\n\n**💬 What to Expect:**\nAt AIDataTech Connect, attendees are encouraged to explore, share, and engage across multiple interactive channels designed to support learning, networking, and opportunity discovery:\n\n* **General** – A central hub for orientation, announcements, and community-wide discussions.\n* **Intros** – Introduce yourself, your background, and your AI/tech journey. Spark meaningful introductions.\n* **Networking** – Share your resume, startup, or project pitch. Meet employers, peers, or collaborators.\n* **Help Wanted** – Ask for help or offer support on coding, data, research, or AI model deployment.\n* **Industry Room Tech** – Discuss AI frameworks, tools, and the latest tech trends in data and development.\n* **Project Showcase** – Perfect for those seeking a **machine learning career fair** experience or showcasing real-world work through our **AI project showcase platform**.\n* **Collaboration Pods** – Jump into discussions around **collaboration for AI specialists**, including open-source partnerships, research pods, and co-building opportunities.\n\n**📍 Where:**\nJoin virtually at:\n👉 [https://events.tao.ai/pod/analytics.club/q4j5imq9qjs9](https://events.tao.ai/pod/analytics.club/q4j5imq9qjs9)\n**🕔 When:**\nEvent runs globally from **5:00 PM – 7:00 PM local time** — designed for participation across time zones.\n\n**👥 Who Should Join:**\n\n* AI professionals, ML engineers, and data scientists\n* Tech founders, entrepreneurs, and product leaders\n* Students, job seekers, and aspiring AI talent\n* Recruiters, employers, and hiring managers in AI/tech\n* Researchers, open-source contributors, and peer mentors\n\n**🧠 Why Attend:**\n\n* Engage in a truly global **virtual tech networking event**\n* Discover AI jobs, freelance gigs, or partnership opportunities\n* Connect with experts and peers in AI, ML, and data\n* Explore AI applications and get feedback on your models or tools\n* Network directly via 1-on-1 video or text chats\n* Collaborate on new ideas, research papers, or open-source projects\n\n**❓ Questions or Suggestions?**\nWe’re here to help. Drop us a note at:\n👉 [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**🔖 Hashtags:**\n#AIDataTechConnect #AINetworkingEventOnline #VirtualAICommunityMeetup #MachineLearningCareerFair #AIProjectShowcasePlatform #CollaborationForAISpecialists #DataScienceMeetup #MLJobs #AIResearchNetworking #GlobalTechNetworking #TechCollaborationEvent",
+    "start_at": "2026-09-24T17:00:00+02:00",
+    "url": "https://www.meetup.com/ac-mad/events/316418129/",
     "event_type": "ONLINE",
     "city": "",
     "address": "",
@@ -335,16 +372,16 @@
   {
     "source": "meetup",
     "source_slug": "Data Science",
-    "source_id": "316514403",
-    "name": "AI For Work | Webinar",
-    "description": "**AI for Work \\| Free Live Webinar**\n\n**Pre-Registration is REQUIRED. Joining link -**\n[https://streamyard.com/watch/QnfhUjb7qQXs](https://streamyard.com/watch/QnfhUjb7qQXs?utm_source=luma)\n\n## ​WHEN\n\n​**September 30 at 1:00 PM ET**\n**45-minute live webinar**\n\n## ​WHO SHOULD JOIN?\n\n​This session is for people who already use tools like ChatGPT or Claude, but want to go beyond asking questions and start using AI to actually get work done.\n​It’s especially useful for:\n\n* ​Product and project managers\n* ​Operations and process leads\n* ​Marketing and admin professionals\n* ​Founders and small business teams\n* ​Career changers and AI beginners\n* ​Anyone looking to automate everyday work without coding\n\n​Come curious. No coding, setup, or technical background required.\n\nWHAT YOU’LL LEARN\n\nIn this free, 45-minute hands-on session, ODSC's Sheamus McGovern shows you the difference between chatting with AI and putting it to work.\n\nYou'll watch Cowork sort a messy folder of files into order, turn raw notes and spreadsheets into a polished, ready-to-send document, and set up recurring work that runs on its own, no prompting required.\n\nJust the everyday tasks you can hand off to AI that eat your week: filing, formatting, summarizing, following up, etc.\n\nLeave with one task you can delegate this week, and a clear next step for what to automate after that.\n\n**​Stay Connected**\n\n* ​**Learn:** Free talks and trainings on the [Ai+ Training platform](https://aiplus.training/?utm_source=luma).\n* ​**Read:** The latest in AI research on the [ODSC Blog](https://opendatascience.com/?utm_source=luma).\n* ​**Chat:** Join the conversation in our [Slack Channel](https://www.google.com/search?q=https%3A%2F%2Fodsc.com%2Fslack&utm_source=luma).\n* ​**Community:** Review our [Code of Conduct](https://odsc.com/code-of-conduct/?utm_source=luma).",
-    "start_at": "2026-09-30T19:00:00+02:00",
-    "url": "https://www.meetup.com/odsc-madrid-data-science/events/316514403/",
+    "source_id": "316370890",
+    "name": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
+    "description": "Calling all developers, AI engineers, software architects, data scientists, DevOps professionals, and tech enthusiasts — **TechConnect** is your ultimate destination for career growth, project showcasing, and global peer networking in the tech ecosystem.\n\nHosted in a self-led, Slack-style virtual space, this **virtual tech networking event** invites you to connect, collaborate, and innovate with a diverse community of tech minds and hiring professionals from around the world. Whether you're looking for your next job, exploring startups, showcasing tools, or building a **peer coding accountability group**, **TechConnect** is where meaningful connections are made.\n\n🎥 **Watch the explainer video to see how it works:**\n👉 [https://www.youtube.com/watch?v=pgm2_MiHLDk](https://www.youtube.com/watch?v=pgm2_MiHLDk)\n\n**💬 What to Expect:**\nAt TechConnect, participants enjoy full access to group discussions and 1-on-1 video/text chats, with zero moderation — allowing spontaneous, genuine interaction across roles and regions.\n\nAttendees can engage across several thoughtfully organized channels:\n\n* **General** – A community-wide welcome zone for announcements, orientation, and casual conversation.\n* **Intros** – Share your tech background, favorite projects, or personal story. Find shared passions with others.\n* **Networking** – Showcase your startup, GitHub repo, app, or career goals. Build relationships and get feedback.\n* **Help Wanted** – Looking for a co-founder, DevOps hand, designer, or marketer? Post or respond here.\n* **Industry Room Tech** – Dive into the newest programming trends, frameworks, and stacks shaping the future.\n* **Projects & Collabs** – A showcase area tailored for **developer project sharing platforms**, where you can post demos, join builds, or spark new ideas.\n* **Coding Sprints & Accountability Pods** – For those building in public or looking for **peer coding accountability groups**, this space will keep your momentum strong.\n\n**📍 Where:**\nJoin virtually at:\n👉 [https://events.tao.ai/pod/analytics.club/te5gd5wngmz9](https://events.tao.ai/pod/analytics.club/te5gd5wngmz9)\n**🕓 When:**\nThe event takes place from **4:00 PM – 6:00 PM local time**, globally. Join to network, hire, learn, and collaborate.\n\n**👥 Who Should Attend:**\n\n* Developers and software engineers across all stacks\n* Data professionals, AI researchers, and machine learning engineers\n* Startup founders and tech entrepreneurs\n* Recruiters and employers hiring in the tech space\n* Students and learners aiming to connect and grow in the industry\n* Tech enthusiasts looking to explore career pivots, personal projects, or trends\n\n**🔧 Why You’ll Love It:**\n\n* Connect with professionals, recruiters, and peers in real time\n* Explore a live **tech job fair online** that’s open and interactive\n* Showcase your innovations, code, or startup demo\n* Get feedback or help on your latest dev build\n* Join project-based groups or accountability pods to stay productive\n* Make global tech connections via 1-on-1 **video and text chats**\n\n**❓ Have Questions or Suggestions?**\nWe’re here to help. Reach out at:\n👉 [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**🔖 Hashtags:**\n#TechConnect #VirtualTechNetworkingEvent #OnlineDeveloperCommunityMeetup #TechJobFairOnline #DeveloperProjectShowcasePlatform #PeerCodingAccountabilityGroup #AIJobs #DataScienceNetworking #SoftwareEngineerMeetup #GlobalTechEvent #TechCareersVirtual",
+    "start_at": "2026-10-07T16:00:00+02:00",
+    "url": "https://www.meetup.com/ac-mad/events/316370890/",
     "event_type": "ONLINE",
     "city": "",
     "address": "",
-    "organizer": "ODSC AI Madrid",
-    "attendees": 2,
+    "organizer": "Analytics.CLUB Madrid",
+    "attendees": 3,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -449,25 +486,6 @@
   {
     "source": "meetup",
     "source_slug": "Hackathon",
-    "source_id": "316185487",
-    "name": "Open Source Climate Accounting: What Exists, What's Missing+Where To Contribute",
-    "description": "Climate accounting increasingly depends on systems that were never designed to work together. Registries use different standards and data models. The same activity can appear across multiple systems. Measurement data may come from sensors, satellite observations, models, or manual reporting, often with limited provenance or no straightforward way for downstream users to verify how a claim was produced.\n\nThese are not only reporting problems but they are problems of interoperability, provenance, reconciliation and trust between independent systems.\n\nA substantial amount of open-source work already exists to address them, but much of it remains fragmented or little known outside the communities that built it. This session will map that landscape: what is already available, what is mature enough to use today, what remains experimental and where meaningful technical contributions are still needed.\n\nThe aim is not to argue that blockchain is the answer to climate accounting. It is to look practically at where distributed ledgers, verifiable data, open standards and other open-source infrastructure can solve specific problems or where they cannot.\n\nStructure - The session would begin with a short framing of the technical problems behind climate and impact accounting: provenance, reconciliation, double counting, interoperability and verification across organisational boundaries.\n\nFrom there, members of the LF Decentralized Trust community could walk through existing open-source projects and frameworks, explaining what they were built to solve, how mature they are and where they are being used today.\n\nThe final part would focus on the gaps: problems that remain unsolved, areas where maintainers would welcome contributions and practical ways for developers, researchers and organisations to get involved.\n\nThe IEEE ClimateChain Global Hackathon ([https://ieee-climatechain-hack.devpost.com/](https://ieee-climatechain-hack.devpost.com/)) would be introduced as one of those routes to contribution.\n\nThe goal is for participants to leave with a clearer picture of what already exists, which problems are genuinely open and where their time and technical skills could have the greatest value.\n\n**Zoom Meeting Link**: [https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09](https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09)\n\n**Please note: This event is being shared with our entire global community. If you're interested in this content but can't attend the event live, feel free to sign up and we will send you a link to the recording after the meetup is over.**",
-    "start_at": "2026-10-01T18:00:00+02:00",
-    "url": "https://www.meetup.com/lfdt-madrid/events/316185487/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "LFDT Madrid",
-    "attendees": 1,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Hackathon"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Hackathon",
     "source_id": "316524838",
     "name": "AnalyticsCLUB JobExpo Virtual Business, Data & Technology Job Expo",
     "description": "**What is FirstFridayFair Monthly Job Fair?**\n\nFirstFridayFair Monthly Job Fair is a **global virtual job fair and remote hiring event** hosted by the Analytics CLUB community. This **online job fair platform** brings together **professionals, employers, recruiters, and career coaches** for an immersive, **self-managed career networking experience**.\n\n🎥 **New to FirstFridayFair? Watch our explainer video here:** [https://youtu.be/NlLaCfOjosk](https://youtu.be/NlLaCfOjosk)\n\n**Where and When?**\n📍 Online at [https://events.tao.ai/pod/analytics.club/6j382kbpcnvd](https://events.tao.ai/pod/analytics.club/6j382kbpcnvd)\n🗓 First Friday of the month\n⏰ 11:00 AM - 2:00 PM (Local Time Zone)\n🌍 Open to participants globally\n\n🌍 **Who should join?**\n\n* **Job Seekers:** Looking for their next big break in **remote or local roles**.\n* **Employers & Recruiters:** Eager to find top talent across industries.\n* **Service Providers & Career Coaches:** Supporting professionals with tools, tips, and resources.\n* **Career Enthusiasts & Explorers:** Wishing to expand their network and knowledge.\n\n💬 **Where does the event take place?**\nThis interactive event is hosted on a **Slack-like community chat platform**, making it easy to **join from anywhere** and interact in **real-time group chats and 1-1 video or text conversations**.\n🚀 **What can you do at the event?**\nAttendees can explore several themed **Slack job fair channels** designed for **job networking, peer-to-peer support, and industry discussions**:\n\n* **General:** Intros, announcements, and casual networking.\n* **Networking:** Showcase your portfolio, startup, or job pitch.\n* **Intros:** Meet others, share your career path, and connect personally.\n* **Help Wanted:** Offer your skills or seek help from others.\n* **Industry Room Tech:** Discuss the latest in programming, software, and tech trends.\n\nAdditionally, attendees can engage in:\n\n* **1-1 video and text chats** with other attendees, recruiters, or service providers.\n* Visit the **virtual job openings board** to browse active listings and **connect with recruiters online**.\n* Participate in **live job fair chat**, where you can ask career-related questions, get **online resume tips**, and explore ways to stand out in the hiring process.\n\n❓ **Why join FirstFridayFair Monthly Job Fair?**\n\n* Access **global job networking events** right from your device.\n* Explore **virtual hiring events** designed for professionals seeking flexibility and growth.\n* Engage in meaningful conversations and discover **remote hiring opportunities**.\n* Take advantage of a **self-managed and open community platform**, allowing you to connect at your own pace.\n* Use the dedicated channels to **showcase your skills, ask questions, and build lasting professional connections**.\n\n**Have Questions or Suggestions?**\nWe’d love to help: [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)",
@@ -496,7 +514,7 @@
     "city": "Madrid",
     "address": "Calle Arrieta, número 12, 28013 Madrid",
     "organizer": "Madrid Singularity",
-    "attendees": 122,
+    "attendees": 123,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -553,9 +571,9 @@
     "city": "Madrid",
     "address": "C. del Marqués de Casa Riera, 4, Centro, 28014 Madrid, Spain",
     "organizer": "Cloudflare User Group España (IA, CyberSecurity & Edge Dev)",
-    "attendees": 57,
+    "attendees": 59,
     "max_tickets": 50,
-    "spots_left": -7,
+    "spots_left": -9,
     "found_in": [
       "Artificial Intelligence",
       "Hackathon"
@@ -650,11 +668,30 @@
     "city": "Madrid",
     "address": "Calle de Atocha, 123, Centro, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 129,
+    "attendees": 130,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
       "Startups"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Hackathon",
+    "source_id": "316677728",
+    "name": "Hack The Box Meetup",
+    "description": "🎓 **¡Apertura del curso HACKadémico en la Facultad de Informática de la Universidad Complutense de Madrid!**\nLo inauguraremos de la mano de **Hack The Box** y **Ciberseguridad BBVA**.\n📍 Comenzaremos a las **14:00 h en la Sala de Grados (1.ª planta)** y terminaremos la jornada en la cafetería.\n🔐 **No necesitas ningún nivel previo:** solo curiosidad y ganas de aprender.\n💻 Es recomendable traer portátil, pero **no estarás solo/a durante la actividad**. ¡Ven, participa y sumérgete en el mundo de la ciberseguridad con nosotros!",
+    "start_at": "2026-10-09T14:00:00+02:00",
+    "url": "https://www.meetup.com/hack-the-box-meetups-for-universities-fdist-ucm/events/316677728/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Calle del Prof. José García Santesmases, 9, Moncloa - Aravaca, 28040 Madrid, Spain",
+    "organizer": "Hack The Box Meetups for Universities: FDIst (UCM)",
+    "attendees": 5,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Hackathon"
     ]
   },
   {
@@ -669,9 +706,9 @@
     "city": "Madrid",
     "address": "C. Nikola Tesla, Puente de Vallecas, 28031 Madrid, Spain",
     "organizer": "Hack The Box Meetup: Madrid, ES",
-    "attendees": 4,
+    "attendees": 10,
     "max_tickets": 30,
-    "spots_left": 26,
+    "spots_left": 20,
     "found_in": [
       "Hackathon"
     ]

@@ -37,7 +37,7 @@
     "city": "Madrid",
     "address": "C. de Cronos, 63",
     "organizer": "Elixir Madrid",
-    "attendees": 14,
+    "attendees": 13,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -60,9 +60,9 @@
     "city": "Madrid",
     "address": "Av. Gran Vía del Este, 1, Vicálvaro, 28032 Madrid",
     "organizer": "AI Security Engineers - Madrid, ES",
-    "attendees": 23,
+    "attendees": 24,
     "max_tickets": 50,
-    "spots_left": 27,
+    "spots_left": 26,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -129,9 +129,9 @@
     "city": "Madrid",
     "address": "de la comunidad, C. de Bravo Murillo, 39, Local interior, Chamberí, 28015 Madrid, Spain",
     "organizer": "Madrid Machine Learning Meetup",
-    "attendees": 25,
+    "attendees": 24,
     "max_tickets": 60,
-    "spots_left": 35,
+    "spots_left": 36,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -165,7 +165,7 @@
   },
   {
     "source": "meetup",
-    "source_slug": "Machine Learning",
+    "source_slug": "Data Science",
     "source_id": "316653906",
     "name": "Consultas en milisegundos sobre tu data lake (sin copiar los datos)",
     "description": "⚠️ 🇪🇸 Esta sesión será en español / This session will be in Spanish\n\nCada vez más empresas guardan sus datos en un data lake: en vez de meterlos en una base de datos, dejan ficheros Parquet en S3 en formato Iceberg, que se encarga de decir qué ficheros forman la tabla en cada momento. Es barato, es abierto y lo lee cualquiera. Pero no es rápido: una consulta puede tardar segundos o minutos, y la respuesta habitual de la industria sigue siendo «cópialos a otro sitio».\n\nEn esta charla veremos que no hace falta. Apache Pinot (OLAP en Java, milisegundos, miles de consultas por segundo) usa internamente un formato similar a Iceberg: ficheros inmutables y un manifiesto que decide cuáles se… leen. Como su capa de almacenamiento es una API de plugins, podemos dejar los datos donde están y guardar solo los índices al lado: más de 500 consultas por segundo por debajo del segundo sobre 12.000 millones de filas, sin duplicar un byte. Hablaremos de cómo funciona todo esto y de las situaciones donde merece la pena y, también, en las que no lo hace.",
@@ -179,7 +179,6 @@
     "max_tickets": 40,
     "spots_left": 24,
     "found_in": [
-      "Machine Learning",
       "Data Science",
       "DevOps"
     ],
@@ -286,7 +285,7 @@
     "city": "Madrid",
     "address": "Calle de Sta Engracia, 53",
     "organizer": "Sysarmy Madrid",
-    "attendees": 1,
+    "attendees": 4,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -329,7 +328,7 @@
     "city": "Madrid",
     "address": "1 plaza del sol",
     "organizer": "Startup Oasis - Tech, Founders, nomads, devs, UI/UX, Product",
-    "attendees": 3,
+    "attendees": 4,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

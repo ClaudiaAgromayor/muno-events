@@ -49,9 +49,9 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 60,
-    "sold_out": true,
-    "waitlist_active": true,
+    "guest_count": 59,
+    "sold_out": false,
+    "waitlist_active": false,
     "registration_deadline": null,
     "lat": 40.45623344565284,
     "lng": -3.6870295799477137
@@ -134,7 +134,7 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 106,
+    "guest_count": 109,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,
@@ -294,7 +294,7 @@
     "address": "J&J's Books and Coffee",
     "organizer": "Madrid Tech Brunch",
     "is_free": false,
-    "cover_image": "https://images.lumacdn.com/uploads/9p/316feea8-2f38-4770-b038-468aaebee98d.png",
+    "cover_image": "https://images.lumacdn.com/uploads/77/b0ef0f6b-9ca6-4b7d-a3fa-a4f1f5a6a5e8.png",
     "found_in": [
       "madrid-tech-brunch"
     ],

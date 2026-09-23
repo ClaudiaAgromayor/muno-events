@@ -54,9 +54,9 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 60,
-      "sold_out": true,
-      "waitlist_active": true,
+      "guest_count": 59,
+      "sold_out": false,
+      "waitlist_active": false,
       "registration_deadline": null
     },
     "found_on_platforms": [
@@ -159,7 +159,7 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 106,
+      "guest_count": 109,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -430,7 +430,7 @@
     "lat": 40.4410744,
     "lng": -3.6187568,
     "extra": {
-      "attendees": 14,
+      "attendees": 13,
       "max_tickets": 0,
       "spots_left": null
     },
@@ -460,9 +460,9 @@
     "lat": null,
     "lng": null,
     "extra": {
-      "attendees": 23,
+      "attendees": 24,
       "max_tickets": 50,
-      "spots_left": 27
+      "spots_left": 26
     },
     "found_on_platforms": [
       "meetup"
@@ -550,9 +550,9 @@
     "lat": null,
     "lng": null,
     "extra": {
-      "attendees": 25,
+      "attendees": 24,
       "max_tickets": 60,
-      "spots_left": 35
+      "spots_left": 36
     },
     "found_on_platforms": [
       "meetup"
@@ -704,7 +704,7 @@
     "lat": 40.4325951,
     "lng": -3.6980319,
     "extra": {
-      "attendees": 1,
+      "attendees": 4,
       "max_tickets": 0,
       "spots_left": null
     },
@@ -764,7 +764,7 @@
     "lat": 43.36032,
     "lng": -5.8442344,
     "extra": {
-      "attendees": 3,
+      "attendees": 4,
       "max_tickets": 0,
       "spots_left": null
     },

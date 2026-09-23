@@ -159,7 +159,7 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 105,
+      "guest_count": 106,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -194,7 +194,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 74,
+      "guest_count": 73,
       "sold_out": true,
       "waitlist_active": true,
       "registration_deadline": null
@@ -229,7 +229,7 @@
         "Tech"
       ],
       "is_free": false,
-      "guest_count": 48,
+      "guest_count": 49,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": "2026-09-21T18:00:59.000Z"
@@ -416,36 +416,6 @@
     }
   },
   {
-    "id": "meetup:316153101",
-    "source": "meetup",
-    "source_id": "316153101",
-    "name": "BLACKBOXAI - Construyendo un adversario autónomo",
-    "description": "# 🚀 AiSec Eng Spain x Madrid DevOps x HackerDreams x Valkyrias\n\n📅 24 de septiembre\n🕖 18:00h (CEST) (Comenzaremos Puntal)\n📍 Lugar: Fundación Juan XXIII-Roncalli\n📍 Dirección: Av. Gran Vía del Este, 1, Vicálvaro, 28032 Madrid · Madrid, es\nⓂ️ Metro: Vicálvaro línea 9\n\n## 🧠\n\n### 🎯 BLACKBOXAI - Construyendo un adversario autónomo\n\n**Donde la Inteligencia Artificial toma el control de la consola.**\n**Deja que la IA piense. Tú observa el compromiso.**\nTHE TALK WILL BE IN SPANISH\nLA CHARLA SERÁ EN ESPAÑOL\n\n### 👨‍💻 Ponente\n\n**Kneda**\n\n### 🧾 Mini-biografía\n\nKneda es especialista en ingeniería social, intrusión física y ciberseguridad ofensiva, con una amplia trayectoria participando en comunidades y eventos de seguridad informática tanto nacionales como internacionales.\nMiembro activo de la comunidad HackerDreams y coorganizador de HackMadrid, participa habitualmente en la creación de desafíos Capture The Flag (CTF) para diferentes competiciones y eventos. Su experiencia diseñando entornos vulnerables para todos los niveles de conocimiento le ha permitido formar y desafiar a cientos de profesionales y entusiastas de la seguridad.\nEs una presencia habitual en conferencias, talleres y formaciones especializadas, donde comparte conocimientos sobre hacking ofensivo, ingeniería social, campañas de phishing, intrusión física y metodologías avanzadas de auditoría de seguridad.\nEn 2019 participó en las finales de DefCon junto a Rod Soto (HackMiami), obteniendo el tercer puesto en la categoría de Redes, uno de los mayores reconocimientos dentro de la comunidad internacional de hacking.\nActualmente trabaja desarrollando estrategias ofensivas y defensivas, combinando herramientas tradicionales de pentesting con nuevas capacidades impulsadas por Inteligencia Artificial para simular amenazas reales y mejorar la resiliencia de las organizaciones frente a ataques modernos.\n\n### 📚 Descripción del evento\n\n**SESIÓN 1 — El Salto Evolutivo: De Scripts a Conciencia Ofensiva (Gratuita)**\n¿Estamos presenciando el fin del pentesting tal como lo conocemos?\nDurante décadas, la auditoría de seguridad ha dependido de herramientas aisladas y de la intuición humana para encadenarlas. Pero el panorama ha cambiado. El pentesting tradicional es a menudo lento, predecible y difícil de escalar.\nEn esta primera sesión abriremos la \"caja negra\" para mostrar cómo se ha conseguido convertir un modelo de IA en un agente autónomo de auditoría ofensiva capaz de razonar, decidir y ejecutar acciones de forma independiente.\nNo hablaremos de teoría académica ni de automatización básica. Veremos el origen de una idea radical: el diseño de un prompt capaz de imitar la mentalidad de un atacante real. Descubriremos cómo una IA, operando desde una interfaz de línea de comandos, puede analizar, justificar y ejecutar cada acción mediante un modelo de decisión crítico.\n\n### 🔍 En esta sesión exploraremos:\n\n• La crisis del modelo tradicional: por qué la enumeración por inercia es el mayor enemigo del pentester moderno.\n• El despertar del agente: cómo se diseñó el \"cerebro\" capaz de operar en modalidad Black Box partiendo únicamente de una IP o dominio.\n• Razonamiento vs. ejecución: la capacidad de la IA para analizar vulnerabilidades, calcular riesgos y decidir cuándo actuar de forma sigilosa o agresiva.\n• El futuro de la ofensiva: las implicaciones de sistemas autónomos que no descansan y que priorizan el compromiso real por encima del volumen de hallazgos.\n\n### 🚨 Lo que verás en directo\n\n• Enumeración autónoma.\n• Toma de decisiones basada en contexto.\n• Priorización inteligente de vectores de ataque.\n• Cadena de pensamiento ofensiva aplicada a escenarios reales.\n• IA operando desde consola como un adversario estratégico.\nPrepárate para ver el inicio de una nueva generación de ciberseguridad.\nUna donde la IA deja de ser una herramienta para convertirse en un adversario capaz de pensar, decidir y actuar.\n\n## 🌐 Comunidad\n\n👉 Únete a Discord:\n[https://devseccon.io/discordcommunity](https://devseccon.io/discordcommunity)\n📢 Telegram:\n[https://t.me/hackerdreamsdcomm](https://t.me/hackerdreamsdcomm)\n[https://t.me/hackbcn](https://t.me/hackbcn)\n[https://t.me/+EQXjdGyWYPAotmLG](https://t.me/+EQXjdGyWYPAotmLG)\n[https://t.me/xopsnoticias](https://t.me/xopsnoticias)\n[https://t.me/xopshispano](https://t.me/xopshispano)\n🐦 X (Twitter):\n@JR_kneda\n@hunters_flag\n@hackerdreamsorg\n@hackbcn\n@xopsconference\n\n## 🤝 Colaboración y patrocinio\n\nSi tu empresa quiere colaborar o patrocinar futuros eventos:\n📩 Email: [info@hackerdreams.org](mailto:info@hackerdreams.org)\n📝 Formulario: [https://forms.gle/JbBwUGY26fAeLqJ78](https://forms.gle/JbBwUGY26fAeLqJ78)\n💸 Donaciones:\n[https://www.paypal.com/donate/?hosted_button_id=8UHV5UN47J3DY](https://www.paypal.com/donate/?hosted_button_id=8UHV5UN47J3DY)\n[https://bmc.link/hackerdreams](https://bmc.link/hackerdreams)",
-    "start_at": "2026-09-24T18:00:00+02:00",
-    "end_at": null,
-    "url": "https://www.meetup.com/aiseceng-spain/events/316153101/",
-    "city": "Madrid",
-    "address": "Av. Gran Vía del Este, 1, Vicálvaro, 28032 Madrid",
-    "organizer": "AI Security Engineers - Madrid, ES",
-    "lat": null,
-    "lng": null,
-    "extra": {
-      "attendees": 23,
-      "max_tickets": 50,
-      "spots_left": 27
-    },
-    "found_on_platforms": [
-      "meetup"
-    ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
-  },
-  {
     "id": "meetup:316470797",
     "source": "meetup",
     "source_id": "316470797",
@@ -463,6 +433,36 @@
       "attendees": 14,
       "max_tickets": 0,
       "spots_left": null
+    },
+    "found_on_platforms": [
+      "meetup"
+    ],
+    "duplicate_ids": [],
+    "enrichment": {
+      "nivel": "no_especificado",
+      "idioma": "es",
+      "comida_gratis": "no_especificado",
+      "se_graba": "no_especificado"
+    }
+  },
+  {
+    "id": "meetup:316153101",
+    "source": "meetup",
+    "source_id": "316153101",
+    "name": "BLACKBOXAI - Construyendo un adversario autónomo",
+    "description": "# 🚀 AiSec Eng Spain x Madrid DevOps x HackerDreams x Valkyrias\n\n📅 24 de septiembre\n🕖 18:00h (CEST) (Comenzaremos Puntal)\n📍 Lugar: Fundación Juan XXIII-Roncalli\n📍 Dirección: Av. Gran Vía del Este, 1, Vicálvaro, 28032 Madrid · Madrid, es\nⓂ️ Metro: Vicálvaro línea 9\n\n## 🧠\n\n### 🎯 BLACKBOXAI - Construyendo un adversario autónomo\n\n**Donde la Inteligencia Artificial toma el control de la consola.**\n**Deja que la IA piense. Tú observa el compromiso.**\nTHE TALK WILL BE IN SPANISH\nLA CHARLA SERÁ EN ESPAÑOL\n\n### 👨‍💻 Ponente\n\n**Kneda**\n\n### 🧾 Mini-biografía\n\nKneda es especialista en ingeniería social, intrusión física y ciberseguridad ofensiva, con una amplia trayectoria participando en comunidades y eventos de seguridad informática tanto nacionales como internacionales.\nMiembro activo de la comunidad HackerDreams y coorganizador de HackMadrid, participa habitualmente en la creación de desafíos Capture The Flag (CTF) para diferentes competiciones y eventos. Su experiencia diseñando entornos vulnerables para todos los niveles de conocimiento le ha permitido formar y desafiar a cientos de profesionales y entusiastas de la seguridad.\nEs una presencia habitual en conferencias, talleres y formaciones especializadas, donde comparte conocimientos sobre hacking ofensivo, ingeniería social, campañas de phishing, intrusión física y metodologías avanzadas de auditoría de seguridad.\nEn 2019 participó en las finales de DefCon junto a Rod Soto (HackMiami), obteniendo el tercer puesto en la categoría de Redes, uno de los mayores reconocimientos dentro de la comunidad internacional de hacking.\nActualmente trabaja desarrollando estrategias ofensivas y defensivas, combinando herramientas tradicionales de pentesting con nuevas capacidades impulsadas por Inteligencia Artificial para simular amenazas reales y mejorar la resiliencia de las organizaciones frente a ataques modernos.\n\n### 📚 Descripción del evento\n\n**SESIÓN 1 — El Salto Evolutivo: De Scripts a Conciencia Ofensiva (Gratuita)**\n¿Estamos presenciando el fin del pentesting tal como lo conocemos?\nDurante décadas, la auditoría de seguridad ha dependido de herramientas aisladas y de la intuición humana para encadenarlas. Pero el panorama ha cambiado. El pentesting tradicional es a menudo lento, predecible y difícil de escalar.\nEn esta primera sesión abriremos la \"caja negra\" para mostrar cómo se ha conseguido convertir un modelo de IA en un agente autónomo de auditoría ofensiva capaz de razonar, decidir y ejecutar acciones de forma independiente.\nNo hablaremos de teoría académica ni de automatización básica. Veremos el origen de una idea radical: el diseño de un prompt capaz de imitar la mentalidad de un atacante real. Descubriremos cómo una IA, operando desde una interfaz de línea de comandos, puede analizar, justificar y ejecutar cada acción mediante un modelo de decisión crítico.\n\n### 🔍 En esta sesión exploraremos:\n\n• La crisis del modelo tradicional: por qué la enumeración por inercia es el mayor enemigo del pentester moderno.\n• El despertar del agente: cómo se diseñó el \"cerebro\" capaz de operar en modalidad Black Box partiendo únicamente de una IP o dominio.\n• Razonamiento vs. ejecución: la capacidad de la IA para analizar vulnerabilidades, calcular riesgos y decidir cuándo actuar de forma sigilosa o agresiva.\n• El futuro de la ofensiva: las implicaciones de sistemas autónomos que no descansan y que priorizan el compromiso real por encima del volumen de hallazgos.\n\n### 🚨 Lo que verás en directo\n\n• Enumeración autónoma.\n• Toma de decisiones basada en contexto.\n• Priorización inteligente de vectores de ataque.\n• Cadena de pensamiento ofensiva aplicada a escenarios reales.\n• IA operando desde consola como un adversario estratégico.\nPrepárate para ver el inicio de una nueva generación de ciberseguridad.\nUna donde la IA deja de ser una herramienta para convertirse en un adversario capaz de pensar, decidir y actuar.\n\n## 🌐 Comunidad\n\n👉 Únete a Discord:\n[https://devseccon.io/discordcommunity](https://devseccon.io/discordcommunity)\n📢 Telegram:\n[https://t.me/hackerdreamsdcomm](https://t.me/hackerdreamsdcomm)\n[https://t.me/hackbcn](https://t.me/hackbcn)\n[https://t.me/+EQXjdGyWYPAotmLG](https://t.me/+EQXjdGyWYPAotmLG)\n[https://t.me/xopsnoticias](https://t.me/xopsnoticias)\n[https://t.me/xopshispano](https://t.me/xopshispano)\n🐦 X (Twitter):\n@JR_kneda\n@hunters_flag\n@hackerdreamsorg\n@hackbcn\n@xopsconference\n\n## 🤝 Colaboración y patrocinio\n\nSi tu empresa quiere colaborar o patrocinar futuros eventos:\n📩 Email: [info@hackerdreams.org](mailto:info@hackerdreams.org)\n📝 Formulario: [https://forms.gle/JbBwUGY26fAeLqJ78](https://forms.gle/JbBwUGY26fAeLqJ78)\n💸 Donaciones:\n[https://www.paypal.com/donate/?hosted_button_id=8UHV5UN47J3DY](https://www.paypal.com/donate/?hosted_button_id=8UHV5UN47J3DY)\n[https://bmc.link/hackerdreams](https://bmc.link/hackerdreams)",
+    "start_at": "2026-09-24T18:00:00+02:00",
+    "end_at": null,
+    "url": "https://www.meetup.com/aiseceng-spain/events/316153101/",
+    "city": "Madrid",
+    "address": "Av. Gran Vía del Este, 1, Vicálvaro, 28032 Madrid",
+    "organizer": "AI Security Engineers - Madrid, ES",
+    "lat": null,
+    "lng": null,
+    "extra": {
+      "attendees": 23,
+      "max_tickets": 50,
+      "spots_left": 27
     },
     "found_on_platforms": [
       "meetup"
@@ -550,9 +550,9 @@
     "lat": null,
     "lng": null,
     "extra": {
-      "attendees": 26,
+      "attendees": 25,
       "max_tickets": 60,
-      "spots_left": 34
+      "spots_left": 35
     },
     "found_on_platforms": [
       "meetup"
@@ -596,6 +596,38 @@
     }
   },
   {
+    "id": "meetup:316653906",
+    "source": "meetup",
+    "source_id": "316653906",
+    "name": "Consultas en milisegundos sobre tu data lake (sin copiar los datos)",
+    "description": "⚠️ 🇪🇸 Esta sesión será en español / This session will be in Spanish\n\nCada vez más empresas guardan sus datos en un data lake: en vez de meterlos en una base de datos, dejan ficheros Parquet en S3 en formato Iceberg, que se encarga de decir qué ficheros forman la tabla en cada momento. Es barato, es abierto y lo lee cualquiera. Pero no es rápido: una consulta puede tardar segundos o minutos, y la respuesta habitual de la industria sigue siendo «cópialos a otro sitio».\n\nEn esta charla veremos que no hace falta. Apache Pinot (OLAP en Java, milisegundos, miles de consultas por segundo) usa internamente un formato similar a Iceberg: ficheros inmutables y un manifiesto que decide cuáles se… leen. Como su capa de almacenamiento es una API de plugins, podemos dejar los datos donde están y guardar solo los índices al lado: más de 500 consultas por segundo por debajo del segundo sobre 12.000 millones de filas, sin duplicar un byte. Hablaremos de cómo funciona todo esto y de las situaciones donde merece la pena y, también, en las que no lo hace.",
+    "start_at": "2026-10-06T19:00:00+02:00",
+    "end_at": null,
+    "url": "https://www.meetup.com/madridjug/events/316653906/",
+    "city": "Madrid",
+    "address": "c/ Génova 17",
+    "organizer": "MadridJUG",
+    "lat": 40.9786078,
+    "lng": -5.6769936,
+    "extra": {
+      "attendees": 16,
+      "max_tickets": 40,
+      "spots_left": 24
+    },
+    "found_on_platforms": [
+      "meetup"
+    ],
+    "duplicate_ids": [
+      "meetup:316653904"
+    ],
+    "enrichment": {
+      "nivel": "intermedio",
+      "idioma": "es",
+      "comida_gratis": "no_especificado",
+      "se_graba": "no_especificado"
+    }
+  },
+  {
     "id": "meetup:316482252",
     "source": "meetup",
     "source_id": "316482252",
@@ -628,36 +660,6 @@
     }
   },
   {
-    "id": "meetup:316653904",
-    "source": "meetup",
-    "source_id": "316653904",
-    "name": "Consultas en milisegundos sobre tu data lake (sin copiar los datos)",
-    "description": "⚠️ 🇪🇸 Esta sesión será en español / This session will be in Spanish\n\nCada vez más empresas guardan sus datos en un data lake: en vez de meterlos en una base de datos, dejan ficheros Parquet en S3 en formato Iceberg, que se encarga de decir qué ficheros forman la tabla en cada momento. Es barato, es abierto y lo lee cualquiera. Pero no es rápido: una consulta puede tardar segundos o minutos, y la respuesta habitual de la industria sigue siendo «cópialos a otro sitio».\n\nEn esta charla veremos que no hace falta. Apache Pinot (OLAP en Java, milisegundos, miles de consultas por segundo) usa internamente un formato similar a Iceberg: ficheros inmutables y un manifiesto que decide cuáles se… leen. Como su capa de almacenamiento es una API de plugins, podemos dejar los datos donde están y guardar solo los índices al lado: más de 500 consultas por segundo por debajo del segundo sobre 12.000 millones de filas, sin duplicar un byte. Hablaremos de cómo funciona todo esto y de las situaciones donde merece la pena y, también, en las que no lo hace.",
-    "start_at": "2026-10-06T19:00:00+02:00",
-    "end_at": null,
-    "url": "https://www.meetup.com/madrid-gug/events/316653904/",
-    "city": "Madrid",
-    "address": "c/ Génova 17",
-    "organizer": "Madrid GUG",
-    "lat": 40.9786078,
-    "lng": -5.6769936,
-    "extra": {
-      "attendees": 6,
-      "max_tickets": 20,
-      "spots_left": 14
-    },
-    "found_on_platforms": [
-      "meetup"
-    ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
-  },
-  {
     "id": "meetup:316576718",
     "source": "meetup",
     "source_id": "316576718",
@@ -675,36 +677,6 @@
       "attendees": 2,
       "max_tickets": 1,
       "spots_left": -1
-    },
-    "found_on_platforms": [
-      "meetup"
-    ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "principiante",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
-  },
-  {
-    "id": "meetup:316446627",
-    "source": "meetup",
-    "source_id": "316446627",
-    "name": "APIs for the Modern PM",
-    "description": "**Introduction**\n\nAPIs are not just an engineering concern.\n\nThey shape the customer experience, determine how products connect with third parties, and create opportunities for new functionality, data sharing and monetisation.\n\nJoin ProductTank Madrid for a practical session designed for product managers and builders who want to work more confidently with APIs.\n\nWe will explore their foundations through real-world examples, use monitoring and observability to understand journeys spanning multiple services, and examine open-data use cases across banking and transport, third-party integrations, and how greater transparency into system behaviour can create value across B2B and B2C products.\n\nWe will also look at how APIs underpin MCPs, which are driving a major shift in how people and AI agents access tools, context and services, before finishing with Q&A and networking.\n\n**Timings**\n\n7:00 - Welcome\n7:10 - Talks begin\n8:00 - Q&A\n8:20 - Networking\n\n**Speakers**\n\n**Marisa Martin Serrano**\n*Engineering Manager / Solutions Architect at EcoVadis*\n\nMarisa is an engineering leader, solutions architect and technical product professional with 20 years of international experience across transport, finance, telecoms, consulting and other complex industries. She specialises in turning business needs into scalable technical architectures and aligning engineering delivery with product goals. She is also a public speaker and mentor with Step4ward and Tech SHEssions Madrid.\n**[LinkedIn](https://www.linkedin.com/in/marisa-martin-serrano/)**\n\n**Paloma Menéndez Palau**\n*Head of Product at Depay*\n\nPaloma is Head of Product at Depay and a computer science graduate specialising in scalable payment infrastructure. Her experience spans product strategy, REST API integrations, checkout and payment processing, and merchant onboarding at Depay, Yuno, AstroPay and Rappi. She works closely with engineering and commercial teams to improve reliability, reduce checkout friction and use data to increase merchant performance.\n**[LinkedIn](https://www.linkedin.com/in/paloma-men%C3%A9ndez-palau-5b4246109/)**\n\n**Who is this event for?**\n\n* Product managers who want real technical fluency, not a glossary\n* PMs working on platforms, integrations, payments or anything API-first\n* Designers and engineers curious about how product decisions shape technical contracts\n* Founders whose product is consumed by other developers\n* Anyone who has ever nodded along in an architecture review and then quietly googled it afterwards\n\nYou do not need to be technical to get value from this evening. You need to be curious.\n\n**About our sponsor — Cabify**\n\nHuge thanks to **Cabify** for hosting us and supporting Madrid's product community.\n\nFounded in Madrid in 2011, Cabify is an Iberoamerican multi-mobility platform connecting passengers, drivers and companies through technology.\n\nIt operates in more than 40 cities across six countries — Spain, Chile, Argentina, Peru, Colombia and Uruguay — serving over 50 million registered users and 40,000 companies, with around 1,000 employees across its offices in Spain and Latin America.\n\nCabify's stated ambition is to transform cities into better living spaces through mobility, built on a sustainable business model and a commitment to the UN Global Compact and the Sustainable Development Goals.\nCabify will kindly be providing drinks during the networking session.\n\n**Networking & Q&A**\n\nAfter the talks we'll open the floor for questions and debate, then stay on for drinks and conversation with Madrid's product community. ProductTank Madrid has sold out edition after edition this past year — come early, meet people, and stick around.\n\n**Join the event**\n\nPlease only RSVP if you intend to come — and if your plans change, update your RSVP so someone else can take your spot.",
-    "start_at": "2026-09-29T19:00:00+02:00",
-    "end_at": null,
-    "url": "https://www.meetup.com/producttank-madrid/events/316446627/",
-    "city": "Madrid",
-    "address": "Calle de Pradillo, 42, 28002 Madrid, Spain",
-    "organizer": "ProductTank Madrid",
-    "lat": 40.4490059,
-    "lng": -3.6708446,
-    "extra": {
-      "attendees": 90,
-      "max_tickets": 90,
-      "spots_left": 0
     },
     "found_on_platforms": [
       "meetup"
@@ -743,6 +715,36 @@
     "enrichment": {
       "nivel": "no_especificado",
       "idioma": "es",
+      "comida_gratis": "no_especificado",
+      "se_graba": "no_especificado"
+    }
+  },
+  {
+    "id": "meetup:316446627",
+    "source": "meetup",
+    "source_id": "316446627",
+    "name": "APIs for the Modern PM",
+    "description": "**Introduction**\n\nAPIs are not just an engineering concern.\n\nThey shape the customer experience, determine how products connect with third parties, and create opportunities for new functionality, data sharing and monetisation.\n\nJoin ProductTank Madrid for a practical session designed for product managers and builders who want to work more confidently with APIs.\n\nWe will explore their foundations through real-world examples, use monitoring and observability to understand journeys spanning multiple services, and examine open-data use cases across banking and transport, third-party integrations, and how greater transparency into system behaviour can create value across B2B and B2C products.\n\nWe will also look at how APIs underpin MCPs, which are driving a major shift in how people and AI agents access tools, context and services, before finishing with Q&A and networking.\n\n**Timings**\n\n7:00 - Welcome\n7:10 - Talks begin\n8:00 - Q&A\n8:20 - Networking\n\n**Speakers**\n\n**Marisa Martin Serrano**\n*Engineering Manager / Solutions Architect at EcoVadis*\n\nMarisa is an engineering leader, solutions architect and technical product professional with 20 years of international experience across transport, finance, telecoms, consulting and other complex industries. She specialises in turning business needs into scalable technical architectures and aligning engineering delivery with product goals. She is also a public speaker and mentor with Step4ward and Tech SHEssions Madrid.\n**[LinkedIn](https://www.linkedin.com/in/marisa-martin-serrano/)**\n\n**Paloma Menéndez Palau**\n*Head of Product at Depay*\n\nPaloma is Head of Product at Depay and a computer science graduate specialising in scalable payment infrastructure. Her experience spans product strategy, REST API integrations, checkout and payment processing, and merchant onboarding at Depay, Yuno, AstroPay and Rappi. She works closely with engineering and commercial teams to improve reliability, reduce checkout friction and use data to increase merchant performance.\n**[LinkedIn](https://www.linkedin.com/in/paloma-men%C3%A9ndez-palau-5b4246109/)**\n\n**Who is this event for?**\n\n* Product managers who want real technical fluency, not a glossary\n* PMs working on platforms, integrations, payments or anything API-first\n* Designers and engineers curious about how product decisions shape technical contracts\n* Founders whose product is consumed by other developers\n* Anyone who has ever nodded along in an architecture review and then quietly googled it afterwards\n\nYou do not need to be technical to get value from this evening. You need to be curious.\n\n**About our sponsor — Cabify**\n\nHuge thanks to **Cabify** for hosting us and supporting Madrid's product community.\n\nFounded in Madrid in 2011, Cabify is an Iberoamerican multi-mobility platform connecting passengers, drivers and companies through technology.\n\nIt operates in more than 40 cities across six countries — Spain, Chile, Argentina, Peru, Colombia and Uruguay — serving over 50 million registered users and 40,000 companies, with around 1,000 employees across its offices in Spain and Latin America.\n\nCabify's stated ambition is to transform cities into better living spaces through mobility, built on a sustainable business model and a commitment to the UN Global Compact and the Sustainable Development Goals.\nCabify will kindly be providing drinks during the networking session.\n\n**Networking & Q&A**\n\nAfter the talks we'll open the floor for questions and debate, then stay on for drinks and conversation with Madrid's product community. ProductTank Madrid has sold out edition after edition this past year — come early, meet people, and stick around.\n\n**Join the event**\n\nPlease only RSVP if you intend to come — and if your plans change, update your RSVP so someone else can take your spot.",
+    "start_at": "2026-09-29T19:00:00+02:00",
+    "end_at": null,
+    "url": "https://www.meetup.com/producttank-madrid/events/316446627/",
+    "city": "Madrid",
+    "address": "Calle de Pradillo, 42, 28002 Madrid, Spain",
+    "organizer": "ProductTank Madrid",
+    "lat": 40.4490059,
+    "lng": -3.6708446,
+    "extra": {
+      "attendees": 90,
+      "max_tickets": 90,
+      "spots_left": 0
+    },
+    "found_on_platforms": [
+      "meetup"
+    ],
+    "duplicate_ids": [],
+    "enrichment": {
+      "nivel": "principiante",
+      "idioma": "no_especificado",
       "comida_gratis": "no_especificado",
       "se_graba": "no_especificado"
     }
@@ -792,7 +794,7 @@
     "lat": 40.4166565,
     "lng": -3.6742879,
     "extra": {
-      "attendees": 35,
+      "attendees": 36,
       "max_tickets": 0,
       "spots_left": null
     },

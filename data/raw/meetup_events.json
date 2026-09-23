@@ -28,6 +28,29 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
+    "source_id": "316470797",
+    "name": "Cacharreando con Nerves, IA y Telegram | Pepe Márquez",
+    "description": "En esta charla Pepe Márquez (Doofinder) nos contará cómo cacharrear con Nerves para construir un pequeño dispositivo conectado usando Elixir.\n\nAdemás, integraremos IA y Telegram para convertirlo en un sistema interactivo capaz de recibir órdenes, responder y automatizar tareas desde el chat.\n\nTras la charla tendremos networking y pizza, cortesia de Doofinder.\n\n(Para el control de acceso es necesario apuntarse en el siguiente formulario: https://forms.gle/aRtSBtsQoaZzfyr1A)\n\n¡Nos vemos!\nHector",
+    "start_at": "2026-09-23T19:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-elixir/events/316470797/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "C. de Cronos, 63",
+    "organizer": "Elixir Madrid",
+    "attendees": 14,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "DevOps"
+    ],
+    "lat": 40.4410744,
+    "lng": -3.6187568
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
     "source_id": "316153101",
     "name": "BLACKBOXAI - Construyendo un adversario autónomo",
     "description": "# 🚀 AiSec Eng Spain x Madrid DevOps x HackerDreams x Valkyrias\n\n📅 24 de septiembre\n🕖 18:00h (CEST) (Comenzaremos Puntal)\n📍 Lugar: Fundación Juan XXIII-Roncalli\n📍 Dirección: Av. Gran Vía del Este, 1, Vicálvaro, 28032 Madrid · Madrid, es\nⓂ️ Metro: Vicálvaro línea 9\n\n## 🧠\n\n### 🎯 BLACKBOXAI - Construyendo un adversario autónomo\n\n**Donde la Inteligencia Artificial toma el control de la consola.**\n**Deja que la IA piense. Tú observa el compromiso.**\nTHE TALK WILL BE IN SPANISH\nLA CHARLA SERÁ EN ESPAÑOL\n\n### 👨‍💻 Ponente\n\n**Kneda**\n\n### 🧾 Mini-biografía\n\nKneda es especialista en ingeniería social, intrusión física y ciberseguridad ofensiva, con una amplia trayectoria participando en comunidades y eventos de seguridad informática tanto nacionales como internacionales.\nMiembro activo de la comunidad HackerDreams y coorganizador de HackMadrid, participa habitualmente en la creación de desafíos Capture The Flag (CTF) para diferentes competiciones y eventos. Su experiencia diseñando entornos vulnerables para todos los niveles de conocimiento le ha permitido formar y desafiar a cientos de profesionales y entusiastas de la seguridad.\nEs una presencia habitual en conferencias, talleres y formaciones especializadas, donde comparte conocimientos sobre hacking ofensivo, ingeniería social, campañas de phishing, intrusión física y metodologías avanzadas de auditoría de seguridad.\nEn 2019 participó en las finales de DefCon junto a Rod Soto (HackMiami), obteniendo el tercer puesto en la categoría de Redes, uno de los mayores reconocimientos dentro de la comunidad internacional de hacking.\nActualmente trabaja desarrollando estrategias ofensivas y defensivas, combinando herramientas tradicionales de pentesting con nuevas capacidades impulsadas por Inteligencia Artificial para simular amenazas reales y mejorar la resiliencia de las organizaciones frente a ataques modernos.\n\n### 📚 Descripción del evento\n\n**SESIÓN 1 — El Salto Evolutivo: De Scripts a Conciencia Ofensiva (Gratuita)**\n¿Estamos presenciando el fin del pentesting tal como lo conocemos?\nDurante décadas, la auditoría de seguridad ha dependido de herramientas aisladas y de la intuición humana para encadenarlas. Pero el panorama ha cambiado. El pentesting tradicional es a menudo lento, predecible y difícil de escalar.\nEn esta primera sesión abriremos la \"caja negra\" para mostrar cómo se ha conseguido convertir un modelo de IA en un agente autónomo de auditoría ofensiva capaz de razonar, decidir y ejecutar acciones de forma independiente.\nNo hablaremos de teoría académica ni de automatización básica. Veremos el origen de una idea radical: el diseño de un prompt capaz de imitar la mentalidad de un atacante real. Descubriremos cómo una IA, operando desde una interfaz de línea de comandos, puede analizar, justificar y ejecutar cada acción mediante un modelo de decisión crítico.\n\n### 🔍 En esta sesión exploraremos:\n\n• La crisis del modelo tradicional: por qué la enumeración por inercia es el mayor enemigo del pentester moderno.\n• El despertar del agente: cómo se diseñó el \"cerebro\" capaz de operar en modalidad Black Box partiendo únicamente de una IP o dominio.\n• Razonamiento vs. ejecución: la capacidad de la IA para analizar vulnerabilidades, calcular riesgos y decidir cuándo actuar de forma sigilosa o agresiva.\n• El futuro de la ofensiva: las implicaciones de sistemas autónomos que no descansan y que priorizan el compromiso real por encima del volumen de hallazgos.\n\n### 🚨 Lo que verás en directo\n\n• Enumeración autónoma.\n• Toma de decisiones basada en contexto.\n• Priorización inteligente de vectores de ataque.\n• Cadena de pensamiento ofensiva aplicada a escenarios reales.\n• IA operando desde consola como un adversario estratégico.\nPrepárate para ver el inicio de una nueva generación de ciberseguridad.\nUna donde la IA deja de ser una herramienta para convertirse en un adversario capaz de pensar, decidir y actuar.\n\n## 🌐 Comunidad\n\n👉 Únete a Discord:\n[https://devseccon.io/discordcommunity](https://devseccon.io/discordcommunity)\n📢 Telegram:\n[https://t.me/hackerdreamsdcomm](https://t.me/hackerdreamsdcomm)\n[https://t.me/hackbcn](https://t.me/hackbcn)\n[https://t.me/+EQXjdGyWYPAotmLG](https://t.me/+EQXjdGyWYPAotmLG)\n[https://t.me/xopsnoticias](https://t.me/xopsnoticias)\n[https://t.me/xopshispano](https://t.me/xopshispano)\n🐦 X (Twitter):\n@JR_kneda\n@hunters_flag\n@hackerdreamsorg\n@hackbcn\n@xopsconference\n\n## 🤝 Colaboración y patrocinio\n\nSi tu empresa quiere colaborar o patrocinar futuros eventos:\n📩 Email: [info@hackerdreams.org](mailto:info@hackerdreams.org)\n📝 Formulario: [https://forms.gle/JbBwUGY26fAeLqJ78](https://forms.gle/JbBwUGY26fAeLqJ78)\n💸 Donaciones:\n[https://www.paypal.com/donate/?hosted_button_id=8UHV5UN47J3DY](https://www.paypal.com/donate/?hosted_button_id=8UHV5UN47J3DY)\n[https://bmc.link/hackerdreams](https://bmc.link/hackerdreams)",
@@ -48,29 +71,6 @@
     ],
     "lat": null,
     "lng": null
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
-    "source_id": "316470797",
-    "name": "Cacharreando con Nerves, IA y Telegram | Pepe Márquez",
-    "description": "En esta charla Pepe Márquez (Doofinder) nos contará cómo cacharrear con Nerves para construir un pequeño dispositivo conectado usando Elixir.\n\nAdemás, integraremos IA y Telegram para convertirlo en un sistema interactivo capaz de recibir órdenes, responder y automatizar tareas desde el chat.\n\nTras la charla tendremos networking y pizza, cortesia de Doofinder.\n\n(Para el control de acceso es necesario apuntarse en el siguiente formulario: https://forms.gle/aRtSBtsQoaZzfyr1A)\n\n¡Nos vemos!\nHector",
-    "start_at": "2026-09-23T19:00:00+02:00",
-    "url": "https://www.meetup.com/madrid-elixir/events/316470797/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "C. de Cronos, 63",
-    "organizer": "Elixir Madrid",
-    "attendees": 14,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "DevOps"
-    ],
-    "lat": 40.4410744,
-    "lng": -3.6187568
   },
   {
     "source": "meetup",
@@ -129,9 +129,9 @@
     "city": "Madrid",
     "address": "de la comunidad, C. de Bravo Murillo, 39, Local interior, Chamberí, 28015 Madrid, Spain",
     "organizer": "Madrid Machine Learning Meetup",
-    "attendees": 26,
+    "attendees": 25,
     "max_tickets": 60,
-    "spots_left": 34,
+    "spots_left": 35,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -157,12 +157,34 @@
     "spots_left": 0,
     "found_in": [
       "Artificial Intelligence",
-      "Machine Learning",
       "Startups",
       "Hackathon"
     ],
     "lat": 38.9879607,
     "lng": -1.845739
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Machine Learning",
+    "source_id": "316653906",
+    "name": "Consultas en milisegundos sobre tu data lake (sin copiar los datos)",
+    "description": "⚠️ 🇪🇸 Esta sesión será en español / This session will be in Spanish\n\nCada vez más empresas guardan sus datos en un data lake: en vez de meterlos en una base de datos, dejan ficheros Parquet en S3 en formato Iceberg, que se encarga de decir qué ficheros forman la tabla en cada momento. Es barato, es abierto y lo lee cualquiera. Pero no es rápido: una consulta puede tardar segundos o minutos, y la respuesta habitual de la industria sigue siendo «cópialos a otro sitio».\n\nEn esta charla veremos que no hace falta. Apache Pinot (OLAP en Java, milisegundos, miles de consultas por segundo) usa internamente un formato similar a Iceberg: ficheros inmutables y un manifiesto que decide cuáles se… leen. Como su capa de almacenamiento es una API de plugins, podemos dejar los datos donde están y guardar solo los índices al lado: más de 500 consultas por segundo por debajo del segundo sobre 12.000 millones de filas, sin duplicar un byte. Hablaremos de cómo funciona todo esto y de las situaciones donde merece la pena y, también, en las que no lo hace.",
+    "start_at": "2026-10-06T19:00:00+02:00",
+    "url": "https://www.meetup.com/madridjug/events/316653906/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "c/ Génova 17",
+    "organizer": "MadridJUG",
+    "attendees": 16,
+    "max_tickets": 40,
+    "spots_left": 24,
+    "found_in": [
+      "Machine Learning",
+      "Data Science",
+      "DevOps"
+    ],
+    "lat": 40.9786078,
+    "lng": -5.6769936
   },
   {
     "source": "meetup",
@@ -181,7 +203,8 @@
     "spots_left": null,
     "found_in": [
       "Data Science",
-      "DevOps"
+      "DevOps",
+      "Startups"
     ],
     "lat": 40.4485287,
     "lng": -3.6940143
@@ -202,8 +225,7 @@
     "max_tickets": 20,
     "spots_left": 14,
     "found_in": [
-      "Data Science",
-      "DevOps"
+      "Data Science"
     ],
     "lat": 40.9786078,
     "lng": -5.6769936
@@ -243,7 +265,7 @@
     "city": "Madrid",
     "address": "Plaza de Manuel Gómez-Moreno, 2, Tetuán, 28020",
     "organizer": "Madrid DevOps",
-    "attendees": 29,
+    "attendees": 28,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -251,6 +273,27 @@
     ],
     "lat": 40.4485287,
     "lng": -3.6940143
+  },
+  {
+    "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "316666823",
+    "name": "#AdminBirras Madrid - Octubre",
+    "description": "Tengas el rol que tengas: SysAdmin, Developer, DBA, InfoSec, Networking, UI/UX, o cualquier otra profesión relacionada con sistemas, o incluso si simplemente te interesa este mundillo, las #AdminBirras son tu sitio.\n\nDespués de varios años reuniéndonos en otras ciudades (Galicia, Barcelona y varias más en Argentina), ahora abrimos un nuevo capítulo en Madrid.\n\nComenzamos a las 19:00. La primera ronda la invitamos nosotros y el primero en llegar se lleva una camiseta de NERD :)\n\nCuando llegues, pregunta por el afterwork de sysarmy (habitualmente estamos en la planta alta!).\n\n¿Qué es sysarmy?\n\nSomos una comunidad de profesionales de sistemas que, desde hace más de 12 años, fomenta el contacto, la colaboración y el intercambio de conocimiento de forma informal.\n\n¿Qué hacemos?\n\nAdemás de ser la comunidad tecnológica más grande de Latinoamérica (y en castellano!), organizamos [nerdear.la](https://nerdear.la), uno de los eventos de tecnología más destacados de sudamérica y que recientemente llegó a Madrid.\n\nTambién tenemos un podcast: [“No hay backup”](https://www.youtube.com/playlist?list=PLPXjriojfnRWZD-qMcTxQGZtOS_Uj0Amg).\n\nPuedes conocer más sobre nosotros en [sysarmy.com](https://sysarmy.com)",
+    "start_at": "2026-10-01T19:00:00+02:00",
+    "url": "https://www.meetup.com/sysarmy-madrid/events/316666823/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Calle de Sta Engracia, 53",
+    "organizer": "Sysarmy Madrid",
+    "attendees": 1,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "DevOps"
+    ],
+    "lat": 40.4325951,
+    "lng": -3.6980319
   },
   {
     "source": "meetup",
@@ -273,27 +316,6 @@
     ],
     "lat": 40.4490059,
     "lng": -3.6708446
-  },
-  {
-    "source": "meetup",
-    "source_slug": "DevOps",
-    "source_id": "316666823",
-    "name": "#AdminBirras Madrid - Octubre",
-    "description": "Tengas el rol que tengas: SysAdmin, Developer, DBA, InfoSec, Networking, UI/UX, o cualquier otra profesión relacionada con sistemas, o incluso si simplemente te interesa este mundillo, las #AdminBirras son tu sitio.\n\nDespués de varios años reuniéndonos en otras ciudades (Galicia, Barcelona y varias más en Argentina), ahora abrimos un nuevo capítulo en Madrid.\n\nComenzamos a las 19:00. La primera ronda la invitamos nosotros y el primero en llegar se lleva una camiseta de NERD :)\n\nCuando llegues, pregunta por el afterwork de sysarmy (habitualmente estamos en la planta alta!).\n\n¿Qué es sysarmy?\n\nSomos una comunidad de profesionales de sistemas que, desde hace más de 12 años, fomenta el contacto, la colaboración y el intercambio de conocimiento de forma informal.\n\n¿Qué hacemos?\n\nAdemás de ser la comunidad tecnológica más grande de Latinoamérica (y en castellano!), organizamos [nerdear.la](https://nerdear.la), uno de los eventos de tecnología más destacados de sudamérica y que recientemente llegó a Madrid.\n\nTambién tenemos un podcast: [“No hay backup”](https://www.youtube.com/playlist?list=PLPXjriojfnRWZD-qMcTxQGZtOS_Uj0Amg).\n\nPuedes conocer más sobre nosotros en [sysarmy.com](https://sysarmy.com)",
-    "start_at": "2026-10-01T19:00:00+02:00",
-    "url": "https://www.meetup.com/sysarmy-madrid/events/316666823/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "Calle de Sta Engracia, 53",
-    "organizer": "Sysarmy Madrid",
-    "attendees": 1,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "DevOps"
-    ],
-    "lat": 40.4325951,
-    "lng": -3.6980319
   },
   {
     "source": "meetup",
@@ -328,7 +350,7 @@
     "city": "Madrid",
     "address": "C/ del Alcalde Sainz de Baranda, 32, Retiro, 28009 Madrid",
     "organizer": "Startup Oasis - Tech, Founders, nomads, devs, UI/UX, Product",
-    "attendees": 35,
+    "attendees": 36,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

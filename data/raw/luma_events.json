@@ -134,7 +134,7 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 105,
+    "guest_count": 106,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,
@@ -162,7 +162,7 @@
     "categories": [
       "AI"
     ],
-    "guest_count": 74,
+    "guest_count": 73,
     "sold_out": true,
     "waitlist_active": true,
     "registration_deadline": null,
@@ -190,7 +190,7 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 48,
+    "guest_count": 49,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": "2026-09-21T18:00:59.000Z",

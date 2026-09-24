@@ -188,7 +188,7 @@
     "city": "",
     "address": "",
     "organizer": "AI Data Science @Datamecum",
-    "attendees": 1,
+    "attendees": 2,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -344,7 +344,7 @@
     "city": "",
     "address": "",
     "organizer": "AI Data Science @Datamecum",
-    "attendees": 1,
+    "attendees": 2,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -515,7 +515,7 @@
     "city": "Madrid",
     "address": "Calle Arrieta, número 12, 28013 Madrid",
     "organizer": "Madrid Singularity",
-    "attendees": 123,
+    "attendees": 124,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -572,9 +572,9 @@
     "city": "Madrid",
     "address": "C. del Marqués de Casa Riera, 4, Centro, 28014 Madrid, Spain",
     "organizer": "Cloudflare User Group España (IA, CyberSecurity & Edge Dev)",
-    "attendees": 59,
+    "attendees": 58,
     "max_tickets": 50,
-    "spots_left": -9,
+    "spots_left": -8,
     "found_in": [
       "Artificial Intelligence",
       "DevOps",
@@ -670,7 +670,7 @@
     "city": "Madrid",
     "address": "Calle de Atocha, 123, Centro, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 135,
+    "attendees": 139,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -689,9 +689,9 @@
     "city": "Madrid",
     "address": "Calle del Prof. José García Santesmases, 9, Moncloa - Aravaca, 28040 Madrid, Spain",
     "organizer": "Hack The Box Meetups for Universities: FDIst (UCM)",
-    "attendees": 5,
+    "attendees": 8,
     "max_tickets": 70,
-    "spots_left": 65,
+    "spots_left": 62,
     "found_in": [
       "Hackathon"
     ]
@@ -708,9 +708,9 @@
     "city": "Madrid",
     "address": "C. Nikola Tesla, Puente de Vallecas, 28031 Madrid, Spain",
     "organizer": "Hack The Box Meetup: Madrid, ES",
-    "attendees": 12,
+    "attendees": 13,
     "max_tickets": 30,
-    "spots_left": 18,
+    "spots_left": 17,
     "found_in": [
       "Hackathon"
     ]

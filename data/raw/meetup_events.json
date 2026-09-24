@@ -51,21 +51,20 @@
     "source_slug": "Artificial Intelligence",
     "source_id": "316153101",
     "name": "BLACKBOXAI - Construyendo un adversario autónomo",
-    "description": "# 🚀 AiSec Eng Spain x Madrid DevOps x HackerDreams x Valkyrias\n\n📅 24 de septiembre\n🕖 18:00h (CEST) (Comenzaremos Puntal)\n📍 Lugar: Fundación Juan XXIII-Roncalli\n📍 Dirección: Av. Gran Vía del Este, 1, Vicálvaro, 28032 Madrid · Madrid, es\nⓂ️ Metro: Vicálvaro línea 9\n\n## 🧠\n\n### 🎯 BLACKBOXAI - Construyendo un adversario autónomo\n\n**Donde la Inteligencia Artificial toma el control de la consola.**\n**Deja que la IA piense. Tú observa el compromiso.**\nTHE TALK WILL BE IN SPANISH\nLA CHARLA SERÁ EN ESPAÑOL\n\n### 👨‍💻 Ponente\n\n**Kneda**\n\n### 🧾 Mini-biografía\n\nKneda es especialista en ingeniería social, intrusión física y ciberseguridad ofensiva, con una amplia trayectoria participando en comunidades y eventos de seguridad informática tanto nacionales como internacionales.\nMiembro activo de la comunidad HackerDreams y coorganizador de HackMadrid, participa habitualmente en la creación de desafíos Capture The Flag (CTF) para diferentes competiciones y eventos. Su experiencia diseñando entornos vulnerables para todos los niveles de conocimiento le ha permitido formar y desafiar a cientos de profesionales y entusiastas de la seguridad.\nEs una presencia habitual en conferencias, talleres y formaciones especializadas, donde comparte conocimientos sobre hacking ofensivo, ingeniería social, campañas de phishing, intrusión física y metodologías avanzadas de auditoría de seguridad.\nEn 2019 participó en las finales de DefCon junto a Rod Soto (HackMiami), obteniendo el tercer puesto en la categoría de Redes, uno de los mayores reconocimientos dentro de la comunidad internacional de hacking.\nActualmente trabaja desarrollando estrategias ofensivas y defensivas, combinando herramientas tradicionales de pentesting con nuevas capacidades impulsadas por Inteligencia Artificial para simular amenazas reales y mejorar la resiliencia de las organizaciones frente a ataques modernos.\n\n### 📚 Descripción del evento\n\n**SESIÓN 1 — El Salto Evolutivo: De Scripts a Conciencia Ofensiva (Gratuita)**\n¿Estamos presenciando el fin del pentesting tal como lo conocemos?\nDurante décadas, la auditoría de seguridad ha dependido de herramientas aisladas y de la intuición humana para encadenarlas. Pero el panorama ha cambiado. El pentesting tradicional es a menudo lento, predecible y difícil de escalar.\nEn esta primera sesión abriremos la \"caja negra\" para mostrar cómo se ha conseguido convertir un modelo de IA en un agente autónomo de auditoría ofensiva capaz de razonar, decidir y ejecutar acciones de forma independiente.\nNo hablaremos de teoría académica ni de automatización básica. Veremos el origen de una idea radical: el diseño de un prompt capaz de imitar la mentalidad de un atacante real. Descubriremos cómo una IA, operando desde una interfaz de línea de comandos, puede analizar, justificar y ejecutar cada acción mediante un modelo de decisión crítico.\n\n### 🔍 En esta sesión exploraremos:\n\n• La crisis del modelo tradicional: por qué la enumeración por inercia es el mayor enemigo del pentester moderno.\n• El despertar del agente: cómo se diseñó el \"cerebro\" capaz de operar en modalidad Black Box partiendo únicamente de una IP o dominio.\n• Razonamiento vs. ejecución: la capacidad de la IA para analizar vulnerabilidades, calcular riesgos y decidir cuándo actuar de forma sigilosa o agresiva.\n• El futuro de la ofensiva: las implicaciones de sistemas autónomos que no descansan y que priorizan el compromiso real por encima del volumen de hallazgos.\n\n### 🚨 Lo que verás en directo\n\n• Enumeración autónoma.\n• Toma de decisiones basada en contexto.\n• Priorización inteligente de vectores de ataque.\n• Cadena de pensamiento ofensiva aplicada a escenarios reales.\n• IA operando desde consola como un adversario estratégico.\nPrepárate para ver el inicio de una nueva generación de ciberseguridad.\nUna donde la IA deja de ser una herramienta para convertirse en un adversario capaz de pensar, decidir y actuar.\n\n## 🌐 Comunidad\n\n👉 Únete a Discord:\n[https://devseccon.io/discordcommunity](https://devseccon.io/discordcommunity)\n📢 Telegram:\n[https://t.me/hackerdreamsdcomm](https://t.me/hackerdreamsdcomm)\n[https://t.me/hackbcn](https://t.me/hackbcn)\n[https://t.me/+EQXjdGyWYPAotmLG](https://t.me/+EQXjdGyWYPAotmLG)\n[https://t.me/xopsnoticias](https://t.me/xopsnoticias)\n[https://t.me/xopshispano](https://t.me/xopshispano)\n🐦 X (Twitter):\n@JR_kneda\n@hunters_flag\n@hackerdreamsorg\n@hackbcn\n@xopsconference\n\n## 🤝 Colaboración y patrocinio\n\nSi tu empresa quiere colaborar o patrocinar futuros eventos:\n📩 Email: [info@hackerdreams.org](mailto:info@hackerdreams.org)\n📝 Formulario: [https://forms.gle/JbBwUGY26fAeLqJ78](https://forms.gle/JbBwUGY26fAeLqJ78)\n💸 Donaciones:\n[https://www.paypal.com/donate/?hosted_button_id=8UHV5UN47J3DY](https://www.paypal.com/donate/?hosted_button_id=8UHV5UN47J3DY)\n[https://bmc.link/hackerdreams](https://bmc.link/hackerdreams)",
+    "description": "# 🚀 AiSec Eng Spain x Madrid DevOps x HackerDreams x Valkyrias\n\n📅 24 de septiembre\n🕖 18:00h (CEST) (Comenzaremos Puntal)\n📍 Lugar: Fundación Juan XXIII-Roncalli\n📍 Dirección: Av. Gran Vía del Este, 1, Vicálvaro, 28032 Madrid · Madrid, es\nⓂ️ Metro: Puerta de Arganda línea 9\n🚇 Renfe: Vicálvaro\n\n## 🧠\n\n### 🎯 BLACKBOXAI - Construyendo un adversario autónomo\n\n**Donde la Inteligencia Artificial toma el control de la consola.**\n**Deja que la IA piense. Tú observa el compromiso.**\nTHE TALK WILL BE IN SPANISH\nLA CHARLA SERÁ EN ESPAÑOL\n\n### 👨‍💻 Ponente\n\n**Kneda**\n\n### 🧾 Mini-biografía\n\nKneda es especialista en ingeniería social, intrusión física y ciberseguridad ofensiva, con una amplia trayectoria participando en comunidades y eventos de seguridad informática tanto nacionales como internacionales.\nMiembro activo de la comunidad HackerDreams y coorganizador de HackMadrid, participa habitualmente en la creación de desafíos Capture The Flag (CTF) para diferentes competiciones y eventos. Su experiencia diseñando entornos vulnerables para todos los niveles de conocimiento le ha permitido formar y desafiar a cientos de profesionales y entusiastas de la seguridad.\nEs una presencia habitual en conferencias, talleres y formaciones especializadas, donde comparte conocimientos sobre hacking ofensivo, ingeniería social, campañas de phishing, intrusión física y metodologías avanzadas de auditoría de seguridad.\nEn 2019 participó en las finales de DefCon junto a Rod Soto (HackMiami), obteniendo el tercer puesto en la categoría de Redes, uno de los mayores reconocimientos dentro de la comunidad internacional de hacking.\nActualmente trabaja desarrollando estrategias ofensivas y defensivas, combinando herramientas tradicionales de pentesting con nuevas capacidades impulsadas por Inteligencia Artificial para simular amenazas reales y mejorar la resiliencia de las organizaciones frente a ataques modernos.\n\n### 📚 Descripción del evento\n\n**SESIÓN 1 — El Salto Evolutivo: De Scripts a Conciencia Ofensiva (Gratuita)**\n¿Estamos presenciando el fin del pentesting tal como lo conocemos?\nDurante décadas, la auditoría de seguridad ha dependido de herramientas aisladas y de la intuición humana para encadenarlas. Pero el panorama ha cambiado. El pentesting tradicional es a menudo lento, predecible y difícil de escalar.\nEn esta primera sesión abriremos la \"caja negra\" para mostrar cómo se ha conseguido convertir un modelo de IA en un agente autónomo de auditoría ofensiva capaz de razonar, decidir y ejecutar acciones de forma independiente.\nNo hablaremos de teoría académica ni de automatización básica. Veremos el origen de una idea radical: el diseño de un prompt capaz de imitar la mentalidad de un atacante real. Descubriremos cómo una IA, operando desde una interfaz de línea de comandos, puede analizar, justificar y ejecutar cada acción mediante un modelo de decisión crítico.\n\n### 🔍 En esta sesión exploraremos:\n\n• La crisis del modelo tradicional: por qué la enumeración por inercia es el mayor enemigo del pentester moderno.\n• El despertar del agente: cómo se diseñó el \"cerebro\" capaz de operar en modalidad Black Box partiendo únicamente de una IP o dominio.\n• Razonamiento vs. ejecución: la capacidad de la IA para analizar vulnerabilidades, calcular riesgos y decidir cuándo actuar de forma sigilosa o agresiva.\n• El futuro de la ofensiva: las implicaciones de sistemas autónomos que no descansan y que priorizan el compromiso real por encima del volumen de hallazgos.\n\n### 🚨 Lo que verás en directo\n\n• Enumeración autónoma.\n• Toma de decisiones basada en contexto.\n• Priorización inteligente de vectores de ataque.\n• Cadena de pensamiento ofensiva aplicada a escenarios reales.\n• IA operando desde consola como un adversario estratégico.\nPrepárate para ver el inicio de una nueva generación de ciberseguridad.\nUna donde la IA deja de ser una herramienta para convertirse en un adversario capaz de pensar, decidir y actuar.\n\n## 🌐 Comunidad\n\n👉 Únete a Discord:\n[https://devseccon.io/discordcommunity](https://devseccon.io/discordcommunity)\n📢 Telegram:\n[https://t.me/hackerdreamsdcomm](https://t.me/hackerdreamsdcomm)\n[https://t.me/+EQXjdGyWYPAotmLG](https://t.me/+EQXjdGyWYPAotmLG)\n[https://t.me/xopsnoticias](https://t.me/xopsnoticias)\n[https://t.me/xopshispano](https://t.me/xopshispano)\n🐦 X (Twitter):\n@JR_kneda\n@hackerdreamsorg\n@xopsconference\n\n## 🤝 Colaboración y patrocinio\n\nSi tu empresa quiere colaborar o patrocinar futuros eventos:\n📩 Email: [info@hackerdreams.org](mailto:info@hackerdreams.org)\n📝 Formulario: [https://forms.gle/JbBwUGY26fAeLqJ78](https://forms.gle/JbBwUGY26fAeLqJ78)\n💸 Donaciones:\n[Donaciones](https://buy.stripe.com/28EdRa5ID7DR0hv5NsgjC01)",
     "start_at": "2026-09-24T18:00:00+02:00",
     "url": "https://www.meetup.com/aiseceng-spain/events/316153101/",
     "event_type": "PHYSICAL",
     "city": "Madrid",
     "address": "Av. Gran Vía del Este, 1, Vicálvaro, 28032 Madrid",
     "organizer": "AI Security Engineers - Madrid, ES",
-    "attendees": 27,
+    "attendees": 30,
     "max_tickets": 50,
-    "spots_left": 23,
+    "spots_left": 20,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
-      "DevOps",
-      "Hackathon"
+      "DevOps"
     ],
     "lat": null,
     "lng": null
@@ -127,9 +126,9 @@
     "city": "Madrid",
     "address": "de la comunidad, C. de Bravo Murillo, 39, Local interior, Chamberí, 28015 Madrid, Spain",
     "organizer": "Madrid Machine Learning Meetup",
-    "attendees": 24,
+    "attendees": 25,
     "max_tickets": 60,
-    "spots_left": 36,
+    "spots_left": 35,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -150,9 +149,9 @@
     "city": "Madrid",
     "address": "Calle Jorge Juan, 17",
     "organizer": "The Vibe Coding Club Madrid",
-    "attendees": 20,
+    "attendees": 33,
     "max_tickets": 20,
-    "spots_left": 0,
+    "spots_left": -13,
     "found_in": [
       "Artificial Intelligence",
       "Startups",
@@ -173,9 +172,9 @@
     "city": "Madrid",
     "address": "c/ Génova 17",
     "organizer": "MadridJUG",
-    "attendees": 18,
+    "attendees": 19,
     "max_tickets": 40,
-    "spots_left": 22,
+    "spots_left": 21,
     "found_in": [
       "Machine Learning",
       "Data Science",
@@ -369,7 +368,7 @@
     "city": "Madrid",
     "address": "C. de Belén, 7",
     "organizer": "Out in Tech - Madrid",
-    "attendees": 14,
+    "attendees": 15,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -377,5 +376,26 @@
     ],
     "lat": 40.4242298,
     "lng": -3.6963366
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Hackathon",
+    "source_id": "316468534",
+    "name": "Visita guiada a “Revolución Cuántica”",
+    "description": "¡Hola a todos, comunidad de Quantum Madrid! 👋\n\nEsta vez cambiamos las charlas y los auditorios por una experiencia un poco diferente: nos vamos de visita a **Revolución Cuántica**, la exposición de Espacio Fundación Telefónica dedicada a explorar los fundamentos de la física cuántica y las tecnologías que están surgiendo a partir de ella. ⚛️\n\n**🔬 La visita:**\nDesde Quantum Madrid hemos organizado una **visita guiada exclusiva para la comunidad** a la exposición *Revolución Cuántica*.\n\nLa muestra propone un recorrido desde los orígenes de la mecánica cuántica hasta la actual segunda revolución cuántica, pasando por conceptos como la superposición, el entrelazamiento o el principio de incertidumbre, y por sus aplicaciones en ámbitos como la computación, las comunicaciones y la sensórica cuántica.\n\nA través de **más de 120 piezas**, entre objetos científicos históricos, instalaciones inmersivas, audiovisuales e interactivos, podremos conocer de una forma accesible cómo la física cuántica ha cambiado nuestra comprensión del mundo y por qué está llamada a tener un impacto cada vez mayor en la tecnología y la sociedad.\n\nAdemás de disfrutar de la exposición, será una buena oportunidad para reencontrarnos, conocer a otros miembros de la comunidad y seguir hablando de cuántica fuera del formato habitual de nuestras charlas.\n\n**🗓️ Agenda (aprox.):**\n\n* 17:15 h – Encuentro del grupo en Espacio Fundación Telefónica.\n* 17:30 h – Inicio de la visita guiada a *Revolución Cuántica*.\n* 18:30/18:45 h – Fin aproximado de la visita.\n* Después de la visita, quienes quieran podrán quedarse a tomar algo por la zona y seguir haciendo comunidad 🍻.\n* 📅 **Cuándo:** Jueves 8 de octubre de 2026 a las 17:30 h\n* 📍 **Dónde:** Espacio Fundación Telefónica – C/ Fuencarral, 3, Madrid. La exposición se encuentra en la 3.ª planta.\n\n⚠️ **IMPORTANTE: PLAZAS MUY LIMITADAS**\nLa visita se realizará en un grupo reducido, por lo que os pedimos que **solo os apuntéis si tenéis previsto asistir**. Si finalmente no podéis venir, por favor liberad vuestra plaza cuanto antes para que pueda aprovecharla otra persona de la comunidad.\nEvento presencial y gratuito, con inscripción previa obligatoria.",
+    "start_at": "2026-10-08T17:15:00+02:00",
+    "url": "https://www.meetup.com/quantummadrid/events/316468534/",
+    "event_type": "PHYSICAL",
+    "city": "MADRID",
+    "address": "Calle Fuencarral , 3, Madrid",
+    "organizer": "Quantum Madrid by Entangle",
+    "attendees": 41,
+    "max_tickets": 60,
+    "spots_left": 19,
+    "found_in": [
+      "Hackathon"
+    ],
+    "lat": 40.4204119,
+    "lng": -3.7016001
   }
 ]

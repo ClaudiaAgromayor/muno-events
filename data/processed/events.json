@@ -1,75 +1,5 @@
 [
   {
-    "id": "luma:evt-w0TeDPIBFDGUvbJ",
-    "source": "luma",
-    "source_id": "evt-w0TeDPIBFDGUvbJ",
-    "name": "FredCon'26 by Google Cloud",
-    "description": "La FredCon es la conferencia de liderazgo técnico y gestión de equipos técnicos de Manfred para la Comunidad. Un espacio para aprender y compartir. Desde cómo crear un plan de equilibrio salarial a mejorar en la gestión de personas. Una conferencia pensada para que técnicos y recursos humanos se entiendan mejor. Este no es un evento de negocios. Es un evento de Comunidad. De compartir. De aprender.  Las relaciones que se crean en la FredCon no se miden en leads o aplicaciones a ofertas de empleo. Se mide en estar y formar parte o no estar.",
-    "start_at": "2026-09-24T07:30:00.000Z",
-    "end_at": "2026-09-24T17:00:00.000Z",
-    "url": "https://lu.ma/4vot95mb",
-    "city": "Madrid",
-    "address": "Espacio Rastro Madrid",
-    "organizer": "Personal",
-    "lat": 40.4090771,
-    "lng": -3.7068435999999996,
-    "extra": {
-      "categories": [
-        "Tech"
-      ],
-      "is_free": true,
-      "guest_count": 0,
-      "sold_out": false,
-      "waitlist_active": false,
-      "registration_deadline": null
-    },
-    "found_on_platforms": [
-      "luma"
-    ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
-  },
-  {
-    "id": "luma:evt-x62zPTK7EILE9XK",
-    "source": "luma",
-    "source_id": "evt-x62zPTK7EILE9XK",
-    "name": "AI Socratic Madrid - September",
-    "description": "AI Socratic Madrid is a monthly gathering for AI practitioners, researchers, founders, educators, and builders in the Madrid AI scene.\nWe run Socratic dialogues on the last AI topics: new models and tools, research papers, AGI alignment, philosophy, geopolitics, and more.We believe the best conversations happen when diverse perspectives are in the room. Whether you come from engineering, research, product, policy, or education, if you think seriously about AI, you belong here.\nTo keep discussions meaningful, every application is reviewed. We look for curiosity, depth of thought, and a genuine willingness to contribute, not a specific job title or background.\nThe event runs in English 🇬🇧, unless everyone in the room speaks Spanish 🇪🇸.\nAgenda\n17:30 – 18:00 Welcome & networking\n\n18:00 – 19:00 Socratic dialogues\n\n19:00 – 20:00 Demos and presentations\n\nSocratic Conversations\nWe open with networking, time to meet the people in the room before the conversation starts.\nThe main session is structured around the latest AI Socratic monthly post, with room for the threads and topics that matter most to attendees.Everyone is encouraged to contribute. Jorge Ordovás and Alfonso de la Rocha moderate to keep things flowing and make sure every voice gets heard.\nWe close with demos and short presentations. Submit yours here.\nAI Socratic Madrid — Code of Conduct\nAI Socratic is built on the premise that better ideas come from more perspectives. This Code of Conduct exists to make that real, not aspirational.\nWho this is for:\nEveryone: attendees, speakers, organisers, and guests. No exceptions.\n\nWhat we expect:\nBe curious, not combative. Challenge ideas, not people. The Socratic method works because it assumes good faith on all sides.\n\nMake room. If you tend to speak a lot, listen more. If you see someone being talked over, say something.\n\nRespect identities and expertise. Don't make assumptions about what someone knows (or doesn't) based on how they look, their accent, or their background.\n\nNo unsolicited advice or feedback. If someone didn't ask for your opinion on their work, keep it.\n\nWhat we won't tolerate:\nHarassment of any kind: including comments related to gender, gender identity, sexual orientation, disability, ethnicity, religion, or age. This applies to talks, conversations, online channels, and side events.\n\nSpecifically off-limits: sexualised language or imagery, deliberate intimidation, interrupting or talking over speakers, and taking photos or recording without consent.\n\nIf something happens:\nTell an organiser directly, or send an email. Reports are handled confidentially.\n\nAnyone asked to stop a behaviour is expected to do so immediately. Persistent violations result in removal from the event and future editions.\n\nWe follow up on every report.\n\nThe short version:\nTreat people the way you'd want to be treated if you were the only person who didn't look like everyone else, or the only person defending an opinion in the room.",
-    "start_at": "2026-09-24T15:30:00.000Z",
-    "end_at": "2026-09-24T18:00:00.000Z",
-    "url": "https://lu.ma/42vour7p",
-    "city": "Madrid",
-    "address": "Experience Design Lab",
-    "organizer": "AI Socratic - Madrid",
-    "lat": 40.5150103,
-    "lng": -3.6629359999999997,
-    "extra": {
-      "categories": [
-        "AI"
-      ],
-      "is_free": true,
-      "guest_count": 0,
-      "sold_out": true,
-      "waitlist_active": true,
-      "registration_deadline": null
-    },
-    "found_on_platforms": [
-      "luma"
-    ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "en",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no"
-    }
-  },
-  {
     "id": "luma:evt-bnE44bmxANb4Sp0",
     "source": "luma",
     "source_id": "evt-bnE44bmxANb4Sp0",
@@ -123,7 +53,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 69,
+      "guest_count": 68,
       "sold_out": true,
       "waitlist_active": true,
       "registration_deadline": null
@@ -245,6 +175,41 @@
     }
   },
   {
+    "id": "luma:evt-Zkau59VVusHIXZy",
+    "source": "luma",
+    "source_id": "evt-Zkau59VVusHIXZy",
+    "name": "Lenny’s Newsletter Meetup in Madrid (with free drinks courtesy of PostHog)",
+    "description": "Building products, startups, or tech in Madrid? These meetups are a great opportunity to have in-depth conversations about product management, tech and growth.\nThis will be a casual, no-agenda get-together at a bar. The goal is simple: connect with like-minded folks in product, growth, entrepreneurship, and tech. If you’re working on digital products, building tech companies, or just curious about technology, join us to share ideas and build community.\nThis meetup is hosted by Alex Carrasco and Juan Serrano. If you have any problems or questions you can message Alex at 📞 +34 626697824 or ✉️acarrasco2008@gmail.com.\n📌 At the door of the bar say you are coming to Lenny's Meetup or ask for Juan/Alex.\nThese meetups are hosted by members of Lenny’s Newsletter community, and are a great opportunity to meet new people, and have in-depth conversation about product and growth. There is a tab for free drinks. Learn more at LennysNewsletter.com/community.\nDrinks courtesy of PostHog.\nGive your agents product context. PostHog combines and stores your analytics, errors, replays, and business data so you and your agents can understand and act on it.",
+    "start_at": "2026-10-06T17:00:00.000Z",
+    "end_at": "2026-10-06T20:00:00.000Z",
+    "url": "https://lu.ma/99vp8wvd",
+    "city": "Madrid",
+    "address": "Prosperidad",
+    "organizer": "Lenny's Newsletter Meetups",
+    "lat": 40.43638215395051,
+    "lng": -3.6768986463920394,
+    "extra": {
+      "categories": [
+        "Tech"
+      ],
+      "is_free": true,
+      "guest_count": 0,
+      "sold_out": false,
+      "waitlist_active": false,
+      "registration_deadline": null
+    },
+    "found_on_platforms": [
+      "luma"
+    ],
+    "duplicate_ids": [],
+    "enrichment": {
+      "nivel": "no_especificado",
+      "idioma": "no_especificado",
+      "comida_gratis": "no_especificado",
+      "se_graba": "no_especificado"
+    }
+  },
+  {
     "id": "luma:evt-BGzmAd9sLbh5DCg",
     "source": "luma",
     "source_id": "evt-BGzmAd9sLbh5DCg",
@@ -315,6 +280,41 @@
     }
   },
   {
+    "id": "luma:evt-06o4wNZYXxagQb9",
+    "source": "luma",
+    "source_id": "evt-06o4wNZYXxagQb9",
+    "name": "Tech talks: Global People",
+    "description": "Global Experiences Madrid Tech Brunch\nHow do we become global people?\nJoin us for an evening of stories from those who've lived and worked in multiple countries. Discover what it takes to build a life, career, and community across the world.\nOur speakers:Patrick Williamson - Chief Product Officer (CPO  CPTO  AI) | KKR · PSG · GIC | PE Backed AI Native Transitions & SaaS Turnarounds | Unity · Symantec · Yahoo! · INSEAD\nCanada → Silicon Valley → Indonesia → Germany → Madrid.\n25 Years Building Globally. From Symantec, Yahoo! and Unity to founding AI and marketplace startups, a global perspective on technology, products and entrepreneurship.Scott Witters - Serial Founder | Venture Operator | Investor | Experiential Technology & Digital Transformation | MBANew Zealand → London → Hong Kong → Singapore → New York → Madrid.\nA Kiwi's story building internationally. From Festival Tech to Global VenturesCome and enjoy an evening of stories from people who've relocated, worked abroad, lived abroad.\nWhether you moved to Madrid for a tech job, to launch a startup, to follow your heart, or just for a fresh start — you'll find your people here. Swap stories about the countries you've lived in, laugh at the cultural mix-ups, and meet others on the same journey.\nWhat to Expect\nSpeakers sharing their journeys\n\nConversations with people who've lived in the places you have\n\nGood vibes of a friendly tech community in Madrid\n\nJamón, cheese, snacks & soft drinks included — bring your own alcohol if you'd like\n\nRelax, share, connect — come as you are\n\n📍 Atocha Private Location, will be shared before the event, Madrid🗓 October 10th | 🕖 7:00 PM\nCome share your international story with us.",
+    "start_at": "2026-10-10T17:00:00.000Z",
+    "end_at": "2026-10-10T20:00:00.000Z",
+    "url": "https://lu.ma/djq5ciil",
+    "city": "Madrid",
+    "address": "Atocha",
+    "organizer": "Madrid Tech Brunch",
+    "lat": 40.4023449,
+    "lng": -3.6881568999999996,
+    "extra": {
+      "categories": [
+        "Tech"
+      ],
+      "is_free": false,
+      "guest_count": 0,
+      "sold_out": false,
+      "waitlist_active": false,
+      "registration_deadline": null
+    },
+    "found_on_platforms": [
+      "luma"
+    ],
+    "duplicate_ids": [],
+    "enrichment": {
+      "nivel": "no_especificado",
+      "idioma": "no_especificado",
+      "comida_gratis": "si",
+      "se_graba": "no_especificado"
+    }
+  },
+  {
     "id": "meetup:316482502",
     "source": "meetup",
     "source_id": "316482502",
@@ -362,66 +362,6 @@
       "attendees": 14,
       "max_tickets": 120,
       "spots_left": 106
-    },
-    "found_on_platforms": [
-      "meetup"
-    ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
-  },
-  {
-    "id": "meetup:316153101",
-    "source": "meetup",
-    "source_id": "316153101",
-    "name": "BLACKBOXAI - Construyendo un adversario autónomo",
-    "description": "# 🚀 AiSec Eng Spain x Madrid DevOps x HackerDreams x Valkyrias\n\n📅 24 de septiembre\n🕖 18:00h (CEST) (Comenzaremos Puntal)\n📍 Lugar: Fundación Juan XXIII-Roncalli\n📍 Dirección: Av. Gran Vía del Este, 1, Vicálvaro, 28032 Madrid · Madrid, es\nⓂ️ Metro: Puerta de Arganda línea 9\n🚇 Renfe: Vicálvaro\n\n## 🧠\n\n### 🎯 BLACKBOXAI - Construyendo un adversario autónomo\n\n**Donde la Inteligencia Artificial toma el control de la consola.**\n**Deja que la IA piense. Tú observa el compromiso.**\nTHE TALK WILL BE IN SPANISH\nLA CHARLA SERÁ EN ESPAÑOL\n\n### 👨‍💻 Ponente\n\n**Kneda**\n\n### 🧾 Mini-biografía\n\nKneda es especialista en ingeniería social, intrusión física y ciberseguridad ofensiva, con una amplia trayectoria participando en comunidades y eventos de seguridad informática tanto nacionales como internacionales.\nMiembro activo de la comunidad HackerDreams y coorganizador de HackMadrid, participa habitualmente en la creación de desafíos Capture The Flag (CTF) para diferentes competiciones y eventos. Su experiencia diseñando entornos vulnerables para todos los niveles de conocimiento le ha permitido formar y desafiar a cientos de profesionales y entusiastas de la seguridad.\nEs una presencia habitual en conferencias, talleres y formaciones especializadas, donde comparte conocimientos sobre hacking ofensivo, ingeniería social, campañas de phishing, intrusión física y metodologías avanzadas de auditoría de seguridad.\nEn 2019 participó en las finales de DefCon junto a Rod Soto (HackMiami), obteniendo el tercer puesto en la categoría de Redes, uno de los mayores reconocimientos dentro de la comunidad internacional de hacking.\nActualmente trabaja desarrollando estrategias ofensivas y defensivas, combinando herramientas tradicionales de pentesting con nuevas capacidades impulsadas por Inteligencia Artificial para simular amenazas reales y mejorar la resiliencia de las organizaciones frente a ataques modernos.\n\n### 📚 Descripción del evento\n\n**SESIÓN 1 — El Salto Evolutivo: De Scripts a Conciencia Ofensiva (Gratuita)**\n¿Estamos presenciando el fin del pentesting tal como lo conocemos?\nDurante décadas, la auditoría de seguridad ha dependido de herramientas aisladas y de la intuición humana para encadenarlas. Pero el panorama ha cambiado. El pentesting tradicional es a menudo lento, predecible y difícil de escalar.\nEn esta primera sesión abriremos la \"caja negra\" para mostrar cómo se ha conseguido convertir un modelo de IA en un agente autónomo de auditoría ofensiva capaz de razonar, decidir y ejecutar acciones de forma independiente.\nNo hablaremos de teoría académica ni de automatización básica. Veremos el origen de una idea radical: el diseño de un prompt capaz de imitar la mentalidad de un atacante real. Descubriremos cómo una IA, operando desde una interfaz de línea de comandos, puede analizar, justificar y ejecutar cada acción mediante un modelo de decisión crítico.\n\n### 🔍 En esta sesión exploraremos:\n\n• La crisis del modelo tradicional: por qué la enumeración por inercia es el mayor enemigo del pentester moderno.\n• El despertar del agente: cómo se diseñó el \"cerebro\" capaz de operar en modalidad Black Box partiendo únicamente de una IP o dominio.\n• Razonamiento vs. ejecución: la capacidad de la IA para analizar vulnerabilidades, calcular riesgos y decidir cuándo actuar de forma sigilosa o agresiva.\n• El futuro de la ofensiva: las implicaciones de sistemas autónomos que no descansan y que priorizan el compromiso real por encima del volumen de hallazgos.\n\n### 🚨 Lo que verás en directo\n\n• Enumeración autónoma.\n• Toma de decisiones basada en contexto.\n• Priorización inteligente de vectores de ataque.\n• Cadena de pensamiento ofensiva aplicada a escenarios reales.\n• IA operando desde consola como un adversario estratégico.\nPrepárate para ver el inicio de una nueva generación de ciberseguridad.\nUna donde la IA deja de ser una herramienta para convertirse en un adversario capaz de pensar, decidir y actuar.\n\n## 🌐 Comunidad\n\n👉 Únete a Discord:\n[https://devseccon.io/discordcommunity](https://devseccon.io/discordcommunity)\n📢 Telegram:\n[https://t.me/hackerdreamsdcomm](https://t.me/hackerdreamsdcomm)\n[https://t.me/+EQXjdGyWYPAotmLG](https://t.me/+EQXjdGyWYPAotmLG)\n[https://t.me/xopsnoticias](https://t.me/xopsnoticias)\n[https://t.me/xopshispano](https://t.me/xopshispano)\n🐦 X (Twitter):\n@JR_kneda\n@hackerdreamsorg\n@xopsconference\n\n## 🤝 Colaboración y patrocinio\n\nSi tu empresa quiere colaborar o patrocinar futuros eventos:\n📩 Email: [info@hackerdreams.org](mailto:info@hackerdreams.org)\n📝 Formulario: [https://forms.gle/JbBwUGY26fAeLqJ78](https://forms.gle/JbBwUGY26fAeLqJ78)\n💸 Donaciones:\n[Donaciones](https://buy.stripe.com/28EdRa5ID7DR0hv5NsgjC01)",
-    "start_at": "2026-09-24T18:00:00+02:00",
-    "end_at": null,
-    "url": "https://www.meetup.com/aiseceng-spain/events/316153101/",
-    "city": "Madrid",
-    "address": "Av. Gran Vía del Este, 1, Vicálvaro, 28032 Madrid",
-    "organizer": "AI Security Engineers - Madrid, ES",
-    "lat": null,
-    "lng": null,
-    "extra": {
-      "attendees": 30,
-      "max_tickets": 50,
-      "spots_left": 20
-    },
-    "found_on_platforms": [
-      "meetup"
-    ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
-  },
-  {
-    "id": "meetup:316647405",
-    "source": "meetup",
-    "source_id": "316647405",
-    "name": "☎️ ¿Me puedes pasar con una IA? y Transformando imágenes satelitales",
-    "description": "Información y reserva de plaza en https://guild.host/events/me-puedes-pasar-con-xe7fcv",
-    "start_at": "2026-09-24T19:00:00+02:00",
-    "end_at": null,
-    "url": "https://www.meetup.com/pydata-madrid/events/316647405/",
-    "city": "Madrid",
-    "address": "C. de San Bernardo, 101, Chamberí, 28015 Madrid, Spain",
-    "organizer": "PyData Madrid",
-    "lat": 40.4311755,
-    "lng": -3.706308,
-    "extra": {
-      "attendees": 1,
-      "max_tickets": 1,
-      "spots_left": 0
     },
     "found_on_platforms": [
       "meetup"
@@ -509,9 +449,9 @@
     "lat": 38.9879607,
     "lng": -1.845739,
     "extra": {
-      "attendees": 33,
+      "attendees": 41,
       "max_tickets": 20,
-      "spots_left": -13
+      "spots_left": -21
     },
     "found_on_platforms": [
       "meetup"
@@ -723,7 +663,7 @@
     "lat": 40.4166565,
     "lng": -3.6742879,
     "extra": {
-      "attendees": 35,
+      "attendees": 34,
       "max_tickets": 0,
       "spots_left": null
     },
@@ -735,36 +675,6 @@
       "nivel": "no_especificado",
       "idioma": "no_especificado",
       "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
-  },
-  {
-    "id": "meetup:311781960",
-    "source": "meetup",
-    "source_id": "311781960",
-    "name": "Out in Tech after work - Monthly Mixer",
-    "description": "Join our monthly after work drinks event, hosted the fourth Thursday of every month at Doce Botellas. A space for LGBTQ+ locals and newcomers in tech to connect and find a community.\n\nAbout Out in Tech:\n\nWe are a non-profit that unites the LGBTQ+ tech community around the world. We do this by creating opportunities for our 40,000 members worldwide to advance their careers, grow their networks, and leverage tech for social change.\n\n* We envision a tech industry where LGBTQ+ people are empowered, well represented, and have full agency, from intern to CEO.\n* Out in Tech Digital Corps provides web services to LGBTQ+ activists and social entrepreneurs around the world. Since 2017, we’ve built 170 WordPress websites for 170 extraordinary LGBTQ+ grassroots organizations in 60 countries.\n\nhttps://outintech.com/",
-    "start_at": "2026-09-24T20:00:00+02:00",
-    "end_at": null,
-    "url": "https://www.meetup.com/out-in-tech-madrid/events/311781960/",
-    "city": "Madrid",
-    "address": "C. de Belén, 7",
-    "organizer": "Out in Tech - Madrid",
-    "lat": 40.4242298,
-    "lng": -3.6963366,
-    "extra": {
-      "attendees": 15,
-      "max_tickets": 0,
-      "spots_left": null
-    },
-    "found_on_platforms": [
-      "meetup"
-    ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no",
       "se_graba": "no_especificado"
     }
   },

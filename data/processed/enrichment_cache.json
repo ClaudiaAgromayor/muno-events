@@ -472,5 +472,17 @@
     "idioma": "es",
     "comida_gratis": "no",
     "se_graba": "no_especificado"
+  },
+  "luma:evt-Zkau59VVusHIXZy": {
+    "nivel": "no_especificado",
+    "idioma": "no_especificado",
+    "comida_gratis": "no_especificado",
+    "se_graba": "no_especificado"
+  },
+  "luma:evt-06o4wNZYXxagQb9": {
+    "nivel": "no_especificado",
+    "idioma": "no_especificado",
+    "comida_gratis": "si",
+    "se_graba": "no_especificado"
   }
 }

@@ -11,9 +11,9 @@
     "city": "Madrid",
     "address": "P.º de La Habana, 9, 11, Chamartín, 28036 Madrid, Spain",
     "organizer": "Sirviendo Código",
-    "attendees": 29,
+    "attendees": 30,
     "max_tickets": 35,
-    "spots_left": 6,
+    "spots_left": 5,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -263,7 +263,7 @@
     "city": "Madrid",
     "address": "Calle de Sta Engracia, 53",
     "organizer": "Sysarmy Madrid",
-    "attendees": 6,
+    "attendees": 7,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -327,7 +327,7 @@
     "city": "Madrid",
     "address": "C/ del Alcalde Sainz de Baranda, 32, Retiro, 28009 Madrid",
     "organizer": "Startup Oasis - Tech, Founders, nomads, devs, UI/UX, Product",
-    "attendees": 37,
+    "attendees": 36,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

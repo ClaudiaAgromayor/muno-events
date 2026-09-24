@@ -26,13 +26,7 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "luma:evt-x62zPTK7EILE9XK",
@@ -61,13 +55,7 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "en",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "luma:evt-bnE44bmxANb4Sp0",
@@ -88,7 +76,7 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 110,
+      "guest_count": 112,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -96,13 +84,7 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "principiante",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "luma:evt-xibCZK7tSD3Bpb9",
@@ -123,7 +105,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 73,
+      "guest_count": 70,
       "sold_out": true,
       "waitlist_active": true,
       "registration_deadline": null
@@ -131,13 +113,7 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "luma:evt-QpYa1iNkOsxz8Z1",
@@ -166,13 +142,7 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "luma:evt-e40eDm5DqQmcSlb",
@@ -201,13 +171,7 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "luma:evt-AB6eSlcEOuMNykO",
@@ -236,13 +200,7 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "si"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "luma:evt-BGzmAd9sLbh5DCg",
@@ -271,13 +229,7 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "intermedio",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "luma:evt-ckyjutoJqa8JJHw",
@@ -306,13 +258,7 @@
     "found_on_platforms": [
       "luma"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:316482502",
@@ -336,13 +282,31 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
+  },
+  {
+    "id": "meetup:316679305",
+    "source": "meetup",
+    "source_id": "316679305",
+    "name": "Madrid AI Builders",
+    "description": "**IMPORTANT**\nRegister on Luma to guarantee your place:\nhttps://luma.com/mnaf044n\n\nBuilding something with AI? Curious about startups, agents, automation, content, coding, or the future of AI?\n\nJoin us for a relaxed Friday meetup for ambitious people in Madrid working on AI projects, startups, creative tools, or exploring the space. Expect a mix of founders, developers, creators, marketers, and people experimenting with new ideas.\n\nThe goal is simple: meet smart people, exchange ideas, and build genuine connections in the Madrid AI scene.",
+    "start_at": "2026-10-16T17:00:00+02:00",
+    "end_at": null,
+    "url": "https://www.meetup.com/madrid-marketing-club/events/316679305/",
+    "city": "Madrid",
+    "address": "C. de San Bernardo, 2, Centro, 28013 Madrid",
+    "organizer": "Madrid Networking Club",
+    "lat": 40.4207507,
+    "lng": -3.708179,
+    "extra": {
+      "attendees": 14,
+      "max_tickets": 120,
+      "spots_left": 106
+    },
+    "found_on_platforms": [
+      "meetup"
+    ],
+    "duplicate_ids": []
   },
   {
     "id": "meetup:316153101",
@@ -359,20 +323,14 @@
     "lat": null,
     "lng": null,
     "extra": {
-      "attendees": 26,
+      "attendees": 27,
       "max_tickets": 50,
-      "spots_left": 24
+      "spots_left": 23
     },
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:316647405",
@@ -396,13 +354,7 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:316649677",
@@ -426,13 +378,7 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "principiante",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:316511396",
@@ -456,13 +402,7 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:315790884",
@@ -486,13 +426,7 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "en",
-      "comida_gratis": "no_especificado",
-      "se_graba": "si"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:316653906",
@@ -509,22 +443,16 @@
     "lat": 40.9786078,
     "lng": -5.6769936,
     "extra": {
-      "attendees": 16,
+      "attendees": 18,
       "max_tickets": 40,
-      "spots_left": 24
+      "spots_left": 22
     },
     "found_on_platforms": [
       "meetup"
     ],
     "duplicate_ids": [
       "meetup:316653904"
-    ],
-    "enrichment": {
-      "nivel": "intermedio",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    ]
   },
   {
     "id": "meetup:316482252",
@@ -550,13 +478,7 @@
     ],
     "duplicate_ids": [
       "meetup:316152297"
-    ],
-    "enrichment": {
-      "nivel": "intermedio",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    ]
   },
   {
     "id": "meetup:316576718",
@@ -580,13 +502,7 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "principiante",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:316666823",
@@ -603,20 +519,14 @@
     "lat": 40.4325951,
     "lng": -3.6980319,
     "extra": {
-      "attendees": 7,
+      "attendees": 8,
       "max_tickets": 0,
       "spots_left": null
     },
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:316446627",
@@ -640,13 +550,7 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "principiante",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:316662495",
@@ -670,13 +574,7 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:315675863",
@@ -693,20 +591,14 @@
     "lat": 40.4166565,
     "lng": -3.6742879,
     "extra": {
-      "attendees": 36,
+      "attendees": 35,
       "max_tickets": 0,
       "spots_left": null
     },
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "meetup:311781960",
@@ -730,13 +622,7 @@
     "found_on_platforms": [
       "meetup"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1988983807109",
@@ -758,13 +644,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1991763208373",
@@ -786,13 +666,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "intermedio",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:2000043433750",
@@ -814,13 +688,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1998647546614",
@@ -842,13 +710,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1987855264608",
@@ -870,13 +732,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1984035318045",
@@ -898,13 +754,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1995465432826",
@@ -926,13 +776,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1998205079182",
@@ -954,13 +798,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:2000391455693",
@@ -982,13 +820,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1993542268590",
@@ -1010,13 +842,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1980045387054",
@@ -1038,13 +864,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1993527994897",
@@ -1066,13 +886,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1987855279653",
@@ -1094,13 +908,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1985907372410",
@@ -1122,13 +930,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1991778548255",
@@ -1150,13 +952,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1975223769466",
@@ -1178,13 +974,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1992757733023",
@@ -1206,13 +996,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:2000269590190",
@@ -1234,13 +1018,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:2000172225971",
@@ -1262,13 +1040,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1999782672807",
@@ -1290,13 +1062,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1994240556187",
@@ -1318,13 +1084,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "principiante",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1989175716114",
@@ -1346,13 +1106,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1995455172136",
@@ -1374,13 +1128,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1995435273619",
@@ -1402,13 +1150,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1995449445006",
@@ -1430,13 +1172,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1987855416061",
@@ -1458,13 +1194,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "principiante",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1992651474200",
@@ -1486,13 +1216,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "eventbrite:1998630931919",
@@ -1514,13 +1238,7 @@
     "found_on_platforms": [
       "eventbrite"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   },
   {
     "id": "manual:12-9-2026_160344",
@@ -1540,12 +1258,6 @@
     "found_on_platforms": [
       "manual"
     ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "si",
-      "se_graba": "no_especificado"
-    }
+    "duplicate_ids": []
   }
 ]

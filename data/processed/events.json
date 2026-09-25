@@ -18,7 +18,7 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 129,
+      "guest_count": 136,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -53,7 +53,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 68,
+      "guest_count": 69,
       "sold_out": true,
       "waitlist_active": true,
       "registration_deadline": null
@@ -88,7 +88,7 @@
         "Tech"
       ],
       "is_free": false,
-      "guest_count": 50,
+      "guest_count": 52,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": "2026-09-21T18:00:59.000Z"
@@ -628,10 +628,10 @@
     "end_at": null,
     "url": "https://www.meetup.com/startup-oasis/events/316662495/",
     "city": "Madrid",
-    "address": "1 plaza del sol",
+    "address": "C. de San Bernardo, 2, Centro, 28013 Madrid, Spain",
     "organizer": "Startup Oasis - Tech, Founders, nomads, devs, UI/UX, Product",
-    "lat": 43.36032,
-    "lng": -5.8442344,
+    "lat": 40.4207507,
+    "lng": -3.708179,
     "extra": {
       "attendees": 4,
       "max_tickets": 0,

@@ -63,6 +63,7 @@
     "spots_left": 22,
     "found_in": [
       "Artificial Intelligence",
+      "Machine Learning",
       "Startups"
     ],
     "lat": 40.4537078,
@@ -279,7 +280,7 @@
     "url": "https://www.meetup.com/startup-oasis/events/316662495/",
     "event_type": "PHYSICAL",
     "city": "Madrid",
-    "address": "1 plaza del sol",
+    "address": "C. de San Bernardo, 2, Centro, 28013 Madrid, Spain",
     "organizer": "Startup Oasis - Tech, Founders, nomads, devs, UI/UX, Product",
     "attendees": 4,
     "max_tickets": 0,
@@ -287,8 +288,8 @@
     "found_in": [
       "Startups"
     ],
-    "lat": 43.36032,
-    "lng": -5.8442344
+    "lat": 40.4207507,
+    "lng": -3.708179
   },
   {
     "source": "meetup",

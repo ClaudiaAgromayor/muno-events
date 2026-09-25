@@ -89,5 +89,9 @@
   "Calle Fuencarral , 3, Madrid": {
     "lat": 40.4204119,
     "lng": -3.7016001
+  },
+  "C. de San Bernardo, 2, Centro, 28013 Madrid, Spain": {
+    "lat": 40.4207507,
+    "lng": -3.708179
   }
 }

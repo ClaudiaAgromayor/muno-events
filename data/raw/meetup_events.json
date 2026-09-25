@@ -11,9 +11,9 @@
     "city": "Madrid",
     "address": "P.º de La Habana, 9, 11, Chamartín, 28036 Madrid, Spain",
     "organizer": "Sirviendo Código",
-    "attendees": 31,
+    "attendees": 32,
     "max_tickets": 35,
-    "spots_left": 4,
+    "spots_left": 3,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -80,9 +80,9 @@
     "city": "Madrid",
     "address": "de la comunidad, C. de Bravo Murillo, 39, Local interior, Chamberí, 28015 Madrid, Spain",
     "organizer": "Madrid Machine Learning Meetup",
-    "attendees": 25,
+    "attendees": 26,
     "max_tickets": 60,
-    "spots_left": 35,
+    "spots_left": 34,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -289,27 +289,6 @@
     ],
     "lat": 43.36032,
     "lng": -5.8442344
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Startups",
-    "source_id": "315675863",
-    "name": "[🌴 Startup Oasis] Innovation Café - MADRID!",
-    "description": "🚀 Hey, everyone!\n\nThe **largest English-speaking tech & business community from Andalucía** is now coming to **Madrid**!\n\nWhat started as a bi-weekly morning coffee uniting like-minded entrepreneurial minds in Málaga ☕️ is expanding — and we’re bringing that same raw energy, openness, and connection to Madrid.\n\nAs always, there’s no formal agenda or moderation — just real, unfiltered conversations in English (and a bit of Spanish) 🗣️\n\n**Our focus remains the same:**\n\n* cultivating meaningful relationships\n* creating space to exchange ideas\n* share journeys\n* and learn from others building in the startup ecosystem 👥\n\nIt’s the perfect environment to test ideas, form new alliances, and spark unexpected collaborations — all over great coffee and breakfast.\n\nLet’s gather, connect, and dive into thoughtful conversations in a relaxed setting.\n\n**Madrid**, we’re coming!",
-    "start_at": "2026-09-25T09:00:00+02:00",
-    "url": "https://www.meetup.com/startup-oasis/events/315675863/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "C/ del Alcalde Sainz de Baranda, 32, Retiro, 28009 Madrid",
-    "organizer": "Startup Oasis - Tech, Founders, nomads, devs, UI/UX, Product",
-    "attendees": 33,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Startups"
-    ],
-    "lat": 40.4166565,
-    "lng": -3.6742879
   },
   {
     "source": "meetup",

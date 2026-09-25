@@ -218,7 +218,7 @@
     "city": "Madrid",
     "address": "Plaza de Manuel Gómez-Moreno, 2, Tetuán, 28020",
     "organizer": "Madrid DevOps",
-    "attendees": 29,
+    "attendees": 30,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -243,7 +243,8 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "DevOps"
+      "DevOps",
+      "Hackathon"
     ],
     "lat": 40.4325951,
     "lng": -3.6980319
@@ -282,7 +283,7 @@
     "city": "Madrid",
     "address": "C. de San Bernardo, 2, Centro, 28013 Madrid, Spain",
     "organizer": "Startup Oasis - Tech, Founders, nomads, devs, UI/UX, Product",
-    "attendees": 4,
+    "attendees": 5,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

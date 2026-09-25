@@ -18,7 +18,7 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 136,
+      "guest_count": 137,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -53,7 +53,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 69,
+      "guest_count": 68,
       "sold_out": true,
       "waitlist_active": true,
       "registration_deadline": null
@@ -633,7 +633,7 @@
     "lat": 40.4207507,
     "lng": -3.708179,
     "extra": {
-      "attendees": 4,
+      "attendees": 5,
       "max_tickets": 0,
       "spots_left": null
     },

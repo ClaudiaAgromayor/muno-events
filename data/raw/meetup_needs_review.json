@@ -559,9 +559,9 @@
     "city": "Madrid",
     "address": "Francisco Silvela 36, planta 1-puerta 3",
     "organizer": "Sisu · Mujeres en Bienestar y Consciencia",
-    "attendees": 10,
+    "attendees": 9,
     "max_tickets": 10,
-    "spots_left": 0,
+    "spots_left": 1,
     "found_in": [
       "Data Science"
     ]
@@ -608,16 +608,16 @@
   {
     "source": "meetup",
     "source_slug": "DevOps",
-    "source_id": "316176037",
-    "name": "**NUEVAS AMISTADES + MUSICA EN VIVO + DJ & FIESTA**",
-    "description": "**\\*\\*NUEVAS AMISTADES + MUSICA EN VIVO + DJ & FIESTA\\*\\***\n\n**✅CONFIRMACION DE ASISTENCIA SOLO POR WHATSAPP**\nVen y disfruta conociendo gente nueva. Nos reunimos en el **Patio de los Leones**, donde tomamos algo mientras hacemos las presentaciones y disfrutamos de la noche + DJ con la mejor música del momento.\n¡¡Un plan genial!!\n**\\- Y no te preocupes por no conocer a nadie\\,** te recibimos y presentamos desde el primer momento, así te integras y conoces al [@s](http://s/) demás.\n**\\- VESTIMENTA: ARREGLADO**\n**\\- HORA 22\\.00H\\.**\n**\\- DIRECCIÓN: C Serrano\\, 1 \\-** Zona Puerta de Alcalá-Solo confirmados por whatsapp\n**-DESPUES:** Los que quieran continuar nos iremos de fiesta por la zona.\n**✅●PARA ASISTIR:** Confirmación y solo por WhatsApp al 604136338, indicando nombre y el meetup al que se va a asistir.\n**✅● COSTE:** Gestión 5€, entrega al llegar al coordinador.**Promo chicas** fin de verano 2€ Traerlo justo.Podrás hacer bizum.\n● **GASTOS APARTE** : Cada uno paga lo suyo.\n**✅ Si vienes con invitados** , informales de todo y nos avisas al confirmar asistencia.\nAnímate,\nVamos a disfrutar a lo grande!!\n\n**-CONTACTO Y CONFIRMACION DE ASISTENCIA:** Al whatsapp del evento.",
-    "start_at": "2026-09-25T22:00:00+02:00",
-    "url": "https://www.meetup.com/meetup-group-erboswim/events/316176037/",
+    "source_id": "316664379",
+    "name": "Do you remember your dreams? | Men's Circle",
+    "description": "This is an English-speaking men’s circle created to support men in showing up more openly and honestly.\n\nThis month’s DevelopMEN circle will explore **dreams**. This is both the dreams we have when we sleep and also our dreams in life.\n\nI've chosen a little bit more of a light hearted topic for this circle, it could still get deep but doesn't necessarily have to.\n\nHere's a little taste of the mix of questions:\n\n* If you could live inside your dreams how much time would you spend in reality?\n* If you could revisit one dream you’ve had, which one would you pick?\n* Is there something in a dream that you can’t normally do but you can in reality?\n\nNo pressure to speak, listening is also part of the circle.\n\nDonation-based to support the space 🤝\n\n📍 Madrid, Espacio Ronda\n🗓2nd October\n🕦 20:30",
+    "start_at": "2026-10-02T20:30:00+02:00",
+    "url": "https://www.meetup.com/developmen/events/316664379/",
     "event_type": "PHYSICAL",
     "city": "Madrid",
-    "address": "C. de Serrano, 1",
-    "organizer": "NUEVOS AMIGOS",
-    "attendees": 14,
+    "address": "Ronda de Segovia, 50, Arganzuela, 28005 Madrid, Spain",
+    "organizer": "DevelopMEN",
+    "attendees": 1,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -627,18 +627,18 @@
   {
     "source": "meetup",
     "source_slug": "DevOps",
-    "source_id": "316641862",
-    "name": "Jakeando Kañas en MADRIZ MADRID Rock Bar",
-    "description": "muy buenas de nuevo éste viernes, nos reuniremos y esta vez, cambiamos, en la calle C. de Gaztambide, 20, Chamberí, 28015 Madrid, por unas kñas frescas, para luego continuar hasta la hora que sea y dónde se tercie. También hay buena comida cerca.\n\nJackeando kañas es para nuestras propuestas como comunicación securizada, charlas curiosas y fuera de lo común, eventos o congresos que puede haber por la zona sobre Hacking, proponer nuevos proyectos, etc, etc. Y continuaremos hablando del WorldParty2k26!! que va a tener lugar.\nHasta el viernes,\nY recordad;\nEl intercambio de conocimiento, nos hace libres.",
-    "start_at": "2026-09-25T20:00:00+02:00",
-    "url": "https://www.meetup.com/hackmadrid-27/events/316641862/",
+    "source_id": "316676214",
+    "name": "Hack The Box Meetup: Nuestra primera máquina!",
+    "description": "En este meetup vamos a empezar a aprender a usar las herramientas que necesitaremos para vulnerar nuestras máquinas y resolver desafíos.\n\nExplicaremos los fundamentos del campo de la ciberseguridad desde 0, y hackearemos nuestro primer sistema.\n\nTraed vuestro portátil!\n\nNuestro discord: https://discord.gg/7yF7fGCGV5",
+    "start_at": "2026-10-02T16:00:00+02:00",
+    "url": "https://www.meetup.com/meetup-group-ffiltyls/events/316676214/",
     "event_type": "PHYSICAL",
     "city": "Madrid",
-    "address": "C. de Gaztambide, 20, Chamberí, 28015 Madrid, Spain",
-    "organizer": "HackMadrid %27",
-    "attendees": 5,
-    "max_tickets": 0,
-    "spots_left": null,
+    "address": "C. Nikola Tesla, Puente de Vallecas, 28031 Madrid, Spain",
+    "organizer": "Hack The Box Meetup: Madrid, ES",
+    "attendees": 18,
+    "max_tickets": 30,
+    "spots_left": 12,
     "found_in": [
       "DevOps",
       "Hackathon"
@@ -675,28 +675,9 @@
     "city": "Madrid",
     "address": "Calle del Prof. José García Santesmases, 9, Moncloa - Aravaca, 28040 Madrid, Spain",
     "organizer": "Hack The Box Meetups for Universities: FDIst (UCM)",
-    "attendees": 11,
+    "attendees": 12,
     "max_tickets": 70,
-    "spots_left": 59,
-    "found_in": [
-      "Hackathon"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Hackathon",
-    "source_id": "316676214",
-    "name": "Hack The Box Meetup: Nuestra primera máquina!",
-    "description": "En este meetup vamos a empezar a aprender a usar las herramientas que necesitaremos para vulnerar nuestras máquinas y resolver desafíos.\n\nExplicaremos los fundamentos del campo de la ciberseguridad desde 0, y hackearemos nuestro primer sistema.\n\nTraed vuestro portátil!\n\nNuestro discord: https://discord.gg/7yF7fGCGV5",
-    "start_at": "2026-10-02T16:00:00+02:00",
-    "url": "https://www.meetup.com/meetup-group-ffiltyls/events/316676214/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "C. Nikola Tesla, Puente de Vallecas, 28031 Madrid, Spain",
-    "organizer": "Hack The Box Meetup: Madrid, ES",
-    "attendees": 17,
-    "max_tickets": 30,
-    "spots_left": 13,
+    "spots_left": 58,
     "found_in": [
       "Hackathon"
     ]

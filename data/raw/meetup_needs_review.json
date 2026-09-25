@@ -49,7 +49,7 @@
     "city": "",
     "address": "",
     "organizer": "Escuela de Programación e IA a Profesionales",
-    "attendees": 8,
+    "attendees": 9,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -615,7 +615,7 @@
     "city": "Madrid",
     "address": "Cale Ibiza",
     "organizer": "NUEVOS AMIGOS",
-    "attendees": 12,
+    "attendees": 15,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -673,7 +673,7 @@
     "city": "Madrid",
     "address": "Calle de Atocha, 123, Centro, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 139,
+    "attendees": 142,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -692,9 +692,9 @@
     "city": "Madrid",
     "address": "Calle del Prof. José García Santesmases, 9, Moncloa - Aravaca, 28040 Madrid, Spain",
     "organizer": "Hack The Box Meetups for Universities: FDIst (UCM)",
-    "attendees": 9,
+    "attendees": 10,
     "max_tickets": 70,
-    "spots_left": 61,
+    "spots_left": 60,
     "found_in": [
       "Hackathon"
     ]

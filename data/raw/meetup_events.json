@@ -11,9 +11,9 @@
     "city": "Madrid",
     "address": "P.º de La Habana, 9, 11, Chamartín, 28036 Madrid, Spain",
     "organizer": "Sirviendo Código",
-    "attendees": 30,
+    "attendees": 31,
     "max_tickets": 35,
-    "spots_left": 5,
+    "spots_left": 4,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -217,7 +217,7 @@
     "city": "Madrid",
     "address": "Plaza de Manuel Gómez-Moreno, 2, Tetuán, 28020",
     "organizer": "Madrid DevOps",
-    "attendees": 28,
+    "attendees": 29,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -302,7 +302,7 @@
     "city": "Madrid",
     "address": "C/ del Alcalde Sainz de Baranda, 32, Retiro, 28009 Madrid",
     "organizer": "Startup Oasis - Tech, Founders, nomads, devs, UI/UX, Product",
-    "attendees": 34,
+    "attendees": 33,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

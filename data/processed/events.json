@@ -18,7 +18,7 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 122,
+      "guest_count": 125,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -329,9 +329,9 @@
     "lat": null,
     "lng": null,
     "extra": {
-      "attendees": 30,
+      "attendees": 31,
       "max_tickets": 35,
-      "spots_left": 5
+      "spots_left": 4
     },
     "found_on_platforms": [
       "meetup"
@@ -663,7 +663,7 @@
     "lat": 40.4166565,
     "lng": -3.6742879,
     "extra": {
-      "attendees": 34,
+      "attendees": 33,
       "max_tickets": 0,
       "spots_left": null
     },

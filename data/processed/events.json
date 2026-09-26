@@ -55,7 +55,7 @@
       "is_free": true,
       "guest_count": 68,
       "sold_out": true,
-      "waitlist_active": true,
+      "waitlist_active": false,
       "registration_deadline": null
     },
     "found_on_platforms": [
@@ -359,9 +359,9 @@
     "lat": 40.4207507,
     "lng": -3.708179,
     "extra": {
-      "attendees": 15,
+      "attendees": 16,
       "max_tickets": 120,
-      "spots_left": 105
+      "spots_left": 104
     },
     "found_on_platforms": [
       "meetup"
@@ -419,9 +419,9 @@
     "lat": null,
     "lng": null,
     "extra": {
-      "attendees": 26,
+      "attendees": 27,
       "max_tickets": 60,
-      "spots_left": 34
+      "spots_left": 33
     },
     "found_on_platforms": [
       "meetup"
@@ -449,9 +449,9 @@
     "lat": 38.9879607,
     "lng": -1.845739,
     "extra": {
-      "attendees": 73,
+      "attendees": 75,
       "max_tickets": 80,
-      "spots_left": 7
+      "spots_left": 5
     },
     "found_on_platforms": [
       "meetup"

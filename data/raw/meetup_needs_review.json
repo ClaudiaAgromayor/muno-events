@@ -2,26 +2,6 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
-    "source_id": "316539256",
-    "name": "[ONLINE] Resolución de dudas de Programación e IA",
-    "description": "¿Tienes dudas sobre programación, Inteligencia Artificial, qué camino formativo seguir o cómo afrontar una asignatura que se te está atragantando? Este será un espacio abierto para plantearlas y recibir orientación clara, práctica y adaptada a cada caso.\n\nPuedes enviar tus preguntas por privado antes del evento o escribirlas directamente durante la sesión. Se podrán tratar cuestiones como dificultades con Python, Java, C, algoritmos, prácticas, preparación de exámenes, proyectos, elección de estudios, formación en IA, aprendizaje autónomo o primeros pasos para acceder al sector tecnológico.\n\nAprender programación y nuevas tecnologías puede resultar exigente. Muchas personas se sienten bloqueadas porque no terminan de comprender ciertos fundamentos, no saben cómo estudiar, acumulan dudas o no tienen claro qué conocimientos necesitan realmente. Otras quieren empezar desde cero, pero no saben por dónde hacerlo ni qué itinerario tiene más sentido para sus objetivos.\n\nDurante el evento recogeremos las dudas planteadas, analizaremos los problemas habituales y compartiremos estrategias concretas para avanzar. El propósito no es ofrecer respuestas genéricas, sino aportar criterios, recursos y posibles pasos siguientes que te ayuden a entender mejor tu situación y tomar decisiones formativas con más seguridad.\n\nLa sesión estará moderada por un ingeniero informático, profesor de Ingeniería del Software durante varios años en universidades públicas y privadas, y doctor (PhD) en Inteligencia Artificial. Desde esa experiencia académica y profesional, se ofrecerá una visión práctica sobre el aprendizaje de programación, los estudios tecnológicos y las competencias que conviene desarrollar.\n\nAdemás, al final de la sesión se presentarán los cursos, talleres y propuestas formativas de la escuela de Programación e Inteligencia Artificial, para quienes quieran continuar aprendiendo con un itinerario más guiado.",
-    "start_at": "2026-09-26T20:00:00+02:00",
-    "url": "https://www.meetup.com/universidad-de-programacion-e-inteligencia-artificial/events/316539256/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Escuela de Programación e IA a Profesionales",
-    "attendees": 9,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence",
-      "Machine Learning"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
     "source_id": "316581903",
     "name": "Seguimiento comercial con IA - Diseña campañas para tus clientes.",
     "description": "Muchas empresas acumulan contactos interesados, propuestas pendientes y clientes con los que han perdido el contacto. Dar seguimiento a esas relaciones requiere organización, contexto y mensajes que lleguen en el momento adecuado.\n\nEn este encuentro online veremos **cómo diseñar y ejecutar campañas de seguimiento de preventa y postventa con IA, y convertirlas en un servicio que puedas ofrecer a tus clientes.**\nTrabajaremos con ejemplos de seguimiento de propuestas, recuperación de oportunidades, acompañamiento tras la compra y reactivación de clientes.\n\nRecorreremos tanto el diseño de la campaña como los datos, la configuración del correo y los aspectos legales que debes revisar antes de activarla.\n\n## Qué veremos\n\n* Cómo identificar oportunidades de seguimiento en la base de leads y clientes de una empresa.\n* Cómo diferenciar campañas de **preventa, postventa, reactivación y recompra.**\n* Cómo segmentar contactos según su relación con el negocio, sus necesidades y sus interacciones anteriores.\n* Cómo definir el objetivo, el mensaje, la frecuencia y las condiciones de salida de cada campaña.\n* Qué aspectos revisar sobre **RGPD, LSSI, permisos de contacto y solicitudes de baja.**\n* Cómo preparar dominios y buzones y qué papel tienen **SPF, DKIM y DMARC.**\n* Cómo abordar el calentamiento de buzones y el volumen de envío según el caso, y cómo interpretar rebotes y quejas de spam.\n* Cómo utilizar IA para preparar mensajes personalizados y secuencias con revisión humana.\n* Cómo conectar las campañas con el CRM, gestionar respuestas y detener el seguimiento cuando corresponda.\n* Cómo medir resultados: respuestas, oportunidades recuperadas, conversiones y recompra.\n* Cómo convertir este proceso en un servicio con alcance, precio y responsabilidades definidos.\n* Un framework práctico: **objetivo → segmento → datos y permisos → mensajes → ejecución → seguimiento → resultados.**\n\n🎓 **Encuentro online gratuito**\n⏱️ **Duración aproximada: 90 min + Q&A**\n🤝 **Impulsado por InvokeApp**",
@@ -31,26 +11,7 @@
     "city": "",
     "address": "",
     "organizer": "IA para Agencias, Freelancers y Consultores",
-    "attendees": 8,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
-    "source_id": "316593085",
-    "name": "Depurar medidas DAX en modelos semánticos",
-    "description": "En esta sesión práctica veremos varias técnicas para depurar medidas que van desde el uso de variables DAX al trabajo con herramientas externas como DAX Studio y Tabular Editor.",
-    "start_at": "2026-10-29T19:00:00+01:00",
-    "url": "https://www.meetup.com/power-platform-madrid/events/316593085/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Power Platform Madrid",
-    "attendees": 5,
+    "attendees": 9,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -76,6 +37,25 @@
       "Artificial Intelligence",
       "Machine Learning",
       "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316593085",
+    "name": "Depurar medidas DAX en modelos semánticos",
+    "description": "En esta sesión práctica veremos varias técnicas para depurar medidas que van desde el uso de variables DAX al trabajo con herramientas externas como DAX Studio y Tabular Editor.",
+    "start_at": "2026-10-29T19:00:00+01:00",
+    "url": "https://www.meetup.com/power-platform-madrid/events/316593085/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Power Platform Madrid",
+    "attendees": 5,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence"
     ]
   },
   {
@@ -220,6 +200,26 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
+    "source_id": "316572400",
+    "name": "Oct 15 - AI, ML, and Computer Vision Meetup",
+    "description": "Join our virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Time, Place and Location**\n\nOct 15, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-october-15-2026)**\n\n**Testing AI Systems in Production: Data Quality, Drift, and Model Evaluation**\n\nAI systems can pass offline evaluation and still fail in production when real-world data changes, features become stale, labels or feedback signals are incomplete, or model behavior drifts away from expected outcomes. This talk shares practical patterns for testing and evaluating AI systems after deployment, including data quality checks, drift detection, online/offline metric comparison, model monitoring, and rollback analysis.\n\nUsing personalization and recommendation systems as examples, we will examine how teams can build evaluation workflows that catch quality issues before users do. Attendees will leave with a practical checklist for making AI-backed systems easier to evaluate, debug, and operate as data changes over time.\n\n*About the Speaker*\n\n[Jayakumar Ramalingam](https://www.linkedin.com/in/jayakumarramalingam) is a Staff Software Engineer and Cloud Architect at SiriusXM with over 16 years of experience building cloud-native platforms, real-time data pipelines, resilient APIs, and AI/ML-enabled applications at production scale.\n\n**Where Should Your Model Live? A Framework for Tiering Computer Vision Deployments**\n\nWhere should a computer vision model actually run - on-device, near the edge, or in the cloud? It's a decision that looks simple until requirements like latency, cost, connectivity, and update cadence start pulling in different directions, often revealing themselves only after deployment.\n\nDrawing on hands-on experience developing and deploying CV models across Hailo, Nvidia, Qualcomm and AWS platforms, this talk introduces a practical framework for tiering computer vision deployments based on real project requirements and constraints. Discussion will include what changes at each tier - from development to deployment to monitoring and update strategy - with relevant industry examples.\n\nAttendees will leave with a set of questions or a framework they can use to place their own CV projects into the right tier.\n\n*About the Speaker*\n\n[Ajaykumaar Sivacoumare](https://www.linkedin.com/in/ajay-sa/) is an AI Software Engineer specializing in computer vision and edge AI, with production experience developing and deploying CV models across Nvidia, Hailo, Qualcomm and AWS-based platforms.\n\n**From 2D Slices to 3D Tumors: Lightweight Volumetric Detection Without Heavy 3D Networks**\n\nSlice-wise 2D detectors are fast and scalable, but they struggle to produce reliable 3D bounding boxes from volumetric medical data. This talk presents YOLO-PVC, a lightweight post-processing framework that consolidates slice-wise YOLO detections into coherent 3D bounding boxes using percentile-based geometric aggregation and a minimal MLP calibration module.\n\nThis talk demonstrates consistent improvements in volumetric IoU across three liver tumor categories i.e., HCC, CCA, and Mixed, without requiring dense 3D annotations or memory-intensive architectures. The talk covers the clinical motivation, the technical approach, and practical lessons from deploying computer vision on real hospital MRI data.\n\n*About the Speaker*\n\n[Talha Waqas](https://www.linkedin.com/in/mtalha-waqas-255557144/) is a second-year PhD student at ESME Research Lab, Paris and LISSI, Université Paris-Est, working on computer vision applied to medical imaging, with a focus on tumor classification, detection, and segmentation in multi-phase liver MRI.\n\n**The Two-Loop Architecture for Voice AI**\n\nBuilding responsive voice AI requires balancing latency with intelligence. This talk introduces a practical architecture that separates real-time conversation from asynchronous reasoning, enabling richer interactions without slowing the user experience. The session covers reusable design patterns drawn from production-inspired conversational AI systems.\n\n*About the Speaker*\n\n[Abhinav Tushar](https://lepisma.xyz/wiki/about/) is an ML engineer and researcher specializing in Conversational AI and Speech Technology.",
+    "start_at": "2026-10-15T18:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-ai-machine-learning-and-computer-vision-meetup/events/316572400/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
+    "attendees": 1,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence",
+      "Machine Learning"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
     "source_id": "316064663",
     "name": "Oct 7 - Building Composable Vision Workflows in FiftyOne",
     "description": "This workshop explores the [FiftyOne](https://docs.voxel51.com/index.html) plugin framework to build custom computer vision applications. You’ll learn to extend the FiftyOne App with Python based panels and server side operators, as well as integrate external tools for labeling, vector search, and model inference into your dataset views.\n\n**Date, Time and Location**\n\nOct 7, 2026\n9 AM - 10 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/building-composable-vision-workflows-in-fiftyone-october-7-2026)**\n\nYou’ll also automate repetitive tasks by writing custom workflows executing within the FiftyOne environment. Attendees will learn to transform FiftyOne from a visualization tool into a central hub for your vision stack.\n\nWhat you'll learn:\n\n* **Build Python plugins.** Define plugin manifests and directory structures to register custom functionality within the FiftyOne ecosystem.\n* **Develop server side operators.** Write functions to execute model inference, data cleaning, or metadata updates from the App interface.\n* **Build interactive panels.** Create custom UI dashboards using to visualize model metrics or specialized dataset distributions.\n* **Manage operator execution contexts.** Pass data between the App front end and your backend to build dynamic user workflows.\n* **Implement delegated execution.** Configure background workers to handle long running data processing tasks without blocking the user interface.\n* **Build labeling integrations.** Streamline the flow of data between FiftyOne and annotation platforms through custom triggers and ingestion scripts.\n* **Extend vector database support.** Program custom connectors for external vector stores to enable semantic search across large sample datasets.\n* **Package and share plugins.** Distribute your extensions internally and externally",
@@ -236,25 +236,6 @@
       "Artificial Intelligence",
       "Machine Learning",
       "Data Science"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
-    "source_id": "316572400",
-    "name": "Oct 15 - AI, ML, and Computer Vision Meetup",
-    "description": "Join our virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Time, Place and Location**\n\nOct 15, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-october-15-2026)**\n\n**Testing AI Systems in Production: Data Quality, Drift, and Model Evaluation**\n\nAI systems can pass offline evaluation and still fail in production when real-world data changes, features become stale, labels or feedback signals are incomplete, or model behavior drifts away from expected outcomes. This talk shares practical patterns for testing and evaluating AI systems after deployment, including data quality checks, drift detection, online/offline metric comparison, model monitoring, and rollback analysis.\n\nUsing personalization and recommendation systems as examples, we will examine how teams can build evaluation workflows that catch quality issues before users do. Attendees will leave with a practical checklist for making AI-backed systems easier to evaluate, debug, and operate as data changes over time.\n\n*About the Speaker*\n\n[Jayakumar Ramalingam](https://www.linkedin.com/in/jayakumarramalingam) is a Staff Software Engineer and Cloud Architect at SiriusXM with over 16 years of experience building cloud-native platforms, real-time data pipelines, resilient APIs, and AI/ML-enabled applications at production scale.\n\n**Where Should Your Model Live? A Framework for Tiering Computer Vision Deployments**\n\nWhere should a computer vision model actually run - on-device, near the edge, or in the cloud? It's a decision that looks simple until requirements like latency, cost, connectivity, and update cadence start pulling in different directions, often revealing themselves only after deployment.\n\nDrawing on hands-on experience developing and deploying CV models across Hailo, Nvidia, Qualcomm and AWS platforms, this talk introduces a practical framework for tiering computer vision deployments based on real project requirements and constraints. Discussion will include what changes at each tier - from development to deployment to monitoring and update strategy - with relevant industry examples.\n\nAttendees will leave with a set of questions or a framework they can use to place their own CV projects into the right tier.\n\n*About the Speaker*\n\n[Ajaykumaar Sivacoumare](https://www.linkedin.com/in/ajay-sa/) is an AI Software Engineer specializing in computer vision and edge AI, with production experience developing and deploying CV models across Nvidia, Hailo, Qualcomm and AWS-based platforms.\n\n**From 2D Slices to 3D Tumors: Lightweight Volumetric Detection Without Heavy 3D Networks**\n\nSlice-wise 2D detectors are fast and scalable, but they struggle to produce reliable 3D bounding boxes from volumetric medical data. This talk presents YOLO-PVC, a lightweight post-processing framework that consolidates slice-wise YOLO detections into coherent 3D bounding boxes using percentile-based geometric aggregation and a minimal MLP calibration module.\n\nThis talk demonstrates consistent improvements in volumetric IoU across three liver tumor categories i.e., HCC, CCA, and Mixed, without requiring dense 3D annotations or memory-intensive architectures. The talk covers the clinical motivation, the technical approach, and practical lessons from deploying computer vision on real hospital MRI data.\n\n*About the Speaker*\n\n[Talha Waqas](https://www.linkedin.com/in/mtalha-waqas-255557144/) is a second-year PhD student at ESME Research Lab, Paris and LISSI, Université Paris-Est, working on computer vision applied to medical imaging, with a focus on tumor classification, detection, and segmentation in multi-phase liver MRI.\n\n**The Two-Loop Architecture for Voice AI**\n\nBuilding responsive voice AI requires balancing latency with intelligence. This talk introduces a practical architecture that separates real-time conversation from asynchronous reasoning, enabling richer interactions without slowing the user experience. The session covers reusable design patterns drawn from production-inspired conversational AI systems.\n\n*About the Speaker*\n\n[Abhinav Tushar](https://lepisma.xyz/wiki/about/) is an ML engineer and researcher specializing in Conversational AI and Speech Technology.",
-    "start_at": "2026-10-15T18:00:00+02:00",
-    "url": "https://www.meetup.com/madrid-ai-machine-learning-and-computer-vision-meetup/events/316572400/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
-    "attendees": 1,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence"
     ]
   },
   {
@@ -308,9 +289,9 @@
     "city": "",
     "address": "",
     "organizer": "Marketing con IA Madrid",
-    "attendees": 6,
+    "attendees": 7,
     "max_tickets": 45,
-    "spots_left": 39,
+    "spots_left": 38,
     "found_in": [
       "Data Science"
     ]
@@ -386,6 +367,25 @@
     "address": "",
     "organizer": "Oracle Developer Meetup Madrid",
     "attendees": 2,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "316118455",
+    "name": "FabricOps: Operating Hyperledger Fabric Networks on Kubernetes",
+    "description": "[FabricOps is an LF Decentralized Trust Lab](https://github.com/LF-Decentralized-Trust-labs/FabricOps) that provides a Kubernetes operator and CLI for provisioning and operating multi-organization Hyperledger Fabric networks from declarative, Fablo-style configuration.\n\nIn this meetup, Pereowei Daniel will introduce the motivation behind FabricOps, especially the gap between local Fabric development with tools like Fablo and production-oriented Kubernetes deployment. The session will cover how FabricOps reconciles Fabric network intent into Kubernetes resources, including Fabric CA enrollment, MSP/TLS material, orderers, peers, channels, Chaincode-as-a-Service lifecycle, observability, and federated organization joining.\n\nThe meetup will also discuss how FabricOps can complement existing ecosystem efforts such as Fablo, Fabric Operator, hlf-operator, and Hyperledger Bevel, and where the project may fit into the broader Fabric and Fabric-X roadmap.\n\n**Zoom Meeting Link**: [https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09](https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09)\n\n**Please note: This event is being shared with our entire global community. If you're interested in this content but can't attend the event live, feel free to sign up and we will send you a link to the recording after the meetup is over.**",
+    "start_at": "2026-10-14T18:00:00+02:00",
+    "url": "https://www.meetup.com/lfdt-madrid/events/316118455/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "LFDT Madrid",
+    "attendees": 1,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -489,6 +489,25 @@
   },
   {
     "source": "meetup",
+    "source_slug": "Startups",
+    "source_id": "316526980",
+    "name": "How to Build an eBay Reselling Side Hustle with AI in One Weekend",
+    "description": "This event is being promoted by many groups.\n\nOur meetup group is participating by promoting this event.\n\nThis event is organized by Albert's List.\n\nOur meetup group is collaborating by promoting this event.\n\nThis is an online event.\n\nAttendees can be located anywhere in the world!\n\nThis event is FREE to attend!\n\nIn order to attend, please register here:\n[https://www.eventbrite.com/e/how-to-build-an-ebay-reselling-side-hustle-with-ai-in-one-weekend-tickets-1995172358232?aff=ideatoipo](https://www.eventbrite.com/e/how-to-build-an-ebay-reselling-side-hustle-with-ai-in-one-weekend-tickets-1995172358232?aff=ideatoipo)\n*Register for this free webinar and walk away knowing exactly what it's worth — and how to sell it.*\n\nThe way people buy things is changing. Secondhand isn't a fallback anymore — it's often a first choice. Buyers are looking for quality, value, and items that aren't easy to find through retail. And in a world where availability and pricing vary more than ever depending on where you live, something common in your home might be exactly what someone in another market has been looking for.\nThat shift creates a real opportunity for everyday sellers — especially people who haven't thought of themselves as sellers before.\nYou don't need to buy inventory. You don't need a warehouse. You don't need a background in retail or tech.\nYou need to know what you have, what it's worth, and how to describe it accurately. That's what this webinar covers.\n\n## **What You'll Learn**\n\n* How to identify an item you already own and find out exactly what it's worth\n* How to use AI to evaluate condition accurately and price with confidence\n* How to write a listing that sells and protects you from buyer disputes\n* How to build a personal knowledge hub using NotebookLM so you're not starting from scratch every time you find something new\n* A clear, realistic plan for getting your first listing live this weekend\n\n## **You'll Leave With**\n\n* A fully evaluated item ready to list — one you worked through yourself, during the session\n* The AI prompts to repeat this process for everything else in your house\n* A NotebookLM setup guide for your category\n* A weekend action plan built around 1–3 items — not an overwhelming to-do list\n* An exclusive discount code for the full course, valid for webinar attendees only\n\n## **Why This Matters Right Now**\n\nConsumer behavior is shifting in ways that favor secondhand sellers. More buyers are turning to resale platforms as a first choice — not because they have to, but because it makes sense. Supply chains are less predictable. Pricing varies widely across markets. And items that are easy to come by in one place may be scarce or expensive somewhere else entirely.\nThat means the things you already own have a buyer pool that's wider than you might think. And it means right now is a better time than ever to know what you have and how to sell it well.\n\n## **About Your Host**\n\nCharles Costa, MLIS, is the creator of ResellingGuide.ai and a senior content strategist at eBay. He's been reselling since 2021, focusing on clothing and accessories sourced from estate sales and thrift stores. ResellingGuide.ai is his independent project — not affiliated with eBay.\n\n## **Optional Next Step**\n\nAt the end of the webinar, you'll have the chance to join the full course: Launch a Profitable Reselling Side Hustle Using the Items You Already Own.\n\nIt's the complete step-by-step system — from your first listing to a repeatable weekly workflow. Attendees get an exclusive discount code, only available at this webinar.",
+    "start_at": "2026-10-14T00:00:00+02:00",
+    "url": "https://www.meetup.com/spain-startup-idea-to-ipo/events/316526980/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Spain  Startup: Idea to IPO",
+    "attendees": 1,
+    "max_tickets": 100,
+    "spots_left": 99,
+    "found_in": [
+      "Startups"
+    ]
+  },
+  {
+    "source": "meetup",
     "source_slug": "Hackathon",
     "source_id": "316524838",
     "name": "AnalyticsCLUB JobExpo Virtual Business, Data & Technology Job Expo",
@@ -568,18 +587,18 @@
   {
     "source": "meetup",
     "source_slug": "Data Science",
-    "source_id": "316564064",
-    "name": "Invitación gratuita a una sesión de cuidado piel y bienestar",
-    "description": "Sabemos que el trabajo emocional que haces no ocurre solo en la mente.El cuerpo también guarda, también procesa, también necesita ser escuchado.\n\nPor eso queremos invitarte a esta experiencia diferente: un espacio para acercarte a tu bienestar físico con la misma atención y respeto con el que trabajas tu mundo interno.\n\nHablaremos de longevidad celular, nutrición y cuidado de la piel, no como una moda estética, sino como otra forma de habitar el cuerpo que sostiene tu proceso.\n\nDurante la sesión podrás:\n* Medir tus niveles de antioxidantes, esa parte silenciosa que protege tus células cada día.\n* Conocer el estado de tu sistema inmunológico, muchas veces reflejo de cómo estamos por dentro.\n* Probar dispositivos pensados para acompañar tu piel, sin presión ni expectativas, solo como un gesto de cuidado.\n\nNo es solo una sesión de belleza ni solo una charla de salud. Es un espacio para conectar con tu cuerpo y entender, desde dentro, cómo cuidarte mejor.\n\nTe esperamos con ganas de compartir este momento contigo.\n\n[Reserva tu plaza AQUÍ](https://forms.gle/sPFRSR943CvgXB1e6)",
-    "start_at": "2026-09-26T11:00:00+02:00",
-    "url": "https://www.meetup.com/sisu-mujeres-en-bienestar-y-consciencia/events/316564064/",
+    "source_id": "316496816",
+    "name": "¿Demasiado perfeccionista? Suelta la Autoexigencia",
+    "description": "**¿Sientes que nada de lo que haces es suficiente?**\nCerramos el ciclo de charlas con un último encuentro para aprender a soltar el látigo de la autoexigencia y empezar a tratarnos de otra manera.\n\n* **Título:** ¿Demasiado perfeccionista?: Suelta la Autoexigencia.\n* **Ponente:** Diana Esteban (Terapeuta de Escenas Matrices).\n* **Fecha:** 29 de Septiembre.\n* **Hora:** 19:00h a 20:30h.\n* **Lugar:** Biblioteca Pública Municipal María Zambrano (Ventilla).\n\nUn espacio de diálogo y reflexión donde compartir experiencias, soltar la presión y descubrir herramientas para mirarte con más calma.\nEntrada libre.\n¡Nos vemos allí!",
+    "start_at": "2026-09-29T19:00:00+02:00",
+    "url": "https://www.meetup.com/viaje-hacia-ti/events/316496816/",
     "event_type": "PHYSICAL",
     "city": "Madrid",
-    "address": "Francisco Silvela 36, planta 1-puerta 3",
-    "organizer": "Sisu · Mujeres en Bienestar y Consciencia",
-    "attendees": 9,
-    "max_tickets": 10,
-    "spots_left": 1,
+    "address": "Pl. de Donoso, 5, Tetuán, 28029 Madrid",
+    "organizer": "Viaje hacia Ti: Crecimiento Personal",
+    "attendees": 1,
+    "max_tickets": 0,
+    "spots_left": null,
     "found_in": [
       "Data Science"
     ]
@@ -607,16 +626,16 @@
   {
     "source": "meetup",
     "source_slug": "DevOps",
-    "source_id": "316329120",
+    "source_id": "316726417",
     "name": "*CONOCER GENTE NUEVA CERVECEO+FLORIDA GALERIA*",
     "description": "**\\*CONOCER GENTE NUEVA CERVECEO+FLORIDA GALERIA\\***\n***¡¡Anímate y ven a pasarlo bien conociendo gente nueva!!***\n\n● Empezamos tomando algo para romper el hielo y conocer a l@s demás.\n● **Si vienes sol@,** no te preocupes te recibimos y presentamos a l@s demás y empiezas a disfrutar de la noche. Así de fácil.\n\n**\\- DIRECCION:** Te informamos el punto de encuentro al confirmar tu asistencia por whatsapp abajo indicado. ¡¡Anímate!! - **\\- ZONA:** Metro Ibiza\n\n● **DESPUÉS 12:00 FLORIDA GALERIA**\nPata continuar disfrutando de la noche nos vamos a \"Florida Galería\" uno de los mejores locales de moda en la noche de Madrid. ¡¡No te lo puedes perder!!\n**-VESTIMENTA:** Arreglado\n**✅●PARA ASISTIR:** Confirmación y solo por WhatsApp al 604136338, indicando nombre y el meetup al que se va a asistir.\n**✅● COSTE:** Gestión 5€, entrega al llegar al coordinador.**Promo chicas** fin de verano 2€ Traerlo justo. Podrás hacer bizum.\n● **GASTOS APARTE** : Cada uno paga lo suyo.\n**✅ Si vienes con invitados** , informales de todo y nos avisas al confirmar asistencia.¡¡¡Lo pasaremos genial!!!\n**\\- CONTACTO Y CONFIRMACION DE ASISTENCIA SOLO POR WHATSAPP**",
-    "start_at": "2026-09-26T22:00:00+02:00",
-    "url": "https://www.meetup.com/meetup-group-erboswim/events/316329120/",
+    "start_at": "2026-10-03T22:00:00+02:00",
+    "url": "https://www.meetup.com/meetup-group-erboswim/events/316726417/",
     "event_type": "PHYSICAL",
     "city": "Madrid",
     "address": "Cale Ibiza",
     "organizer": "NUEVOS AMIGOS",
-    "attendees": 15,
+    "attendees": 8,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -626,40 +645,20 @@
   {
     "source": "meetup",
     "source_slug": "DevOps",
-    "source_id": "316676432",
-    "name": "Nuevo martes de DT y nuevo reto real sobre el que trabajar. ¡Te esperamos!",
-    "description": "Ya tenemos fecha para nuestro Martes de **Design Thinking edición octubre.** ¡El último de 2026!\n\nDespués del éxito de las pasadas ediciones, seguimos con un nuevo reto de una entidad social. En este caso, se trata de la [Asociación VenTEA](https://ventea.es/) una entidad social que trabaja para que los entornos se adapten a las personas neurodivergentes, y no al revés. Serán ellos quienes nos presentarán su reto para que tú diseñes soluciones innovadoras en equipo con las que resolverlo.\n\nEl evento tendrá lugar como siempre en **Puerta Innovación.** Y, entre otras cosas, podrás:\n\n\\* Generar ideas innovadoras para un reto real, trabajando las fases de Ideación y Prototipado de un proceso de Design Thinking.\n\n\\* Volver a reunirte con compañeros de la comunidad, trabajar otra vez con ellos o con nuevos participantes y diseñar soluciones para un reto diferente al anterior.\n\n\\* ¡Conocer más sorpresas! Seguimos poniendo mucho esfuerzo en mejorar nuestros Martes de Design Thinking y mantener esta comunidad que tanto está aportando a todos.\n\n\\* Muchas más cosas que no nos caben aquí ;)\n\n¡Nos vemos el 13 de octubre! Inscríbete cuanto antes, las plazas están limitadas. **Tenemos ganas de volver a verte.**",
-    "start_at": "2026-10-13T18:30:00+02:00",
-    "url": "https://www.meetup.com/grupo-de-meetup-design-thinking-espana/events/316676432/",
+    "source_id": "316726295",
+    "name": "💃🏻🕺🏾NVAS AMISTADES TAPEO+KIOSKOS-FLORIDA PARK",
+    "description": "*Anímate y ven a pasarlo bien.*, empezaremos de tapeo y después en KIOSKOS disfrutaremos del ambientazo con el mejor Flamenquito pop y conociendo gente nueva.\n● **Si vienes sol@,** no te preocupes te recibimos y presentamos a l@s demás y a disfrutar de la experiencia.\n\n**✅DIRECCION:** Te informamos el punto de encuentro al confirmar tu asistencia por whatsapp\\*\\*\n\\- ZONA:\\*\\* Metro Ibiza\n**✅●PARA ASISTIR:** Confirma con tiempo tu asistencia y solo por whatsapp indicando nombre y el meetup al que vas asistir al **604136338**.\n**✅● COSTE:** 5€ entrega al coordinador al llegar, (intenta traerlo justo).\n**● GASTOS APARTE:** Cada uno paga lo suyo.\n● **Si vienes con invitad@s** , informales de todo y nos avisas al confirmar.\n¡¡¡Lo pasaremos genial!!!\n**\\- CONTACTO Y CONFIRMACION DE ASISTENCIA SOLO POR WHATSAPP**",
+    "start_at": "2026-10-01T21:00:00+02:00",
+    "url": "https://www.meetup.com/meetup-group-erboswim/events/316726295/",
     "event_type": "PHYSICAL",
     "city": "Madrid",
-    "address": "C. de Toledo, 110",
-    "organizer": "Grupo de Meetup Design Thinking España",
-    "attendees": 9,
+    "address": "Cale Ibiza",
+    "organizer": "NUEVOS AMIGOS",
+    "attendees": 5,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
       "DevOps"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "DevOps",
-    "source_id": "316676214",
-    "name": "Hack The Box Meetup: Nuestra primera máquina!",
-    "description": "En este meetup vamos a empezar a aprender a usar las herramientas que necesitaremos para vulnerar nuestras máquinas y resolver desafíos.\n\nExplicaremos los fundamentos del campo de la ciberseguridad desde 0, y hackearemos nuestro primer sistema.\n\nTraed vuestro portátil!\n\nNuestro discord: https://discord.gg/7yF7fGCGV5",
-    "start_at": "2026-10-02T16:00:00+02:00",
-    "url": "https://www.meetup.com/meetup-group-ffiltyls/events/316676214/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "C. Nikola Tesla, Puente de Vallecas, 28031 Madrid, Spain",
-    "organizer": "Hack The Box Meetup: Madrid, ES",
-    "attendees": 20,
-    "max_tickets": 30,
-    "spots_left": 10,
-    "found_in": [
-      "DevOps",
-      "Hackathon"
     ]
   },
   {
@@ -703,6 +702,25 @@
   {
     "source": "meetup",
     "source_slug": "Hackathon",
+    "source_id": "316676214",
+    "name": "Hack The Box Meetup: Nuestra primera máquina!",
+    "description": "En este meetup vamos a empezar a aprender a usar las herramientas que necesitaremos para vulnerar nuestras máquinas y resolver desafíos.\n\nExplicaremos los fundamentos del campo de la ciberseguridad desde 0, y hackearemos nuestro primer sistema.\n\nTraed vuestro portátil!\n\nNuestro discord: https://discord.gg/7yF7fGCGV5",
+    "start_at": "2026-10-02T16:00:00+02:00",
+    "url": "https://www.meetup.com/meetup-group-ffiltyls/events/316676214/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "C. Nikola Tesla, Puente de Vallecas, 28031 Madrid, Spain",
+    "organizer": "Hack The Box Meetup: Madrid, ES",
+    "attendees": 21,
+    "max_tickets": 30,
+    "spots_left": 9,
+    "found_in": [
+      "Hackathon"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Hackathon",
     "source_id": "316529421",
     "name": "OPEN DAY",
     "description": "[EVENTOS DEL HACKLAB](https://hacklab.laenre.net/eventos)\n\nHACKLAB LA RAIZ OPEN DAY : VIERNES 5 DE DICIEMBRE.\n\nVen a conocer el espacio y el colectivo!!\nTe encantará ; - )\nCalle de la coruña numer 5 , 3ra planta.\n19:00 - 22:00\nPrimer viernes de cada mes:",
@@ -731,9 +749,9 @@
     "city": "Madrid",
     "address": "https://maps.app.goo.gl/A2pbJ1RsdwyDv84VA",
     "organizer": "Healing Crystal Bowl Sound Bath",
-    "attendees": 5,
+    "attendees": 6,
     "max_tickets": 10,
-    "spots_left": 5,
+    "spots_left": 4,
     "found_in": [
       "Hackathon"
     ]

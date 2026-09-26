@@ -37,9 +37,9 @@
     "city": "Madrid",
     "address": "C. de San Bernardo, 2, Centro, 28013 Madrid",
     "organizer": "Madrid Networking Club",
-    "attendees": 15,
+    "attendees": 16,
     "max_tickets": 120,
-    "spots_left": 105,
+    "spots_left": 104,
     "found_in": [
       "Artificial Intelligence"
     ],
@@ -81,9 +81,9 @@
     "city": "Madrid",
     "address": "de la comunidad, C. de Bravo Murillo, 39, Local interior, Chamberí, 28015 Madrid, Spain",
     "organizer": "Madrid Machine Learning Meetup",
-    "attendees": 26,
+    "attendees": 27,
     "max_tickets": 60,
-    "spots_left": 34,
+    "spots_left": 33,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -104,9 +104,9 @@
     "city": "Madrid",
     "address": "Calle Jorge Juan, 17",
     "organizer": "The Vibe Coding Club Madrid",
-    "attendees": 73,
+    "attendees": 75,
     "max_tickets": 80,
-    "spots_left": 7,
+    "spots_left": 5,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -156,8 +156,7 @@
     "spots_left": null,
     "found_in": [
       "Data Science",
-      "DevOps",
-      "Startups"
+      "DevOps"
     ],
     "lat": 40.4485287,
     "lng": -3.6940143

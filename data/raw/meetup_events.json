@@ -104,9 +104,9 @@
     "city": "Madrid",
     "address": "Calle Jorge Juan, 17",
     "organizer": "The Vibe Coding Club Madrid",
-    "attendees": 78,
+    "attendees": 80,
     "max_tickets": 80,
-    "spots_left": 2,
+    "spots_left": 0,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -242,8 +242,7 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "DevOps",
-      "Hackathon"
+      "DevOps"
     ],
     "lat": 40.4325951,
     "lng": -3.6980319
@@ -303,13 +302,34 @@
     "city": "MADRID",
     "address": "Calle Fuencarral , 3, Madrid",
     "organizer": "Quantum Madrid by Entangle",
-    "attendees": 44,
+    "attendees": 46,
     "max_tickets": 60,
-    "spots_left": 16,
+    "spots_left": 14,
     "found_in": [
       "Hackathon"
     ],
     "lat": 40.4204119,
     "lng": -3.7016001
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Hackathon",
+    "source_id": "316545183",
+    "name": "CRAFT NIGHT",
+    "description": "https://hacklab.laenre.net/eventos.html\n\nCRAFT NIGHT\nA.K.A HACKATON\n\nVen y construye con mas personas proyectos e ideas creativas.\nDesarrolla tu creatividad y une fuerzas con desarrollador@s de todo tipo, juntamos tecnologia, hardware, software libre, periodismo, hacking, filosofia, fisica, matematicas.\n\nhttps://hacklab.laenre.net/projects.html\n\nJulioVerne@Hacklab \\~: Todo lo que una persona puede imaginar, otra persona podra hacerlo.",
+    "start_at": "2026-10-16T18:30:00+02:00",
+    "url": "https://www.meetup.com/hacklab/events/316545183/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "calle coruña 5",
+    "organizer": "Hacklab La Raiz",
+    "attendees": 2,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Hackathon"
+    ],
+    "lat": 37.7786423,
+    "lng": -3.8006506
   }
 ]

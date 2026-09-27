@@ -18,9 +18,9 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 145,
-      "sold_out": false,
-      "waitlist_active": false,
+      "guest_count": 150,
+      "sold_out": true,
+      "waitlist_active": true,
       "registration_deadline": null
     },
     "found_on_platforms": [
@@ -474,9 +474,9 @@
     "lat": 38.9879607,
     "lng": -1.845739,
     "extra": {
-      "attendees": 78,
+      "attendees": 80,
       "max_tickets": 80,
-      "spots_left": 2
+      "spots_left": 0
     },
     "found_on_platforms": [
       "meetup"
@@ -688,9 +688,9 @@
     "lat": 40.4204119,
     "lng": -3.7016001,
     "extra": {
-      "attendees": 44,
+      "attendees": 46,
       "max_tickets": 60,
-      "spots_left": 16
+      "spots_left": 14
     },
     "found_on_platforms": [
       "meetup"
@@ -702,6 +702,31 @@
       "comida_gratis": "no",
       "se_graba": "no_especificado"
     }
+  },
+  {
+    "id": "meetup:316545183",
+    "source": "meetup",
+    "source_id": "316545183",
+    "name": "CRAFT NIGHT",
+    "description": "https://hacklab.laenre.net/eventos.html\n\nCRAFT NIGHT\nA.K.A HACKATON\n\nVen y construye con mas personas proyectos e ideas creativas.\nDesarrolla tu creatividad y une fuerzas con desarrollador@s de todo tipo, juntamos tecnologia, hardware, software libre, periodismo, hacking, filosofia, fisica, matematicas.\n\nhttps://hacklab.laenre.net/projects.html\n\nJulioVerne@Hacklab \\~: Todo lo que una persona puede imaginar, otra persona podra hacerlo.",
+    "start_at": "2026-10-16T18:30:00+02:00",
+    "end_at": null,
+    "url": "https://www.meetup.com/hacklab/events/316545183/",
+    "city": "Madrid",
+    "address": "calle coruña 5",
+    "organizer": "Hacklab La Raiz",
+    "lat": 37.7786423,
+    "lng": -3.8006506,
+    "extra": {
+      "attendees": 2,
+      "max_tickets": 0,
+      "spots_left": null
+    },
+    "found_on_platforms": [
+      "meetup"
+    ],
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "eventbrite:1988983807109",

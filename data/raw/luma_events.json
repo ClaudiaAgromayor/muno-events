@@ -20,9 +20,9 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 145,
-    "sold_out": false,
-    "waitlist_active": false,
+    "guest_count": 150,
+    "sold_out": true,
+    "waitlist_active": true,
     "registration_deadline": null,
     "lat": 40.394282541422804,
     "lng": -3.6990652900692425

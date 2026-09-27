@@ -21,6 +21,25 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
+    "source_id": "316593085",
+    "name": "Depurar medidas DAX en modelos semánticos",
+    "description": "En esta sesión práctica veremos varias técnicas para depurar medidas que van desde el uso de variables DAX al trabajo con herramientas externas como DAX Studio y Tabular Editor.",
+    "start_at": "2026-10-29T19:00:00+01:00",
+    "url": "https://www.meetup.com/power-platform-madrid/events/316593085/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Power Platform Madrid",
+    "attendees": 5,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
     "source_id": "316680054",
     "name": "*ULTIMA EDICION* Master en Deep Learning con IA Agéntica",
     "description": "\\*\\*\\*\\* ÚLTIMA EDICIÓN CON MÓDULO IA AGÉNTICA \\*\\*\\*\\*\n\nSi quieres trabajar con IA en modelos de imagen, texto, audio... no lo dejes pasar. Contenido totalmente actualizado, módulo de IA Agéntica y docentes profesionales con amplia experiencia en proyectos de IA en todos los sectores.\nESTA SERÁ LA ÚLTIMA EDICIÓN DE LA FORMACIÓN. Como siempre, el soporte de docentes y todo el equipo Datamecum está más que garantizado antes, durante y después de la formación.\n**3**ª 𝗲𝗱. 𝗠𝗔𝗦𝗧𝗘𝗥 𝗗𝗘𝗘𝗣 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 𝗖𝗢𝗡 𝗜𝗔 **AGÉNTICA**\n𝟮.𝟮𝟵𝟱€ con 180h. clases online 𝗲𝗻 𝗱𝗶𝗿𝗲𝗰𝘁𝗼 que se graban + TFM\nDuración: 2 octubre 2026 al 16 abril 2027\nHorario: Viernes 16-20h y Sábados 9-13h. TODAS LAS CLASES SE GRABAN\nContenido e inscripción en el link [https://datamecum.com/master-en-deep-learning-con-ia-agentica/](https://datamecum.com/master-en-deep-learning-con-ia-agentica/)\n👉 [ruth.gamero@datamecum.com](mailto:ruth.gamero@datamecum.com)\n📞 [613.08.30.04](http://613.08.30.04/) Whatsapp o llamada tradicional\n\n+++++ CÓDIGO DE CONDUCTA +++++\nPropósito:\nEste grupo de Meetup cree en una comunidad abierta a todo el mundo. Como tal, estamos comprometidos a proporcionar un ambiente amigable, seguro y acogedor para todos independientemente de su orientación sexual, religión o sistema operativo preferido.\nEste código de conducta resume nuestras expectativas para el comportamiento de los participantes así como las consecuencias para el comportamiento inaceptable.\nComportamiento esperado:\nSer considerado, respetuoso y colaborativo. Abstenerse de comportamiento degradante, discriminatorio o de acoso. Alertar a los organizadores al observar una situación peligrosa o de riesgo. Participar de una manera auténtica y activa.\nComportamiento inaceptable:\nIntimidación. Abuso. Conducta discriminatoria/ofensiva relacionado con el género, raza, religión o discapacidad. Tratamiento despectivo o degradante. Acoso. Uso inadecuado de desnudez y/o imágenes sexuales. Interrupción sostenida de charlas u otros eventos.\nConsecuencias de un comportamiento inaceptable:\nLos organizadores pueden tomar cualquier acción que consideren apropiada, incluso la expulsión del evento sin previo aviso o reembolso.\nQué hacer si eres testigo u objeto de un comportamiento inaceptable:\nSi estás involucrado en un comportamiento inaceptable, eres testigo de dicho comportamiento o cualquier situación similar, por favor notifícalo al organizador del evento tan pronto como sea posible.\nInformación de contacto:\nCualquier participante puede ponerse en contacto con la organización a través del contacto de MeetUp.\nÁmbito de aplicación:\nEsperamos que todos los participantes del evento (patrocinadores, voluntarios, ponentes, asistentes y otros invitados) cumplan con el código de conducta en todas las reuniones virtuales y eventos presenciales organizados por este grupo de MeetUp.",
@@ -37,25 +56,6 @@
       "Artificial Intelligence",
       "Machine Learning",
       "Data Science"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
-    "source_id": "316593085",
-    "name": "Depurar medidas DAX en modelos semánticos",
-    "description": "En esta sesión práctica veremos varias técnicas para depurar medidas que van desde el uso de variables DAX al trabajo con herramientas externas como DAX Studio y Tabular Editor.",
-    "start_at": "2026-10-29T19:00:00+01:00",
-    "url": "https://www.meetup.com/power-platform-madrid/events/316593085/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Power Platform Madrid",
-    "attendees": 5,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence"
     ]
   },
   {
@@ -181,25 +181,6 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
-    "source_id": "316485518",
-    "name": "AI × Decentralized Trust: Kickoff of the LFDT AI Working Group",
-    "description": "AI is already in our pull requests — and agentic AI needs exactly what we build. Let's talk about both.\n\nAI has already arrived in our repositories. It writes patches, reviews pull requests, and is often the first thing a newcomer asks about a codebase they don't understand yet. At the same time, agentic AI is arriving from the other direction — as a use case. Autonomous agents need identities they can prove, credentials others can verify, and a way to pay each other for the things they consume. That is our home turf.\n\nLFDT has no shared position on either side of this yet. This meeting launches the LFDT AI Working Group and sets its scope together with the people who will do the work.\n\nWe will open three questions:\n\n**How do we use AI when building LFDT projects? What** is allowed, what has to be disclosed, and what does it mean for provenance, licensing, DCO sign-off, and security review? The Linux Foundation's existing generative AI guidance is the floor — the question is what our projects need on top of it.\n\n**Can AI help us grow our communities?** Review bots like CodeRabbit, automated triage of good first issues, and onboarding assistants promise a shorter path from first-time contributor to committer. Do they actually deliver that, or do they just add noise for maintainers to clean up? And if we want them, who runs them and who pays?\n\n**Where does our work connect to the AI world?** Two neighbours at the Linux Foundation matter most: the Agentic AI Foundation (MCP, goose, AGENTS.md) and the x402 Foundation, which stewards payments over HTTP for agents. Agentic identity and agent-to-agent commerce are exactly where DLT belongs — and where LFDT projects should be visible.\n\nThis is a kickoff, not a keynote. Bring your opinions, your objections, and the problems you already have. We want to leave with an initial scope, a meeting cadence, and named volunteers for the first work streams.\n\nOpen to everyone: maintainers, contributors, TSC members, LFDT staff, and anyone from the wider Linux Foundation AI ecosystem. No prior involvement in LFDT required.\n\n**Zoom Meeting Link**: [https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09](https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09)\n\n**Please note: This event is being shared with our entire global community. If you're interested in this content but can't attend the event live, feel free to sign up and we will send you a link to the recording after the meetup is over.**",
-    "start_at": "2026-10-06T18:00:00+02:00",
-    "url": "https://www.meetup.com/lfdt-madrid/events/316485518/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "LFDT Madrid",
-    "attendees": 2,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
     "source_id": "316572400",
     "name": "Oct 15 - AI, ML, and Computer Vision Meetup",
     "description": "Join our virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision.\n\n**Time, Place and Location**\n\nOct 15, 2026\n9:00 AM - 11:00 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-october-15-2026)**\n\n**Testing AI Systems in Production: Data Quality, Drift, and Model Evaluation**\n\nAI systems can pass offline evaluation and still fail in production when real-world data changes, features become stale, labels or feedback signals are incomplete, or model behavior drifts away from expected outcomes. This talk shares practical patterns for testing and evaluating AI systems after deployment, including data quality checks, drift detection, online/offline metric comparison, model monitoring, and rollback analysis.\n\nUsing personalization and recommendation systems as examples, we will examine how teams can build evaluation workflows that catch quality issues before users do. Attendees will leave with a practical checklist for making AI-backed systems easier to evaluate, debug, and operate as data changes over time.\n\n*About the Speaker*\n\n[Jayakumar Ramalingam](https://www.linkedin.com/in/jayakumarramalingam) is a Staff Software Engineer and Cloud Architect at SiriusXM with over 16 years of experience building cloud-native platforms, real-time data pipelines, resilient APIs, and AI/ML-enabled applications at production scale.\n\n**Where Should Your Model Live? A Framework for Tiering Computer Vision Deployments**\n\nWhere should a computer vision model actually run - on-device, near the edge, or in the cloud? It's a decision that looks simple until requirements like latency, cost, connectivity, and update cadence start pulling in different directions, often revealing themselves only after deployment.\n\nDrawing on hands-on experience developing and deploying CV models across Hailo, Nvidia, Qualcomm and AWS platforms, this talk introduces a practical framework for tiering computer vision deployments based on real project requirements and constraints. Discussion will include what changes at each tier - from development to deployment to monitoring and update strategy - with relevant industry examples.\n\nAttendees will leave with a set of questions or a framework they can use to place their own CV projects into the right tier.\n\n*About the Speaker*\n\n[Ajaykumaar Sivacoumare](https://www.linkedin.com/in/ajay-sa/) is an AI Software Engineer specializing in computer vision and edge AI, with production experience developing and deploying CV models across Nvidia, Hailo, Qualcomm and AWS-based platforms.\n\n**From 2D Slices to 3D Tumors: Lightweight Volumetric Detection Without Heavy 3D Networks**\n\nSlice-wise 2D detectors are fast and scalable, but they struggle to produce reliable 3D bounding boxes from volumetric medical data. This talk presents YOLO-PVC, a lightweight post-processing framework that consolidates slice-wise YOLO detections into coherent 3D bounding boxes using percentile-based geometric aggregation and a minimal MLP calibration module.\n\nThis talk demonstrates consistent improvements in volumetric IoU across three liver tumor categories i.e., HCC, CCA, and Mixed, without requiring dense 3D annotations or memory-intensive architectures. The talk covers the clinical motivation, the technical approach, and practical lessons from deploying computer vision on real hospital MRI data.\n\n*About the Speaker*\n\n[Talha Waqas](https://www.linkedin.com/in/mtalha-waqas-255557144/) is a second-year PhD student at ESME Research Lab, Paris and LISSI, Université Paris-Est, working on computer vision applied to medical imaging, with a focus on tumor classification, detection, and segmentation in multi-phase liver MRI.\n\n**The Two-Loop Architecture for Voice AI**\n\nBuilding responsive voice AI requires balancing latency with intelligence. This talk introduces a practical architecture that separates real-time conversation from asynchronous reasoning, enabling richer interactions without slowing the user experience. The session covers reusable design patterns drawn from production-inspired conversational AI systems.\n\n*About the Speaker*\n\n[Abhinav Tushar](https://lepisma.xyz/wiki/about/) is an ML engineer and researcher specializing in Conversational AI and Speech Technology.",
@@ -220,6 +201,25 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
+    "source_id": "316485518",
+    "name": "AI × Decentralized Trust: Kickoff of the LFDT AI Working Group",
+    "description": "AI is already in our pull requests — and agentic AI needs exactly what we build. Let's talk about both.\n\nAI has already arrived in our repositories. It writes patches, reviews pull requests, and is often the first thing a newcomer asks about a codebase they don't understand yet. At the same time, agentic AI is arriving from the other direction — as a use case. Autonomous agents need identities they can prove, credentials others can verify, and a way to pay each other for the things they consume. That is our home turf.\n\nLFDT has no shared position on either side of this yet. This meeting launches the LFDT AI Working Group and sets its scope together with the people who will do the work.\n\nWe will open three questions:\n\n**How do we use AI when building LFDT projects? What** is allowed, what has to be disclosed, and what does it mean for provenance, licensing, DCO sign-off, and security review? The Linux Foundation's existing generative AI guidance is the floor — the question is what our projects need on top of it.\n\n**Can AI help us grow our communities?** Review bots like CodeRabbit, automated triage of good first issues, and onboarding assistants promise a shorter path from first-time contributor to committer. Do they actually deliver that, or do they just add noise for maintainers to clean up? And if we want them, who runs them and who pays?\n\n**Where does our work connect to the AI world?** Two neighbours at the Linux Foundation matter most: the Agentic AI Foundation (MCP, goose, AGENTS.md) and the x402 Foundation, which stewards payments over HTTP for agents. Agentic identity and agent-to-agent commerce are exactly where DLT belongs — and where LFDT projects should be visible.\n\nThis is a kickoff, not a keynote. Bring your opinions, your objections, and the problems you already have. We want to leave with an initial scope, a meeting cadence, and named volunteers for the first work streams.\n\nOpen to everyone: maintainers, contributors, TSC members, LFDT staff, and anyone from the wider Linux Foundation AI ecosystem. No prior involvement in LFDT required.\n\n**Zoom Meeting Link**: [https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09](https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09)\n\n**Please note: This event is being shared with our entire global community. If you're interested in this content but can't attend the event live, feel free to sign up and we will send you a link to the recording after the meetup is over.**",
+    "start_at": "2026-10-06T18:00:00+02:00",
+    "url": "https://www.meetup.com/lfdt-madrid/events/316485518/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "LFDT Madrid",
+    "attendees": 2,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
     "source_id": "316064663",
     "name": "Oct 7 - Building Composable Vision Workflows in FiftyOne",
     "description": "This workshop explores the [FiftyOne](https://docs.voxel51.com/index.html) plugin framework to build custom computer vision applications. You’ll learn to extend the FiftyOne App with Python based panels and server side operators, as well as integrate external tools for labeling, vector search, and model inference into your dataset views.\n\n**Date, Time and Location**\n\nOct 7, 2026\n9 AM - 10 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/building-composable-vision-workflows-in-fiftyone-october-7-2026)**\n\nYou’ll also automate repetitive tasks by writing custom workflows executing within the FiftyOne environment. Attendees will learn to transform FiftyOne from a visualization tool into a central hub for your vision stack.\n\nWhat you'll learn:\n\n* **Build Python plugins.** Define plugin manifests and directory structures to register custom functionality within the FiftyOne ecosystem.\n* **Develop server side operators.** Write functions to execute model inference, data cleaning, or metadata updates from the App interface.\n* **Build interactive panels.** Create custom UI dashboards using to visualize model metrics or specialized dataset distributions.\n* **Manage operator execution contexts.** Pass data between the App front end and your backend to build dynamic user workflows.\n* **Implement delegated execution.** Configure background workers to handle long running data processing tasks without blocking the user interface.\n* **Build labeling integrations.** Streamline the flow of data between FiftyOne and annotation platforms through custom triggers and ingestion scripts.\n* **Extend vector database support.** Program custom connectors for external vector stores to enable semantic search across large sample datasets.\n* **Package and share plugins.** Distribute your extensions internally and externally",
@@ -234,8 +234,7 @@
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence",
-      "Machine Learning",
-      "Data Science"
+      "Machine Learning"
     ]
   },
   {
@@ -319,6 +318,25 @@
   {
     "source": "meetup",
     "source_slug": "Data Science",
+    "source_id": "316695138",
+    "name": "Applied AI Ethics MonthlyMixer - Where Innovation Meets Responsibility",
+    "description": "Join a global, open-format gathering for those building and questioning AI — from real-world use cases to critical conversations around ethics, bias, and transparency.\nEvery month, we create space for developers, researchers, and policymakers to connect in meaningful, unmoderated dialogue — with flexible chats, peer learning, and 1-on-1 video networking.\nWatch how it works: **[https://www.youtube.com/watch?v=bOYkxBjrAYY](https://www.youtube.com/watch?v=bOYkxBjrAYY)**\n**What Is the Applied AI & Ethics #MonthlyMixer?**\nThe Applied AI & Ethics MonthlyMixer is a self-directed online networking event where professionals from across the AI spectrum come together to collaborate, question, and connect.\nThis isn’t a webinar or panel — it’s a structured-free, chat-first environment hosted on a Slack-like virtual platform, featuring topic-specific channels and private video or text chat options.\nWhether you're designing algorithms, drafting policy, or advocating for responsible tech, this is your space to exchange ideas, showcase projects, or meet others who care about building AI with integrity and impact.\n**Who Should Join:**\n\n* AI/ML developers working on real-world deployments\n* Policy makers and legal experts exploring AI governance\n* Data scientists interested in ethical model design\n* Academics and researchers studying AI and society\n* Ethicists, community leaders, and social impact advocates\n* Product leaders balancing innovation with responsibility\n\nWhether you're launching applied AI tools or questioning their societal effects, this mixer welcomes your perspective.\n**Explore These Channels Inside:**\nThe platform provides themed group discussions to help you navigate the topics that matter most:\n\n* #general – Start with introductions, announcements, and cross-topic conversation\n* #networking – Share your portfolio, white papers, startups, or ethical AI tools\n* #intros – Tell your story: what you work on and why it matters\n* #help-wanted – Request or offer guidance around data ethics, fairness, or responsible deployment\n* #industry-room-tech – Dive deep into real-world cases, AI misuse, explainability, and bias mitigation\n\nYou’ll also be able to chat directly and launch 1-on-1 video calls for deeper conversations.\n**When & Where?**\n\n* Second Wednesday of Every month\n* 5:00 PM – 7:00 PM (your local time)\n* Register from the platform here - [https://events.tao.ai/pod/analytics.club/cont-r8tfbvicrqsh](https://events.tao.ai/pod/analytics.club/cont-r8tfbvicrqsh)\n\nNo login hurdles. No presentations. Just people-driven dialogue.\n**Why Join?**\n\n* Global gathering of AI professionals shaping the future responsibly\n* Self-led chats & 1-on-1 networking with values-aligned peers\n* Exchange insights, frameworks, and use cases for applied AI\n* Build your ethical AI toolkit and collaborative network\n* Reconnect monthly to deepen the conversation\n\n**Questions or Suggestions?**\nWe’re always listening.\nContact us anytime at: [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n**Quick Links:**\n\n* Explainer Video: [https://www.youtube.com/watch?v=bOYkxBjrAYY](https://www.youtube.com/watch?v=bOYkxBjrAYY)\n* Support Page: [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**Hashtags for Discovery & Engagement**\n#AppliedAI #EthicalAI #AIEthics #ResponsibleTech #MonthlyMixer #AIGovernance #AIandSociety #FairAI #BiasInAI #TechForGood #AINetworking #AIProfessionals #GlobalAICommunity",
+    "start_at": "2026-10-14T17:00:00+02:00",
+    "url": "https://www.meetup.com/ac-mad/events/316695138/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Analytics.CLUB Madrid",
+    "attendees": 1,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Data Science",
     "source_id": "316514403",
     "name": "AI For Work | Webinar",
     "description": "**AI for Work \\| Free Live Webinar**\n\n**Pre-Registration is REQUIRED. Joining link -**\n[https://streamyard.com/watch/QnfhUjb7qQXs](https://streamyard.com/watch/QnfhUjb7qQXs?utm_source=luma)\n\n## ​WHEN\n\n​**September 30 at 1:00 PM ET**\n**45-minute live webinar**\n\n## ​WHO SHOULD JOIN?\n\n​This session is for people who already use tools like ChatGPT or Claude, but want to go beyond asking questions and start using AI to actually get work done.\n​It’s especially useful for:\n\n* ​Product and project managers\n* ​Operations and process leads\n* ​Marketing and admin professionals\n* ​Founders and small business teams\n* ​Career changers and AI beginners\n* ​Anyone looking to automate everyday work without coding\n\n​Come curious. No coding, setup, or technical background required.\n\nWHAT YOU’LL LEARN\n\nIn this free, 45-minute hands-on session, ODSC's Sheamus McGovern shows you the difference between chatting with AI and putting it to work.\n\nYou'll watch Cowork sort a messy folder of files into order, turn raw notes and spreadsheets into a polished, ready-to-send document, and set up recurring work that runs on its own, no prompting required.\n\nJust the everyday tasks you can hand off to AI that eat your week: filing, formatting, summarizing, following up, etc.\n\nLeave with one task you can delegate this week, and a clear next step for what to automate after that.\n\n**​Stay Connected**\n\n* ​**Learn:** Free talks and trainings on the [Ai+ Training platform](https://aiplus.training/?utm_source=luma).\n* ​**Read:** The latest in AI research on the [ODSC Blog](https://opendatascience.com/?utm_source=luma).\n* ​**Chat:** Join the conversation in our [Slack Channel](https://www.google.com/search?q=https%3A%2F%2Fodsc.com%2Fslack&utm_source=luma).\n* ​**Community:** Review our [Code of Conduct](https://odsc.com/code-of-conduct/?utm_source=luma).",
@@ -357,25 +375,6 @@
   {
     "source": "meetup",
     "source_slug": "DevOps",
-    "source_id": "316692089",
-    "name": "From Automation to Agentic ERP: Reuse Oracle Integration for Governed AI Actions",
-    "description": "AI agents are changing how people interact with enterprise applications—but enabling agentic experiences shouldn’t require organizations to rebuild the trusted business automations that already run their ERP operations.\n\nIn this session, learn how Oracle Integration can provide the execution foundation for agentic experiences in Oracle Fusion Cloud ERP. See how an AI agent can understand user intent and determine the next best action, while Oracle Integration delivers deterministic execution, orchestration, security, and enterprise controls.\n\nThrough a practical ERP scenario, we’ll demonstrate how an agent can reuse an existing business automation to complete meaningful work—without recreating ERP transaction logic inside the agent. We’ll also explore how Model Context Protocol (MCP) can make business capabilities available to agents, while authentication, authorization, approvals, and auditability help ensure governed execution.\n\nThe takeaway: your ERP automation investment doesn’t disappear in the agentic era—it becomes the trusted foundation that enables AI agents to take secure, consistent, and governed action.\nSpeakers: Praveen Morusupalli and Prakash Masand\nSchedule: September 29th 2026 7.30 – 8:30 PST (Los Angeles time) 16:30 - 17:30 CET (Berlin time) 20:00 - 21:00 IST (Bengaluru time)\n[Please register for the webcast here.](https://go.oracle.com/LP=154785?elqCampaignId=678081)",
-    "start_at": "2026-09-29T16:30:00+02:00",
-    "url": "https://www.meetup.com/oracle-developer-meetup-spain/events/316692089/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Oracle Developer Meetup Madrid",
-    "attendees": 2,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "DevOps"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "DevOps",
     "source_id": "316118455",
     "name": "FabricOps: Operating Hyperledger Fabric Networks on Kubernetes",
     "description": "[FabricOps is an LF Decentralized Trust Lab](https://github.com/LF-Decentralized-Trust-labs/FabricOps) that provides a Kubernetes operator and CLI for provisioning and operating multi-organization Hyperledger Fabric networks from declarative, Fablo-style configuration.\n\nIn this meetup, Pereowei Daniel will introduce the motivation behind FabricOps, especially the gap between local Fabric development with tools like Fablo and production-oriented Kubernetes deployment. The session will cover how FabricOps reconciles Fabric network intent into Kubernetes resources, including Fabric CA enrollment, MSP/TLS material, orderers, peers, channels, Chaincode-as-a-Service lifecycle, observability, and federated organization joining.\n\nThe meetup will also discuss how FabricOps can complement existing ecosystem efforts such as Fablo, Fabric Operator, hlf-operator, and Hyperledger Bevel, and where the project may fit into the broader Fabric and Fabric-X roadmap.\n\n**Zoom Meeting Link**: [https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09](https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09)\n\n**Please note: This event is being shared with our entire global community. If you're interested in this content but can't attend the event live, feel free to sign up and we will send you a link to the recording after the meetup is over.**",
@@ -386,6 +385,25 @@
     "address": "",
     "organizer": "LFDT Madrid",
     "attendees": 1,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "316692089",
+    "name": "From Automation to Agentic ERP: Reuse Oracle Integration for Governed AI Actions",
+    "description": "AI agents are changing how people interact with enterprise applications—but enabling agentic experiences shouldn’t require organizations to rebuild the trusted business automations that already run their ERP operations.\n\nIn this session, learn how Oracle Integration can provide the execution foundation for agentic experiences in Oracle Fusion Cloud ERP. See how an AI agent can understand user intent and determine the next best action, while Oracle Integration delivers deterministic execution, orchestration, security, and enterprise controls.\n\nThrough a practical ERP scenario, we’ll demonstrate how an agent can reuse an existing business automation to complete meaningful work—without recreating ERP transaction logic inside the agent. We’ll also explore how Model Context Protocol (MCP) can make business capabilities available to agents, while authentication, authorization, approvals, and auditability help ensure governed execution.\n\nThe takeaway: your ERP automation investment doesn’t disappear in the agentic era—it becomes the trusted foundation that enables AI agents to take secure, consistent, and governed action.\nSpeakers: Praveen Morusupalli and Prakash Masand\nSchedule: September 29th 2026 7.30 – 8:30 PST (Los Angeles time) 16:30 - 17:30 CET (Berlin time) 20:00 - 21:00 IST (Bengaluru time)\n[Please register for the webcast here.](https://go.oracle.com/LP=154785?elqCampaignId=678081)",
+    "start_at": "2026-09-29T16:30:00+02:00",
+    "url": "https://www.meetup.com/oracle-developer-meetup-spain/events/316692089/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Oracle Developer Meetup Madrid",
+    "attendees": 2,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -615,30 +633,11 @@
     "city": "Madrid",
     "address": "Pl. de Manuel Gómez-Moreno, 2, Tetuán, 28020 Madrid, Spain",
     "organizer": "GoMAD - Madrid Go UG",
-    "attendees": 29,
+    "attendees": 30,
     "max_tickets": 60,
-    "spots_left": 31,
+    "spots_left": 30,
     "found_in": [
       "Data Science",
-      "DevOps"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "DevOps",
-    "source_id": "316726417",
-    "name": "*CONOCER GENTE NUEVA CERVECEO+FLORIDA GALERIA*",
-    "description": "**\\*CONOCER GENTE NUEVA CERVECEO+FLORIDA GALERIA\\***\n***¡¡Anímate y ven a pasarlo bien conociendo gente nueva!!***\n\n● Empezamos tomando algo para romper el hielo y conocer a l@s demás.\n● **Si vienes sol@,** no te preocupes te recibimos y presentamos a l@s demás y empiezas a disfrutar de la noche. Así de fácil.\n\n**\\- DIRECCION:** Te informamos el punto de encuentro al confirmar tu asistencia por whatsapp abajo indicado. ¡¡Anímate!! - **\\- ZONA:** Metro Ibiza\n\n● **DESPUÉS 12:00 FLORIDA GALERIA**\nPata continuar disfrutando de la noche nos vamos a \"Florida Galería\" uno de los mejores locales de moda en la noche de Madrid. ¡¡No te lo puedes perder!!\n**-VESTIMENTA:** Arreglado\n**✅●PARA ASISTIR:** Confirmación y solo por WhatsApp al 604136338, indicando nombre y el meetup al que se va a asistir.\n**✅● COSTE:** Gestión 5€, entrega al llegar al coordinador.**Promo chicas** fin de verano 2€ Traerlo justo. Podrás hacer bizum.\n● **GASTOS APARTE** : Cada uno paga lo suyo.\n**✅ Si vienes con invitados** , informales de todo y nos avisas al confirmar asistencia.¡¡¡Lo pasaremos genial!!!\n**\\- CONTACTO Y CONFIRMACION DE ASISTENCIA SOLO POR WHATSAPP**",
-    "start_at": "2026-10-03T22:00:00+02:00",
-    "url": "https://www.meetup.com/meetup-group-erboswim/events/316726417/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "Cale Ibiza",
-    "organizer": "NUEVOS AMIGOS",
-    "attendees": 8,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
       "DevOps"
     ]
   },
@@ -663,6 +662,25 @@
   },
   {
     "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "316726417",
+    "name": "*CONOCER GENTE NUEVA CERVECEO+FLORIDA GALERIA*",
+    "description": "**\\*CONOCER GENTE NUEVA CERVECEO+FLORIDA GALERIA\\***\n***¡¡Anímate y ven a pasarlo bien conociendo gente nueva!!***\n\n● Empezamos tomando algo para romper el hielo y conocer a l@s demás.\n● **Si vienes sol@,** no te preocupes te recibimos y presentamos a l@s demás y empiezas a disfrutar de la noche. Así de fácil.\n\n**\\- DIRECCION:** Te informamos el punto de encuentro al confirmar tu asistencia por whatsapp abajo indicado. ¡¡Anímate!! - **\\- ZONA:** Metro Ibiza\n\n● **DESPUÉS 12:00 FLORIDA GALERIA**\nPata continuar disfrutando de la noche nos vamos a \"Florida Galería\" uno de los mejores locales de moda en la noche de Madrid. ¡¡No te lo puedes perder!!\n**-VESTIMENTA:** Arreglado\n**✅●PARA ASISTIR:** Confirmación y solo por WhatsApp al 604136338, indicando nombre y el meetup al que se va a asistir.\n**✅● COSTE:** Gestión 5€, entrega al llegar al coordinador.**Promo chicas** fin de verano 2€ Traerlo justo. Podrás hacer bizum.\n● **GASTOS APARTE** : Cada uno paga lo suyo.\n**✅ Si vienes con invitados** , informales de todo y nos avisas al confirmar asistencia.¡¡¡Lo pasaremos genial!!!\n**\\- CONTACTO Y CONFIRMACION DE ASISTENCIA SOLO POR WHATSAPP**",
+    "start_at": "2026-10-03T22:00:00+02:00",
+    "url": "https://www.meetup.com/meetup-group-erboswim/events/316726417/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Cale Ibiza",
+    "organizer": "NUEVOS AMIGOS",
+    "attendees": 8,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
     "source_slug": "Startups",
     "source_id": "316369827",
     "name": "Business Networking | PNM Octubre 🌇 Rooftop",
@@ -673,7 +691,7 @@
     "city": "Madrid",
     "address": "Calle de Atocha, 123, Centro, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 153,
+    "attendees": 158,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -711,9 +729,9 @@
     "city": "Madrid",
     "address": "C. Nikola Tesla, Puente de Vallecas, 28031 Madrid, Spain",
     "organizer": "Hack The Box Meetup: Madrid, ES",
-    "attendees": 23,
+    "attendees": 24,
     "max_tickets": 30,
-    "spots_left": 7,
+    "spots_left": 6,
     "found_in": [
       "Hackathon"
     ]
@@ -749,9 +767,9 @@
     "city": "Madrid",
     "address": "https://maps.app.goo.gl/A2pbJ1RsdwyDv84VA",
     "organizer": "Healing Crystal Bowl Sound Bath",
-    "attendees": 7,
+    "attendees": 6,
     "max_tickets": 10,
-    "spots_left": 3,
+    "spots_left": 4,
     "found_in": [
       "Hackathon"
     ]

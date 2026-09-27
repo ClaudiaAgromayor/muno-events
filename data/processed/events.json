@@ -18,7 +18,7 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 145,
+      "guest_count": 144,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -53,7 +53,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 68,
+      "guest_count": 81,
       "sold_out": true,
       "waitlist_active": false,
       "registration_deadline": null
@@ -359,9 +359,9 @@
     "lat": null,
     "lng": null,
     "extra": {
-      "attendees": 33,
+      "attendees": 35,
       "max_tickets": 35,
-      "spots_left": 2
+      "spots_left": 0
     },
     "found_on_platforms": [
       "meetup"
@@ -389,9 +389,9 @@
     "lat": 40.4207507,
     "lng": -3.708179,
     "extra": {
-      "attendees": 16,
+      "attendees": 17,
       "max_tickets": 120,
-      "spots_left": 104
+      "spots_left": 103
     },
     "found_on_platforms": [
       "meetup"
@@ -479,9 +479,9 @@
     "lat": 38.9879607,
     "lng": -1.845739,
     "extra": {
-      "attendees": 77,
+      "attendees": 76,
       "max_tickets": 80,
-      "spots_left": 3
+      "spots_left": 4
     },
     "found_on_platforms": [
       "meetup"

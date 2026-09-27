@@ -11,9 +11,9 @@
     "city": "Madrid",
     "address": "P.º de La Habana, 9, 11, Chamartín, 28036 Madrid, Spain",
     "organizer": "Sirviendo Código",
-    "attendees": 33,
+    "attendees": 35,
     "max_tickets": 35,
-    "spots_left": 2,
+    "spots_left": 0,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -37,9 +37,9 @@
     "city": "Madrid",
     "address": "C. de San Bernardo, 2, Centro, 28013 Madrid",
     "organizer": "Madrid Networking Club",
-    "attendees": 16,
+    "attendees": 17,
     "max_tickets": 120,
-    "spots_left": 104,
+    "spots_left": 103,
     "found_in": [
       "Artificial Intelligence"
     ],
@@ -104,9 +104,9 @@
     "city": "Madrid",
     "address": "Calle Jorge Juan, 17",
     "organizer": "The Vibe Coding Club Madrid",
-    "attendees": 77,
+    "attendees": 76,
     "max_tickets": 80,
-    "spots_left": 3,
+    "spots_left": 4,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -217,7 +217,7 @@
     "city": "Madrid",
     "address": "Plaza de Manuel Gómez-Moreno, 2, Tetuán, 28020",
     "organizer": "Madrid DevOps",
-    "attendees": 30,
+    "attendees": 29,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

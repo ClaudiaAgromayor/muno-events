@@ -104,9 +104,9 @@
     "city": "Madrid",
     "address": "Calle Jorge Juan, 17",
     "organizer": "The Vibe Coding Club Madrid",
-    "attendees": 76,
+    "attendees": 78,
     "max_tickets": 80,
-    "spots_left": 4,
+    "spots_left": 2,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -217,7 +217,7 @@
     "city": "Madrid",
     "address": "Plaza de Manuel Gómez-Moreno, 2, Tetuán, 28020",
     "organizer": "Madrid DevOps",
-    "attendees": 29,
+    "attendees": 28,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -303,9 +303,9 @@
     "city": "MADRID",
     "address": "Calle Fuencarral , 3, Madrid",
     "organizer": "Quantum Madrid by Entangle",
-    "attendees": 42,
+    "attendees": 44,
     "max_tickets": 60,
-    "spots_left": 18,
+    "spots_left": 16,
     "found_in": [
       "Hackathon"
     ],

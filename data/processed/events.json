@@ -18,7 +18,7 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 144,
+      "guest_count": 145,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -53,7 +53,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 81,
+      "guest_count": 80,
       "sold_out": true,
       "waitlist_active": false,
       "registration_deadline": null
@@ -275,24 +275,24 @@
     }
   },
   {
-    "id": "luma:evt-ckyjutoJqa8JJHw",
+    "id": "luma:evt-iiDgfCYJME3bQ0M",
     "source": "luma",
-    "source_id": "evt-ckyjutoJqa8JJHw",
-    "name": "Madrid Tech Brunch",
-    "description": "Join us for one more edition of Madrid Tech Brunch — a relaxed, informal meetup for people working (or interested) in tech.\nWhether you're a:\nDeveloper\n\nDesigner\n\nIndie hacker\n\nProduct person\n\nRemote worker\n\nJust curious about the tech scene…\n\n…you're welcome!\nWe’ll grab coffee, maybe some brunch, and geek around with other like-minded people.\nHow it works?\nEach gathering is structured but relaxed — enough format to make it easy to meet people, while keeping conversations natural.\nWe pick 4 topics\nBefore each meetup, we choose four discussion topics (industry trends, career growth, tools, AI, productivity, etc.)\nYou can choose topics in the Google form we send you via email before meetup, or introduce your own topic for the next one.\nIntroduction round:\nWe start with a short intro circle where everyone shares:\nname\n\nwhat you do / your interest in tech\n\nwhat you hope to get from the meetup\n\nP.S Don't be too late, or you will miss intros ;)\nSmall group discussions (3–5 people)\nThen we split into small groups of 3–5 and dive into one topic for ~30 minutes.\nSwitch seats & repeat\nAfter 30 minutes, we rotate seats/groups so you can meet more people and discuss a different topic.\nSee you there!",
-    "start_at": "2026-09-27T10:00:00.000Z",
-    "end_at": "2026-09-27T12:00:00.000Z",
-    "url": "https://lu.ma/z5vg3brc",
+    "source_id": "evt-iiDgfCYJME3bQ0M",
+    "name": "Madrid | 48-hour Claude Code Hackathon",
+    "description": "48-hour Claude Code Hackathon on building Agent-to-Agent infrastructure systems.\nIn partnership with Nova Talent and Causa Prima.\nThe challenge — Build an AI agent, then send it into the ring\nIt is a 1v1 agent negotiation tournament: you'll build a buyer/seller agent, tune its strategy and personality, and put it head-to-head against other teams' agents, ranked by the value it captures. Manipulative counterparties allowed.\nWhen: Friday, October 2 at 18:00 → Sunday, October 4 at 18:00\nWhere: Nova Talent's Madrid office.\nCapacity expected is ~50 seats. Dual-screen workstations, kitchen and collaboration spaces available.\nThe weekend combines focused building with three 1-hour talks from\nNotes\nFood & drinks will be provided for Friday night, Saturday and Sunday\n\nParticipants return home overnight; no onsite accommodation provided\n\nApplication review are on a personal basis, not team basis. You will be assigned a team of 3-4 people.\n\nMore information will be provided soon about speakers, prizes and other details.",
+    "start_at": "2026-10-02T16:00:00.000Z",
+    "end_at": "2026-10-04T16:00:00.000Z",
+    "url": "https://lu.ma/claude-dyek",
     "city": "Madrid",
-    "address": "J&J's Books and Coffee",
-    "organizer": "Madrid Tech Brunch",
-    "lat": 40.425636999999995,
-    "lng": -3.7069720000000004,
+    "address": "Tetuán",
+    "organizer": "Claude Community Events",
+    "lat": 40.44695285707642,
+    "lng": -3.707596517771079,
     "extra": {
       "categories": [
-        "Tech"
+        "AI"
       ],
-      "is_free": false,
+      "is_free": true,
       "guest_count": 0,
       "sold_out": false,
       "waitlist_active": false,
@@ -302,12 +302,7 @@
       "luma"
     ],
     "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
+    "enrichment": null
   },
   {
     "id": "luma:evt-06o4wNZYXxagQb9",
@@ -479,9 +474,9 @@
     "lat": 38.9879607,
     "lng": -1.845739,
     "extra": {
-      "attendees": 76,
+      "attendees": 78,
       "max_tickets": 80,
-      "spots_left": 4
+      "spots_left": 2
     },
     "found_on_platforms": [
       "meetup"
@@ -693,9 +688,9 @@
     "lat": 40.4204119,
     "lng": -3.7016001,
     "extra": {
-      "attendees": 42,
+      "attendees": 44,
       "max_tickets": 60,
-      "spots_left": 18
+      "spots_left": 16
     },
     "found_on_platforms": [
       "meetup"

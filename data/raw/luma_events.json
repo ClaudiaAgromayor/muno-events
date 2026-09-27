@@ -20,7 +20,7 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 142,
+    "guest_count": 145,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,
@@ -166,6 +166,34 @@
     "registration_deadline": null,
     "lat": 40.43638215395051,
     "lng": -3.6768986463920394
+  },
+  {
+    "source": "luma",
+    "source_slug": "madrid",
+    "source_id": "evt-amNkWWDqKbXdKyr",
+    "name": "Madrid | Opus 5.5 Build Day",
+    "start_at": "2026-10-07T16:30:00.000Z",
+    "end_at": "2026-10-07T19:30:00.000Z",
+    "timezone": "Europe/Madrid",
+    "url": "https://lu.ma/claude-2fgr",
+    "city": "Madrid",
+    "address": "The Bridge | Digital Talent Accelerator",
+    "organizer": "Claude Community Events",
+    "is_free": true,
+    "cover_image": "https://images.lumacdn.com/uploads/3y/75684817-ec25-45fa-8190-7395176ae0b9.png",
+    "found_in": [
+      "madrid"
+    ],
+    "description": "Lleva Opus 5.5 al límite\nUna tarde para construir con Claude Opus 5.5, el modelo que acaba de salir. Trae un problema difícil, una idea a medio hacer o esa tarea que repites cada semana y te gustaría quitarte de encima.\nEl reto\nElige una categoría y exprime el modelo:\nCategoría 1 · Wow: algo que sorprenda, que divierta o que simplemente sea bonito.\nCategoría 2 · Hasta ahora imposible: algo que antes no habrías podido construir.\nCategoría 3 · Para el lunes: algo tan útil que lo vayas a usar la semana que viene.\nAgenda\n18:00 Puertas abiertas, presentaciones y formación de equipos\n18:30 Bienvenida y configuración de créditos\n18:45 Qué hay de nuevo en Opus 5.5\n19:00 A construir (si te atascas, te ayudamos)\n20:45 Demos, 2 minutos por equipo\n21:15 Proyecto ganador y cierre\n21:30 Fin\nQué necesitas saber\n💻 Trae portátil y cargador, con Claude Code instalado\n👤 Crea una cuenta de developer en console.anthropic.com antes de venir\n⭐ Todos los asistentes reciben créditos de API para usar durante la tarde. Los configuramos al llegar\n🙌 Solo o en equipos de 2 a 4. Puedes formar equipo antes o durante el evento\n🤝 Abierto a cualquiera que ya use Claude Code, programe o no: developers, producto, diseño, datos, founders\n🗣️ La sesión será en español, pero puedes construir y presentar en inglés\n😋 Habrá algo de picar y bebida\nDónde: en la sede de The Bridge, Plaza Pablo Ruiz Picasso, 1, Madrid.\nEl evento es gratuito y las plazas son limitadas. Si te apuntas y al final no puedes venir, cancela en Luma para liberar tu plaza.\n-----\nPush Opus 5.5 to its limits\nAn evening to build with Claude Opus 5.5, the model that just came out.\nBring a hard problem, a half-finished idea, or that task you repeat every week and would love to get rid of.\nThe challenge\nPick a category and push the model:\nCategory 1 · Wow: something surprising, fun, or simply beautiful.\nCategory 2 · Previously impossible: something you couldn't have built before.\nCategory 3 · For Monday: something so useful you'll be using it next week.\nAgenda\n18:00 Doors open, introductions and team formation\n18:30 Welcome and credit setup\n18:45 What's new in Opus 5.5\n19:00 Build (we'll help you if you get stuck)\n20:45 Demos, 2 minutes per team\n21:15 Winning project and wrap-up\n21:30 Close\nGood to know\n💻 Bring your laptop and charger, with Claude Code installed\n👤 Create a developer account at console.anthropic.com before you come\n⭐ Every attendee gets API credits to use during the evening. We set them up when you arrive\n🙌 Build solo or in teams of 2 to 4. You can form a team before or during the event\n🤝 Open to anyone who already uses Claude Code, whether you code or not: developers, product, design, data, founders\n🗣️ The session will be in Spanish, but you can build and demo in English\n😋 Snacks and drinks provided.\nWhere: at The Bridge, Plaza Pablo Ruiz Picasso, 1, Madrid.\nThe event is free and places are limited. If you sign up and can't make it, please cancel on Luma to free up your spot.",
+    "categories": [
+      "AI"
+    ],
+    "guest_count": 0,
+    "sold_out": false,
+    "waitlist_active": false,
+    "registration_deadline": null,
+    "lat": 40.450546599999996,
+    "lng": -3.6923712
   },
   {
     "source": "luma",

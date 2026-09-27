@@ -673,7 +673,7 @@
     "city": "Madrid",
     "address": "Calle de Atocha, 123, Centro, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 152,
+    "attendees": 153,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -711,9 +711,9 @@
     "city": "Madrid",
     "address": "C. Nikola Tesla, Puente de Vallecas, 28031 Madrid, Spain",
     "organizer": "Hack The Box Meetup: Madrid, ES",
-    "attendees": 21,
+    "attendees": 23,
     "max_tickets": 30,
-    "spots_left": 9,
+    "spots_left": 7,
     "found_in": [
       "Hackathon"
     ]
@@ -749,9 +749,9 @@
     "city": "Madrid",
     "address": "https://maps.app.goo.gl/A2pbJ1RsdwyDv84VA",
     "organizer": "Healing Crystal Bowl Sound Bath",
-    "attendees": 6,
+    "attendees": 7,
     "max_tickets": 10,
-    "spots_left": 4,
+    "spots_left": 3,
     "found_in": [
       "Hackathon"
     ]

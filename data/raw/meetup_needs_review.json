@@ -54,7 +54,6 @@
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence",
-      "Machine Learning",
       "Data Science"
     ]
   },
@@ -93,8 +92,7 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Artificial Intelligence",
-      "Machine Learning"
+      "Artificial Intelligence"
     ]
   },
   {
@@ -133,8 +131,7 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Artificial Intelligence",
-      "Machine Learning"
+      "Artificial Intelligence"
     ]
   },
   {
@@ -153,8 +150,7 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Artificial Intelligence",
-      "Machine Learning"
+      "Artificial Intelligence"
     ]
   },
   {
@@ -173,8 +169,7 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Artificial Intelligence",
-      "Machine Learning"
+      "Artificial Intelligence"
     ]
   },
   {
@@ -194,7 +189,6 @@
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence",
-      "Machine Learning",
       "Data Science"
     ]
   },
@@ -233,8 +227,7 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Artificial Intelligence",
-      "Machine Learning"
+      "Artificial Intelligence"
     ]
   },
   {
@@ -254,26 +247,6 @@
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Machine Learning",
-    "source_id": "316629017",
-    "name": "AIConnect: Global Virtual Job & Career Networking Event for AI Specialists",
-    "description": "Are you an AI engineer, data scientist, machine learning researcher, or aspiring innovator in the world of artificial intelligence? **AIConnect** is your dynamic **AI networking event online** designed to foster real-time conversations, career growth, and collaboration opportunities — all within a vibrant and self-led virtual space.\n\nWhether you're exploring job roles in AI, hoping to demo your latest project, or searching for your next co-developer or data scientist partner, **AIConnect** offers a one-of-a-kind experience to connect with the global **machine learning community meetup** — anytime, from anywhere.\n\n🎥 **Watch how it works in our explainer video:**\n👉 [https://www.youtube.com/watch?v=bH3uNrkUTuw](https://www.youtube.com/watch?v=bH3uNrkUTuw)\n\n**💡 Why Join AIConnect?**\n\nThis is not just another virtual event. It’s a **collaboration platform for AI specialists** where you can grow your professional network, showcase your AI/ML portfolio, exchange ideas, and chat directly with fellow participants, recruiters, and service providers.\nDesigned for **AI career fair virtual** seekers and builders alike, the platform supports live 1-1 **video or text chats**, and offers open access to diverse community-led channels tailored to your interests.\n\n**💬 Brainstorming & Discussion Channels Include:**\n\n* **General** – Your go-to hub for announcements, orientation, and casual community-wide conversation.\n* **Intros** – Introduce yourself, your research, your startup, or just share your journey in AI.\n* **Networking** – Showcase your AI/ML projects, portfolios, startup pitches, or job aspirations.\n* **Help Wanted** – Looking for team members, mentorship, freelance gigs, or offering support? Post here.\n* **Industry Room Tech** – Dive into the latest developments in AI frameworks, ML pipelines, data tools, and tech trends.\n\nWhether you’re a beginner or a pro, a researcher or a recruiter — this space empowers growth through **project demos, career discussions, and research conversations.**\n\n**🧠 What You’ll Gain:**\n\n* Direct access to a **global AI talent and hiring ecosystem**\n* Exposure to cutting-edge projects via the **AI project showcase event**\n* Connections with peers and thought leaders across AI, ML, and data science\n* Career insights and opportunities from fellow professionals and employers\n* A flexible environment to network, brainstorm, and build meaningful collaborations\n* Instant 1-on-1 video or text chats for deeper engagement\n\n**📍 Where:**\nJoin virtually at:\n👉 [https://events.tao.ai/pod/analytics.club/jknf0o9m3kix](https://events.tao.ai/pod/analytics.club/jknf0o9m3kix)\n**🕔 When:**\nEvery session starts at **5:00 PM – 7:00 PM local time** — recurring monthly on Fridays. Mark your calendar and come prepared to connect!\n\n**👥 Who Should Attend:**\n\n* AI engineers, ML developers, and data scientists\n* Startup founders and entrepreneurs in the AI/tech space\n* Recruiters, hiring managers, and project collaborators\n* Students, academics, and early-career professionals\n* Anyone passionate about AI, machine learning, and applied tech innovation\n\n**📩 Questions or Suggestions?**\nWe’d love to hear from you. Reach us anytime here:\n👉 [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**🔖 Hashtags:**\n#AIConnect #AINetworkingEventOnline #AICareerFairVirtual #MachineLearningCommunityMeetup #AIProjectShowcaseEvent #CollaborationPlatformForAISpecialists #MLJobs #GlobalAINetworking #TechNetworkingEvent #AIProfessionalsUnite",
-    "start_at": "2026-10-09T23:00:00+02:00",
-    "url": "https://www.meetup.com/ac-mad/events/316629017/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Analytics.CLUB Madrid",
-    "attendees": 2,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Machine Learning",
-      "Data Science"
     ]
   },
   {
@@ -313,6 +286,25 @@
     "found_in": [
       "Data Science",
       "Hackathon"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Data Science",
+    "source_id": "316629017",
+    "name": "AIConnect: Global Virtual Job & Career Networking Event for AI Specialists",
+    "description": "Are you an AI engineer, data scientist, machine learning researcher, or aspiring innovator in the world of artificial intelligence? **AIConnect** is your dynamic **AI networking event online** designed to foster real-time conversations, career growth, and collaboration opportunities — all within a vibrant and self-led virtual space.\n\nWhether you're exploring job roles in AI, hoping to demo your latest project, or searching for your next co-developer or data scientist partner, **AIConnect** offers a one-of-a-kind experience to connect with the global **machine learning community meetup** — anytime, from anywhere.\n\n🎥 **Watch how it works in our explainer video:**\n👉 [https://www.youtube.com/watch?v=bH3uNrkUTuw](https://www.youtube.com/watch?v=bH3uNrkUTuw)\n\n**💡 Why Join AIConnect?**\n\nThis is not just another virtual event. It’s a **collaboration platform for AI specialists** where you can grow your professional network, showcase your AI/ML portfolio, exchange ideas, and chat directly with fellow participants, recruiters, and service providers.\nDesigned for **AI career fair virtual** seekers and builders alike, the platform supports live 1-1 **video or text chats**, and offers open access to diverse community-led channels tailored to your interests.\n\n**💬 Brainstorming & Discussion Channels Include:**\n\n* **General** – Your go-to hub for announcements, orientation, and casual community-wide conversation.\n* **Intros** – Introduce yourself, your research, your startup, or just share your journey in AI.\n* **Networking** – Showcase your AI/ML projects, portfolios, startup pitches, or job aspirations.\n* **Help Wanted** – Looking for team members, mentorship, freelance gigs, or offering support? Post here.\n* **Industry Room Tech** – Dive into the latest developments in AI frameworks, ML pipelines, data tools, and tech trends.\n\nWhether you’re a beginner or a pro, a researcher or a recruiter — this space empowers growth through **project demos, career discussions, and research conversations.**\n\n**🧠 What You’ll Gain:**\n\n* Direct access to a **global AI talent and hiring ecosystem**\n* Exposure to cutting-edge projects via the **AI project showcase event**\n* Connections with peers and thought leaders across AI, ML, and data science\n* Career insights and opportunities from fellow professionals and employers\n* A flexible environment to network, brainstorm, and build meaningful collaborations\n* Instant 1-on-1 video or text chats for deeper engagement\n\n**📍 Where:**\nJoin virtually at:\n👉 [https://events.tao.ai/pod/analytics.club/jknf0o9m3kix](https://events.tao.ai/pod/analytics.club/jknf0o9m3kix)\n**🕔 When:**\nEvery session starts at **5:00 PM – 7:00 PM local time** — recurring monthly on Fridays. Mark your calendar and come prepared to connect!\n\n**👥 Who Should Attend:**\n\n* AI engineers, ML developers, and data scientists\n* Startup founders and entrepreneurs in the AI/tech space\n* Recruiters, hiring managers, and project collaborators\n* Students, academics, and early-career professionals\n* Anyone passionate about AI, machine learning, and applied tech innovation\n\n**📩 Questions or Suggestions?**\nWe’d love to hear from you. Reach us anytime here:\n👉 [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**🔖 Hashtags:**\n#AIConnect #AINetworkingEventOnline #AICareerFairVirtual #MachineLearningCommunityMeetup #AIProjectShowcaseEvent #CollaborationPlatformForAISpecialists #MLJobs #GlobalAINetworking #TechNetworkingEvent #AIProfessionalsUnite",
+    "start_at": "2026-10-09T23:00:00+02:00",
+    "url": "https://www.meetup.com/ac-mad/events/316629017/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Analytics.CLUB Madrid",
+    "attendees": 2,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Data Science"
     ]
   },
   {
@@ -593,7 +585,7 @@
     "city": "Madrid",
     "address": "C. de la Flor Baja, 6, Centro, 28013 Madrid, Spain",
     "organizer": "Madrid Singularity",
-    "attendees": 43,
+    "attendees": 44,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -612,9 +604,9 @@
     "city": "Madrid",
     "address": "C. del Marqués de Casa Riera, 4, Centro, 28014 Madrid, Spain",
     "organizer": "Cloudflare User Group España (IA, CyberSecurity & Edge Dev)",
-    "attendees": 58,
+    "attendees": 57,
     "max_tickets": 50,
-    "spots_left": -8,
+    "spots_left": -7,
     "found_in": [
       "Artificial Intelligence",
       "DevOps",
@@ -729,9 +721,9 @@
     "city": "Madrid",
     "address": "Calle del Prof. José García Santesmases, 9, Moncloa - Aravaca, 28040 Madrid, Spain",
     "organizer": "Hack The Box Meetups for Universities: FDIst (UCM)",
-    "attendees": 12,
+    "attendees": 13,
     "max_tickets": 70,
-    "spots_left": 58,
+    "spots_left": 57,
     "found_in": [
       "Hackathon"
     ]

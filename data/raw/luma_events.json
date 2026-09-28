@@ -2,34 +2,6 @@
   {
     "source": "luma",
     "source_slug": "madrid",
-    "source_id": "evt-bnE44bmxANb4Sp0",
-    "name": "n8n Meetup Madrid",
-    "start_at": "2026-09-28T16:30:00.000Z",
-    "end_at": "2026-09-28T19:30:00.000Z",
-    "timezone": "Europe/Madrid",
-    "url": "https://lu.ma/n8n-3h9w",
-    "city": "Madrid",
-    "address": "La Chopera",
-    "organizer": "n8n Community Events",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/r8/3725ae60-0a81-4a56-b87d-2122a9d56743.png",
-    "found_in": [
-      "madrid"
-    ],
-    "description": "⚡ Madrid, tenemos meetup de n8n.\n¿Usas n8n, estás empezando o tienes una automatización imposible rondándote la cabeza? Vente a pasar la tarde con la comunidad de Madrid.\nAquí venimos a compartir cosas que funcionan de verdad: automatizaciones reales, decisiones técnicas, errores, aprendizajes y demos que puedas llevarte a tus propios proyectos. Sin postureo y con tiempo para preguntar, conocer gente y hablar de lo que estamos construyendo.\n🚀 ¿Qué te vas a encontrar?\n🎤 Casos reales contados por quienes los han construido\n🧠 Ideas, errores y aprendizajes que podrás reutilizar\n🛠️ Demos rápidas y preguntas abiertas\n🤝 Gente de producto, operaciones, IA, automatización y no-code\n🥤 Picoteo, bebidas y networking\nDa igual si llevas años automatizando o si acabas de abrir n8n por primera vez. Explicaremos el contexto y podrás preguntar sin filtros.\n🗓️ Agenda\n18:30 · Puertas, check-in y primeras conversaciones\n19:00 · Bienvenida a n8n Madrid 👋\n19:10 · Charla 1: un caso real construido con n8n\n19:35 · Charla 2: demo técnica\n20:00 · Demos rápidas y preguntas abiertas\n20:20 · Foto de comunidad y próximos pasos 📸\n20:25 · Networking con picoteo\n21:20 · Cierre y próximos encuentros\n21:30 · Fin del evento\n📍 Mad Tech Campus · Casa del Lector\nPaseo de la Chopera, 14 · Madrid\n🌍 Las charlas serán principalmente en español. English speakers are very welcome!\n🎟️ Solo hay 50 plazas. Cuando se complete el aforo, abriremos lista de espera.\nVen con preguntas, ideas o simplemente curiosidad. El objetivo es sencillo: salir con nuevas conexiones y con ganas de construir la siguiente automatización. Nos vemos allí 🚀\nEvento organizado con cariño por ambassadors voluntarios de la comunidad n8n.",
-    "categories": [
-      "Tech"
-    ],
-    "guest_count": 146,
-    "sold_out": false,
-    "waitlist_active": false,
-    "registration_deadline": null,
-    "lat": 40.394282541422804,
-    "lng": -3.6990652900692425
-  },
-  {
-    "source": "luma",
-    "source_slug": "madrid",
     "source_id": "evt-xibCZK7tSD3Bpb9",
     "name": "Grok Bot Madrid Meetup",
     "start_at": "2026-09-29T15:30:00.000Z",
@@ -48,7 +20,7 @@
     "categories": [
       "AI"
     ],
-    "guest_count": 76,
+    "guest_count": 69,
     "sold_out": true,
     "waitlist_active": true,
     "registration_deadline": null,
@@ -59,7 +31,7 @@
     "source": "luma",
     "source_slug": "madrid",
     "source_id": "evt-QpYa1iNkOsxz8Z1",
-    "name": "Construyendo sin filtros #15 : Nadie construye solo",
+    "name": "SOLD OUT! Construyendo sin filtros #15 : Nadie construye solo",
     "start_at": "2026-09-29T16:30:00.000Z",
     "end_at": "2026-09-29T19:00:00.000Z",
     "timezone": "Europe/Madrid",
@@ -76,7 +48,7 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 55,
+    "guest_count": 57,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": "2026-09-21T18:00:59.000Z",
@@ -132,12 +104,40 @@
     "categories": [
       "AI"
     ],
-    "guest_count": 48,
+    "guest_count": 50,
     "sold_out": true,
     "waitlist_active": true,
     "registration_deadline": null,
     "lat": 40.4074994,
     "lng": -3.7114533
+  },
+  {
+    "source": "luma",
+    "source_slug": "madrid",
+    "source_id": "evt-AZBwDZyvI7DwFAJ",
+    "name": "Si todos tienen IA, ¿quién destacará? La ventaja competitiva de los datos propios y la experiencia acumulada",
+    "start_at": "2026-10-05T17:00:00.000Z",
+    "end_at": "2026-10-05T19:30:00.000Z",
+    "timezone": "Europe/Madrid",
+    "url": "https://lu.ma/legalitas-glth",
+    "city": "Madrid",
+    "address": "GLTHpoints / Europe / Madrid",
+    "organizer": "Personal",
+    "is_free": true,
+    "cover_image": "https://images.lumacdn.com/uploads/tf/921fdb44-5f4a-43fe-a784-4f85dd4446ef.png",
+    "found_in": [
+      "madrid"
+    ],
+    "description": "De la mano de LEGÁLITAS y GLTH descubriremos cómo la combinación de IA, datos propios y conocimiento experto está dando lugar a soluciones más precisas, eficientes y centradas en las necesidades reales de las personas.\nA través de ejemplos y casos actuales, exploraremos cómo convertir los datos en una ventaja competitiva, el papel del factor humano como puente entre la IA y el usuario final, y por qué el abogado del futuro combinará criterio jurídico, tecnología e innovación para ofrecer un servicio con mayor valor añadido.\nPonentes:\n▪️ Josep Miret - CEO, Álex\n▪️ Ferran Sala - General Manager Spain, vLex part of Clio\n▪️ William Beaven - Head of Legal, HappyRobot\n▪️ Víctor Fontecha - FSI Industry Lead, South Europe, NVIDIA\nModera: Juanjo Vázquez - CTO, LEGÁLITAS\n\n🗓️ 5 de octubre\n🕓 19:00-21:30\n📍 GLTHpoints MADRID - Paseo de la Castellana, 268¡Plazas limitadas! Inscripción GRATUITA.\nOrganiza: LEGÁLITAS\n👉 Disclaimer: La inscripción no garantiza el acceso al evento. Sujeto a revisión y aprobación previa por parte de la organización.",
+    "categories": [
+      "AI"
+    ],
+    "guest_count": 0,
+    "sold_out": false,
+    "waitlist_active": false,
+    "registration_deadline": null,
+    "lat": 40.473088399999995,
+    "lng": -3.6867609000000003
   },
   {
     "source": "luma",
@@ -216,7 +216,7 @@
     "categories": [
       "AI"
     ],
-    "guest_count": 21,
+    "guest_count": 22,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,
@@ -283,7 +283,7 @@
     "source": "luma",
     "source_slug": "madrid-tech-brunch",
     "source_id": "evt-enSmDRun9hs2FP7",
-    "name": "Fintech challenge Kick Off",
+    "name": "The Fintech Challenge Kick Off",
     "start_at": "2026-11-15T14:00:00.000Z",
     "end_at": "2026-11-15T19:00:00.000Z",
     "timezone": "Europe/Madrid",
@@ -296,7 +296,7 @@
     "found_in": [
       "madrid-tech-brunch"
     ],
-    "description": "Build What’s Next in Banking and Finance\nHave an idea for the future of finance? Or simply want to build one?\nThe Fintech Challenge by Fintech Madrid brings together ambitious people from fintech, banking, finance, technology, product, business and entrepreneurship to form teams and build new fintech solutions from the ground up.\nHow it works\n1. Meet your team (or come with your team)Connect with people with different backgrounds, skills and perspectives, and form your team around a problem worth solving.\n2. Ideate & validate ( or bring your idea/project)With the support of mentors and industry experts, develop your idea, understand the problem, test your assumptions and shape your solution.\n3. BuildTurn the concept into a tangible product. Work on your business model, proposition, prototype and go-to-market strategy.\n4. Demo DayPresent your solution in front of investors, banks, financial institutions, fintech leaders and ecosystem partners.\nThe goal is simple: take an idea from zero to something worth putting in front of the market.\nWho should join?\nFounders & aspiring entrepreneurs\n\nFintech & banking professionals\n\nProduct & technology builders\n\nDevelopers & designers\n\nFinance & business profiles\n\nStudents and young professionals with an entrepreneurial mindset\n\nAnyone who wants to build the next generation of financial services\n\nCome with an idea, a skill, or simply the ambition to build. We'll help you find the rest of the team.\n📍 Madrid🚀 From idea → team → prototype → Demo Day\nLimited spots to keep the experience collaborative and hands-on.\nFintech MadridBuilding the next generation of financial services, together.\nwww.thefintechchallenge.com",
+    "description": "Build What’s Next in Banking and Finance\nKick off of the 90 days Fintech Challenge\nHave an idea for the future of finance? Or simply want to build one?\nThe Fintech Challenge brings together ambitious people from fintech, banking, finance, technology, product, business and entrepreneurship to form teams and build new fintech solutions from the ground up.\nHow it works\n1. Meet your team (or come with your team)Connect with people with different backgrounds, skills and perspectives, and form your team around a problem worth solving.\n2. Ideate & validate ( or bring your idea/project)With the support of mentors and industry experts, develop your idea, understand the problem, test your assumptions and shape your solution.\n3. BuildTurn the concept into a tangible product. Work on your business model, proposition, prototype and go-to-market strategy.\n4. Demo DayPresent your solution in front of investors, banks, financial institutions, fintech leaders and ecosystem partners.\nThe goal is simple: take an idea from zero to something worth putting in front of the market.\nWho should join?\nFounders & aspiring entrepreneurs\n\nFintech & banking professionals\n\nProduct & technology builders\n\nDevelopers & designers\n\nFinance & business profiles\n\nStudents and young professionals with an entrepreneurial mindset\n\nAnyone who wants to build the next generation of financial services\n\nCome with an idea, a skill, or simply the ambition to build. We'll help you find the rest of the team.\n📍 Madrid🚀 From idea → team → prototype → Demo Day\nLimited spots to keep the experience collaborative and hands-on.\nFintech MadridBuilding the next generation of financial services, together.\nhttps://thefintechchallenge.com",
     "categories": [
       "Tech"
     ],

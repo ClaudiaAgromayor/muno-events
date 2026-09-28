@@ -1,40 +1,5 @@
 [
   {
-    "id": "luma:evt-bnE44bmxANb4Sp0",
-    "source": "luma",
-    "source_id": "evt-bnE44bmxANb4Sp0",
-    "name": "n8n Meetup Madrid",
-    "description": "⚡ Madrid, tenemos meetup de n8n.\n¿Usas n8n, estás empezando o tienes una automatización imposible rondándote la cabeza? Vente a pasar la tarde con la comunidad de Madrid.\nAquí venimos a compartir cosas que funcionan de verdad: automatizaciones reales, decisiones técnicas, errores, aprendizajes y demos que puedas llevarte a tus propios proyectos. Sin postureo y con tiempo para preguntar, conocer gente y hablar de lo que estamos construyendo.\n🚀 ¿Qué te vas a encontrar?\n🎤 Casos reales contados por quienes los han construido\n🧠 Ideas, errores y aprendizajes que podrás reutilizar\n🛠️ Demos rápidas y preguntas abiertas\n🤝 Gente de producto, operaciones, IA, automatización y no-code\n🥤 Picoteo, bebidas y networking\nDa igual si llevas años automatizando o si acabas de abrir n8n por primera vez. Explicaremos el contexto y podrás preguntar sin filtros.\n🗓️ Agenda\n18:30 · Puertas, check-in y primeras conversaciones\n19:00 · Bienvenida a n8n Madrid 👋\n19:10 · Charla 1: un caso real construido con n8n\n19:35 · Charla 2: demo técnica\n20:00 · Demos rápidas y preguntas abiertas\n20:20 · Foto de comunidad y próximos pasos 📸\n20:25 · Networking con picoteo\n21:20 · Cierre y próximos encuentros\n21:30 · Fin del evento\n📍 Mad Tech Campus · Casa del Lector\nPaseo de la Chopera, 14 · Madrid\n🌍 Las charlas serán principalmente en español. English speakers are very welcome!\n🎟️ Solo hay 50 plazas. Cuando se complete el aforo, abriremos lista de espera.\nVen con preguntas, ideas o simplemente curiosidad. El objetivo es sencillo: salir con nuevas conexiones y con ganas de construir la siguiente automatización. Nos vemos allí 🚀\nEvento organizado con cariño por ambassadors voluntarios de la comunidad n8n.",
-    "start_at": "2026-09-28T16:30:00.000Z",
-    "end_at": "2026-09-28T19:30:00.000Z",
-    "url": "https://lu.ma/n8n-3h9w",
-    "city": "Madrid",
-    "address": "La Chopera",
-    "organizer": "n8n Community Events",
-    "lat": 40.394282541422804,
-    "lng": -3.6990652900692425,
-    "extra": {
-      "categories": [
-        "Tech"
-      ],
-      "is_free": true,
-      "guest_count": 146,
-      "sold_out": false,
-      "waitlist_active": false,
-      "registration_deadline": null
-    },
-    "found_on_platforms": [
-      "luma"
-    ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "principiante",
-      "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
-  },
-  {
     "id": "luma:evt-xibCZK7tSD3Bpb9",
     "source": "luma",
     "source_id": "evt-xibCZK7tSD3Bpb9",
@@ -53,7 +18,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 76,
+      "guest_count": 69,
       "sold_out": true,
       "waitlist_active": true,
       "registration_deadline": null
@@ -73,7 +38,7 @@
     "id": "luma:evt-QpYa1iNkOsxz8Z1",
     "source": "luma",
     "source_id": "evt-QpYa1iNkOsxz8Z1",
-    "name": "Construyendo sin filtros #15 : Nadie construye solo",
+    "name": "SOLD OUT! Construyendo sin filtros #15 : Nadie construye solo",
     "description": "Founders, cofounders, comunidad y las conexiones que hacen avanzar lo que estás construyendo.\nUna clase de emprendimiento en Madrid.\nUna casa llena de founders en Silicon Valley.\nA primera vista, no tienen demasiado que ver.\nPero cuentan exactamente la misma historia:\nNadie construye solo.\n🔥 Pilar González conoció a sus futuras cofounders en una clase de IE.\nUna frustración compartida terminó convirtiéndose en NutriSync Collective y hoy están viviendo esa parte del journey que casi nunca aparece en LinkedIn:\npasar de intuición → equipo → producto → primeras usuarias → realidad.\n🔥 Carlos de la Lama lleva en el otro extremo de esa historia desde 2012.\nCon Startup Embassy ha creado en Silicon Valley un entorno por el que han pasado más de 1.200 emprendedores de 50 países.\nFounders compartiendo casa, problemas, contactos, código, oportunidades… y algunas conversaciones a horas bastante poco razonables.\nZero-to-one vs. más de una década viendo a otros construir.\nDe eso va nuestra 15ª edición de Startup Grind Madrid.\nPero aquí viene el pequeño giro:\nesta noche no va realmente solo de Pilar y Carlos.\nVa también de quién se siente a tu lado.\nQueremos hablar de:\n→ cómo encuentras a las personas correctas para construir→ qué ocurre realmente en los primeros meses de una startup→ por qué algunos entornos aceleran a los founders→ qué podemos aprender de Silicon Valley sin intentar copiarlo→ y cómo se construye una comunidad que genere algo más que contactos\nDespués cerramos los micros.\nAbrimos las cervezas. 🍻\nY empieza la segunda mitad de Startup Grind:\n“¿Y tú, qué estás construyendo?”\nFounders, builders, inversores, talento y gente del ecosistema compartiendo problemas, intros, oportunidades y alguna conexión inesperada.\nPuedes venir por los speakers.\nPero quizá la persona que cambie lo que estás construyendo no esté en el escenario.\nNadie construye solo.\n📍 Aticco Castellana 268 🔥 Startup Grind Madrid #15🤝 Con Elevatorfy + APTKI",
     "start_at": "2026-09-29T16:30:00.000Z",
     "end_at": "2026-09-29T19:00:00.000Z",
@@ -88,7 +53,7 @@
         "Tech"
       ],
       "is_free": false,
-      "guest_count": 55,
+      "guest_count": 57,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": "2026-09-21T18:00:59.000Z"
@@ -158,7 +123,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 48,
+      "guest_count": 50,
       "sold_out": true,
       "waitlist_active": true,
       "registration_deadline": null
@@ -173,6 +138,36 @@
       "comida_gratis": "no_especificado",
       "se_graba": "si"
     }
+  },
+  {
+    "id": "luma:evt-AZBwDZyvI7DwFAJ",
+    "source": "luma",
+    "source_id": "evt-AZBwDZyvI7DwFAJ",
+    "name": "Si todos tienen IA, ¿quién destacará? La ventaja competitiva de los datos propios y la experiencia acumulada",
+    "description": "De la mano de LEGÁLITAS y GLTH descubriremos cómo la combinación de IA, datos propios y conocimiento experto está dando lugar a soluciones más precisas, eficientes y centradas en las necesidades reales de las personas.\nA través de ejemplos y casos actuales, exploraremos cómo convertir los datos en una ventaja competitiva, el papel del factor humano como puente entre la IA y el usuario final, y por qué el abogado del futuro combinará criterio jurídico, tecnología e innovación para ofrecer un servicio con mayor valor añadido.\nPonentes:\n▪️ Josep Miret - CEO, Álex\n▪️ Ferran Sala - General Manager Spain, vLex part of Clio\n▪️ William Beaven - Head of Legal, HappyRobot\n▪️ Víctor Fontecha - FSI Industry Lead, South Europe, NVIDIA\nModera: Juanjo Vázquez - CTO, LEGÁLITAS\n\n🗓️ 5 de octubre\n🕓 19:00-21:30\n📍 GLTHpoints MADRID - Paseo de la Castellana, 268¡Plazas limitadas! Inscripción GRATUITA.\nOrganiza: LEGÁLITAS\n👉 Disclaimer: La inscripción no garantiza el acceso al evento. Sujeto a revisión y aprobación previa por parte de la organización.",
+    "start_at": "2026-10-05T17:00:00.000Z",
+    "end_at": "2026-10-05T19:30:00.000Z",
+    "url": "https://lu.ma/legalitas-glth",
+    "city": "Madrid",
+    "address": "GLTHpoints / Europe / Madrid",
+    "organizer": "Personal",
+    "lat": 40.473088399999995,
+    "lng": -3.6867609000000003,
+    "extra": {
+      "categories": [
+        "AI"
+      ],
+      "is_free": true,
+      "guest_count": 0,
+      "sold_out": false,
+      "waitlist_active": false,
+      "registration_deadline": null
+    },
+    "found_on_platforms": [
+      "luma"
+    ],
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "luma:evt-Zkau59VVusHIXZy",
@@ -258,7 +253,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 21,
+      "guest_count": 22,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -343,8 +338,8 @@
     "id": "luma:evt-enSmDRun9hs2FP7",
     "source": "luma",
     "source_id": "evt-enSmDRun9hs2FP7",
-    "name": "Fintech challenge Kick Off",
-    "description": "Build What’s Next in Banking and Finance\nHave an idea for the future of finance? Or simply want to build one?\nThe Fintech Challenge by Fintech Madrid brings together ambitious people from fintech, banking, finance, technology, product, business and entrepreneurship to form teams and build new fintech solutions from the ground up.\nHow it works\n1. Meet your team (or come with your team)Connect with people with different backgrounds, skills and perspectives, and form your team around a problem worth solving.\n2. Ideate & validate ( or bring your idea/project)With the support of mentors and industry experts, develop your idea, understand the problem, test your assumptions and shape your solution.\n3. BuildTurn the concept into a tangible product. Work on your business model, proposition, prototype and go-to-market strategy.\n4. Demo DayPresent your solution in front of investors, banks, financial institutions, fintech leaders and ecosystem partners.\nThe goal is simple: take an idea from zero to something worth putting in front of the market.\nWho should join?\nFounders & aspiring entrepreneurs\n\nFintech & banking professionals\n\nProduct & technology builders\n\nDevelopers & designers\n\nFinance & business profiles\n\nStudents and young professionals with an entrepreneurial mindset\n\nAnyone who wants to build the next generation of financial services\n\nCome with an idea, a skill, or simply the ambition to build. We'll help you find the rest of the team.\n📍 Madrid🚀 From idea → team → prototype → Demo Day\nLimited spots to keep the experience collaborative and hands-on.\nFintech MadridBuilding the next generation of financial services, together.\nwww.thefintechchallenge.com",
+    "name": "The Fintech Challenge Kick Off",
+    "description": "Build What’s Next in Banking and Finance\nKick off of the 90 days Fintech Challenge\nHave an idea for the future of finance? Or simply want to build one?\nThe Fintech Challenge brings together ambitious people from fintech, banking, finance, technology, product, business and entrepreneurship to form teams and build new fintech solutions from the ground up.\nHow it works\n1. Meet your team (or come with your team)Connect with people with different backgrounds, skills and perspectives, and form your team around a problem worth solving.\n2. Ideate & validate ( or bring your idea/project)With the support of mentors and industry experts, develop your idea, understand the problem, test your assumptions and shape your solution.\n3. BuildTurn the concept into a tangible product. Work on your business model, proposition, prototype and go-to-market strategy.\n4. Demo DayPresent your solution in front of investors, banks, financial institutions, fintech leaders and ecosystem partners.\nThe goal is simple: take an idea from zero to something worth putting in front of the market.\nWho should join?\nFounders & aspiring entrepreneurs\n\nFintech & banking professionals\n\nProduct & technology builders\n\nDevelopers & designers\n\nFinance & business profiles\n\nStudents and young professionals with an entrepreneurial mindset\n\nAnyone who wants to build the next generation of financial services\n\nCome with an idea, a skill, or simply the ambition to build. We'll help you find the rest of the team.\n📍 Madrid🚀 From idea → team → prototype → Demo Day\nLimited spots to keep the experience collaborative and hands-on.\nFintech MadridBuilding the next generation of financial services, together.\nhttps://thefintechchallenge.com",
     "start_at": "2026-11-15T14:00:00.000Z",
     "end_at": "2026-11-15T19:00:00.000Z",
     "url": "https://lu.ma/6lusfcn8",
@@ -414,9 +409,9 @@
     "lat": 40.4207507,
     "lng": -3.708179,
     "extra": {
-      "attendees": 18,
+      "attendees": 24,
       "max_tickets": 120,
-      "spots_left": 102
+      "spots_left": 96
     },
     "found_on_platforms": [
       "meetup"
@@ -499,9 +494,9 @@
     "lat": null,
     "lng": null,
     "extra": {
-      "attendees": 28,
+      "attendees": 29,
       "max_tickets": 60,
-      "spots_left": 32
+      "spots_left": 31
     },
     "found_on_platforms": [
       "meetup"
@@ -572,38 +567,6 @@
     "enrichment": {
       "nivel": "intermedio",
       "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
-  },
-  {
-    "id": "meetup:316482252",
-    "source": "meetup",
-    "source_id": "316482252",
-    "name": "Escalando con el particionado de postgresql y releases inmutables",
-    "description": "**🚀 Madrid DevOps x AiSec Eng Spain x PostgreSQL España**\nNada mejor para retomar la rutina tras las vacaciones que un caso real de ingeniería al límite. En esta edición conjunta, **Jorge Argente Ferrero** (Staff Engineer en Clarity AI) compartirá el *post-mortem* de un incidente crítico de datos y la arquitectura que construyeron para resolverlo.\n👉 **[RESERVA TU PLAZA AQUÍ]**\n📍 **Detalles de la cita**\n\n* **Fecha:** 28 de septiembre de 2026 \\| 18:50 \\(CEST\\)\n* **Lugar:** Celonis — Plaza de Manuel Gómez-Moreno, 2, Tetuán (Madrid)\n\n💡 **¿Qué aprenderás en esta sesión?**\n\n* **Análisis de un desastre:** Cómo la interacción entre cargas masivas de datos y los procesos asíncronos de `VACUUM` y `ANALYZE` generó condiciones de carrera que corrompieron los metadatos del *query planner*.\n* **De monolito a inmutabilidad:** El rediseño que permitió pasar de tablas monolíticas y operaciones mutables a un modelo de **Particionado Declarativo** y *releases* inmutables.\n* **Impacto en producción:** Cómo convertir las cargas masivas en operaciones atómicas a nivel de sistema de archivos, eliminar el *bloat* de almacenamiento y exprimir la optimización de *Partition Pruning*.\n\n🎤 **Ponente** **Jorge Argente Ferrero** \\| *Staff Engineer en Clarity AI*\n\n18:30 — Check-in\n18:50 — Bienvenida\n19:00 — Talk: Agentic Thinking for Humans: Build Your Own Skills for the Future\n19:45 — Cierre\n19:50— Networking\n\n**[RESERVA TU SITIO AQUÍ](https://www.meetup.com/madrid-devops/events/316152297/?eventOrigin=home_page_upcoming_events%24all)**",
-    "start_at": "2026-09-28T18:50:00+02:00",
-    "end_at": null,
-    "url": "https://www.meetup.com/celonis-tech-meetups-madrid/events/316482252/",
-    "city": "Madrid",
-    "address": "Pl. de Manuel Gómez-Moreno, 2",
-    "organizer": "Celonis Tech Meetups Madrid",
-    "lat": 40.4485287,
-    "lng": -3.6940143,
-    "extra": {
-      "attendees": 1,
-      "max_tickets": 0,
-      "spots_left": null
-    },
-    "found_on_platforms": [
-      "meetup"
-    ],
-    "duplicate_ids": [
-      "meetup:316152297"
-    ],
-    "enrichment": {
-      "nivel": "intermedio",
-      "idioma": "no_especificado",
       "comida_gratis": "no_especificado",
       "se_graba": "no_especificado"
     }
@@ -754,6 +717,31 @@
     "enrichment": null
   },
   {
+    "id": "meetup:316750686",
+    "source": "meetup",
+    "source_id": "316750686",
+    "name": "GitHub Dev Days Madrid 2026 🚀",
+    "description": "# ​GitHub Dev Days Madrid 2026 🚀\n\n**¿Te lo vas a perder? Una tarde. Mucho GitHub. Mucho Copilot.**\n​El próximo **1 de octubre**, **GitHub Community Spain y Tech Riders** juntamos comunidades para una tarde de **GitHub, IA, desarrollo y charlas técnicas** en las oficinas de **Celonis Madrid**. 💚🐙\n​Sí, podríamos contarte durante horas todo lo que está pasando alrededor de GitHub Copilot y cómo está cambiando nuestra forma de desarrollar.\n​Pero nos parece bastante más interesante reunir a gente que está trabajando con ello **de verdad** y escuchar lo que tiene que contarnos. 😏\n​**GitHub Dev Days** es una iniciativa global que reúne a developers y comunidades tech de todo el mundo para explorar el ecosistema de **GitHub Copilot** y las nuevas formas de crear software con IA.\n​Y ahora toca **Madrid**. 📍\n\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\nREGISTRO AQUÍ: [https://luma.com/s3r4fn9c](https://luma.com/s3r4fn9c)\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n🎤 **[Roberto Arocha](https://www.linkedin.com/in/robertoarocha/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3Bu%2BFf3LMpTxeLNeNrsrLmMQ%3D%3D)**\n🧠 Stop Repeating Yourself: The Agent That Remembers\nMemoria, contexto y feedback loops para que GitHub Copilot no tenga que empezar de cero cada vez.\n\n🎤 **[Dachi Gogotchuri](https://www.linkedin.com/in/soydachi/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3Bu%2BFf3LMpTxeLNeNrsrLmMQ%3D%3D)**\n🛡️ No te fíes de tu agente. Fíate de tus gates\nGitHub Issues, GitHub Copilot y un proceso gobernado para que tus agentes puedan trabajar… sin darles las llaves del castillo 👀\n\n🎤 **[Borja Piris de Castro](https://www.linkedin.com/in/borja-piris/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3Bu%2BFf3LMpTxeLNeNrsrLmMQ%3D%3D)** + **[Rodrigo Ezequiel Liberoff Vázquez](https://www.linkedin.com/in/rliberoff/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3Bu%2BFf3LMpTxeLNeNrsrLmMQ%3D%3D)**\n🤖 Un Squad de agentes programando en paralelo, con Terraform, Microsoft Foundry y Azure API Management para controlar tokens, costes, resiliencia y failover.",
+    "start_at": "2026-10-01T18:00:00+02:00",
+    "end_at": null,
+    "url": "https://www.meetup.com/ghspain/events/316750686/",
+    "city": "Madrid",
+    "address": "Pl. de Manuel Gómez-Moreno, 2, Tetuán, 28020 Madrid, Spain",
+    "organizer": "GitHub Community (España)",
+    "lat": 40.4485287,
+    "lng": -3.6940143,
+    "extra": {
+      "attendees": 4,
+      "max_tickets": 1,
+      "spots_left": -3
+    },
+    "found_on_platforms": [
+      "meetup"
+    ],
+    "duplicate_ids": [],
+    "enrichment": null
+  },
+  {
     "id": "meetup:316468534",
     "source": "meetup",
     "source_id": "316468534",
@@ -768,9 +756,9 @@
     "lat": 40.4204119,
     "lng": -3.7016001,
     "extra": {
-      "attendees": 50,
+      "attendees": 51,
       "max_tickets": 60,
-      "spots_left": 10
+      "spots_left": 9
     },
     "found_on_platforms": [
       "meetup"

@@ -37,9 +37,9 @@
     "city": "Madrid",
     "address": "C. de San Bernardo, 2, Centro, 28013 Madrid",
     "organizer": "Madrid Networking Club",
-    "attendees": 18,
+    "attendees": 24,
     "max_tickets": 120,
-    "spots_left": 102,
+    "spots_left": 96,
     "found_in": [
       "Artificial Intelligence"
     ],
@@ -102,9 +102,9 @@
     "city": "Madrid",
     "address": "de la comunidad, C. de Bravo Murillo, 39, Local interior, Chamberí, 28015 Madrid, Spain",
     "organizer": "Madrid Machine Learning Meetup",
-    "attendees": 28,
+    "attendees": 29,
     "max_tickets": 60,
-    "spots_left": 32,
+    "spots_left": 31,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -163,28 +163,6 @@
   {
     "source": "meetup",
     "source_slug": "Data Science",
-    "source_id": "316482252",
-    "name": "Escalando con el particionado de postgresql y releases inmutables",
-    "description": "**🚀 Madrid DevOps x AiSec Eng Spain x PostgreSQL España**\nNada mejor para retomar la rutina tras las vacaciones que un caso real de ingeniería al límite. En esta edición conjunta, **Jorge Argente Ferrero** (Staff Engineer en Clarity AI) compartirá el *post-mortem* de un incidente crítico de datos y la arquitectura que construyeron para resolverlo.\n👉 **[RESERVA TU PLAZA AQUÍ]**\n📍 **Detalles de la cita**\n\n* **Fecha:** 28 de septiembre de 2026 \\| 18:50 \\(CEST\\)\n* **Lugar:** Celonis — Plaza de Manuel Gómez-Moreno, 2, Tetuán (Madrid)\n\n💡 **¿Qué aprenderás en esta sesión?**\n\n* **Análisis de un desastre:** Cómo la interacción entre cargas masivas de datos y los procesos asíncronos de `VACUUM` y `ANALYZE` generó condiciones de carrera que corrompieron los metadatos del *query planner*.\n* **De monolito a inmutabilidad:** El rediseño que permitió pasar de tablas monolíticas y operaciones mutables a un modelo de **Particionado Declarativo** y *releases* inmutables.\n* **Impacto en producción:** Cómo convertir las cargas masivas en operaciones atómicas a nivel de sistema de archivos, eliminar el *bloat* de almacenamiento y exprimir la optimización de *Partition Pruning*.\n\n🎤 **Ponente** **Jorge Argente Ferrero** \\| *Staff Engineer en Clarity AI*\n\n18:30 — Check-in\n18:50 — Bienvenida\n19:00 — Talk: Agentic Thinking for Humans: Build Your Own Skills for the Future\n19:45 — Cierre\n19:50— Networking\n\n**[RESERVA TU SITIO AQUÍ](https://www.meetup.com/madrid-devops/events/316152297/?eventOrigin=home_page_upcoming_events%24all)**",
-    "start_at": "2026-09-28T18:50:00+02:00",
-    "url": "https://www.meetup.com/celonis-tech-meetups-madrid/events/316482252/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "Pl. de Manuel Gómez-Moreno, 2",
-    "organizer": "Celonis Tech Meetups Madrid",
-    "attendees": 1,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Data Science",
-      "DevOps"
-    ],
-    "lat": 40.4485287,
-    "lng": -3.6940143
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Data Science",
     "source_id": "316653904",
     "name": "Consultas en milisegundos sobre tu data lake (sin copiar los datos)",
     "description": "⚠️ 🇪🇸 Esta sesión será en español / This session will be in Spanish\n\nCada vez más empresas guardan sus datos en un data lake: en vez de meterlos en una base de datos, dejan ficheros Parquet en S3 en formato Iceberg, que se encarga de decir qué ficheros forman la tabla en cada momento. Es barato, es abierto y lo lee cualquiera. Pero no es rápido: una consulta puede tardar segundos o minutos, y la respuesta habitual de la industria sigue siendo «cópialos a otro sitio».\n\nEn esta charla veremos que no hace falta. Apache Pinot (OLAP en Java, milisegundos, miles de consultas por segundo) usa internamente un formato similar a Iceberg: ficheros inmutables y un manifiesto que decide cuáles se… leen. Como su capa de almacenamiento es una API de plugins, podemos dejar los datos donde están y guardar solo los índices al lado: más de 500 consultas por segundo por debajo del segundo sobre 12.000 millones de filas, sin duplicar un byte. Hablaremos de cómo funciona todo esto y de las situaciones donde merece la pena y, también, en las que no lo hace.",
@@ -222,27 +200,6 @@
       "Data Science",
       "DevOps",
       "Hackathon"
-    ],
-    "lat": 40.4485287,
-    "lng": -3.6940143
-  },
-  {
-    "source": "meetup",
-    "source_slug": "DevOps",
-    "source_id": "316152297",
-    "name": "Escalando con el particionado de postgresql y releases inmutables",
-    "description": "# 🚀 Madrid DevOps x AiSec Eng Spain x PostgreSQL España\n\n📅 28 de septiembre de 2026\n🕖 18:50 (CEST)\n📍 Lugar: Celonis\n📍 Dirección: Plaza de Manuel Gómez-Moreno, 2, Tetuán, 28020 Madrid\n\n### 🎯 Escalando la Gestión de Datos con el particionado de postgresql y releases inmutables\n\n### 👨‍💻 Ponente\n\nJorge Argente Ferrero - Staff Engineer en Clarity AI\n\n### 📚 Descripción del evento\n\nEsperemos que no hayas quedado ciego por el eclipse o chamuscado por el sol. Nada mejor para retomar la rutina que esta ponencia de Jorge, en la que comparte el post-mortem de un incidente crítico en Clarity AI.\n¿Qué puede salir mal durante una carga masiva de datos? Veremos cómo la interacción con los procesos asíncronos de VACUUM y ANALYZE puede generar condiciones de carrera que corrompen los metadatos usados por el query planner, con la consiguiente pérdida de rendimiento.\nPara resolver este problema estructural, tras un rediseño completo, se hizo la transición de una arquitectura basada en tablas monolíticas y operaciones mutables hacia un modelo fundamentado en Particionado Declarativo y lanzamientos inmutables, convirtiendo las cargas masivas en operaciones atómicas a nivel de sistema de archivos.\nLa idea es regresar a casa sabiendo cómo mejorar el rendimiento, eliminar el \"bloat\" de almacenamiento y aprovechar las optimizaciones de Partition Pruning.",
-    "start_at": "2026-09-28T18:50:00+02:00",
-    "url": "https://www.meetup.com/madrid-devops/events/316152297/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "Plaza de Manuel Gómez-Moreno, 2, Tetuán, 28020",
-    "organizer": "Madrid DevOps",
-    "attendees": 29,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "DevOps"
     ],
     "lat": 40.4485287,
     "lng": -3.6940143
@@ -335,6 +292,27 @@
   {
     "source": "meetup",
     "source_slug": "Hackathon",
+    "source_id": "316750686",
+    "name": "GitHub Dev Days Madrid 2026 🚀",
+    "description": "# ​GitHub Dev Days Madrid 2026 🚀\n\n**¿Te lo vas a perder? Una tarde. Mucho GitHub. Mucho Copilot.**\n​El próximo **1 de octubre**, **GitHub Community Spain y Tech Riders** juntamos comunidades para una tarde de **GitHub, IA, desarrollo y charlas técnicas** en las oficinas de **Celonis Madrid**. 💚🐙\n​Sí, podríamos contarte durante horas todo lo que está pasando alrededor de GitHub Copilot y cómo está cambiando nuestra forma de desarrollar.\n​Pero nos parece bastante más interesante reunir a gente que está trabajando con ello **de verdad** y escuchar lo que tiene que contarnos. 😏\n​**GitHub Dev Days** es una iniciativa global que reúne a developers y comunidades tech de todo el mundo para explorar el ecosistema de **GitHub Copilot** y las nuevas formas de crear software con IA.\n​Y ahora toca **Madrid**. 📍\n\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\nREGISTRO AQUÍ: [https://luma.com/s3r4fn9c](https://luma.com/s3r4fn9c)\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n🎤 **[Roberto Arocha](https://www.linkedin.com/in/robertoarocha/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3Bu%2BFf3LMpTxeLNeNrsrLmMQ%3D%3D)**\n🧠 Stop Repeating Yourself: The Agent That Remembers\nMemoria, contexto y feedback loops para que GitHub Copilot no tenga que empezar de cero cada vez.\n\n🎤 **[Dachi Gogotchuri](https://www.linkedin.com/in/soydachi/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3Bu%2BFf3LMpTxeLNeNrsrLmMQ%3D%3D)**\n🛡️ No te fíes de tu agente. Fíate de tus gates\nGitHub Issues, GitHub Copilot y un proceso gobernado para que tus agentes puedan trabajar… sin darles las llaves del castillo 👀\n\n🎤 **[Borja Piris de Castro](https://www.linkedin.com/in/borja-piris/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3Bu%2BFf3LMpTxeLNeNrsrLmMQ%3D%3D)** + **[Rodrigo Ezequiel Liberoff Vázquez](https://www.linkedin.com/in/rliberoff/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3Bu%2BFf3LMpTxeLNeNrsrLmMQ%3D%3D)**\n🤖 Un Squad de agentes programando en paralelo, con Terraform, Microsoft Foundry y Azure API Management para controlar tokens, costes, resiliencia y failover.",
+    "start_at": "2026-10-01T18:00:00+02:00",
+    "url": "https://www.meetup.com/ghspain/events/316750686/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Pl. de Manuel Gómez-Moreno, 2, Tetuán, 28020 Madrid, Spain",
+    "organizer": "GitHub Community (España)",
+    "attendees": 4,
+    "max_tickets": 1,
+    "spots_left": -3,
+    "found_in": [
+      "Hackathon"
+    ],
+    "lat": 40.4485287,
+    "lng": -3.6940143
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Hackathon",
     "source_id": "316468534",
     "name": "Visita guiada a “Revolución Cuántica”",
     "description": "¡Hola a todos, comunidad de Quantum Madrid! 👋\n\nEsta vez cambiamos las charlas y los auditorios por una experiencia un poco diferente: nos vamos de visita a **Revolución Cuántica**, la exposición de Espacio Fundación Telefónica dedicada a explorar los fundamentos de la física cuántica y las tecnologías que están surgiendo a partir de ella. ⚛️\n\n**🔬 La visita:**\nDesde Quantum Madrid hemos organizado una **visita guiada exclusiva para la comunidad** a la exposición *Revolución Cuántica*.\n\nLa muestra propone un recorrido desde los orígenes de la mecánica cuántica hasta la actual segunda revolución cuántica, pasando por conceptos como la superposición, el entrelazamiento o el principio de incertidumbre, y por sus aplicaciones en ámbitos como la computación, las comunicaciones y la sensórica cuántica.\n\nA través de **más de 120 piezas**, entre objetos científicos históricos, instalaciones inmersivas, audiovisuales e interactivos, podremos conocer de una forma accesible cómo la física cuántica ha cambiado nuestra comprensión del mundo y por qué está llamada a tener un impacto cada vez mayor en la tecnología y la sociedad.\n\nAdemás de disfrutar de la exposición, será una buena oportunidad para reencontrarnos, conocer a otros miembros de la comunidad y seguir hablando de cuántica fuera del formato habitual de nuestras charlas.\n\n**🗓️ Agenda (aprox.):**\n\n* 17:15 h – Encuentro del grupo en Espacio Fundación Telefónica.\n* 17:30 h – Inicio de la visita guiada a *Revolución Cuántica*.\n* 18:30/18:45 h – Fin aproximado de la visita.\n* Después de la visita, quienes quieran podrán quedarse a tomar algo por la zona y seguir haciendo comunidad 🍻.\n* 📅 **Cuándo:** Jueves 8 de octubre de 2026 a las 17:30 h\n* 📍 **Dónde:** Espacio Fundación Telefónica – C/ Fuencarral, 3, Madrid. La exposición se encuentra en la 3.ª planta.\n\n⚠️ **IMPORTANTE: PLAZAS MUY LIMITADAS**\nLa visita se realizará en un grupo reducido, por lo que os pedimos que **solo os apuntéis si tenéis previsto asistir**. Si finalmente no podéis venir, por favor liberad vuestra plaza cuanto antes para que pueda aprovecharla otra persona de la comunidad.\nEvento presencial y gratuito, con inscripción previa obligatoria.",
@@ -344,9 +322,9 @@
     "city": "MADRID",
     "address": "Calle Fuencarral , 3, Madrid",
     "organizer": "Quantum Madrid by Entangle",
-    "attendees": 50,
+    "attendees": 51,
     "max_tickets": 60,
-    "spots_left": 10,
+    "spots_left": 9,
     "found_in": [
       "Hackathon"
     ],

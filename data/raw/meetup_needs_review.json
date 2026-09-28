@@ -21,25 +21,6 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
-    "source_id": "316593085",
-    "name": "Depurar medidas DAX en modelos semánticos",
-    "description": "En esta sesión práctica veremos varias técnicas para depurar medidas que van desde el uso de variables DAX al trabajo con herramientas externas como DAX Studio y Tabular Editor.",
-    "start_at": "2026-10-29T19:00:00+01:00",
-    "url": "https://www.meetup.com/power-platform-madrid/events/316593085/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Power Platform Madrid",
-    "attendees": 5,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
     "source_id": "316680054",
     "name": "*ULTIMA EDICION* Master en Deep Learning con IA Agéntica",
     "description": "\\*\\*\\*\\* ÚLTIMA EDICIÓN CON MÓDULO IA AGÉNTICA \\*\\*\\*\\*\n\nSi quieres trabajar con IA en modelos de imagen, texto, audio... no lo dejes pasar. Contenido totalmente actualizado, módulo de IA Agéntica y docentes profesionales con amplia experiencia en proyectos de IA en todos los sectores.\nESTA SERÁ LA ÚLTIMA EDICIÓN DE LA FORMACIÓN. Como siempre, el soporte de docentes y todo el equipo Datamecum está más que garantizado antes, durante y después de la formación.\n**3**ª 𝗲𝗱. 𝗠𝗔𝗦𝗧𝗘𝗥 𝗗𝗘𝗘𝗣 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 𝗖𝗢𝗡 𝗜𝗔 **AGÉNTICA**\n𝟮.𝟮𝟵𝟱€ con 180h. clases online 𝗲𝗻 𝗱𝗶𝗿𝗲𝗰𝘁𝗼 que se graban + TFM\nDuración: 2 octubre 2026 al 16 abril 2027\nHorario: Viernes 16-20h y Sábados 9-13h. TODAS LAS CLASES SE GRABAN\nContenido e inscripción en el link [https://datamecum.com/master-en-deep-learning-con-ia-agentica/](https://datamecum.com/master-en-deep-learning-con-ia-agentica/)\n👉 [ruth.gamero@datamecum.com](mailto:ruth.gamero@datamecum.com)\n📞 [613.08.30.04](http://613.08.30.04/) Whatsapp o llamada tradicional\n\n+++++ CÓDIGO DE CONDUCTA +++++\nPropósito:\nEste grupo de Meetup cree en una comunidad abierta a todo el mundo. Como tal, estamos comprometidos a proporcionar un ambiente amigable, seguro y acogedor para todos independientemente de su orientación sexual, religión o sistema operativo preferido.\nEste código de conducta resume nuestras expectativas para el comportamiento de los participantes así como las consecuencias para el comportamiento inaceptable.\nComportamiento esperado:\nSer considerado, respetuoso y colaborativo. Abstenerse de comportamiento degradante, discriminatorio o de acoso. Alertar a los organizadores al observar una situación peligrosa o de riesgo. Participar de una manera auténtica y activa.\nComportamiento inaceptable:\nIntimidación. Abuso. Conducta discriminatoria/ofensiva relacionado con el género, raza, religión o discapacidad. Tratamiento despectivo o degradante. Acoso. Uso inadecuado de desnudez y/o imágenes sexuales. Interrupción sostenida de charlas u otros eventos.\nConsecuencias de un comportamiento inaceptable:\nLos organizadores pueden tomar cualquier acción que consideren apropiada, incluso la expulsión del evento sin previo aviso o reembolso.\nQué hacer si eres testigo u objeto de un comportamiento inaceptable:\nSi estás involucrado en un comportamiento inaceptable, eres testigo de dicho comportamiento o cualquier situación similar, por favor notifícalo al organizador del evento tan pronto como sea posible.\nInformación de contacto:\nCualquier participante puede ponerse en contacto con la organización a través del contacto de MeetUp.\nÁmbito de aplicación:\nEsperamos que todos los participantes del evento (patrocinadores, voluntarios, ponentes, asistentes y otros invitados) cumplan con el código de conducta en todas las reuniones virtuales y eventos presenciales organizados por este grupo de MeetUp.",
@@ -56,6 +37,25 @@
       "Artificial Intelligence",
       "Machine Learning",
       "Data Science"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
+    "source_id": "316593085",
+    "name": "Depurar medidas DAX en modelos semánticos",
+    "description": "En esta sesión práctica veremos varias técnicas para depurar medidas que van desde el uso de variables DAX al trabajo con herramientas externas como DAX Studio y Tabular Editor.",
+    "start_at": "2026-10-29T19:00:00+01:00",
+    "url": "https://www.meetup.com/power-platform-madrid/events/316593085/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Power Platform Madrid",
+    "attendees": 5,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence"
     ]
   },
   {
@@ -234,7 +234,8 @@
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence",
-      "Machine Learning"
+      "Machine Learning",
+      "Data Science"
     ]
   },
   {
@@ -288,9 +289,9 @@
     "city": "",
     "address": "",
     "organizer": "Marketing con IA Madrid",
-    "attendees": 7,
+    "attendees": 8,
     "max_tickets": 45,
-    "spots_left": 38,
+    "spots_left": 37,
     "found_in": [
       "Data Science"
     ]
@@ -311,8 +312,7 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Data Science",
-      "Hackathon"
+      "Data Science"
     ]
   },
   {
@@ -384,7 +384,7 @@
     "city": "",
     "address": "",
     "organizer": "Microsoft Speakers Hub en Español",
-    "attendees": 13,
+    "attendees": 14,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -451,25 +451,6 @@
   {
     "source": "meetup",
     "source_slug": "Startups",
-    "source_id": "316349046",
-    "name": "How to Build AI Skills For Your Career",
-    "description": "This event is being promoted by many groups.\n\nOur meetup group is participating by promoting this event.\n\nThis event is organized by Albert's List.\n\nOur meetup group is collaborating by promoting this event.\n\nThis is an online event.\n\nAttendees can be located anywhere in the world!\n\nThis event is FREE to attend!\n\nIn order to attend, please register here:\n[https://www.eventbrite.com/e/how-to-build-ai-skills-for-your-career-tickets-1999078866704?aff=ideatoipo](https://www.eventbrite.com/e/how-to-build-ai-skills-for-your-career-tickets-1999078866704?aff=ideatoipo)\nAI is reshaping work. But most professionals don't know where to start. Do you build an agent to improve your job search? Automate repetitive work in your current role? Or create a side project to generate income?\n**The Session**\nIn this webinar, Albert of Albert's List walks through how professionals across different situations are using vibe coding and AI agents to move faster, land better roles, and create leverage. You'll see:\n\n* What \"vibe coding\" actually is (and why it works for non-technical builders)\n* Why agents matter at work, and what they actually do\n* Real examples: job seekers building search tools, operators automating workflows, builders shipping side projects\n* How to pick the right path for your situation\n\nThis isn't a technical tutorial. It's a framework for deciding what you should build and why.\n**Who This Is For**\n\n* Job seekers who want to differentiate themselves and move faster\n* Professionals in roles who want to automate friction\n* People interested in building a side project or consulting practice\n\n**What Happens Next**\nAt the end, you'll vote on what you'd actually build. Based on community demand, we'll announce workshops and training in the areas that matter most to our audience.",
-    "start_at": "2026-09-29T00:00:00+02:00",
-    "url": "https://www.meetup.com/spain-startup-idea-to-ipo/events/316349046/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Spain  Startup: Idea to IPO",
-    "attendees": 2,
-    "max_tickets": 50,
-    "spots_left": 48,
-    "found_in": [
-      "Startups"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Startups",
     "source_id": "316496019",
     "name": "How to Use AI to Build Your Personal Brand in 2026",
     "description": "This event is being promoted by many groups.\n\nOur meetup group is participating by promoting this event.\n\nThis event is organized by Albert's List.\n\nOur meetup group is collaborating by promoting this event.\n\nThis is an online event.\n\nAttendees can be located anywhere in the world!\n\nThis event is FREE to attend!\n\nIn order to attend, please register here:\n[https://www.eventbrite.com/e/how-to-use-ai-to-build-your-personal-brand-in-2026-tickets-1999065665218?aff=ideatoipo](https://www.eventbrite.com/e/how-to-use-ai-to-build-your-personal-brand-in-2026-tickets-1999065665218?aff=ideatoipo)\nMost professionals already have the raw material for a strong personal brand. It is sitting inside their resume, LinkedIn profile, portfolio, past projects, presentations, client work, and career stories. The challenge is knowing what to extract, how to package it, and how to share it consistently.\nIn this Albert’s List webinar, we’ll explore how AI workflows can help professionals build visibility online without starting from scratch every week. Whether you are employed, between roles, freelancing, consulting, building a side hustle, or exploring your next move, a stronger personal brand can help others understand your expertise before they ever meet you.\nWe will demonstrate how tools like n8n and ComfyUI can help transform existing career assets into LinkedIn posts, short-form video scripts, content ideas, visual assets, audio concepts, and repeatable workflows.\nAttendees will leave with a clearer understanding of how AI can support personal branding, career visibility, and opportunity creation in 2026.",
@@ -520,6 +501,25 @@
     "attendees": 1,
     "max_tickets": 100,
     "spots_left": 99,
+    "found_in": [
+      "Startups"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Startups",
+    "source_id": "316537054",
+    "name": "How to Land a Job for the Remainder of 2026",
+    "description": "This event is being promoted by many groups.\n\nOur meetup group is participating by promoting this event.\n\nThis event is organized by Albert's List.\n\nOur meetup group is collaborating by promoting this event.\n\nThis is an online event.\n\nAttendees can be located anywhere in the world!\n\nThis event is FREE to attend!\n\nIn order to attend, please register here:\n[https://www.eventbrite.com/e/how-to-land-a-job-for-the-remainder-of-2026-tickets-1995863892630?aff=ideatoipo](https://www.eventbrite.com/e/how-to-land-a-job-for-the-remainder-of-2026-tickets-1995863892630?aff=ideatoipo)\n2026 is now in full swing and the job market has been a mixed bag. Returning inflation, AI-based layoffs, global uncertainty, and declining consumer confidence—amid sky-high demand for AI-centric roles—are dominating the job market. As we get into the second half, where do things stand?\nWe'll discuss:\n\n* Our predictions for 2026 and how they look so far\n* Which industries are hot and which are not\n* Where AI is affecting the job search, and where they aren't\n* Tactics that still matter in an uncertain market\n* Upcoming Albert's List events you can attend to help your job search\n* And much more!\n\nWhether you are employed and looking for a new role, or out of work and looking, this webinar will have resources and ideas you can use to create a meaningful job hunt for the rest of the year.",
+    "start_at": "2026-10-16T00:00:00+02:00",
+    "url": "https://www.meetup.com/spain-startup-idea-to-ipo/events/316537054/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Spain  Startup: Idea to IPO",
+    "attendees": 2,
+    "max_tickets": 50,
+    "spots_left": 48,
     "found_in": [
       "Startups"
     ]
@@ -612,9 +612,9 @@
     "city": "Madrid",
     "address": "C. del Marqués de Casa Riera, 4, Centro, 28014 Madrid, Spain",
     "organizer": "Cloudflare User Group España (IA, CyberSecurity & Edge Dev)",
-    "attendees": 57,
+    "attendees": 56,
     "max_tickets": 50,
-    "spots_left": -7,
+    "spots_left": -6,
     "found_in": [
       "Artificial Intelligence",
       "DevOps",
@@ -700,6 +700,25 @@
   },
   {
     "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "316676432",
+    "name": "Nuevo martes de DT y nuevo reto real sobre el que trabajar. ¡Te esperamos!",
+    "description": "Ya tenemos fecha para nuestro Martes de **Design Thinking edición octubre.** ¡El último de 2026!\n\nDespués del éxito de las pasadas ediciones, seguimos con un nuevo reto de una entidad social. En este caso, se trata de la [Asociación VenTEA](https://ventea.es/) una entidad social que trabaja para que los entornos se adapten a las personas neurodivergentes, y no al revés. Serán ellos quienes nos presentarán su reto para que tú diseñes soluciones innovadoras en equipo con las que resolverlo.\n\nEl evento tendrá lugar como siempre en **Puerta Innovación.** Y, entre otras cosas, podrás:\n\n\\* Generar ideas innovadoras para un reto real, trabajando las fases de Ideación y Prototipado de un proceso de Design Thinking.\n\n\\* Volver a reunirte con compañeros de la comunidad, trabajar otra vez con ellos o con nuevos participantes y diseñar soluciones para un reto diferente al anterior.\n\n\\* ¡Conocer más sorpresas! Seguimos poniendo mucho esfuerzo en mejorar nuestros Martes de Design Thinking y mantener esta comunidad que tanto está aportando a todos.\n\n\\* Muchas más cosas que no nos caben aquí ;)\n\n¡Nos vemos el 13 de octubre! Inscríbete cuanto antes, las plazas están limitadas. **Tenemos ganas de volver a verte.**",
+    "start_at": "2026-10-13T18:30:00+02:00",
+    "url": "https://www.meetup.com/grupo-de-meetup-design-thinking-espana/events/316676432/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "C. de Toledo, 110",
+    "organizer": "Grupo de Meetup Design Thinking España",
+    "attendees": 10,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
     "source_slug": "Startups",
     "source_id": "316369827",
     "name": "Business Networking | PNM Octubre 🌇 Rooftop",
@@ -710,7 +729,7 @@
     "city": "Madrid",
     "address": "Calle de Atocha, 123, Centro, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 180,
+    "attendees": 191,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -729,9 +748,9 @@
     "city": "Madrid",
     "address": "Calle del Prof. José García Santesmases, 9, Moncloa - Aravaca, 28040 Madrid, Spain",
     "organizer": "Hack The Box Meetups for Universities: FDIst (UCM)",
-    "attendees": 13,
+    "attendees": 14,
     "max_tickets": 70,
-    "spots_left": 57,
+    "spots_left": 56,
     "found_in": [
       "Hackathon"
     ]

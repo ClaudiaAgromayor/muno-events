@@ -16,6 +16,7 @@
     "spots_left": 0,
     "found_in": [
       "Artificial Intelligence",
+      "Machine Learning",
       "Data Science",
       "DevOps",
       "Startups",
@@ -48,6 +49,27 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
+    "source_id": "316733035",
+    "name": "Beyond Autocomplete: Building Elixir Apps with Tidewave and AI Agents",
+    "description": "What does it look like to build an Elixir side project with AI as your development partner?\n\nUsing Nomadica as a real-world example, Paulo Alves Pereira will show how Tidewave fits alongside LLMs and coding agents. Expect practical demos, a look at the development workflow, and a discussion of what to delegate and where to stay hands-on.\n\nAfter the talk, there will be networking and pizza, courtesy of Doofinder.\n\n(Registration via the following form is required for venue access: [https://forms.gle/aRtSBtsQoaZzfyr1A](https://forms.gle/aRtSBtsQoaZzfyr1A))\n\nCheers!\nHector",
+    "start_at": "2026-10-21T19:00:00+02:00",
+    "url": "https://www.meetup.com/madrid-elixir/events/316733035/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "C. de Cronos, 63",
+    "organizer": "Elixir Madrid",
+    "attendees": 4,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence"
+    ],
+    "lat": 40.4410744,
+    "lng": -3.6187568
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
     "source_id": "316649677",
     "name": "Crea tu Avatar con Inteligencia Artificial 🤖",
     "description": "En este evento encontrarás el camino ideal para crear tu Propio Avatar con Inteligencia Artificial.\n\nEl evento empezará a las 7Pm\n\nen la calle Navarra 37, máximo 20 personas.\n\n1€ será la entrada en Efectivo.\n\nPrepárate para llevarte todo el Valor!",
@@ -62,6 +84,7 @@
     "spots_left": 22,
     "found_in": [
       "Artificial Intelligence",
+      "Machine Learning",
       "Startups"
     ],
     "lat": 40.4537078,
@@ -84,6 +107,7 @@
     "spots_left": 32,
     "found_in": [
       "Artificial Intelligence",
+      "Machine Learning",
       "Data Science"
     ],
     "lat": null,
@@ -106,6 +130,7 @@
     "spots_left": 0,
     "found_in": [
       "Artificial Intelligence",
+      "Machine Learning",
       "Startups",
       "Hackathon"
     ],
@@ -114,7 +139,7 @@
   },
   {
     "source": "meetup",
-    "source_slug": "Data Science",
+    "source_slug": "Machine Learning",
     "source_id": "316653906",
     "name": "Consultas en milisegundos sobre tu data lake (sin copiar los datos)",
     "description": "⚠️ 🇪🇸 Esta sesión será en español / This session will be in Spanish\n\nCada vez más empresas guardan sus datos en un data lake: en vez de meterlos en una base de datos, dejan ficheros Parquet en S3 en formato Iceberg, que se encarga de decir qué ficheros forman la tabla en cada momento. Es barato, es abierto y lo lee cualquiera. Pero no es rápido: una consulta puede tardar segundos o minutos, y la respuesta habitual de la industria sigue siendo «cópialos a otro sitio».\n\nEn esta charla veremos que no hace falta. Apache Pinot (OLAP en Java, milisegundos, miles de consultas por segundo) usa internamente un formato similar a Iceberg: ficheros inmutables y un manifiesto que decide cuáles se… leen. Como su capa de almacenamiento es una API de plugins, podemos dejar los datos donde están y guardar solo los índices al lado: más de 500 consultas por segundo por debajo del segundo sobre 12.000 millones de filas, sin duplicar un byte. Hablaremos de cómo funciona todo esto y de las situaciones donde merece la pena y, también, en las que no lo hace.",
@@ -124,10 +149,11 @@
     "city": "Madrid",
     "address": "c/ Génova 17",
     "organizer": "MadridJUG",
-    "attendees": 20,
+    "attendees": 21,
     "max_tickets": 40,
-    "spots_left": 20,
+    "spots_left": 19,
     "found_in": [
+      "Machine Learning",
       "Data Science",
       "DevOps"
     ],
@@ -233,7 +259,7 @@
     "city": "Madrid",
     "address": "Calle de Sta Engracia, 53",
     "organizer": "Sysarmy Madrid",
-    "attendees": 8,
+    "attendees": 9,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -318,9 +344,9 @@
     "city": "MADRID",
     "address": "Calle Fuencarral , 3, Madrid",
     "organizer": "Quantum Madrid by Entangle",
-    "attendees": 46,
+    "attendees": 50,
     "max_tickets": 60,
-    "spots_left": 14,
+    "spots_left": 10,
     "found_in": [
       "Hackathon"
     ],

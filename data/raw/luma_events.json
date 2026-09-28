@@ -20,9 +20,9 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 153,
-    "sold_out": true,
-    "waitlist_active": true,
+    "guest_count": 146,
+    "sold_out": false,
+    "waitlist_active": false,
     "registration_deadline": null,
     "lat": 40.394282541422804,
     "lng": -3.6990652900692425
@@ -48,7 +48,7 @@
     "categories": [
       "AI"
     ],
-    "guest_count": 80,
+    "guest_count": 76,
     "sold_out": true,
     "waitlist_active": true,
     "registration_deadline": null,
@@ -68,7 +68,7 @@
     "address": "Aticco Castellana - Coworking Castellana",
     "organizer": "Startup Grind Madrid",
     "is_free": false,
-    "cover_image": "https://images.lumacdn.com/uploads/yy/20a7035c-bf9c-42e1-8bfe-0ae5988fd386.png",
+    "cover_image": "https://images.lumacdn.com/uploads/0q/9ef9f12d-130a-4849-ae61-daa0d9a37e27.png",
     "found_in": [
       "madrid"
     ],
@@ -76,7 +76,7 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 52,
+    "guest_count": 55,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": "2026-09-21T18:00:59.000Z",
@@ -216,7 +216,7 @@
     "categories": [
       "AI"
     ],
-    "guest_count": 20,
+    "guest_count": 21,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,
@@ -261,14 +261,14 @@
     "timezone": "Europe/Madrid",
     "url": "https://lu.ma/djq5ciil",
     "city": "Madrid",
-    "address": "Atocha",
+    "address": "Arganzuela",
     "organizer": "Madrid Tech Brunch",
     "is_free": false,
     "cover_image": "https://images.lumacdn.com/uploads/2y/80ebc13e-7df4-41cb-b7d5-b05087f09d23.jpg",
     "found_in": [
       "madrid-tech-brunch"
     ],
-    "description": "Global Experiences Madrid Tech Brunch\nHow do we become global people?\nJoin us for an evening of stories from those who've lived and worked in multiple countries. Discover what it takes to build a life, career, and community across the world.\nOur speakers:Patrick Williamson - Chief Product Officer (CPO  CPTO  AI) | KKR · PSG · GIC | PE Backed AI Native Transitions & SaaS Turnarounds | Unity · Symantec · Yahoo! · INSEAD\nCanada → Silicon Valley → Indonesia → Germany → Madrid.\n25 Years Building Globally. From Symantec, Yahoo! and Unity to founding AI and marketplace startups, a global perspective on technology, products and entrepreneurship.Scott Witters - Serial Founder | Venture Operator | Investor | Experiential Technology & Digital Transformation | MBANew Zealand → London → Hong Kong → Singapore → New York → Madrid.\nA Kiwi's story building internationally. From Festival Tech to Global VenturesCome and enjoy an evening of stories from people who've relocated, worked abroad, lived abroad.\nWhether you moved to Madrid for a tech job, to launch a startup, to follow your heart, or just for a fresh start — you'll find your people here. Swap stories about the countries you've lived in, laugh at the cultural mix-ups, and meet others on the same journey.\nWhat to Expect\nSpeakers sharing their journeys\n\nConversations with people who've lived in the places you have\n\nGood vibes of a friendly tech community in Madrid\n\nJamón, cheese, snacks & soft drinks included — bring your own alcohol if you'd like\n\nRelax, share, connect — come as you are\n\n📍 Atocha Private Location, will be shared before the event, Madrid🗓 October 10th | 🕖 7:00 PM\nCome share your international story with us.",
+    "description": "Global Experiences Madrid Tech Brunch\nHow do we become global people?\nJoin us for an evening of stories from those who've lived and worked in multiple countries. Discover what it takes to build a life, career, and community across the world.\nOur speakers:Patrick Williamson - Chief Product Officer (CPO  CPTO  AI) | KKR · PSG · GIC | PE Backed AI Native Transitions & SaaS Turnarounds | Unity · Symantec · Yahoo! · INSEAD\nCanada → Silicon Valley → Indonesia → Germany → Madrid.\n25 Years Building Globally. From Symantec, Yahoo! and Unity to founding AI and marketplace startups, a global perspective on technology, products and entrepreneurship.Scott Witters - Serial Founder | Venture Operator | Investor | Experiential Technology & Digital Transformation | MBANew Zealand → London → Hong Kong → Singapore → New York → Madrid.\nA Kiwi's story building internationally. From Festival Tech to Global VenturesFana Colette - Branding & Marketing Consultant\nBarbados → Cayman Islands → Malta → Madrid\nFrom Barbados to Europe: Building a Business Across Borders\nCome and enjoy an evening of stories from people who've relocated, worked abroad, lived abroad.\nWhether you moved to Madrid for a tech job, to launch a startup, to follow your heart, or just for a fresh start — you'll find your people here. Swap stories about the countries you've lived in, laugh at the cultural mix-ups, and meet others on the same journey.\nWhat to Expect\nSpeakers sharing their journeys\n\nConversations with people who've lived in the places you have\n\nGood vibes of a friendly tech community in Madrid\n\nJamón, cheese, snacks & soft drinks included — bring your own alcohol if you'd like\n\nRelax, share, connect — come as you are\n\n📍 Atocha Private Location, will be shared before the event, Madrid🗓 October 10th | 🕖 7:00 PM\nCome share your international story with us.",
     "categories": [
       "Tech"
     ],
@@ -276,7 +276,35 @@
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,
-    "lat": 40.4023449,
-    "lng": -3.6881568999999996
+    "lat": 40.4035705743621,
+    "lng": -3.686852016905007
+  },
+  {
+    "source": "luma",
+    "source_slug": "madrid-tech-brunch",
+    "source_id": "evt-enSmDRun9hs2FP7",
+    "name": "Fintech challenge Kick Off",
+    "start_at": "2026-11-15T14:00:00.000Z",
+    "end_at": "2026-11-15T19:00:00.000Z",
+    "timezone": "Europe/Madrid",
+    "url": "https://lu.ma/6lusfcn8",
+    "city": "Madrid",
+    "address": "Madrid",
+    "organizer": "Fintech Challenge",
+    "is_free": true,
+    "cover_image": "https://images.lumacdn.com/uploads/3l/d68f359c-af40-4400-9044-81c63a50231f.png",
+    "found_in": [
+      "madrid-tech-brunch"
+    ],
+    "description": "Build What’s Next in Banking and Finance\nHave an idea for the future of finance? Or simply want to build one?\nThe Fintech Challenge by Fintech Madrid brings together ambitious people from fintech, banking, finance, technology, product, business and entrepreneurship to form teams and build new fintech solutions from the ground up.\nHow it works\n1. Meet your team (or come with your team)Connect with people with different backgrounds, skills and perspectives, and form your team around a problem worth solving.\n2. Ideate & validate ( or bring your idea/project)With the support of mentors and industry experts, develop your idea, understand the problem, test your assumptions and shape your solution.\n3. BuildTurn the concept into a tangible product. Work on your business model, proposition, prototype and go-to-market strategy.\n4. Demo DayPresent your solution in front of investors, banks, financial institutions, fintech leaders and ecosystem partners.\nThe goal is simple: take an idea from zero to something worth putting in front of the market.\nWho should join?\nFounders & aspiring entrepreneurs\n\nFintech & banking professionals\n\nProduct & technology builders\n\nDevelopers & designers\n\nFinance & business profiles\n\nStudents and young professionals with an entrepreneurial mindset\n\nAnyone who wants to build the next generation of financial services\n\nCome with an idea, a skill, or simply the ambition to build. We'll help you find the rest of the team.\n📍 Madrid🚀 From idea → team → prototype → Demo Day\nLimited spots to keep the experience collaborative and hands-on.\nFintech MadridBuilding the next generation of financial services, together.\nwww.thefintechchallenge.com",
+    "categories": [
+      "Tech"
+    ],
+    "guest_count": 0,
+    "sold_out": false,
+    "waitlist_active": false,
+    "registration_deadline": null,
+    "lat": 40.416727900000005,
+    "lng": -3.7032905
   }
 ]

@@ -54,6 +54,7 @@
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence",
+      "Machine Learning",
       "Data Science"
     ]
   },
@@ -92,7 +93,8 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Artificial Intelligence"
+      "Artificial Intelligence",
+      "Machine Learning"
     ]
   },
   {
@@ -131,7 +133,8 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Artificial Intelligence"
+      "Artificial Intelligence",
+      "Machine Learning"
     ]
   },
   {
@@ -150,7 +153,8 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Artificial Intelligence"
+      "Artificial Intelligence",
+      "Machine Learning"
     ]
   },
   {
@@ -169,7 +173,8 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Artificial Intelligence"
+      "Artificial Intelligence",
+      "Machine Learning"
     ]
   },
   {
@@ -189,6 +194,7 @@
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence",
+      "Machine Learning",
       "Data Science"
     ]
   },
@@ -227,7 +233,8 @@
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Artificial Intelligence"
+      "Artificial Intelligence",
+      "Machine Learning"
     ]
   },
   {
@@ -247,6 +254,26 @@
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Machine Learning",
+    "source_id": "316629017",
+    "name": "AIConnect: Global Virtual Job & Career Networking Event for AI Specialists",
+    "description": "Are you an AI engineer, data scientist, machine learning researcher, or aspiring innovator in the world of artificial intelligence? **AIConnect** is your dynamic **AI networking event online** designed to foster real-time conversations, career growth, and collaboration opportunities — all within a vibrant and self-led virtual space.\n\nWhether you're exploring job roles in AI, hoping to demo your latest project, or searching for your next co-developer or data scientist partner, **AIConnect** offers a one-of-a-kind experience to connect with the global **machine learning community meetup** — anytime, from anywhere.\n\n🎥 **Watch how it works in our explainer video:**\n👉 [https://www.youtube.com/watch?v=bH3uNrkUTuw](https://www.youtube.com/watch?v=bH3uNrkUTuw)\n\n**💡 Why Join AIConnect?**\n\nThis is not just another virtual event. It’s a **collaboration platform for AI specialists** where you can grow your professional network, showcase your AI/ML portfolio, exchange ideas, and chat directly with fellow participants, recruiters, and service providers.\nDesigned for **AI career fair virtual** seekers and builders alike, the platform supports live 1-1 **video or text chats**, and offers open access to diverse community-led channels tailored to your interests.\n\n**💬 Brainstorming & Discussion Channels Include:**\n\n* **General** – Your go-to hub for announcements, orientation, and casual community-wide conversation.\n* **Intros** – Introduce yourself, your research, your startup, or just share your journey in AI.\n* **Networking** – Showcase your AI/ML projects, portfolios, startup pitches, or job aspirations.\n* **Help Wanted** – Looking for team members, mentorship, freelance gigs, or offering support? Post here.\n* **Industry Room Tech** – Dive into the latest developments in AI frameworks, ML pipelines, data tools, and tech trends.\n\nWhether you’re a beginner or a pro, a researcher or a recruiter — this space empowers growth through **project demos, career discussions, and research conversations.**\n\n**🧠 What You’ll Gain:**\n\n* Direct access to a **global AI talent and hiring ecosystem**\n* Exposure to cutting-edge projects via the **AI project showcase event**\n* Connections with peers and thought leaders across AI, ML, and data science\n* Career insights and opportunities from fellow professionals and employers\n* A flexible environment to network, brainstorm, and build meaningful collaborations\n* Instant 1-on-1 video or text chats for deeper engagement\n\n**📍 Where:**\nJoin virtually at:\n👉 [https://events.tao.ai/pod/analytics.club/jknf0o9m3kix](https://events.tao.ai/pod/analytics.club/jknf0o9m3kix)\n**🕔 When:**\nEvery session starts at **5:00 PM – 7:00 PM local time** — recurring monthly on Fridays. Mark your calendar and come prepared to connect!\n\n**👥 Who Should Attend:**\n\n* AI engineers, ML developers, and data scientists\n* Startup founders and entrepreneurs in the AI/tech space\n* Recruiters, hiring managers, and project collaborators\n* Students, academics, and early-career professionals\n* Anyone passionate about AI, machine learning, and applied tech innovation\n\n**📩 Questions or Suggestions?**\nWe’d love to hear from you. Reach us anytime here:\n👉 [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**🔖 Hashtags:**\n#AIConnect #AINetworkingEventOnline #AICareerFairVirtual #MachineLearningCommunityMeetup #AIProjectShowcaseEvent #CollaborationPlatformForAISpecialists #MLJobs #GlobalAINetworking #TechNetworkingEvent #AIProfessionalsUnite",
+    "start_at": "2026-10-09T23:00:00+02:00",
+    "url": "https://www.meetup.com/ac-mad/events/316629017/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Analytics.CLUB Madrid",
+    "attendees": 2,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Machine Learning",
+      "Data Science"
     ]
   },
   {
@@ -291,25 +318,6 @@
   {
     "source": "meetup",
     "source_slug": "Data Science",
-    "source_id": "316629017",
-    "name": "AIConnect: Global Virtual Job & Career Networking Event for AI Specialists",
-    "description": "Are you an AI engineer, data scientist, machine learning researcher, or aspiring innovator in the world of artificial intelligence? **AIConnect** is your dynamic **AI networking event online** designed to foster real-time conversations, career growth, and collaboration opportunities — all within a vibrant and self-led virtual space.\n\nWhether you're exploring job roles in AI, hoping to demo your latest project, or searching for your next co-developer or data scientist partner, **AIConnect** offers a one-of-a-kind experience to connect with the global **machine learning community meetup** — anytime, from anywhere.\n\n🎥 **Watch how it works in our explainer video:**\n👉 [https://www.youtube.com/watch?v=bH3uNrkUTuw](https://www.youtube.com/watch?v=bH3uNrkUTuw)\n\n**💡 Why Join AIConnect?**\n\nThis is not just another virtual event. It’s a **collaboration platform for AI specialists** where you can grow your professional network, showcase your AI/ML portfolio, exchange ideas, and chat directly with fellow participants, recruiters, and service providers.\nDesigned for **AI career fair virtual** seekers and builders alike, the platform supports live 1-1 **video or text chats**, and offers open access to diverse community-led channels tailored to your interests.\n\n**💬 Brainstorming & Discussion Channels Include:**\n\n* **General** – Your go-to hub for announcements, orientation, and casual community-wide conversation.\n* **Intros** – Introduce yourself, your research, your startup, or just share your journey in AI.\n* **Networking** – Showcase your AI/ML projects, portfolios, startup pitches, or job aspirations.\n* **Help Wanted** – Looking for team members, mentorship, freelance gigs, or offering support? Post here.\n* **Industry Room Tech** – Dive into the latest developments in AI frameworks, ML pipelines, data tools, and tech trends.\n\nWhether you’re a beginner or a pro, a researcher or a recruiter — this space empowers growth through **project demos, career discussions, and research conversations.**\n\n**🧠 What You’ll Gain:**\n\n* Direct access to a **global AI talent and hiring ecosystem**\n* Exposure to cutting-edge projects via the **AI project showcase event**\n* Connections with peers and thought leaders across AI, ML, and data science\n* Career insights and opportunities from fellow professionals and employers\n* A flexible environment to network, brainstorm, and build meaningful collaborations\n* Instant 1-on-1 video or text chats for deeper engagement\n\n**📍 Where:**\nJoin virtually at:\n👉 [https://events.tao.ai/pod/analytics.club/jknf0o9m3kix](https://events.tao.ai/pod/analytics.club/jknf0o9m3kix)\n**🕔 When:**\nEvery session starts at **5:00 PM – 7:00 PM local time** — recurring monthly on Fridays. Mark your calendar and come prepared to connect!\n\n**👥 Who Should Attend:**\n\n* AI engineers, ML developers, and data scientists\n* Startup founders and entrepreneurs in the AI/tech space\n* Recruiters, hiring managers, and project collaborators\n* Students, academics, and early-career professionals\n* Anyone passionate about AI, machine learning, and applied tech innovation\n\n**📩 Questions or Suggestions?**\nWe’d love to hear from you. Reach us anytime here:\n👉 [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**🔖 Hashtags:**\n#AIConnect #AINetworkingEventOnline #AICareerFairVirtual #MachineLearningCommunityMeetup #AIProjectShowcaseEvent #CollaborationPlatformForAISpecialists #MLJobs #GlobalAINetworking #TechNetworkingEvent #AIProfessionalsUnite",
-    "start_at": "2026-10-09T23:00:00+02:00",
-    "url": "https://www.meetup.com/ac-mad/events/316629017/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Analytics.CLUB Madrid",
-    "attendees": 2,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Data Science"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Data Science",
     "source_id": "316695138",
     "name": "Applied AI Ethics MonthlyMixer - Where Innovation Meets Responsibility",
     "description": "Join a global, open-format gathering for those building and questioning AI — from real-world use cases to critical conversations around ethics, bias, and transparency.\nEvery month, we create space for developers, researchers, and policymakers to connect in meaningful, unmoderated dialogue — with flexible chats, peer learning, and 1-on-1 video networking.\nWatch how it works: **[https://www.youtube.com/watch?v=bOYkxBjrAYY](https://www.youtube.com/watch?v=bOYkxBjrAYY)**\n**What Is the Applied AI & Ethics #MonthlyMixer?**\nThe Applied AI & Ethics MonthlyMixer is a self-directed online networking event where professionals from across the AI spectrum come together to collaborate, question, and connect.\nThis isn’t a webinar or panel — it’s a structured-free, chat-first environment hosted on a Slack-like virtual platform, featuring topic-specific channels and private video or text chat options.\nWhether you're designing algorithms, drafting policy, or advocating for responsible tech, this is your space to exchange ideas, showcase projects, or meet others who care about building AI with integrity and impact.\n**Who Should Join:**\n\n* AI/ML developers working on real-world deployments\n* Policy makers and legal experts exploring AI governance\n* Data scientists interested in ethical model design\n* Academics and researchers studying AI and society\n* Ethicists, community leaders, and social impact advocates\n* Product leaders balancing innovation with responsibility\n\nWhether you're launching applied AI tools or questioning their societal effects, this mixer welcomes your perspective.\n**Explore These Channels Inside:**\nThe platform provides themed group discussions to help you navigate the topics that matter most:\n\n* #general – Start with introductions, announcements, and cross-topic conversation\n* #networking – Share your portfolio, white papers, startups, or ethical AI tools\n* #intros – Tell your story: what you work on and why it matters\n* #help-wanted – Request or offer guidance around data ethics, fairness, or responsible deployment\n* #industry-room-tech – Dive deep into real-world cases, AI misuse, explainability, and bias mitigation\n\nYou’ll also be able to chat directly and launch 1-on-1 video calls for deeper conversations.\n**When & Where?**\n\n* Second Wednesday of Every month\n* 5:00 PM – 7:00 PM (your local time)\n* Register from the platform here - [https://events.tao.ai/pod/analytics.club/cont-r8tfbvicrqsh](https://events.tao.ai/pod/analytics.club/cont-r8tfbvicrqsh)\n\nNo login hurdles. No presentations. Just people-driven dialogue.\n**Why Join?**\n\n* Global gathering of AI professionals shaping the future responsibly\n* Self-led chats & 1-on-1 networking with values-aligned peers\n* Exchange insights, frameworks, and use cases for applied AI\n* Build your ethical AI toolkit and collaborative network\n* Reconnect monthly to deepen the conversation\n\n**Questions or Suggestions?**\nWe’re always listening.\nContact us anytime at: [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n**Quick Links:**\n\n* Explainer Video: [https://www.youtube.com/watch?v=bOYkxBjrAYY](https://www.youtube.com/watch?v=bOYkxBjrAYY)\n* Support Page: [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**Hashtags for Discovery & Engagement**\n#AppliedAI #EthicalAI #AIEthics #ResponsibleTech #MonthlyMixer #AIGovernance #AIandSociety #FairAI #BiasInAI #TechForGood #AINetworking #AIProfessionals #GlobalAICommunity",
@@ -348,25 +356,6 @@
   {
     "source": "meetup",
     "source_slug": "DevOps",
-    "source_id": "316267997",
-    "name": "CI/CD con GitHub Actions: de local a producción sin miedo",
-    "description": "¿Sigues realizando despliegues manuales o te preocupa que un cambio inesperado rompa tu proyecto en producción? En esta sesión aprenderás los conceptos fundamentales de **CI/CD** utilizando **GitHub Actions** desde cero.\n\nDescubriremos cómo automatizar tareas, ejecutar pruebas, validar cambios y construir flujos de trabajo que permitan entregar soluciones con mayor confianza y menor esfuerzo manual.\n\nA través de ejemplos paso a paso, conoceremos cómo funciona un archivo YAML de GitHub Actions, cómo crear pipelines básicos y qué buenas prácticas aplicar para comenzar a automatizar procesos desde el primer día.\n\n🗣️ **Speaker:** Jeyson Meuses\n🎤 **Host**: Mike Matamoros",
-    "start_at": "2026-10-01T01:00:00+02:00",
-    "url": "https://www.meetup.com/microsoft-speakers-hub-en-espanol/events/316267997/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Microsoft Speakers Hub en Español",
-    "attendees": 13,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "DevOps"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "DevOps",
     "source_id": "316118455",
     "name": "FabricOps: Operating Hyperledger Fabric Networks on Kubernetes",
     "description": "[FabricOps is an LF Decentralized Trust Lab](https://github.com/LF-Decentralized-Trust-labs/FabricOps) that provides a Kubernetes operator and CLI for provisioning and operating multi-organization Hyperledger Fabric networks from declarative, Fablo-style configuration.\n\nIn this meetup, Pereowei Daniel will introduce the motivation behind FabricOps, especially the gap between local Fabric development with tools like Fablo and production-oriented Kubernetes deployment. The session will cover how FabricOps reconciles Fabric network intent into Kubernetes resources, including Fabric CA enrollment, MSP/TLS material, orderers, peers, channels, Chaincode-as-a-Service lifecycle, observability, and federated organization joining.\n\nThe meetup will also discuss how FabricOps can complement existing ecosystem efforts such as Fablo, Fabric Operator, hlf-operator, and Hyperledger Bevel, and where the project may fit into the broader Fabric and Fabric-X roadmap.\n\n**Zoom Meeting Link**: [https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09](https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09)\n\n**Please note: This event is being shared with our entire global community. If you're interested in this content but can't attend the event live, feel free to sign up and we will send you a link to the recording after the meetup is over.**",
@@ -377,6 +366,25 @@
     "address": "",
     "organizer": "LFDT Madrid",
     "attendees": 1,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "316267997",
+    "name": "CI/CD con GitHub Actions: de local a producción sin miedo",
+    "description": "¿Sigues realizando despliegues manuales o te preocupa que un cambio inesperado rompa tu proyecto en producción? En esta sesión aprenderás los conceptos fundamentales de **CI/CD** utilizando **GitHub Actions** desde cero.\n\nDescubriremos cómo automatizar tareas, ejecutar pruebas, validar cambios y construir flujos de trabajo que permitan entregar soluciones con mayor confianza y menor esfuerzo manual.\n\nA través de ejemplos paso a paso, conoceremos cómo funciona un archivo YAML de GitHub Actions, cómo crear pipelines básicos y qué buenas prácticas aplicar para comenzar a automatizar procesos desde el primer día.\n\n🗣️ **Speaker:** Jeyson Meuses\n🎤 **Host**: Mike Matamoros",
+    "start_at": "2026-10-01T01:00:00+02:00",
+    "url": "https://www.meetup.com/microsoft-speakers-hub-en-espanol/events/316267997/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Microsoft Speakers Hub en Español",
+    "attendees": 13,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -644,9 +652,9 @@
     "city": "Madrid",
     "address": "Pl. de Manuel Gómez-Moreno, 2, Tetuán, 28020 Madrid, Spain",
     "organizer": "GoMAD - Madrid Go UG",
-    "attendees": 30,
+    "attendees": 31,
     "max_tickets": 60,
-    "spots_left": 30,
+    "spots_left": 29,
     "found_in": [
       "Data Science",
       "DevOps"
@@ -702,7 +710,7 @@
     "city": "Madrid",
     "address": "Calle de Atocha, 123, Centro, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 166,
+    "attendees": 180,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

@@ -18,9 +18,9 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 153,
-      "sold_out": true,
-      "waitlist_active": true,
+      "guest_count": 146,
+      "sold_out": false,
+      "waitlist_active": false,
       "registration_deadline": null
     },
     "found_on_platforms": [
@@ -53,7 +53,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 80,
+      "guest_count": 76,
       "sold_out": true,
       "waitlist_active": true,
       "registration_deadline": null
@@ -88,7 +88,7 @@
         "Tech"
       ],
       "is_free": false,
-      "guest_count": 52,
+      "guest_count": 55,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": "2026-09-21T18:00:59.000Z"
@@ -258,7 +258,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 20,
+      "guest_count": 21,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -309,15 +309,15 @@
     "source": "luma",
     "source_id": "evt-06o4wNZYXxagQb9",
     "name": "Tech talks: Global People",
-    "description": "Global Experiences Madrid Tech Brunch\nHow do we become global people?\nJoin us for an evening of stories from those who've lived and worked in multiple countries. Discover what it takes to build a life, career, and community across the world.\nOur speakers:Patrick Williamson - Chief Product Officer (CPO  CPTO  AI) | KKR · PSG · GIC | PE Backed AI Native Transitions & SaaS Turnarounds | Unity · Symantec · Yahoo! · INSEAD\nCanada → Silicon Valley → Indonesia → Germany → Madrid.\n25 Years Building Globally. From Symantec, Yahoo! and Unity to founding AI and marketplace startups, a global perspective on technology, products and entrepreneurship.Scott Witters - Serial Founder | Venture Operator | Investor | Experiential Technology & Digital Transformation | MBANew Zealand → London → Hong Kong → Singapore → New York → Madrid.\nA Kiwi's story building internationally. From Festival Tech to Global VenturesCome and enjoy an evening of stories from people who've relocated, worked abroad, lived abroad.\nWhether you moved to Madrid for a tech job, to launch a startup, to follow your heart, or just for a fresh start — you'll find your people here. Swap stories about the countries you've lived in, laugh at the cultural mix-ups, and meet others on the same journey.\nWhat to Expect\nSpeakers sharing their journeys\n\nConversations with people who've lived in the places you have\n\nGood vibes of a friendly tech community in Madrid\n\nJamón, cheese, snacks & soft drinks included — bring your own alcohol if you'd like\n\nRelax, share, connect — come as you are\n\n📍 Atocha Private Location, will be shared before the event, Madrid🗓 October 10th | 🕖 7:00 PM\nCome share your international story with us.",
+    "description": "Global Experiences Madrid Tech Brunch\nHow do we become global people?\nJoin us for an evening of stories from those who've lived and worked in multiple countries. Discover what it takes to build a life, career, and community across the world.\nOur speakers:Patrick Williamson - Chief Product Officer (CPO  CPTO  AI) | KKR · PSG · GIC | PE Backed AI Native Transitions & SaaS Turnarounds | Unity · Symantec · Yahoo! · INSEAD\nCanada → Silicon Valley → Indonesia → Germany → Madrid.\n25 Years Building Globally. From Symantec, Yahoo! and Unity to founding AI and marketplace startups, a global perspective on technology, products and entrepreneurship.Scott Witters - Serial Founder | Venture Operator | Investor | Experiential Technology & Digital Transformation | MBANew Zealand → London → Hong Kong → Singapore → New York → Madrid.\nA Kiwi's story building internationally. From Festival Tech to Global VenturesFana Colette - Branding & Marketing Consultant\nBarbados → Cayman Islands → Malta → Madrid\nFrom Barbados to Europe: Building a Business Across Borders\nCome and enjoy an evening of stories from people who've relocated, worked abroad, lived abroad.\nWhether you moved to Madrid for a tech job, to launch a startup, to follow your heart, or just for a fresh start — you'll find your people here. Swap stories about the countries you've lived in, laugh at the cultural mix-ups, and meet others on the same journey.\nWhat to Expect\nSpeakers sharing their journeys\n\nConversations with people who've lived in the places you have\n\nGood vibes of a friendly tech community in Madrid\n\nJamón, cheese, snacks & soft drinks included — bring your own alcohol if you'd like\n\nRelax, share, connect — come as you are\n\n📍 Atocha Private Location, will be shared before the event, Madrid🗓 October 10th | 🕖 7:00 PM\nCome share your international story with us.",
     "start_at": "2026-10-10T17:00:00.000Z",
     "end_at": "2026-10-10T20:00:00.000Z",
     "url": "https://lu.ma/djq5ciil",
     "city": "Madrid",
-    "address": "Atocha",
+    "address": "Arganzuela",
     "organizer": "Madrid Tech Brunch",
-    "lat": 40.4023449,
-    "lng": -3.6881568999999996,
+    "lat": 40.4035705743621,
+    "lng": -3.686852016905007,
     "extra": {
       "categories": [
         "Tech"
@@ -338,6 +338,36 @@
       "comida_gratis": "si",
       "se_graba": "no_especificado"
     }
+  },
+  {
+    "id": "luma:evt-enSmDRun9hs2FP7",
+    "source": "luma",
+    "source_id": "evt-enSmDRun9hs2FP7",
+    "name": "Fintech challenge Kick Off",
+    "description": "Build What’s Next in Banking and Finance\nHave an idea for the future of finance? Or simply want to build one?\nThe Fintech Challenge by Fintech Madrid brings together ambitious people from fintech, banking, finance, technology, product, business and entrepreneurship to form teams and build new fintech solutions from the ground up.\nHow it works\n1. Meet your team (or come with your team)Connect with people with different backgrounds, skills and perspectives, and form your team around a problem worth solving.\n2. Ideate & validate ( or bring your idea/project)With the support of mentors and industry experts, develop your idea, understand the problem, test your assumptions and shape your solution.\n3. BuildTurn the concept into a tangible product. Work on your business model, proposition, prototype and go-to-market strategy.\n4. Demo DayPresent your solution in front of investors, banks, financial institutions, fintech leaders and ecosystem partners.\nThe goal is simple: take an idea from zero to something worth putting in front of the market.\nWho should join?\nFounders & aspiring entrepreneurs\n\nFintech & banking professionals\n\nProduct & technology builders\n\nDevelopers & designers\n\nFinance & business profiles\n\nStudents and young professionals with an entrepreneurial mindset\n\nAnyone who wants to build the next generation of financial services\n\nCome with an idea, a skill, or simply the ambition to build. We'll help you find the rest of the team.\n📍 Madrid🚀 From idea → team → prototype → Demo Day\nLimited spots to keep the experience collaborative and hands-on.\nFintech MadridBuilding the next generation of financial services, together.\nwww.thefintechchallenge.com",
+    "start_at": "2026-11-15T14:00:00.000Z",
+    "end_at": "2026-11-15T19:00:00.000Z",
+    "url": "https://lu.ma/6lusfcn8",
+    "city": "Madrid",
+    "address": "Madrid",
+    "organizer": "Fintech Challenge",
+    "lat": 40.416727900000005,
+    "lng": -3.7032905,
+    "extra": {
+      "categories": [
+        "Tech"
+      ],
+      "is_free": true,
+      "guest_count": 0,
+      "sold_out": false,
+      "waitlist_active": false,
+      "registration_deadline": null
+    },
+    "found_on_platforms": [
+      "luma"
+    ],
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "meetup:316482502",
@@ -398,6 +428,31 @@
       "comida_gratis": "no_especificado",
       "se_graba": "no_especificado"
     }
+  },
+  {
+    "id": "meetup:316733035",
+    "source": "meetup",
+    "source_id": "316733035",
+    "name": "Beyond Autocomplete: Building Elixir Apps with Tidewave and AI Agents",
+    "description": "What does it look like to build an Elixir side project with AI as your development partner?\n\nUsing Nomadica as a real-world example, Paulo Alves Pereira will show how Tidewave fits alongside LLMs and coding agents. Expect practical demos, a look at the development workflow, and a discussion of what to delegate and where to stay hands-on.\n\nAfter the talk, there will be networking and pizza, courtesy of Doofinder.\n\n(Registration via the following form is required for venue access: [https://forms.gle/aRtSBtsQoaZzfyr1A](https://forms.gle/aRtSBtsQoaZzfyr1A))\n\nCheers!\nHector",
+    "start_at": "2026-10-21T19:00:00+02:00",
+    "end_at": null,
+    "url": "https://www.meetup.com/madrid-elixir/events/316733035/",
+    "city": "Madrid",
+    "address": "C. de Cronos, 63",
+    "organizer": "Elixir Madrid",
+    "lat": 40.4410744,
+    "lng": -3.6187568,
+    "extra": {
+      "attendees": 4,
+      "max_tickets": 0,
+      "spots_left": null
+    },
+    "found_on_platforms": [
+      "meetup"
+    ],
+    "duplicate_ids": [],
+    "enrichment": null
   },
   {
     "id": "meetup:316649677",
@@ -504,9 +559,9 @@
     "lat": 40.9786078,
     "lng": -5.6769936,
     "extra": {
-      "attendees": 20,
+      "attendees": 21,
       "max_tickets": 40,
-      "spots_left": 20
+      "spots_left": 19
     },
     "found_on_platforms": [
       "meetup"
@@ -598,7 +653,7 @@
     "lat": 40.4325951,
     "lng": -3.6980319,
     "extra": {
-      "attendees": 8,
+      "attendees": 9,
       "max_tickets": 0,
       "spots_left": null
     },
@@ -713,9 +768,9 @@
     "lat": 40.4204119,
     "lng": -3.7016001,
     "extra": {
-      "attendees": 46,
+      "attendees": 50,
       "max_tickets": 60,
-      "spots_left": 14
+      "spots_left": 10
     },
     "found_on_platforms": [
       "meetup"

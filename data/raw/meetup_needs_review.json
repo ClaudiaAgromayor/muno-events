@@ -154,7 +154,9 @@
     "spots_left": null,
     "found_in": [
       "Artificial Intelligence",
-      "Machine Learning"
+      "Machine Learning",
+      "Data Science",
+      "DevOps"
     ]
   },
   {
@@ -220,6 +222,26 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
+    "source_id": "316000271",
+    "name": "GPU, CUDA, and PyTorch Performance Optimizations",
+    "description": "**Zoom link**: [https://us02web.zoom.us/j/82308186562](https://us02web.zoom.us/j/82308186562)\n\n**Talk #0: Introductions and Meetup Updates**\nby Chris Fregly and Antje Barth\n\n**Talk #1: GPU, PyTorch, and CUDA Performance Optimizations**\n\n**Talk #2: GPU, PyTorch, and CUDA Performance Optimizations**\n\n**Zoom link**: [https://us02web.zoom.us/j/82308186562](https://us02web.zoom.us/j/82308186562)\n\n**Related Links**\nGithub Repo: [http://github.com/cfregly/ai-performance-engineering/](http://github.com/cfregly/ai-performance-engineering/)\nO'Reilly Book: [https://www.amazon.com/Systems-Performance-Engineering-Optimizing-Algorithms/dp/B0F47689K8/](https://www.amazon.com/Systems-Performance-Engineering-Optimizing-Algorithms/dp/B0F47689K8/)\nYouTube: [https://www.youtube.com/@AIPerformanceEngineering](https://www.youtube.com/@AIPerformanceEngineering)\nGenerative AI Free Course on DeepLearning.ai: [https://bit.ly/gllm](https://bit.ly/gllm)",
+    "start_at": "2026-10-19T18:00:00+02:00",
+    "url": "https://www.meetup.com/ai-performance-engineering-meetup-madrid/events/316000271/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "AI Performance Engineering Meetup (Madrid)",
+    "attendees": 4,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence",
+      "Machine Learning"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
     "source_id": "316064663",
     "name": "Oct 7 - Building Composable Vision Workflows in FiftyOne",
     "description": "This workshop explores the [FiftyOne](https://docs.voxel51.com/index.html) plugin framework to build custom computer vision applications. You’ll learn to extend the FiftyOne App with Python based panels and server side operators, as well as integrate external tools for labeling, vector search, and model inference into your dataset views.\n\n**Date, Time and Location**\n\nOct 7, 2026\n9 AM - 10 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/building-composable-vision-workflows-in-fiftyone-october-7-2026)**\n\nYou’ll also automate repetitive tasks by writing custom workflows executing within the FiftyOne environment. Attendees will learn to transform FiftyOne from a visualization tool into a central hub for your vision stack.\n\nWhat you'll learn:\n\n* **Build Python plugins.** Define plugin manifests and directory structures to register custom functionality within the FiftyOne ecosystem.\n* **Develop server side operators.** Write functions to execute model inference, data cleaning, or metadata updates from the App interface.\n* **Build interactive panels.** Create custom UI dashboards using to visualize model metrics or specialized dataset distributions.\n* **Manage operator execution contexts.** Pass data between the App front end and your backend to build dynamic user workflows.\n* **Implement delegated execution.** Configure background workers to handle long running data processing tasks without blocking the user interface.\n* **Build labeling integrations.** Streamline the flow of data between FiftyOne and annotation platforms through custom triggers and ingestion scripts.\n* **Extend vector database support.** Program custom connectors for external vector stores to enable semantic search across large sample datasets.\n* **Package and share plugins.** Distribute your extensions internally and externally",
@@ -236,25 +258,6 @@
       "Artificial Intelligence",
       "Machine Learning",
       "Data Science"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
-    "source_id": "315990323",
-    "name": "Policy-Checked, Attributable, Revocable, Provable AI Agent Authorization",
-    "description": "AI agents are entering production with long-lived API keys in their environment, broader access than any task needs, and no answer to the questions: Which agent performed this action? Under whose authority?\n\nA single prompt injection, leaked credential, or runaway agent can quickly become a security incident. Security reviews delay deployments, and auditors are often left without sufficient evidence to understand what happened.\n\nExisting security infrastructure was not designed for autonomous AI agents. Identity providers register agents but do not authorize every action, secret managers distribute credentials to workloads, and API gateways route requests without making authorization decisions.\n\nThis talk introduces Caracal, an open source AI authorization system currently being developed through the LFDT LFX Mentorship program and supported by GitHub, Microsoft, and Vercel. We'll discuss what authority means for AI agents, why authorization must move beyond credentials, and how we designed Caracal's architecture to provide policy-based authorization, attribution, revocation, and auditability for agent actions.\n\nThe session will cover:\n\n* Why traditional API key and identity models are insufficient for AI agents\n* What authority means in autonomous AI systems\n* The architectural design behind Caracal\n* Practical approaches to securing AI agents in production\n\nThe meetup will be presented by the Caracal team, Ryan Madhuwala and Shubham Sharma.\n\nOur LFX mentees, Mohammad Ali Haider and Ashutosh Singh, will also present their work on the project. If you're interested in AI security and secure agent infrastructure, we'd be happy to have you join us.\n\n**Zoom Meeting Link**: [https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09](https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09)\n\n**Please note: This event is being shared with our entire global community. If you're interested in this content but can't attend the event live, feel free to sign up and we will send you a link to the recording after the meetup is over.**",
-    "start_at": "2026-10-02T16:00:00+02:00",
-    "url": "https://www.meetup.com/lfdt-madrid/events/315990323/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "LFDT Madrid",
-    "attendees": 0,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence"
     ]
   },
   {
@@ -355,26 +358,6 @@
   },
   {
     "source": "meetup",
-    "source_slug": "Data Science",
-    "source_id": "316524838",
-    "name": "AnalyticsCLUB JobExpo Virtual Business, Data & Technology Job Expo",
-    "description": "**What is FirstFridayFair Monthly Job Fair?**\n\nFirstFridayFair Monthly Job Fair is a **global virtual job fair and remote hiring event** hosted by the Analytics CLUB community. This **online job fair platform** brings together **professionals, employers, recruiters, and career coaches** for an immersive, **self-managed career networking experience**.\n\n🎥 **New to FirstFridayFair? Watch our explainer video here:** [https://youtu.be/NlLaCfOjosk](https://youtu.be/NlLaCfOjosk)\n\n**Where and When?**\n📍 Online at [https://events.tao.ai/pod/analytics.club/6j382kbpcnvd](https://events.tao.ai/pod/analytics.club/6j382kbpcnvd)\n🗓 First Friday of the month\n⏰ 11:00 AM - 2:00 PM (Local Time Zone)\n🌍 Open to participants globally\n\n🌍 **Who should join?**\n\n* **Job Seekers:** Looking for their next big break in **remote or local roles**.\n* **Employers & Recruiters:** Eager to find top talent across industries.\n* **Service Providers & Career Coaches:** Supporting professionals with tools, tips, and resources.\n* **Career Enthusiasts & Explorers:** Wishing to expand their network and knowledge.\n\n💬 **Where does the event take place?**\nThis interactive event is hosted on a **Slack-like community chat platform**, making it easy to **join from anywhere** and interact in **real-time group chats and 1-1 video or text conversations**.\n🚀 **What can you do at the event?**\nAttendees can explore several themed **Slack job fair channels** designed for **job networking, peer-to-peer support, and industry discussions**:\n\n* **General:** Intros, announcements, and casual networking.\n* **Networking:** Showcase your portfolio, startup, or job pitch.\n* **Intros:** Meet others, share your career path, and connect personally.\n* **Help Wanted:** Offer your skills or seek help from others.\n* **Industry Room Tech:** Discuss the latest in programming, software, and tech trends.\n\nAdditionally, attendees can engage in:\n\n* **1-1 video and text chats** with other attendees, recruiters, or service providers.\n* Visit the **virtual job openings board** to browse active listings and **connect with recruiters online**.\n* Participate in **live job fair chat**, where you can ask career-related questions, get **online resume tips**, and explore ways to stand out in the hiring process.\n\n❓ **Why join FirstFridayFair Monthly Job Fair?**\n\n* Access **global job networking events** right from your device.\n* Explore **virtual hiring events** designed for professionals seeking flexibility and growth.\n* Engage in meaningful conversations and discover **remote hiring opportunities**.\n* Take advantage of a **self-managed and open community platform**, allowing you to connect at your own pace.\n* Use the dedicated channels to **showcase your skills, ask questions, and build lasting professional connections**.\n\n**Have Questions or Suggestions?**\nWe’d love to help: [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)",
-    "start_at": "2026-10-02T11:00:00+02:00",
-    "url": "https://www.meetup.com/ac-mad/events/316524838/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Analytics.CLUB Madrid",
-    "attendees": 1,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Data Science",
-      "Hackathon"
-    ]
-  },
-  {
-    "source": "meetup",
     "source_slug": "DevOps",
     "source_id": "316118455",
     "name": "FabricOps: Operating Hyperledger Fabric Networks on Kubernetes",
@@ -386,44 +369,6 @@
     "address": "",
     "organizer": "LFDT Madrid",
     "attendees": 1,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "DevOps"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "DevOps",
-    "source_id": "316267997",
-    "name": "CI/CD con GitHub Actions: de local a producción sin miedo",
-    "description": "¿Sigues realizando despliegues manuales o te preocupa que un cambio inesperado rompa tu proyecto en producción? En esta sesión aprenderás los conceptos fundamentales de **CI/CD** utilizando **GitHub Actions** desde cero.\n\nDescubriremos cómo automatizar tareas, ejecutar pruebas, validar cambios y construir flujos de trabajo que permitan entregar soluciones con mayor confianza y menor esfuerzo manual.\n\nA través de ejemplos paso a paso, conoceremos cómo funciona un archivo YAML de GitHub Actions, cómo crear pipelines básicos y qué buenas prácticas aplicar para comenzar a automatizar procesos desde el primer día.\n\n🗣️ **Speaker:** Jeyson Meuses\n🎤 **Host**: Mike Matamoros",
-    "start_at": "2026-10-01T01:00:00+02:00",
-    "url": "https://www.meetup.com/microsoft-speakers-hub-en-espanol/events/316267997/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Microsoft Speakers Hub en Español",
-    "attendees": 15,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "DevOps"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "DevOps",
-    "source_id": "316692089",
-    "name": "From Automation to Agentic ERP: Reuse Oracle Integration for Governed AI Actions",
-    "description": "AI agents are changing how people interact with enterprise applications—but enabling agentic experiences shouldn’t require organizations to rebuild the trusted business automations that already run their ERP operations.\n\nIn this session, learn how Oracle Integration can provide the execution foundation for agentic experiences in Oracle Fusion Cloud ERP. See how an AI agent can understand user intent and determine the next best action, while Oracle Integration delivers deterministic execution, orchestration, security, and enterprise controls.\n\nThrough a practical ERP scenario, we’ll demonstrate how an agent can reuse an existing business automation to complete meaningful work—without recreating ERP transaction logic inside the agent. We’ll also explore how Model Context Protocol (MCP) can make business capabilities available to agents, while authentication, authorization, approvals, and auditability help ensure governed execution.\n\nThe takeaway: your ERP automation investment doesn’t disappear in the agentic era—it becomes the trusted foundation that enables AI agents to take secure, consistent, and governed action.\nSpeakers: Praveen Morusupalli and Prakash Masand\nSchedule: September 29th 2026 7.30 – 8:30 PST (Los Angeles time) 16:30 - 17:30 CET (Berlin time) 20:00 - 21:00 IST (Bengaluru time)\n[Please register for the webcast here.](https://go.oracle.com/LP=154785?elqCampaignId=678081)",
-    "start_at": "2026-09-29T16:30:00+02:00",
-    "url": "https://www.meetup.com/oracle-developer-meetup-spain/events/316692089/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Oracle Developer Meetup Madrid",
-    "attendees": 2,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -445,25 +390,6 @@
     "attendees": 1,
     "max_tickets": 50,
     "spots_left": 49,
-    "found_in": [
-      "Startups"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Startups",
-    "source_id": "316350269",
-    "name": "How to Strategize and Execute Your Job Search with AI in One Hour",
-    "description": "There are many groups promoting this event.\n\nOur meetup group is participating by promoting this event.\n\nThis event is organized by Albert's List.\n\nThis is an online event.\n\nAttendees can be located anywhere in the world!\n\nThere is a cost to attend this event ($5+)\n\nIn order to attend, please register here:\n[https://www.eventbrite.com/e/how-to-strategize-and-execute-your-job-search-with-ai-in-one-hour-tickets-1995041486792?aff=ideatoipo](https://www.eventbrite.com/e/how-to-strategize-and-execute-your-job-search-with-ai-in-one-hour-tickets-1995041486792?aff=ideatoipo)\nMost people take weeks or even months to organize their job search. In the AI era, the market moves so fast that by the time you’ve figured out your plan, everything has changed—and you’re stuck pivoting again. The result? Job seekers are always chasing the market instead of leading it.\nIt doesn’t have to be this way.\n\nAI isn’t just for recruiters and hiring managers—it’s for you too. If you’re stuck figuring out where to start, how to build a strategy, or just want to get back into the market faster, this one-hour webinar is your solution.\nUsing AI, you’ll learn how to plan, organize, and execute your job search with clarity and speed—without the burnout—with a real resume and LinkedIn profile from a peer.\n\nThis isn’t about quick answers from AI. It’s about using AI as a thinking partner to help you take control and move forward confidently.\n\n### We'll cover how you can use AI to:\n\n* Serve as your personalized career advisor with your existing resume and LinkedIn profile.\n* Act as an accountability partner for your job search, including with daily tasks.\n* Edit your resume and LinkedIn so it can be more visible, including tailored for individual job listings.\n* Identify where you need more experience or education so you can become a better candidate.\n* Develop a company application strategy, including reading the trends and seeing what's hot and what's not.\n* Improve your interviewing, including creating interview answers and as a mock interviewer.\n* Build your personal brand in your voice.\n* And much more!\n\n### **What you’ll walk away with:**\n\n* A repeatable system for job searching in 2026\n* Custom AI prompts you can use immediately to: Organize your thoughts into a clear strategy, create compelling, tailored content for every stage of the process, prepare with confidence for networking and interviews\n\nFinally, this session will be recorded. If you sign up and cannot make it, a recording will be sent to you.",
-    "start_at": "2026-09-30T00:00:00+02:00",
-    "url": "https://www.meetup.com/spain-startup-idea-to-ipo/events/316350269/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Spain  Startup: Idea to IPO",
-    "attendees": 1,
-    "max_tickets": 100,
-    "spots_left": 99,
     "found_in": [
       "Startups"
     ]
@@ -565,6 +491,25 @@
   },
   {
     "source": "meetup",
+    "source_slug": "Hackathon",
+    "source_id": "316524838",
+    "name": "AnalyticsCLUB JobExpo Virtual Business, Data & Technology Job Expo",
+    "description": "**What is FirstFridayFair Monthly Job Fair?**\n\nFirstFridayFair Monthly Job Fair is a **global virtual job fair and remote hiring event** hosted by the Analytics CLUB community. This **online job fair platform** brings together **professionals, employers, recruiters, and career coaches** for an immersive, **self-managed career networking experience**.\n\n🎥 **New to FirstFridayFair? Watch our explainer video here:** [https://youtu.be/NlLaCfOjosk](https://youtu.be/NlLaCfOjosk)\n\n**Where and When?**\n📍 Online at [https://events.tao.ai/pod/analytics.club/6j382kbpcnvd](https://events.tao.ai/pod/analytics.club/6j382kbpcnvd)\n🗓 First Friday of the month\n⏰ 11:00 AM - 2:00 PM (Local Time Zone)\n🌍 Open to participants globally\n\n🌍 **Who should join?**\n\n* **Job Seekers:** Looking for their next big break in **remote or local roles**.\n* **Employers & Recruiters:** Eager to find top talent across industries.\n* **Service Providers & Career Coaches:** Supporting professionals with tools, tips, and resources.\n* **Career Enthusiasts & Explorers:** Wishing to expand their network and knowledge.\n\n💬 **Where does the event take place?**\nThis interactive event is hosted on a **Slack-like community chat platform**, making it easy to **join from anywhere** and interact in **real-time group chats and 1-1 video or text conversations**.\n🚀 **What can you do at the event?**\nAttendees can explore several themed **Slack job fair channels** designed for **job networking, peer-to-peer support, and industry discussions**:\n\n* **General:** Intros, announcements, and casual networking.\n* **Networking:** Showcase your portfolio, startup, or job pitch.\n* **Intros:** Meet others, share your career path, and connect personally.\n* **Help Wanted:** Offer your skills or seek help from others.\n* **Industry Room Tech:** Discuss the latest in programming, software, and tech trends.\n\nAdditionally, attendees can engage in:\n\n* **1-1 video and text chats** with other attendees, recruiters, or service providers.\n* Visit the **virtual job openings board** to browse active listings and **connect with recruiters online**.\n* Participate in **live job fair chat**, where you can ask career-related questions, get **online resume tips**, and explore ways to stand out in the hiring process.\n\n❓ **Why join FirstFridayFair Monthly Job Fair?**\n\n* Access **global job networking events** right from your device.\n* Explore **virtual hiring events** designed for professionals seeking flexibility and growth.\n* Engage in meaningful conversations and discover **remote hiring opportunities**.\n* Take advantage of a **self-managed and open community platform**, allowing you to connect at your own pace.\n* Use the dedicated channels to **showcase your skills, ask questions, and build lasting professional connections**.\n\n**Have Questions or Suggestions?**\nWe’d love to help: [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)",
+    "start_at": "2026-10-02T11:00:00+02:00",
+    "url": "https://www.meetup.com/ac-mad/events/316524838/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Analytics.CLUB Madrid",
+    "attendees": 1,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Hackathon"
+    ]
+  },
+  {
+    "source": "meetup",
     "source_slug": "Artificial Intelligence",
     "source_id": "316335741",
     "name": "MARCHA POR LA LONGEVIDAD DE MADRID: Jueves 1 de octubre, 14:00 - 15:30, CET",
@@ -639,7 +584,8 @@
     "spots_left": 28,
     "found_in": [
       "Data Science",
-      "DevOps"
+      "DevOps",
+      "Startups"
     ]
   },
   {
@@ -701,6 +647,26 @@
   },
   {
     "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "316676214",
+    "name": "Hack The Box Meetup: Nuestra primera máquina!",
+    "description": "En este meetup vamos a empezar a aprender a usar las herramientas que necesitaremos para vulnerar nuestras máquinas y resolver desafíos.\n\nExplicaremos los fundamentos del campo de la ciberseguridad desde 0, y hackearemos nuestro primer sistema.\n\nTraed vuestro portátil!\n\n**Bloque 3, aula 3101**\n\nNuestro discord: [https://discord.gg/7yF7fGCGV5](https://discord.gg/7yF7fGCGV5)",
+    "start_at": "2026-10-02T16:00:00+02:00",
+    "url": "https://www.meetup.com/meetup-group-ffiltyls/events/316676214/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Campus Sur de la UPM, C. de Alan Turing, s/n, Puente de Vallecas, 28031 Madrid, Spain",
+    "organizer": "Hack The Box Meetup: Madrid, ES",
+    "attendees": 28,
+    "max_tickets": 30,
+    "spots_left": 2,
+    "found_in": [
+      "DevOps",
+      "Hackathon"
+    ]
+  },
+  {
+    "source": "meetup",
     "source_slug": "Startups",
     "source_id": "316369827",
     "name": "Business Networking | PNM Octubre 🌇 Rooftop",
@@ -711,7 +677,7 @@
     "city": "Madrid",
     "address": "Calle de Atocha, 123, Centro, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 208,
+    "attendees": 218,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -730,28 +696,9 @@
     "city": "Madrid",
     "address": "Calle del Prof. José García Santesmases, 9, Moncloa - Aravaca, 28040 Madrid, Spain",
     "organizer": "Hack The Box Meetups for Universities: FDIst (UCM)",
-    "attendees": 15,
+    "attendees": 17,
     "max_tickets": 70,
-    "spots_left": 55,
-    "found_in": [
-      "Hackathon"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Hackathon",
-    "source_id": "316676214",
-    "name": "Hack The Box Meetup: Nuestra primera máquina!",
-    "description": "En este meetup vamos a empezar a aprender a usar las herramientas que necesitaremos para vulnerar nuestras máquinas y resolver desafíos.\n\nExplicaremos los fundamentos del campo de la ciberseguridad desde 0, y hackearemos nuestro primer sistema.\n\nTraed vuestro portátil!\n\n**Bloque 3, aula 3101**\n\nNuestro discord: [https://discord.gg/7yF7fGCGV5](https://discord.gg/7yF7fGCGV5)",
-    "start_at": "2026-10-02T16:00:00+02:00",
-    "url": "https://www.meetup.com/meetup-group-ffiltyls/events/316676214/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "Campus Sur de la UPM, C. de Alan Turing, s/n, Puente de Vallecas, 28031 Madrid, Spain",
-    "organizer": "Hack The Box Meetup: Madrid, ES",
-    "attendees": 27,
-    "max_tickets": 30,
-    "spots_left": 3,
+    "spots_left": 53,
     "found_in": [
       "Hackathon"
     ]

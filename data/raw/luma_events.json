@@ -2,62 +2,6 @@
   {
     "source": "luma",
     "source_slug": "madrid",
-    "source_id": "evt-xibCZK7tSD3Bpb9",
-    "name": "Grok Bot Madrid Meetup",
-    "start_at": "2026-09-29T15:30:00.000Z",
-    "end_at": "2026-09-29T19:30:00.000Z",
-    "timezone": "Europe/Madrid",
-    "url": "https://lu.ma/grokbotmadrid1",
-    "city": "Madrid",
-    "address": "Pl. del Callao, 1",
-    "organizer": "SpaceXAI for Madrid, Spain",
-    "is_free": true,
-    "cover_image": "https://images.lumacdn.com/uploads/sm/53eecd8f-b929-4f8d-8040-e0a28c2306f7.png",
-    "found_in": [
-      "madrid"
-    ],
-    "description": "Primer Grok Bot Meetup en Madrid ⚡\nNos juntamos una tarde para probar Grok Bot en directo, ver casos reales y conocer a otros builders de la comunidad.\nSolo necesitas traer tu portátil (o el móvil). Nosotros ponemos los créditos para que puedas usar Grok Bot durante el evento, y no hace falta que tengas Cursor instalado ni cuenta de nada.\nEsta vez le daremos un formato de workshop 100% práctico. La idea es que traigas pensado un reto o algo que quieras automatizar, y nos pondremos a construir bots para resolverlo allí mismo. Si no se te ocurre nada, no hay problema: yo llevaré varias ideas preparadas para que podamos ponernos a programar directamente.\n🗓 Martes 29 sep · 17:30–21:30 📍 Pl. del Callao, 1 (Samplia Hub / mad.builders) 🗣 Español (English welcome) 🎟️ Plazas limitadas\n---- Agenda ---- 17:30 — Llegada, setup y reparto de créditos. 18:00 — Intro: qué es Grok Bot y para qué sirve. 18:20 — Demos de la comunidad (formatos muy cortos). 19:00 — Workshop: sacamos los portátiles y nos ponemos a construir bots. 20:30 — Networking, picoteo y cierre hasta las ~21:30.\n---- Qué traer ---- 💻 Portátil o móvil + cargador. 🧠 Un reto o idea para automatizar (si no tienes, te damos una).⚡ Ganas de construir y conocer gente.",
-    "categories": [
-      "AI"
-    ],
-    "guest_count": 52,
-    "sold_out": false,
-    "waitlist_active": false,
-    "registration_deadline": null,
-    "lat": 40.419722,
-    "lng": -3.7061105000000003
-  },
-  {
-    "source": "luma",
-    "source_slug": "madrid",
-    "source_id": "evt-QpYa1iNkOsxz8Z1",
-    "name": "SOLD OUT! Construyendo sin filtros #15 : Nadie construye solo",
-    "start_at": "2026-09-29T16:30:00.000Z",
-    "end_at": "2026-09-29T19:00:00.000Z",
-    "timezone": "Europe/Madrid",
-    "url": "https://lu.ma/bztpl6hb",
-    "city": "Madrid",
-    "address": "Aticco Castellana - Coworking Castellana",
-    "organizer": "Startup Grind Madrid",
-    "is_free": false,
-    "cover_image": "https://images.lumacdn.com/uploads/0q/9ef9f12d-130a-4849-ae61-daa0d9a37e27.png",
-    "found_in": [
-      "madrid"
-    ],
-    "description": "Founders, cofounders, comunidad y las conexiones que hacen avanzar lo que estás construyendo.\nUna clase de emprendimiento en Madrid.\nUna casa llena de founders en Silicon Valley.\nA primera vista, no tienen demasiado que ver.\nPero cuentan exactamente la misma historia:\nNadie construye solo.\n🔥 Pilar González conoció a sus futuras cofounders en una clase de IE.\nUna frustración compartida terminó convirtiéndose en NutriSync Collective y hoy están viviendo esa parte del journey que casi nunca aparece en LinkedIn:\npasar de intuición → equipo → producto → primeras usuarias → realidad.\n🔥 Carlos de la Lama lleva en el otro extremo de esa historia desde 2012.\nCon Startup Embassy ha creado en Silicon Valley un entorno por el que han pasado más de 1.200 emprendedores de 50 países.\nFounders compartiendo casa, problemas, contactos, código, oportunidades… y algunas conversaciones a horas bastante poco razonables.\nZero-to-one vs. más de una década viendo a otros construir.\nDe eso va nuestra 15ª edición de Startup Grind Madrid.\nPero aquí viene el pequeño giro:\nesta noche no va realmente solo de Pilar y Carlos.\nVa también de quién se siente a tu lado.\nQueremos hablar de:\n→ cómo encuentras a las personas correctas para construir→ qué ocurre realmente en los primeros meses de una startup→ por qué algunos entornos aceleran a los founders→ qué podemos aprender de Silicon Valley sin intentar copiarlo→ y cómo se construye una comunidad que genere algo más que contactos\nDespués cerramos los micros.\nAbrimos las cervezas. 🍻\nY empieza la segunda mitad de Startup Grind:\n“¿Y tú, qué estás construyendo?”\nFounders, builders, inversores, talento y gente del ecosistema compartiendo problemas, intros, oportunidades y alguna conexión inesperada.\nPuedes venir por los speakers.\nPero quizá la persona que cambie lo que estás construyendo no esté en el escenario.\nNadie construye solo.\n📍 Aticco Castellana 268 🔥 Startup Grind Madrid #15🤝 Con Elevatorfy + APTKI",
-    "categories": [
-      "Tech"
-    ],
-    "guest_count": 56,
-    "sold_out": true,
-    "waitlist_active": false,
-    "registration_deadline": "2026-09-21T18:00:59.000Z",
-    "lat": 40.4731206,
-    "lng": -3.6867425
-  },
-  {
-    "source": "luma",
-    "source_slug": "madrid",
     "source_id": "evt-e40eDm5DqQmcSlb",
     "name": "Inteligencia Emprendedora: talento y visión en la era de la IA",
     "start_at": "2026-10-01T15:00:00.000Z",
@@ -189,8 +133,8 @@
       "AI"
     ],
     "guest_count": 0,
-    "sold_out": false,
-    "waitlist_active": false,
+    "sold_out": true,
+    "waitlist_active": true,
     "registration_deadline": null,
     "lat": 40.450546599999996,
     "lng": -3.6923712
@@ -300,7 +244,7 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 9,
+    "guest_count": 11,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,

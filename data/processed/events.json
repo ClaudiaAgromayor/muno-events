@@ -18,9 +18,9 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 69,
-      "sold_out": true,
-      "waitlist_active": true,
+      "guest_count": 56,
+      "sold_out": false,
+      "waitlist_active": false,
       "registration_deadline": null
     },
     "found_on_platforms": [
@@ -54,7 +54,7 @@
       ],
       "is_free": false,
       "guest_count": 57,
-      "sold_out": false,
+      "sold_out": true,
       "waitlist_active": false,
       "registration_deadline": "2026-09-21T18:00:59.000Z"
     },
@@ -253,7 +253,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 22,
+      "guest_count": 23,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -345,7 +345,7 @@
     "url": "https://lu.ma/6lusfcn8",
     "city": "Madrid",
     "address": "Madrid",
-    "organizer": "Fintech Challenge",
+    "organizer": "The Fintech Challenge",
     "lat": 40.416727900000005,
     "lng": -3.7032905,
     "extra": {
@@ -353,7 +353,7 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 0,
+      "guest_count": 1,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -363,6 +363,36 @@
     ],
     "duplicate_ids": [],
     "enrichment": null
+  },
+  {
+    "id": "meetup:316679305",
+    "source": "meetup",
+    "source_id": "316679305",
+    "name": "Madrid AI Builders",
+    "description": "**IMPORTANT**\nRegister on Luma to guarantee your place:\nhttps://luma.com/mnaf044n\n\nBuilding something with AI? Curious about startups, agents, automation, content, coding, or the future of AI?\n\nJoin us for a relaxed Friday meetup for ambitious people in Madrid working on AI projects, startups, creative tools, or exploring the space. Expect a mix of founders, developers, creators, marketers, and people experimenting with new ideas.\n\nThe goal is simple: meet smart people, exchange ideas, and build genuine connections in the Madrid AI scene.",
+    "start_at": "2026-10-16T17:00:00+02:00",
+    "end_at": null,
+    "url": "https://www.meetup.com/madrid-marketing-club/events/316679305/",
+    "city": "Madrid",
+    "address": "C. de San Bernardo, 2, Centro, 28013 Madrid",
+    "organizer": "Madrid Networking Club",
+    "lat": 40.4207507,
+    "lng": -3.708179,
+    "extra": {
+      "attendees": 27,
+      "max_tickets": 120,
+      "spots_left": 93
+    },
+    "found_on_platforms": [
+      "meetup"
+    ],
+    "duplicate_ids": [],
+    "enrichment": {
+      "nivel": "no_especificado",
+      "idioma": "no_especificado",
+      "comida_gratis": "no_especificado",
+      "se_graba": "no_especificado"
+    }
   },
   {
     "id": "meetup:316482502",
@@ -390,36 +420,6 @@
     "enrichment": {
       "nivel": "no_especificado",
       "idioma": "es",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
-  },
-  {
-    "id": "meetup:316679305",
-    "source": "meetup",
-    "source_id": "316679305",
-    "name": "Madrid AI Builders",
-    "description": "**IMPORTANT**\nRegister on Luma to guarantee your place:\nhttps://luma.com/mnaf044n\n\nBuilding something with AI? Curious about startups, agents, automation, content, coding, or the future of AI?\n\nJoin us for a relaxed Friday meetup for ambitious people in Madrid working on AI projects, startups, creative tools, or exploring the space. Expect a mix of founders, developers, creators, marketers, and people experimenting with new ideas.\n\nThe goal is simple: meet smart people, exchange ideas, and build genuine connections in the Madrid AI scene.",
-    "start_at": "2026-10-16T17:00:00+02:00",
-    "end_at": null,
-    "url": "https://www.meetup.com/madrid-marketing-club/events/316679305/",
-    "city": "Madrid",
-    "address": "C. de San Bernardo, 2, Centro, 28013 Madrid",
-    "organizer": "Madrid Networking Club",
-    "lat": 40.4207507,
-    "lng": -3.708179,
-    "extra": {
-      "attendees": 25,
-      "max_tickets": 120,
-      "spots_left": 95
-    },
-    "found_on_platforms": [
-      "meetup"
-    ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
       "comida_gratis": "no_especificado",
       "se_graba": "no_especificado"
     }
@@ -554,9 +554,9 @@
     "lat": 40.9786078,
     "lng": -5.6769936,
     "extra": {
-      "attendees": 21,
+      "attendees": 22,
       "max_tickets": 40,
-      "spots_left": 19
+      "spots_left": 18
     },
     "found_on_platforms": [
       "meetup"
@@ -616,7 +616,7 @@
     "lat": 40.4325951,
     "lng": -3.6980319,
     "extra": {
-      "attendees": 9,
+      "attendees": 10,
       "max_tickets": 0,
       "spots_left": null
     },
@@ -756,9 +756,9 @@
     "lat": 40.4204119,
     "lng": -3.7016001,
     "extra": {
-      "attendees": 51,
+      "attendees": 52,
       "max_tickets": 60,
-      "spots_left": 9
+      "spots_left": 8
     },
     "found_on_platforms": [
       "meetup"

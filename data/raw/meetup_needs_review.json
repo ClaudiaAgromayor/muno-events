@@ -308,7 +308,7 @@
     "city": "",
     "address": "",
     "organizer": "Analytics.CLUB Madrid",
-    "attendees": 4,
+    "attendees": 5,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -355,6 +355,26 @@
   },
   {
     "source": "meetup",
+    "source_slug": "Data Science",
+    "source_id": "316524838",
+    "name": "AnalyticsCLUB JobExpo Virtual Business, Data & Technology Job Expo",
+    "description": "**What is FirstFridayFair Monthly Job Fair?**\n\nFirstFridayFair Monthly Job Fair is a **global virtual job fair and remote hiring event** hosted by the Analytics CLUB community. This **online job fair platform** brings together **professionals, employers, recruiters, and career coaches** for an immersive, **self-managed career networking experience**.\n\n🎥 **New to FirstFridayFair? Watch our explainer video here:** [https://youtu.be/NlLaCfOjosk](https://youtu.be/NlLaCfOjosk)\n\n**Where and When?**\n📍 Online at [https://events.tao.ai/pod/analytics.club/6j382kbpcnvd](https://events.tao.ai/pod/analytics.club/6j382kbpcnvd)\n🗓 First Friday of the month\n⏰ 11:00 AM - 2:00 PM (Local Time Zone)\n🌍 Open to participants globally\n\n🌍 **Who should join?**\n\n* **Job Seekers:** Looking for their next big break in **remote or local roles**.\n* **Employers & Recruiters:** Eager to find top talent across industries.\n* **Service Providers & Career Coaches:** Supporting professionals with tools, tips, and resources.\n* **Career Enthusiasts & Explorers:** Wishing to expand their network and knowledge.\n\n💬 **Where does the event take place?**\nThis interactive event is hosted on a **Slack-like community chat platform**, making it easy to **join from anywhere** and interact in **real-time group chats and 1-1 video or text conversations**.\n🚀 **What can you do at the event?**\nAttendees can explore several themed **Slack job fair channels** designed for **job networking, peer-to-peer support, and industry discussions**:\n\n* **General:** Intros, announcements, and casual networking.\n* **Networking:** Showcase your portfolio, startup, or job pitch.\n* **Intros:** Meet others, share your career path, and connect personally.\n* **Help Wanted:** Offer your skills or seek help from others.\n* **Industry Room Tech:** Discuss the latest in programming, software, and tech trends.\n\nAdditionally, attendees can engage in:\n\n* **1-1 video and text chats** with other attendees, recruiters, or service providers.\n* Visit the **virtual job openings board** to browse active listings and **connect with recruiters online**.\n* Participate in **live job fair chat**, where you can ask career-related questions, get **online resume tips**, and explore ways to stand out in the hiring process.\n\n❓ **Why join FirstFridayFair Monthly Job Fair?**\n\n* Access **global job networking events** right from your device.\n* Explore **virtual hiring events** designed for professionals seeking flexibility and growth.\n* Engage in meaningful conversations and discover **remote hiring opportunities**.\n* Take advantage of a **self-managed and open community platform**, allowing you to connect at your own pace.\n* Use the dedicated channels to **showcase your skills, ask questions, and build lasting professional connections**.\n\n**Have Questions or Suggestions?**\nWe’d love to help: [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)",
+    "start_at": "2026-10-02T11:00:00+02:00",
+    "url": "https://www.meetup.com/ac-mad/events/316524838/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Analytics.CLUB Madrid",
+    "attendees": 1,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Data Science",
+      "Hackathon"
+    ]
+  },
+  {
+    "source": "meetup",
     "source_slug": "DevOps",
     "source_id": "316118455",
     "name": "FabricOps: Operating Hyperledger Fabric Networks on Kubernetes",
@@ -384,7 +404,7 @@
     "city": "",
     "address": "",
     "organizer": "Microsoft Speakers Hub en Español",
-    "attendees": 14,
+    "attendees": 15,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -545,25 +565,6 @@
   },
   {
     "source": "meetup",
-    "source_slug": "Hackathon",
-    "source_id": "316524838",
-    "name": "AnalyticsCLUB JobExpo Virtual Business, Data & Technology Job Expo",
-    "description": "**What is FirstFridayFair Monthly Job Fair?**\n\nFirstFridayFair Monthly Job Fair is a **global virtual job fair and remote hiring event** hosted by the Analytics CLUB community. This **online job fair platform** brings together **professionals, employers, recruiters, and career coaches** for an immersive, **self-managed career networking experience**.\n\n🎥 **New to FirstFridayFair? Watch our explainer video here:** [https://youtu.be/NlLaCfOjosk](https://youtu.be/NlLaCfOjosk)\n\n**Where and When?**\n📍 Online at [https://events.tao.ai/pod/analytics.club/6j382kbpcnvd](https://events.tao.ai/pod/analytics.club/6j382kbpcnvd)\n🗓 First Friday of the month\n⏰ 11:00 AM - 2:00 PM (Local Time Zone)\n🌍 Open to participants globally\n\n🌍 **Who should join?**\n\n* **Job Seekers:** Looking for their next big break in **remote or local roles**.\n* **Employers & Recruiters:** Eager to find top talent across industries.\n* **Service Providers & Career Coaches:** Supporting professionals with tools, tips, and resources.\n* **Career Enthusiasts & Explorers:** Wishing to expand their network and knowledge.\n\n💬 **Where does the event take place?**\nThis interactive event is hosted on a **Slack-like community chat platform**, making it easy to **join from anywhere** and interact in **real-time group chats and 1-1 video or text conversations**.\n🚀 **What can you do at the event?**\nAttendees can explore several themed **Slack job fair channels** designed for **job networking, peer-to-peer support, and industry discussions**:\n\n* **General:** Intros, announcements, and casual networking.\n* **Networking:** Showcase your portfolio, startup, or job pitch.\n* **Intros:** Meet others, share your career path, and connect personally.\n* **Help Wanted:** Offer your skills or seek help from others.\n* **Industry Room Tech:** Discuss the latest in programming, software, and tech trends.\n\nAdditionally, attendees can engage in:\n\n* **1-1 video and text chats** with other attendees, recruiters, or service providers.\n* Visit the **virtual job openings board** to browse active listings and **connect with recruiters online**.\n* Participate in **live job fair chat**, where you can ask career-related questions, get **online resume tips**, and explore ways to stand out in the hiring process.\n\n❓ **Why join FirstFridayFair Monthly Job Fair?**\n\n* Access **global job networking events** right from your device.\n* Explore **virtual hiring events** designed for professionals seeking flexibility and growth.\n* Engage in meaningful conversations and discover **remote hiring opportunities**.\n* Take advantage of a **self-managed and open community platform**, allowing you to connect at your own pace.\n* Use the dedicated channels to **showcase your skills, ask questions, and build lasting professional connections**.\n\n**Have Questions or Suggestions?**\nWe’d love to help: [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)",
-    "start_at": "2026-10-02T11:00:00+02:00",
-    "url": "https://www.meetup.com/ac-mad/events/316524838/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Analytics.CLUB Madrid",
-    "attendees": 1,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Hackathon"
-    ]
-  },
-  {
-    "source": "meetup",
     "source_slug": "Artificial Intelligence",
     "source_id": "316335741",
     "name": "MARCHA POR LA LONGEVIDAD DE MADRID: Jueves 1 de octubre, 14:00 - 15:30, CET",
@@ -624,25 +625,6 @@
   {
     "source": "meetup",
     "source_slug": "Data Science",
-    "source_id": "316496816",
-    "name": "¿Demasiado perfeccionista? Suelta la Autoexigencia",
-    "description": "**¿Sientes que nada de lo que haces es suficiente?**\nCerramos el ciclo de charlas con un último encuentro para aprender a soltar el látigo de la autoexigencia y empezar a tratarnos de otra manera.\n\n* **Título:** ¿Demasiado perfeccionista?: Suelta la Autoexigencia.\n* **Ponente:** Diana Esteban (Terapeuta de Escenas Matrices).\n* **Fecha:** 29 de Septiembre.\n* **Hora:** 19:00h a 20:30h.\n* **Lugar:** Biblioteca Pública Municipal María Zambrano (Ventilla).\n\nUn espacio de diálogo y reflexión donde compartir experiencias, soltar la presión y descubrir herramientas para mirarte con más calma.\nEntrada libre.\n¡Nos vemos allí!",
-    "start_at": "2026-09-29T19:00:00+02:00",
-    "url": "https://www.meetup.com/viaje-hacia-ti/events/316496816/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "Pl. de Donoso, 5, Tetuán, 28029 Madrid",
-    "organizer": "Viaje hacia Ti: Crecimiento Personal",
-    "attendees": 1,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Data Science"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Data Science",
     "source_id": "316570374",
     "name": "From Counter.Inc() to a billion series",
     "description": "Add a counter. Two lines and you can finally see how often your service fails.\n\nThen you add a label to tell failure reasons apart and the counter becomes genuinely useful. You can now see why it's failing.\nSo you start adding more labels, one for the kind of user, one for the value of the operation. Each one seems reasonable and enables rich queries and alerts.\n\nThis talk follows that counter all the way down: from instrumenting a Go service, to how Prometheus scrapes and stores your data, to building a horizontally scalable distributed metrics database as you go from just one counter to billions of them.\n\nYou don't need to know anything about observability to attend this session!",
@@ -652,9 +634,9 @@
     "city": "Madrid",
     "address": "Pl. de Manuel Gómez-Moreno, 2, Tetuán, 28020 Madrid, Spain",
     "organizer": "GoMAD - Madrid Go UG",
-    "attendees": 31,
+    "attendees": 32,
     "max_tickets": 60,
-    "spots_left": 29,
+    "spots_left": 28,
     "found_in": [
       "Data Science",
       "DevOps"
@@ -710,7 +692,7 @@
     "city": "Madrid",
     "address": "C. de Toledo, 110",
     "organizer": "Grupo de Meetup Design Thinking España",
-    "attendees": 10,
+    "attendees": 11,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -729,7 +711,7 @@
     "city": "Madrid",
     "address": "Calle de Atocha, 123, Centro, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 204,
+    "attendees": 208,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -748,9 +730,9 @@
     "city": "Madrid",
     "address": "Calle del Prof. José García Santesmases, 9, Moncloa - Aravaca, 28040 Madrid, Spain",
     "organizer": "Hack The Box Meetups for Universities: FDIst (UCM)",
-    "attendees": 14,
+    "attendees": 15,
     "max_tickets": 70,
-    "spots_left": 56,
+    "spots_left": 55,
     "found_in": [
       "Hackathon"
     ]
@@ -767,9 +749,9 @@
     "city": "Madrid",
     "address": "Campus Sur de la UPM, C. de Alan Turing, s/n, Puente de Vallecas, 28031 Madrid, Spain",
     "organizer": "Hack The Box Meetup: Madrid, ES",
-    "attendees": 25,
+    "attendees": 27,
     "max_tickets": 30,
-    "spots_left": 5,
+    "spots_left": 3,
     "found_in": [
       "Hackathon"
     ]

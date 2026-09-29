@@ -18,7 +18,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 56,
+      "guest_count": 52,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -53,7 +53,7 @@
         "Tech"
       ],
       "is_free": false,
-      "guest_count": 57,
+      "guest_count": 56,
       "sold_out": true,
       "waitlist_active": false,
       "registration_deadline": "2026-09-21T18:00:59.000Z"
@@ -353,7 +353,7 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 1,
+      "guest_count": 9,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -510,34 +510,29 @@
     }
   },
   {
-    "id": "meetup:315790884",
+    "id": "meetup:316042701",
     "source": "meetup",
-    "source_id": "315790884",
+    "source_id": "316042701",
     "name": "Vibe Coding & Friends: Social Gathering for Founders and Entrepreneurs",
     "description": "The Vibe Coding Club Madrid\n\nBuild with AI. Meet ambitious people. Launch faster.\n\nThe Vibe Coding Club is a community for founders, builders, creators and AI enthusiasts who want to learn faster by sharing ideas, tools, experiences and real-world projects. Every two weeks in Madrid, we bring together ambitious people who are exploring how AI is transforming the way products, startups and businesses are built.\n\nThis is not a conference.\nThis is not a pitch event.\nIt's a collaborative space where people openly share what they're building, what's working, what's failing and what they've learned along the way.\n\nWhat happens at each meetup?\n🚀 Builders share projects, MVPs and experiments\n💡 Members exchange practical tips and best practices\n🛠 Discover new AI tools, workflows and automations\n🎯 Get feedback on your ideas and challenges\n🤝 Meet founders, creators, developers and innovators\n📈 Learn from people who are actively building and launching\n✔ More than 60% of our attendees are new to the community.\n✔ We make introductions easy with simple networking activities and conversation starters.\n✔ Bring your laptop if you'd like to share a project, an idea or an AI experiment.\n\nWhether you're creating your first MVP, growing a startup, experimenting with AI agents or simply exploring new opportunities, you'll find people willing to share knowledge and help you move faster.\n\nBring your questions.\nBring your experience.\nLeave with new insights, meaningful connections and inspiration for your next launch.\n\nWhen and where?\n\n⏰ 19:00-21.30\n📍 Hotel ICON Wipton, Calle Jorge Juan, 17 · Madrid\n🍻The event completely free, but to thank the location for letting us gather here please grab a drink, that way we can keep the meetings going.\n\nJoin the WhatsApp group to stay up to date and be part of this great community:\n\nhttps://chat.whatsapp.com/Gw9ibFL0pXqF8gO3IYaZta\n\nIf you'd like to collaborate with us or promote your business, send us a private message.\n\nSee you at the next Vibe Coding Club.\n\nBy joining the event, you authorize possible digital recordings and the publication of that content on social media.",
-    "start_at": "2026-09-30T19:00:00+02:00",
+    "start_at": "2026-10-14T19:00:00+02:00",
     "end_at": null,
-    "url": "https://www.meetup.com/the-vcc/events/315790884/",
+    "url": "https://www.meetup.com/the-vcc/events/316042701/",
     "city": "Madrid",
     "address": "Calle Jorge Juan, 17",
     "organizer": "The Vibe Coding Club Madrid",
     "lat": 38.9879607,
     "lng": -1.845739,
     "extra": {
-      "attendees": 80,
-      "max_tickets": 80,
-      "spots_left": 0
+      "attendees": 11,
+      "max_tickets": 10,
+      "spots_left": -1
     },
     "found_on_platforms": [
       "meetup"
     ],
     "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "en",
-      "comida_gratis": "no_especificado",
-      "se_graba": "si"
-    }
+    "enrichment": null
   },
   {
     "id": "meetup:316653906",
@@ -662,36 +657,6 @@
     }
   },
   {
-    "id": "meetup:316662495",
-    "source": "meetup",
-    "source_id": "316662495",
-    "name": "🚀🌴 [Startup Oasis - Madrid] Against the Odds: Building a Startup Today!",
-    "description": "**EVENT FULL** \\- Please join the waitlist here if you'd like to attend: [https://luma.com/aponkl2w ](https://luma.com/aponkl2w)\n\n🚀🌴 **[Startup Oasis - Madrid] Against the Odds: Building a Startup Today!**\n\n**Is it getting harder to build a startup… or are the rules simply changing?**\n\nFunding is tighter. Investors are more selective. AI is transforming entire industries almost overnight. Teams can build more with fewer people — but expectations are also higher than ever.\nWelcome to startup life in 2026. 😅\n\nOn **September 29**, Startup Oasis Madrid is bringing founders, investors, entrepreneurs and startup enthusiasts together for a candid **2-hour round table** about what it really means to build an early-stage company today.\nAnd we want this to be a conversation — not another event where you quietly sit through 45 slides. 😉\n\n### 🔥 What are we talking about?\n\nWe’ll dig into some of the questions many founders and investors are asking right now:\n\n💰 **Funding** – Is the early-stage investment landscape fundamentally different today?\n\n📊 **Traction** – How much validation, revenue or momentum do investors expect before taking a startup seriously?\n\n🤖 **AI** – Has AI lowered the barrier to building startups… or simply raised the bar for everyone?\n\n🌍 **Europe** – What are the advantages and disadvantages of building an ambitious startup in Europe in 2026?\n\n🥾 **Bootstrapping vs. fundraising** – Should founders stay lean longer before looking for capital?\n\n🧠 **Founder resilience** – How do you keep making good decisions when uncertainty is basically part of your job description?\n\n🚀 **Opportunities** – Where are founders and investors seeing genuine opportunities right now?\nThere won’t necessarily be one answer — and that’s exactly the point.\n\n### 🎙️ Joining the conversation: Dan Marques\n\nDan Marques is a founder, entrepreneur and startup ecosystem builder who has spent years connecting founders, investors and technology communities.\nHe is a Serial Founder, the founder of **Startup Oasis**, co-founder of **MalagaStartups.com**, and an active mentor and community organizer involved in helping entrepreneurs turn ideas into real companies.\nExpect practical experience, strong opinions, plenty of questions — and an open conversation about what founders are really facing today.\n\n### 🗣️ This is a ROUND TABLE\n\nThat means **you’re part of the event.**\n\n* Bring your questions.\n* Bring your experience.\n* Bring the startup challenge that has been keeping you awake at 2 AM. 😅\n* Founders can hear how investors are thinking.\n* Investors can hear what founders are actually experiencing.\n* And everyone gets the chance to connect with people building, investing and working in the startup ecosystem.\n\n### 🙌 Who should join?\n\n✨ Startup founders\n💸 Angel investors & VCs\n🧑‍💻 Aspiring entrepreneurs\n🚀 Startup operators\n🤝 Ecosystem builders\n💡 Anyone seriously considering building a company\n\nWhether you're already fundraising, bootstrapping your MVP, investing in early-stage companies, or still wondering whether now is the right time to start — you’ll find people here asking many of the same questions.\n\n### 🕒 Event Details\n\n📅 **Tuesday, September 29, 2026**\n🕗 **20:00**\n⏱️ **Duration: 2 hours**\n📍 **Madrid — Venue announced soon**\n🎙️ **Format: Interactive Round Table**\n\nExpect **real conversations, new connections, startup war stories, useful insights and plenty of opportunities to meet people actually building things.**\nBecause startups have always been about beating the odds.\nThe odds might just look a little different in 2026. 😉\n\n🌴 **Come meet the Startup Oasis Madrid community and join the conversation!**\n\n🔗 **RSVP and see you there! 🚀**",
-    "start_at": "2026-09-29T20:00:00+02:00",
-    "end_at": null,
-    "url": "https://www.meetup.com/startup-oasis/events/316662495/",
-    "city": "Madrid",
-    "address": "C. de San Bernardo, 2, Centro, 28013 Madrid, Spain",
-    "organizer": "Startup Oasis - Tech, Founders, nomads, devs, UI/UX, Product",
-    "lat": 40.4207507,
-    "lng": -3.708179,
-    "extra": {
-      "attendees": 35,
-      "max_tickets": 0,
-      "spots_left": null
-    },
-    "found_on_platforms": [
-      "meetup"
-    ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "no_especificado",
-      "comida_gratis": "no_especificado",
-      "se_graba": "no_especificado"
-    }
-  },
-  {
     "id": "meetup:316545183",
     "source": "meetup",
     "source_id": "316545183",
@@ -756,9 +721,9 @@
     "lat": 40.4204119,
     "lng": -3.7016001,
     "extra": {
-      "attendees": 52,
+      "attendees": 54,
       "max_tickets": 60,
-      "spots_left": 8
+      "spots_left": 6
     },
     "found_on_platforms": [
       "meetup"

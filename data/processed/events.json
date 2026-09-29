@@ -409,9 +409,9 @@
     "lat": 40.4207507,
     "lng": -3.708179,
     "extra": {
-      "attendees": 24,
+      "attendees": 25,
       "max_tickets": 120,
-      "spots_left": 96
+      "spots_left": 95
     },
     "found_on_platforms": [
       "meetup"

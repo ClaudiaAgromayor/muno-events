@@ -80,9 +80,9 @@
     "city": "Madrid",
     "address": "Calle Navarra 37",
     "organizer": "Inteligencia Artificial y Marketing",
-    "attendees": 3,
+    "attendees": 4,
     "max_tickets": 25,
-    "spots_left": 22,
+    "spots_left": 21,
     "found_in": [
       "Artificial Intelligence",
       "Startups"

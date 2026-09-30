@@ -53,7 +53,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 50,
+      "guest_count": 49,
       "sold_out": true,
       "waitlist_active": true,
       "registration_deadline": null
@@ -183,7 +183,7 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 23,
+      "guest_count": 22,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -283,7 +283,7 @@
         "Tech"
       ],
       "is_free": true,
-      "guest_count": 11,
+      "guest_count": 14,
       "sold_out": false,
       "waitlist_active": false,
       "registration_deadline": null
@@ -394,9 +394,9 @@
     "lat": 40.4537078,
     "lng": -3.7056271,
     "extra": {
-      "attendees": 4,
+      "attendees": 2,
       "max_tickets": 25,
-      "spots_left": 21
+      "spots_left": 23
     },
     "found_on_platforms": [
       "meetup"
@@ -440,29 +440,59 @@
     }
   },
   {
-    "id": "meetup:316042701",
+    "id": "meetup:316775559",
     "source": "meetup",
-    "source_id": "316042701",
-    "name": "Vibe Coding & Friends: Social Gathering for Founders and Entrepreneurs",
-    "description": "The Vibe Coding Club Madrid\n\nBuild with AI. Meet ambitious people. Launch faster.\n\nThe Vibe Coding Club is a community for founders, builders, creators and AI enthusiasts who want to learn faster by sharing ideas, tools, experiences and real-world projects. Every two weeks in Madrid, we bring together ambitious people who are exploring how AI is transforming the way products, startups and businesses are built.\n\nThis is not a conference.\nThis is not a pitch event.\nIt's a collaborative space where people openly share what they're building, what's working, what's failing and what they've learned along the way.\n\nWhat happens at each meetup?\n🚀 Builders share projects, MVPs and experiments\n💡 Members exchange practical tips and best practices\n🛠 Discover new AI tools, workflows and automations\n🎯 Get feedback on your ideas and challenges\n🤝 Meet founders, creators, developers and innovators\n📈 Learn from people who are actively building and launching\n✔ More than 60% of our attendees are new to the community.\n✔ We make introductions easy with simple networking activities and conversation starters.\n✔ Bring your laptop if you'd like to share a project, an idea or an AI experiment.\n\nWhether you're creating your first MVP, growing a startup, experimenting with AI agents or simply exploring new opportunities, you'll find people willing to share knowledge and help you move faster.\n\nBring your questions.\nBring your experience.\nLeave with new insights, meaningful connections and inspiration for your next launch.\n\nWhen and where?\n\n⏰ 19:00-21.30\n📍 Hotel ICON Wipton, Calle Jorge Juan, 17 · Madrid\n🍻The event completely free, but to thank the location for letting us gather here please grab a drink, that way we can keep the meetings going.\n\nJoin the WhatsApp group to stay up to date and be part of this great community:\n\nhttps://chat.whatsapp.com/Gw9ibFL0pXqF8gO3IYaZta\n\nIf you'd like to collaborate with us or promote your business, send us a private message.\n\nSee you at the next Vibe Coding Club.\n\nBy joining the event, you authorize possible digital recordings and the publication of that content on social media.",
-    "start_at": "2026-10-14T19:00:00+02:00",
+    "source_id": "316775559",
+    "name": "El ser humano en la sociedad de la IA",
+    "description": "La inteligencia artificial ya no es solo una cuestión de software.\nDetrás de cada modelo, agente o copiloto hay una infraestructura física de chips, centros de datos, energía y capital; una nueva carrera geopolítica por la capacidad de cómputo; y, al mismo tiempo, preguntas mucho más profundas sobre qué significa conocer, decidir, crear y ser humano.\nEn este meetup queremos recorrer la IA desde tres planos que normalmente se analizan por separado:\n\n**Silicon Valley y los chips:** por qué NVIDIA, los hyperscalers, las fábricas de semiconductores y la disponibilidad de cómputo están condicionando el futuro de la inteligencia artificial.\n\n**La ontología de la IA:** qué ocurre cuando empezamos a construir sistemas que no solo responden preguntas, sino que perciben contexto, mantienen memoria, utilizan herramientas, toman decisiones y actúan sobre el mundo.\n\n**La humanidad:** qué lugar ocupamos nosotros cuando una parte creciente del conocimiento, la creatividad y la toma de decisiones comienza a delegarse en máquinas.\nNo será una charla sobre “las últimas herramientas de IA”, sino una conversación sobre la transformación tecnológica que estamos viviendo y sobre las preguntas que aparecen cuando conectamos silicio, inteligencia y sociedad.\nHablaremos de modelos fundacionales, agentes, infraestructura, poder computacional, autonomía, conocimiento, conciencia, trabajo, creatividad y de una cuestión que empieza a ser difícil de evitar:\n\n**¿Estamos construyendo simplemente mejores herramientas o una nueva capa de inteligencia sobre la civilización?**\nUna sesión para personas de tecnología, ciberseguridad, empresa, filosofía o simplemente para cualquiera que tenga la sensación de que lo que está ocurriendo con la IA es bastante más grande que ChatGPT.",
+    "start_at": "2026-10-01T19:30:00+02:00",
     "end_at": null,
-    "url": "https://www.meetup.com/the-vcc/events/316042701/",
+    "url": "https://www.meetup.com/y-si-hay-otra-via/events/316775559/",
     "city": "Madrid",
-    "address": "Calle Jorge Juan, 17",
-    "organizer": "The Vibe Coding Club Madrid",
-    "lat": 38.9879607,
-    "lng": -1.845739,
+    "address": "Raimundo Fernandez Villaverde 1 primera planta",
+    "organizer": "Canalizando la inquietud hacia una realidad más positiva",
+    "lat": null,
+    "lng": null,
     "extra": {
-      "attendees": 11,
-      "max_tickets": 10,
-      "spots_left": -1
+      "attendees": 1,
+      "max_tickets": 0,
+      "spots_left": null
     },
     "found_on_platforms": [
       "meetup"
     ],
     "duplicate_ids": [],
     "enrichment": null
+  },
+  {
+    "id": "meetup:315790884",
+    "source": "meetup",
+    "source_id": "315790884",
+    "name": "Vibe Coding & Friends: Social Gathering for Founders and Entrepreneurs",
+    "description": "The Vibe Coding Club Madrid\n\nBuild with AI. Meet ambitious people. Launch faster.\n\nThe Vibe Coding Club is a community for founders, builders, creators and AI enthusiasts who want to learn faster by sharing ideas, tools, experiences and real-world projects. Every two weeks in Madrid, we bring together ambitious people who are exploring how AI is transforming the way products, startups and businesses are built.\n\nThis is not a conference.\nThis is not a pitch event.\nIt's a collaborative space where people openly share what they're building, what's working, what's failing and what they've learned along the way.\n\nWhat happens at each meetup?\n🚀 Builders share projects, MVPs and experiments\n💡 Members exchange practical tips and best practices\n🛠 Discover new AI tools, workflows and automations\n🎯 Get feedback on your ideas and challenges\n🤝 Meet founders, creators, developers and innovators\n📈 Learn from people who are actively building and launching\n✔ More than 60% of our attendees are new to the community.\n✔ We make introductions easy with simple networking activities and conversation starters.\n✔ Bring your laptop if you'd like to share a project, an idea or an AI experiment.\n\nWhether you're creating your first MVP, growing a startup, experimenting with AI agents or simply exploring new opportunities, you'll find people willing to share knowledge and help you move faster.\n\nBring your questions.\nBring your experience.\nLeave with new insights, meaningful connections and inspiration for your next launch.\n\nWhen and where?\n\n⏰ 19:00-21.30\n📍 Hotel ICON Wipton, Calle Jorge Juan, 17 · Madrid\n🍻The event completely free, but to thank the location for letting us gather here please grab a drink, that way we can keep the meetings going.\n\nJoin the WhatsApp group to stay up to date and be part of this great community:\n\nhttps://chat.whatsapp.com/Gw9ibFL0pXqF8gO3IYaZta\n\nIf you'd like to collaborate with us or promote your business, send us a private message.\n\nSee you at the next Vibe Coding Club.\n\nBy joining the event, you authorize possible digital recordings and the publication of that content on social media.",
+    "start_at": "2026-09-30T19:00:00+02:00",
+    "end_at": null,
+    "url": "https://www.meetup.com/the-vcc/events/315790884/",
+    "city": "Madrid",
+    "address": "Calle Jorge Juan, 17",
+    "organizer": "The Vibe Coding Club Madrid",
+    "lat": 38.9879607,
+    "lng": -1.845739,
+    "extra": {
+      "attendees": 99,
+      "max_tickets": 100,
+      "spots_left": 1
+    },
+    "found_on_platforms": [
+      "meetup"
+    ],
+    "duplicate_ids": [],
+    "enrichment": {
+      "nivel": "no_especificado",
+      "idioma": "en",
+      "comida_gratis": "no_especificado",
+      "se_graba": "si"
+    }
   },
   {
     "id": "meetup:316653906",
@@ -541,7 +571,7 @@
     "lat": 40.4325951,
     "lng": -3.6980319,
     "extra": {
-      "attendees": 10,
+      "attendees": 12,
       "max_tickets": 0,
       "spots_left": null
     },
@@ -605,36 +635,6 @@
     ],
     "duplicate_ids": [],
     "enrichment": null
-  },
-  {
-    "id": "meetup:316468534",
-    "source": "meetup",
-    "source_id": "316468534",
-    "name": "Visita guiada a “Revolución Cuántica”",
-    "description": "¡Hola a todos, comunidad de Quantum Madrid! 👋\n\nEsta vez cambiamos las charlas y los auditorios por una experiencia un poco diferente: nos vamos de visita a **Revolución Cuántica**, la exposición de Espacio Fundación Telefónica dedicada a explorar los fundamentos de la física cuántica y las tecnologías que están surgiendo a partir de ella. ⚛️\n\n**🔬 La visita:**\nDesde Quantum Madrid hemos organizado una **visita guiada exclusiva para la comunidad** a la exposición *Revolución Cuántica*.\n\nLa muestra propone un recorrido desde los orígenes de la mecánica cuántica hasta la actual segunda revolución cuántica, pasando por conceptos como la superposición, el entrelazamiento o el principio de incertidumbre, y por sus aplicaciones en ámbitos como la computación, las comunicaciones y la sensórica cuántica.\n\nA través de **más de 120 piezas**, entre objetos científicos históricos, instalaciones inmersivas, audiovisuales e interactivos, podremos conocer de una forma accesible cómo la física cuántica ha cambiado nuestra comprensión del mundo y por qué está llamada a tener un impacto cada vez mayor en la tecnología y la sociedad.\n\nAdemás de disfrutar de la exposición, será una buena oportunidad para reencontrarnos, conocer a otros miembros de la comunidad y seguir hablando de cuántica fuera del formato habitual de nuestras charlas.\n\n**🗓️ Agenda (aprox.):**\n\n* 17:15 h – Encuentro del grupo en Espacio Fundación Telefónica.\n* 17:30 h – Inicio de la visita guiada a *Revolución Cuántica*.\n* 18:30/18:45 h – Fin aproximado de la visita.\n* Después de la visita, quienes quieran podrán quedarse a tomar algo por la zona y seguir haciendo comunidad 🍻.\n* 📅 **Cuándo:** Jueves 8 de octubre de 2026 a las 17:30 h\n* 📍 **Dónde:** Espacio Fundación Telefónica – C/ Fuencarral, 3, Madrid. La exposición se encuentra en la 3.ª planta.\n\n⚠️ **IMPORTANTE: PLAZAS MUY LIMITADAS**\nLa visita se realizará en un grupo reducido, por lo que os pedimos que **solo os apuntéis si tenéis previsto asistir**. Si finalmente no podéis venir, por favor liberad vuestra plaza cuanto antes para que pueda aprovecharla otra persona de la comunidad.\nEvento presencial y gratuito, con inscripción previa obligatoria.",
-    "start_at": "2026-10-08T17:15:00+02:00",
-    "end_at": null,
-    "url": "https://www.meetup.com/quantummadrid/events/316468534/",
-    "city": "MADRID",
-    "address": "Calle Fuencarral , 3, Madrid",
-    "organizer": "Quantum Madrid by Entangle",
-    "lat": 40.4204119,
-    "lng": -3.7016001,
-    "extra": {
-      "attendees": 54,
-      "max_tickets": 60,
-      "spots_left": 6
-    },
-    "found_on_platforms": [
-      "meetup"
-    ],
-    "duplicate_ids": [],
-    "enrichment": {
-      "nivel": "no_especificado",
-      "idioma": "es",
-      "comida_gratis": "no",
-      "se_graba": "no_especificado"
-    }
   },
   {
     "id": "eventbrite:1988983807109",

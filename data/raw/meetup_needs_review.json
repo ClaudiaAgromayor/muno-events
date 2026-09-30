@@ -2,6 +2,25 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
+    "source_id": "316765890",
+    "name": "Descubre el Vibe Coding y crea tu primera App con Lovable e IA",
+    "description": "Este próximo **jueves día 8 de octubre de 2026** (7PM hora de Madrid) proponemos una nueva reunión del BIM Technology User Group, una reunión en la que realizaremos un [Open Day exclusivo del Curso de LOVABLE para el sector AEC que lidera Iván Gómez](https://butic.es/presentacion-del-curso-de-lovable-para-el-sector-aec-enfoque-que-y-para-que/), uno de los pocos arquitectos técnicos que ostentan la certificación Diamond de Lovable.\n\nLa Inteligencia Artificial está transformando por completo la forma de concebir y desarrollar software. Para mostrártelo en directo, te invitamos a un Open Day en formato entrevista con **Iván Gómez**, uno de los pocos profesionales en España galardonados con la **certificación Diamond de Lovable**, el máximo nivel de acreditación oficial otorgado por la plataforma.\n\nDurante esta sesión abordaremos los tres pilares clave de nuestra propuesta formativa para dominar esta tecnología:\n\n* **Bases esenciales de Inteligencia Artificial:** Entenderás los conceptos indispensables y la lógica de trabajo necesarios para interactuar con la IA en cualquier entorno o aplicación.\n* **Inmersión en Lovable:** Descubrirás por qué esta herramienta se ha convertido en el gran referente del *Vibe Coding* y cómo está revolucionando la creación acelerada de aplicaciones.\n* **Enfoque 100 % práctico:** Conocerás de primera mano la metodología del curso, diseñada para que no te quedes solo en la teoría y salgas con tu propia aplicación completamente terminada.\n\nSi quieres entender el alcance real del *Vibe Coding* y descubrir todo lo que serás capaz de construir en esta formación práctica e innovadora, no te pierdas esta entrevista en directo. Reserva tu plaza para el próximo **8 de octubre** y da el salto hacia el desarrollo asistido por Inteligencia Artificial.",
+    "start_at": "2026-10-08T19:00:00+02:00",
+    "url": "https://www.meetup.com/bimtechnologyusergroup/events/316765890/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "BIM Technology User Group",
+    "attendees": 4,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
     "source_id": "316581903",
     "name": "Seguimiento comercial con IA - Diseña campañas para tus clientes.",
     "description": "Muchas empresas acumulan contactos interesados, propuestas pendientes y clientes con los que han perdido el contacto. Dar seguimiento a esas relaciones requiere organización, contexto y mensajes que lleguen en el momento adecuado.\n\nEn este encuentro online veremos **cómo diseñar y ejecutar campañas de seguimiento de preventa y postventa con IA, y convertirlas en un servicio que puedas ofrecer a tus clientes.**\nTrabajaremos con ejemplos de seguimiento de propuestas, recuperación de oportunidades, acompañamiento tras la compra y reactivación de clientes.\n\nRecorreremos tanto el diseño de la campaña como los datos, la configuración del correo y los aspectos legales que debes revisar antes de activarla.\n\n## Qué veremos\n\n* Cómo identificar oportunidades de seguimiento en la base de leads y clientes de una empresa.\n* Cómo diferenciar campañas de **preventa, postventa, reactivación y recompra.**\n* Cómo segmentar contactos según su relación con el negocio, sus necesidades y sus interacciones anteriores.\n* Cómo definir el objetivo, el mensaje, la frecuencia y las condiciones de salida de cada campaña.\n* Qué aspectos revisar sobre **RGPD, LSSI, permisos de contacto y solicitudes de baja.**\n* Cómo preparar dominios y buzones y qué papel tienen **SPF, DKIM y DMARC.**\n* Cómo abordar el calentamiento de buzones y el volumen de envío según el caso, y cómo interpretar rebotes y quejas de spam.\n* Cómo utilizar IA para preparar mensajes personalizados y secuencias con revisión humana.\n* Cómo conectar las campañas con el CRM, gestionar respuestas y detener el seguimiento cuando corresponda.\n* Cómo medir resultados: respuestas, oportunidades recuperadas, conversiones y recompra.\n* Cómo convertir este proceso en un servicio con alcance, precio y responsabilidades definidos.\n* Un framework práctico: **objetivo → segmento → datos y permisos → mensajes → ejecución → seguimiento → resultados.**\n\n🎓 **Encuentro online gratuito**\n⏱️ **Duración aproximada: 90 min + Q&A**\n🤝 **Impulsado por InvokeApp**",
@@ -241,7 +260,7 @@
   },
   {
     "source": "meetup",
-    "source_slug": "Artificial Intelligence",
+    "source_slug": "Machine Learning",
     "source_id": "316064663",
     "name": "Oct 7 - Building Composable Vision Workflows in FiftyOne",
     "description": "This workshop explores the [FiftyOne](https://docs.voxel51.com/index.html) plugin framework to build custom computer vision applications. You’ll learn to extend the FiftyOne App with Python based panels and server side operators, as well as integrate external tools for labeling, vector search, and model inference into your dataset views.\n\n**Date, Time and Location**\n\nOct 7, 2026\n9 AM - 10 AM PST\nOnline. **[Register for the Zoom!](https://voxel51.com/events/building-composable-vision-workflows-in-fiftyone-october-7-2026)**\n\nYou’ll also automate repetitive tasks by writing custom workflows executing within the FiftyOne environment. Attendees will learn to transform FiftyOne from a visualization tool into a central hub for your vision stack.\n\nWhat you'll learn:\n\n* **Build Python plugins.** Define plugin manifests and directory structures to register custom functionality within the FiftyOne ecosystem.\n* **Develop server side operators.** Write functions to execute model inference, data cleaning, or metadata updates from the App interface.\n* **Build interactive panels.** Create custom UI dashboards using to visualize model metrics or specialized dataset distributions.\n* **Manage operator execution contexts.** Pass data between the App front end and your backend to build dynamic user workflows.\n* **Implement delegated execution.** Configure background workers to handle long running data processing tasks without blocking the user interface.\n* **Build labeling integrations.** Streamline the flow of data between FiftyOne and annotation platforms through custom triggers and ingestion scripts.\n* **Extend vector database support.** Program custom connectors for external vector stores to enable semantic search across large sample datasets.\n* **Package and share plugins.** Distribute your extensions internally and externally",
@@ -251,27 +270,6 @@
     "city": "",
     "address": "",
     "organizer": "Madrid AI, Machine Learning and Computer Vision Meetup",
-    "attendees": 2,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Data Science"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Machine Learning",
-    "source_id": "316629017",
-    "name": "AIConnect: Global Virtual Job & Career Networking Event for AI Specialists",
-    "description": "Are you an AI engineer, data scientist, machine learning researcher, or aspiring innovator in the world of artificial intelligence? **AIConnect** is your dynamic **AI networking event online** designed to foster real-time conversations, career growth, and collaboration opportunities — all within a vibrant and self-led virtual space.\n\nWhether you're exploring job roles in AI, hoping to demo your latest project, or searching for your next co-developer or data scientist partner, **AIConnect** offers a one-of-a-kind experience to connect with the global **machine learning community meetup** — anytime, from anywhere.\n\n🎥 **Watch how it works in our explainer video:**\n👉 [https://www.youtube.com/watch?v=bH3uNrkUTuw](https://www.youtube.com/watch?v=bH3uNrkUTuw)\n\n**💡 Why Join AIConnect?**\n\nThis is not just another virtual event. It’s a **collaboration platform for AI specialists** where you can grow your professional network, showcase your AI/ML portfolio, exchange ideas, and chat directly with fellow participants, recruiters, and service providers.\nDesigned for **AI career fair virtual** seekers and builders alike, the platform supports live 1-1 **video or text chats**, and offers open access to diverse community-led channels tailored to your interests.\n\n**💬 Brainstorming & Discussion Channels Include:**\n\n* **General** – Your go-to hub for announcements, orientation, and casual community-wide conversation.\n* **Intros** – Introduce yourself, your research, your startup, or just share your journey in AI.\n* **Networking** – Showcase your AI/ML projects, portfolios, startup pitches, or job aspirations.\n* **Help Wanted** – Looking for team members, mentorship, freelance gigs, or offering support? Post here.\n* **Industry Room Tech** – Dive into the latest developments in AI frameworks, ML pipelines, data tools, and tech trends.\n\nWhether you’re a beginner or a pro, a researcher or a recruiter — this space empowers growth through **project demos, career discussions, and research conversations.**\n\n**🧠 What You’ll Gain:**\n\n* Direct access to a **global AI talent and hiring ecosystem**\n* Exposure to cutting-edge projects via the **AI project showcase event**\n* Connections with peers and thought leaders across AI, ML, and data science\n* Career insights and opportunities from fellow professionals and employers\n* A flexible environment to network, brainstorm, and build meaningful collaborations\n* Instant 1-on-1 video or text chats for deeper engagement\n\n**📍 Where:**\nJoin virtually at:\n👉 [https://events.tao.ai/pod/analytics.club/jknf0o9m3kix](https://events.tao.ai/pod/analytics.club/jknf0o9m3kix)\n**🕔 When:**\nEvery session starts at **5:00 PM – 7:00 PM local time** — recurring monthly on Fridays. Mark your calendar and come prepared to connect!\n\n**👥 Who Should Attend:**\n\n* AI engineers, ML developers, and data scientists\n* Startup founders and entrepreneurs in the AI/tech space\n* Recruiters, hiring managers, and project collaborators\n* Students, academics, and early-career professionals\n* Anyone passionate about AI, machine learning, and applied tech innovation\n\n**📩 Questions or Suggestions?**\nWe’d love to hear from you. Reach us anytime here:\n👉 [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**🔖 Hashtags:**\n#AIConnect #AINetworkingEventOnline #AICareerFairVirtual #MachineLearningCommunityMeetup #AIProjectShowcaseEvent #CollaborationPlatformForAISpecialists #MLJobs #GlobalAINetworking #TechNetworkingEvent #AIProfessionalsUnite",
-    "start_at": "2026-10-09T23:00:00+02:00",
-    "url": "https://www.meetup.com/ac-mad/events/316629017/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Analytics.CLUB Madrid",
     "attendees": 2,
     "max_tickets": 0,
     "spots_left": null,
@@ -312,6 +310,26 @@
     "address": "",
     "organizer": "Analytics.CLUB Madrid",
     "attendees": 5,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Data Science",
+      "Hackathon"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Data Science",
+    "source_id": "316629017",
+    "name": "AIConnect: Global Virtual Job & Career Networking Event for AI Specialists",
+    "description": "Are you an AI engineer, data scientist, machine learning researcher, or aspiring innovator in the world of artificial intelligence? **AIConnect** is your dynamic **AI networking event online** designed to foster real-time conversations, career growth, and collaboration opportunities — all within a vibrant and self-led virtual space.\n\nWhether you're exploring job roles in AI, hoping to demo your latest project, or searching for your next co-developer or data scientist partner, **AIConnect** offers a one-of-a-kind experience to connect with the global **machine learning community meetup** — anytime, from anywhere.\n\n🎥 **Watch how it works in our explainer video:**\n👉 [https://www.youtube.com/watch?v=bH3uNrkUTuw](https://www.youtube.com/watch?v=bH3uNrkUTuw)\n\n**💡 Why Join AIConnect?**\n\nThis is not just another virtual event. It’s a **collaboration platform for AI specialists** where you can grow your professional network, showcase your AI/ML portfolio, exchange ideas, and chat directly with fellow participants, recruiters, and service providers.\nDesigned for **AI career fair virtual** seekers and builders alike, the platform supports live 1-1 **video or text chats**, and offers open access to diverse community-led channels tailored to your interests.\n\n**💬 Brainstorming & Discussion Channels Include:**\n\n* **General** – Your go-to hub for announcements, orientation, and casual community-wide conversation.\n* **Intros** – Introduce yourself, your research, your startup, or just share your journey in AI.\n* **Networking** – Showcase your AI/ML projects, portfolios, startup pitches, or job aspirations.\n* **Help Wanted** – Looking for team members, mentorship, freelance gigs, or offering support? Post here.\n* **Industry Room Tech** – Dive into the latest developments in AI frameworks, ML pipelines, data tools, and tech trends.\n\nWhether you’re a beginner or a pro, a researcher or a recruiter — this space empowers growth through **project demos, career discussions, and research conversations.**\n\n**🧠 What You’ll Gain:**\n\n* Direct access to a **global AI talent and hiring ecosystem**\n* Exposure to cutting-edge projects via the **AI project showcase event**\n* Connections with peers and thought leaders across AI, ML, and data science\n* Career insights and opportunities from fellow professionals and employers\n* A flexible environment to network, brainstorm, and build meaningful collaborations\n* Instant 1-on-1 video or text chats for deeper engagement\n\n**📍 Where:**\nJoin virtually at:\n👉 [https://events.tao.ai/pod/analytics.club/jknf0o9m3kix](https://events.tao.ai/pod/analytics.club/jknf0o9m3kix)\n**🕔 When:**\nEvery session starts at **5:00 PM – 7:00 PM local time** — recurring monthly on Fridays. Mark your calendar and come prepared to connect!\n\n**👥 Who Should Attend:**\n\n* AI engineers, ML developers, and data scientists\n* Startup founders and entrepreneurs in the AI/tech space\n* Recruiters, hiring managers, and project collaborators\n* Students, academics, and early-career professionals\n* Anyone passionate about AI, machine learning, and applied tech innovation\n\n**📩 Questions or Suggestions?**\nWe’d love to hear from you. Reach us anytime here:\n👉 [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)\n\n**🔖 Hashtags:**\n#AIConnect #AINetworkingEventOnline #AICareerFairVirtual #MachineLearningCommunityMeetup #AIProjectShowcaseEvent #CollaborationPlatformForAISpecialists #MLJobs #GlobalAINetworking #TechNetworkingEvent #AIProfessionalsUnite",
+    "start_at": "2026-10-09T23:00:00+02:00",
+    "url": "https://www.meetup.com/ac-mad/events/316629017/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Analytics.CLUB Madrid",
+    "attendees": 2,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -558,9 +576,9 @@
     "city": "Madrid",
     "address": "C. del Marqués de Casa Riera, 4, Centro, 28014 Madrid, Spain",
     "organizer": "Cloudflare User Group España (IA, CyberSecurity & Edge Dev)",
-    "attendees": 64,
+    "attendees": 62,
     "max_tickets": 50,
-    "spots_left": -14,
+    "spots_left": -12,
     "found_in": [
       "Artificial Intelligence",
       "DevOps",
@@ -610,25 +628,6 @@
   {
     "source": "meetup",
     "source_slug": "DevOps",
-    "source_id": "316726295",
-    "name": "💃🏻🕺🏾NVAS AMISTADES TAPEO+KIOSKOS-FLORIDA PARK",
-    "description": "*Anímate y ven a pasarlo bien.*, empezaremos de tapeo y después en KIOSKOS disfrutaremos del ambientazo con el mejor Flamenquito pop y conociendo gente nueva.\n● **Si vienes sol@,** no te preocupes te recibimos y presentamos a l@s demás y a disfrutar de la experiencia.\n\n**✅DIRECCION:** Te informamos el punto de encuentro al confirmar tu asistencia por whatsapp\\*\\*\n\\- ZONA:\\*\\* Metro Ibiza\n**✅●PARA ASISTIR:** Confirma con tiempo tu asistencia y solo por whatsapp indicando nombre y el meetup al que vas asistir al **604136338**.\n**✅● COSTE:** 5€ entrega al coordinador al llegar, (intenta traerlo justo).\n**● GASTOS APARTE:** Cada uno paga lo suyo.\n● **Si vienes con invitad@s** , informales de todo y nos avisas al confirmar.\n¡¡¡Lo pasaremos genial!!!\n**\\- CONTACTO Y CONFIRMACION DE ASISTENCIA SOLO POR WHATSAPP**",
-    "start_at": "2026-10-01T21:00:00+02:00",
-    "url": "https://www.meetup.com/meetup-group-erboswim/events/316726295/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "Cale Ibiza",
-    "organizer": "NUEVOS AMIGOS",
-    "attendees": 10,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "DevOps"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "DevOps",
     "source_id": "316773857",
     "name": "CERVECEO🍻PLAZA MAHOU BERNABEU + FIESTA",
     "description": "***Anímate y ven a pasarlo bien conociendo gente nueva.***\n● **Si vienes sol@,** no te preocupes te recibimos y presentamos a l@s demás y a disfrutar de la experiencia.\n\n**-DIRECCION:** PLAZA MAHOU BERNABEU - Estadio Santiago Bernabéu, Puerta 54 - Avenida Concha Espina, 1\n\nDESPUES: Nos iremos de fiesta alguna discoteca de moda\n\n**✅●PARA ASISTIR:** Confirma con tiempo tu asistencia y solo por whatsapp indicando nombre y el meetup al que vas asistir al **604136338**.\n**✅● COSTE:** 5€ gestión, entrega al coordinador al llegar, (intenta traerlo justo).\n**● GASTOS APARTE:** Cada uno paga lo suyo.\n● **Si vienes con invitad@s**, informales de todo y nos avisas al confirmar.\n\n**\\- CONTACTO Y CONFIRMACION DE ASISTENCIA SOLO POR WHATSAPP**",
@@ -639,6 +638,25 @@
     "address": "Av. de Concha Espina, 1, Chamartín, 28036 Madrid, Spain",
     "organizer": "NUEVOS AMIGOS",
     "attendees": 13,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "316726295",
+    "name": "💃🏻🕺🏾NVAS AMISTADES TAPEO+KIOSKOS-FLORIDA PARK",
+    "description": "*Anímate y ven a pasarlo bien.*, empezaremos de tapeo y después en KIOSKOS disfrutaremos del ambientazo con el mejor Flamenquito pop y conociendo gente nueva.\n● **Si vienes sol@,** no te preocupes te recibimos y presentamos a l@s demás y a disfrutar de la experiencia.\n\n**✅DIRECCION:** Te informamos el punto de encuentro al confirmar tu asistencia por whatsapp\\*\\*\n\\- ZONA:\\*\\* Metro Ibiza\n**✅●PARA ASISTIR:** Confirma con tiempo tu asistencia y solo por whatsapp indicando nombre y el meetup al que vas asistir al **604136338**.\n**✅● COSTE:** 5€ entrega al coordinador al llegar, (intenta traerlo justo).\n**● GASTOS APARTE:** Cada uno paga lo suyo.\n● **Si vienes con invitad@s** , informales de todo y nos avisas al confirmar.\n¡¡¡Lo pasaremos genial!!!\n**\\- CONTACTO Y CONFIRMACION DE ASISTENCIA SOLO POR WHATSAPP**",
+    "start_at": "2026-10-01T21:00:00+02:00",
+    "url": "https://www.meetup.com/meetup-group-erboswim/events/316726295/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Cale Ibiza",
+    "organizer": "NUEVOS AMIGOS",
+    "attendees": 10,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -677,7 +695,7 @@
     "city": "Madrid",
     "address": "Calle de Atocha, 123, Centro, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 221,
+    "attendees": 225,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -696,9 +714,9 @@
     "city": "Madrid",
     "address": "Calle del Prof. José García Santesmases, 9, Moncloa - Aravaca, 28040 Madrid, Spain",
     "organizer": "Hack The Box Meetups for Universities: FDIst (UCM)",
-    "attendees": 17,
+    "attendees": 18,
     "max_tickets": 70,
-    "spots_left": 53,
+    "spots_left": 52,
     "found_in": [
       "Hackathon"
     ]

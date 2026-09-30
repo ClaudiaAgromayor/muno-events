@@ -48,7 +48,7 @@
     "categories": [
       "AI"
     ],
-    "guest_count": 50,
+    "guest_count": 49,
     "sold_out": true,
     "waitlist_active": true,
     "registration_deadline": null,
@@ -160,7 +160,7 @@
     "categories": [
       "AI"
     ],
-    "guest_count": 23,
+    "guest_count": 22,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,
@@ -244,7 +244,7 @@
     "categories": [
       "Tech"
     ],
-    "guest_count": 11,
+    "guest_count": 14,
     "sold_out": false,
     "waitlist_active": false,
     "registration_deadline": null,

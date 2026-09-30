@@ -40,6 +40,25 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
+    "source_id": "316593085",
+    "name": "Depurar medidas DAX en modelos semánticos",
+    "description": "En esta sesión práctica veremos varias técnicas para depurar medidas que van desde el uso de variables DAX al trabajo con herramientas externas como DAX Studio y Tabular Editor.",
+    "start_at": "2026-10-29T19:00:00+01:00",
+    "url": "https://www.meetup.com/power-platform-madrid/events/316593085/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Power Platform Madrid",
+    "attendees": 5,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
     "source_id": "316680054",
     "name": "*ULTIMA EDICION* Master en Deep Learning con IA Agéntica",
     "description": "\\*\\*\\*\\* ÚLTIMA EDICIÓN CON MÓDULO IA AGÉNTICA \\*\\*\\*\\*\n\nSi quieres trabajar con IA en modelos de imagen, texto, audio... no lo dejes pasar. Contenido totalmente actualizado, módulo de IA Agéntica y docentes profesionales con amplia experiencia en proyectos de IA en todos los sectores.\nESTA SERÁ LA ÚLTIMA EDICIÓN DE LA FORMACIÓN. Como siempre, el soporte de docentes y todo el equipo Datamecum está más que garantizado antes, durante y después de la formación.\n**3**ª 𝗲𝗱. 𝗠𝗔𝗦𝗧𝗘𝗥 𝗗𝗘𝗘𝗣 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 𝗖𝗢𝗡 𝗜𝗔 **AGÉNTICA**\n𝟮.𝟮𝟵𝟱€ con 180h. clases online 𝗲𝗻 𝗱𝗶𝗿𝗲𝗰𝘁𝗼 que se graban + TFM\nDuración: 2 octubre 2026 al 16 abril 2027\nHorario: Viernes 16-20h y Sábados 9-13h. TODAS LAS CLASES SE GRABAN\nContenido e inscripción en el link [https://datamecum.com/master-en-deep-learning-con-ia-agentica/](https://datamecum.com/master-en-deep-learning-con-ia-agentica/)\n👉 [ruth.gamero@datamecum.com](mailto:ruth.gamero@datamecum.com)\n📞 [613.08.30.04](http://613.08.30.04/) Whatsapp o llamada tradicional\n\n+++++ CÓDIGO DE CONDUCTA +++++\nPropósito:\nEste grupo de Meetup cree en una comunidad abierta a todo el mundo. Como tal, estamos comprometidos a proporcionar un ambiente amigable, seguro y acogedor para todos independientemente de su orientación sexual, religión o sistema operativo preferido.\nEste código de conducta resume nuestras expectativas para el comportamiento de los participantes así como las consecuencias para el comportamiento inaceptable.\nComportamiento esperado:\nSer considerado, respetuoso y colaborativo. Abstenerse de comportamiento degradante, discriminatorio o de acoso. Alertar a los organizadores al observar una situación peligrosa o de riesgo. Participar de una manera auténtica y activa.\nComportamiento inaceptable:\nIntimidación. Abuso. Conducta discriminatoria/ofensiva relacionado con el género, raza, religión o discapacidad. Tratamiento despectivo o degradante. Acoso. Uso inadecuado de desnudez y/o imágenes sexuales. Interrupción sostenida de charlas u otros eventos.\nConsecuencias de un comportamiento inaceptable:\nLos organizadores pueden tomar cualquier acción que consideren apropiada, incluso la expulsión del evento sin previo aviso o reembolso.\nQué hacer si eres testigo u objeto de un comportamiento inaceptable:\nSi estás involucrado en un comportamiento inaceptable, eres testigo de dicho comportamiento o cualquier situación similar, por favor notifícalo al organizador del evento tan pronto como sea posible.\nInformación de contacto:\nCualquier participante puede ponerse en contacto con la organización a través del contacto de MeetUp.\nÁmbito de aplicación:\nEsperamos que todos los participantes del evento (patrocinadores, voluntarios, ponentes, asistentes y otros invitados) cumplan con el código de conducta en todas las reuniones virtuales y eventos presenciales organizados por este grupo de MeetUp.",
@@ -56,25 +75,6 @@
       "Artificial Intelligence",
       "Machine Learning",
       "Data Science"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Artificial Intelligence",
-    "source_id": "316593085",
-    "name": "Depurar medidas DAX en modelos semánticos",
-    "description": "En esta sesión práctica veremos varias técnicas para depurar medidas que van desde el uso de variables DAX al trabajo con herramientas externas como DAX Studio y Tabular Editor.",
-    "start_at": "2026-10-29T19:00:00+01:00",
-    "url": "https://www.meetup.com/power-platform-madrid/events/316593085/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Power Platform Madrid",
-    "attendees": 5,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence"
     ]
   },
   {
@@ -221,6 +221,26 @@
   {
     "source": "meetup",
     "source_slug": "Artificial Intelligence",
+    "source_id": "316000271",
+    "name": "GPU, CUDA, and PyTorch Performance Optimizations",
+    "description": "**Zoom link**: [https://us02web.zoom.us/j/82308186562](https://us02web.zoom.us/j/82308186562)\n\n**Talk #0: Introductions and Meetup Updates**\nby Chris Fregly and Antje Barth\n\n**Talk #1: GPU, PyTorch, and CUDA Performance Optimizations**\n\n**Talk #2: GPU, PyTorch, and CUDA Performance Optimizations**\n\n**Zoom link**: [https://us02web.zoom.us/j/82308186562](https://us02web.zoom.us/j/82308186562)\n\n**Related Links**\nGithub Repo: [http://github.com/cfregly/ai-performance-engineering/](http://github.com/cfregly/ai-performance-engineering/)\nO'Reilly Book: [https://www.amazon.com/Systems-Performance-Engineering-Optimizing-Algorithms/dp/B0F47689K8/](https://www.amazon.com/Systems-Performance-Engineering-Optimizing-Algorithms/dp/B0F47689K8/)\nYouTube: [https://www.youtube.com/@AIPerformanceEngineering](https://www.youtube.com/@AIPerformanceEngineering)\nGenerative AI Free Course on DeepLearning.ai: [https://bit.ly/gllm](https://bit.ly/gllm)",
+    "start_at": "2026-10-19T18:00:00+02:00",
+    "url": "https://www.meetup.com/ai-performance-engineering-meetup-madrid/events/316000271/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "AI Performance Engineering Meetup (Madrid)",
+    "attendees": 4,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "Artificial Intelligence",
+      "Machine Learning"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "Artificial Intelligence",
     "source_id": "316680008",
     "name": "*ULTIMA EDICION* Master en Deep Learning con IA Agéntica",
     "description": "\\*\\*\\*\\* ÚLTIMA EDICIÓN CON MÓDULO IA AGÉNTICA \\*\\*\\*\\*\nSi quieres trabajar con IA en modelos de imagen, texto, [audio...no](http://audio...no/) lo dejes pasar. Contenido totalmente actualizado, módulo de IA Agéntica y docentes profesionales con amplia experiencia en proyectos de IA en todos los sectores.\nESTA SERÁ LA ÚLTIMA EDICIÓN DE LA FORMACIÓN. Como siempre, el soporte de docentes y todo el equipo Datamecum está más que garantizado antes, durante y después de la formación.\n**3**ª 𝗲𝗱. 𝗠𝗔𝗦𝗧𝗘𝗥 𝗗𝗘𝗘𝗣 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 𝗖𝗢𝗡 𝗜𝗔 **AGÉNTICA**\n𝟮.𝟮𝟵𝟱€ con 180h. clases online 𝗲𝗻 𝗱𝗶𝗿𝗲𝗰𝘁𝗼 que se graban + TFM\nDuración: 2 octubre 2026 al 16 abril 2027\nHorario: Viernes 16-20h y Sábados 9-13h. TODAS LAS CLASES SE GRABAN\nContenido e inscripción en el link [https://datamecum.com/master-en-deep-learning-con-ia-agentica/](https://datamecum.com/master-en-deep-learning-con-ia-agentica/)\n👉 [[ruth.gamero@datamecum.com](mailto:ruth.gamero@datamecum.com)]\n📞 [613.08.30.04](http://613.08.30.04/) Whatsapp o llamada tradicional\n\n+++++ CÓDIGO DE CONDUCTA +++++\nPropósito:\nDATAMECUM cree en una comunidad abierta a todo el mundo. Como tal, estamos comprometidos a proporcionar un ambiente amigable, seguro y acogedor para todos independientemente de su orientación sexual, religión o sistema operativo preferido.\nEste código de conducta resume nuestras expectativas para el comportamiento de los participantes así como las consecuencias para el comportamiento inaceptable.\nComportamiento esperado:\nSer considerado, respetuoso y colaborativo. Abstenerse de comportamiento degradante, discriminatorio o de acoso. Alertar a los organizadores al observar una situación peligrosa o de riesgo. Participar de una manera auténtica y activa.\nComportamiento inaceptable:\nIntimidación. Abuso. Conducta discriminatoria/ofensiva relacionada con el género, raza, religión o discapacidad. Tratamiento despectivo o degradante. Acoso. Uso inadecuado de desnudez y/o imágenes sexuales. Interrupción sostenida de charlas u otros eventos.\nConsecuencias de un comportamiento inaceptable:\nLos organizadores pueden tomar cualquier acción que consideren apropiada, incluso la expulsión del evento sin previo aviso o reembolso.\nQué hacer si eres testigo u objeto de un comportamiento inaceptable:\nSi estás involucrado en un comportamiento inaceptable, eres testigo de dicho comportamiento o cualquier situación similar, por favor notifícalo al organizador del evento tan pronto como sea posible.\nInformación de contacto:\nCualquier participante puede ponerse en contacto con la organización a través del contacto de MeetUp.\nÁmbito de aplicación:\nEsperamos que todos los participantes del evento (patrocinadores, voluntarios, ponentes, asistentes y otros invitados) cumplan con el código de conducta en todas las reuniones virtuales y eventos presenciales organizados por el grupo MeetUp DATAMECUM.",
@@ -241,25 +261,6 @@
   },
   {
     "source": "meetup",
-    "source_slug": "Artificial Intelligence",
-    "source_id": "316485518",
-    "name": "AI × Decentralized Trust: Kickoff of the LFDT AI Working Group",
-    "description": "AI is already in our pull requests — and agentic AI needs exactly what we build. Let's talk about both.\n\nAI has already arrived in our repositories. It writes patches, reviews pull requests, and is often the first thing a newcomer asks about a codebase they don't understand yet. At the same time, agentic AI is arriving from the other direction — as a use case. Autonomous agents need identities they can prove, credentials others can verify, and a way to pay each other for the things they consume. That is our home turf.\n\nLFDT has no shared position on either side of this yet. This meeting launches the LFDT AI Working Group and sets its scope together with the people who will do the work.\n\nWe will open three questions:\n\n**How do we use AI when building LFDT projects? What** is allowed, what has to be disclosed, and what does it mean for provenance, licensing, DCO sign-off, and security review? The Linux Foundation's existing generative AI guidance is the floor — the question is what our projects need on top of it.\n\n**Can AI help us grow our communities?** Review bots like CodeRabbit, automated triage of good first issues, and onboarding assistants promise a shorter path from first-time contributor to committer. Do they actually deliver that, or do they just add noise for maintainers to clean up? And if we want them, who runs them and who pays?\n\n**Where does our work connect to the AI world?** Two neighbours at the Linux Foundation matter most: the Agentic AI Foundation (MCP, goose, AGENTS.md) and the x402 Foundation, which stewards payments over HTTP for agents. Agentic identity and agent-to-agent commerce are exactly where DLT belongs — and where LFDT projects should be visible.\n\nThis is a kickoff, not a keynote. Bring your opinions, your objections, and the problems you already have. We want to leave with an initial scope, a meeting cadence, and named volunteers for the first work streams.\n\nOpen to everyone: maintainers, contributors, TSC members, LFDT staff, and anyone from the wider Linux Foundation AI ecosystem. No prior involvement in LFDT required.\n\n**Zoom Meeting Link**: [https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09](https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyMkV3cldKa2d2dz09)\n\n**Please note: This event is being shared with our entire global community. If you're interested in this content but can't attend the event live, feel free to sign up and we will send you a link to the recording after the meetup is over.**",
-    "start_at": "2026-10-06T18:00:00+02:00",
-    "url": "https://www.meetup.com/lfdt-madrid/events/316485518/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "LFDT Madrid",
-    "attendees": 2,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Artificial Intelligence"
-    ]
-  },
-  {
-    "source": "meetup",
     "source_slug": "Machine Learning",
     "source_id": "316064663",
     "name": "Oct 7 - Building Composable Vision Workflows in FiftyOne",
@@ -276,25 +277,6 @@
     "found_in": [
       "Machine Learning",
       "Data Science"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "Machine Learning",
-    "source_id": "316000271",
-    "name": "GPU, CUDA, and PyTorch Performance Optimizations",
-    "description": "**Zoom link**: [https://us02web.zoom.us/j/82308186562](https://us02web.zoom.us/j/82308186562)\n\n**Talk #0: Introductions and Meetup Updates**\nby Chris Fregly and Antje Barth\n\n**Talk #1: GPU, PyTorch, and CUDA Performance Optimizations**\n\n**Talk #2: GPU, PyTorch, and CUDA Performance Optimizations**\n\n**Zoom link**: [https://us02web.zoom.us/j/82308186562](https://us02web.zoom.us/j/82308186562)\n\n**Related Links**\nGithub Repo: [http://github.com/cfregly/ai-performance-engineering/](http://github.com/cfregly/ai-performance-engineering/)\nO'Reilly Book: [https://www.amazon.com/Systems-Performance-Engineering-Optimizing-Algorithms/dp/B0F47689K8/](https://www.amazon.com/Systems-Performance-Engineering-Optimizing-Algorithms/dp/B0F47689K8/)\nYouTube: [https://www.youtube.com/@AIPerformanceEngineering](https://www.youtube.com/@AIPerformanceEngineering)\nGenerative AI Free Course on DeepLearning.ai: [https://bit.ly/gllm](https://bit.ly/gllm)",
-    "start_at": "2026-10-19T18:00:00+02:00",
-    "url": "https://www.meetup.com/ai-performance-engineering-meetup-madrid/events/316000271/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "AI Performance Engineering Meetup (Madrid)",
-    "attendees": 4,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Machine Learning"
     ]
   },
   {
@@ -377,20 +359,21 @@
   {
     "source": "meetup",
     "source_slug": "Data Science",
-    "source_id": "316514403",
-    "name": "AI For Work | Webinar",
-    "description": "**AI for Work \\| Free Live Webinar**\n\n**Pre-Registration is REQUIRED. Joining link -**\n[https://streamyard.com/watch/QnfhUjb7qQXs](https://streamyard.com/watch/QnfhUjb7qQXs?utm_source=luma)\n\n## ​WHEN\n\n​**September 30 at 1:00 PM ET**\n**45-minute live webinar**\n\n## ​WHO SHOULD JOIN?\n\n​This session is for people who already use tools like ChatGPT or Claude, but want to go beyond asking questions and start using AI to actually get work done.\n​It’s especially useful for:\n\n* ​Product and project managers\n* ​Operations and process leads\n* ​Marketing and admin professionals\n* ​Founders and small business teams\n* ​Career changers and AI beginners\n* ​Anyone looking to automate everyday work without coding\n\n​Come curious. No coding, setup, or technical background required.\n\nWHAT YOU’LL LEARN\n\nIn this free, 45-minute hands-on session, ODSC's Sheamus McGovern shows you the difference between chatting with AI and putting it to work.\n\nYou'll watch Cowork sort a messy folder of files into order, turn raw notes and spreadsheets into a polished, ready-to-send document, and set up recurring work that runs on its own, no prompting required.\n\nJust the everyday tasks you can hand off to AI that eat your week: filing, formatting, summarizing, following up, etc.\n\nLeave with one task you can delegate this week, and a clear next step for what to automate after that.\n\n**​Stay Connected**\n\n* ​**Learn:** Free talks and trainings on the [Ai+ Training platform](https://aiplus.training/?utm_source=luma).\n* ​**Read:** The latest in AI research on the [ODSC Blog](https://opendatascience.com/?utm_source=luma).\n* ​**Chat:** Join the conversation in our [Slack Channel](https://www.google.com/search?q=https%3A%2F%2Fodsc.com%2Fslack&utm_source=luma).\n* ​**Community:** Review our [Code of Conduct](https://odsc.com/code-of-conduct/?utm_source=luma).",
-    "start_at": "2026-09-30T19:00:00+02:00",
-    "url": "https://www.meetup.com/odsc-madrid-data-science/events/316514403/",
+    "source_id": "316524838",
+    "name": "AnalyticsCLUB JobExpo Virtual Business, Data & Technology Job Expo",
+    "description": "**What is FirstFridayFair Monthly Job Fair?**\n\nFirstFridayFair Monthly Job Fair is a **global virtual job fair and remote hiring event** hosted by the Analytics CLUB community. This **online job fair platform** brings together **professionals, employers, recruiters, and career coaches** for an immersive, **self-managed career networking experience**.\n\n🎥 **New to FirstFridayFair? Watch our explainer video here:** [https://youtu.be/NlLaCfOjosk](https://youtu.be/NlLaCfOjosk)\n\n**Where and When?**\n📍 Online at [https://events.tao.ai/pod/analytics.club/6j382kbpcnvd](https://events.tao.ai/pod/analytics.club/6j382kbpcnvd)\n🗓 First Friday of the month\n⏰ 11:00 AM - 2:00 PM (Local Time Zone)\n🌍 Open to participants globally\n\n🌍 **Who should join?**\n\n* **Job Seekers:** Looking for their next big break in **remote or local roles**.\n* **Employers & Recruiters:** Eager to find top talent across industries.\n* **Service Providers & Career Coaches:** Supporting professionals with tools, tips, and resources.\n* **Career Enthusiasts & Explorers:** Wishing to expand their network and knowledge.\n\n💬 **Where does the event take place?**\nThis interactive event is hosted on a **Slack-like community chat platform**, making it easy to **join from anywhere** and interact in **real-time group chats and 1-1 video or text conversations**.\n🚀 **What can you do at the event?**\nAttendees can explore several themed **Slack job fair channels** designed for **job networking, peer-to-peer support, and industry discussions**:\n\n* **General:** Intros, announcements, and casual networking.\n* **Networking:** Showcase your portfolio, startup, or job pitch.\n* **Intros:** Meet others, share your career path, and connect personally.\n* **Help Wanted:** Offer your skills or seek help from others.\n* **Industry Room Tech:** Discuss the latest in programming, software, and tech trends.\n\nAdditionally, attendees can engage in:\n\n* **1-1 video and text chats** with other attendees, recruiters, or service providers.\n* Visit the **virtual job openings board** to browse active listings and **connect with recruiters online**.\n* Participate in **live job fair chat**, where you can ask career-related questions, get **online resume tips**, and explore ways to stand out in the hiring process.\n\n❓ **Why join FirstFridayFair Monthly Job Fair?**\n\n* Access **global job networking events** right from your device.\n* Explore **virtual hiring events** designed for professionals seeking flexibility and growth.\n* Engage in meaningful conversations and discover **remote hiring opportunities**.\n* Take advantage of a **self-managed and open community platform**, allowing you to connect at your own pace.\n* Use the dedicated channels to **showcase your skills, ask questions, and build lasting professional connections**.\n\n**Have Questions or Suggestions?**\nWe’d love to help: [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)",
+    "start_at": "2026-10-02T11:00:00+02:00",
+    "url": "https://www.meetup.com/ac-mad/events/316524838/",
     "event_type": "ONLINE",
     "city": "",
     "address": "",
-    "organizer": "ODSC AI Madrid",
-    "attendees": 3,
+    "organizer": "Analytics.CLUB Madrid",
+    "attendees": 1,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
-      "Data Science"
+      "Data Science",
+      "Hackathon"
     ]
   },
   {
@@ -509,6 +492,25 @@
   },
   {
     "source": "meetup",
+    "source_slug": "Startups",
+    "source_id": "316537758",
+    "name": "How to Land a Software Engineering Job in 2027",
+    "description": "This event is being promoted by many groups.\n\nOur meetup group is participating by promoting this event.\n\nThis event is organized by Albert's List.\n\nOur meetup group is collaborating by promoting this event.\n\nThis is an online event.\n\nAttendees can be located anywhere in the world!\n\nThis event is FREE to attend!\n\nIn order to attend, please register here:\n[https://www.eventbrite.com/e/how-to-land-a-software-engineering-job-in-2027-tickets-1999858158587?aff=ideatoipo](https://www.eventbrite.com/e/how-to-land-a-software-engineering-job-in-2027-tickets-1999858158587?aff=ideatoipo)\nThe software engineering market didn't collapse. It split — and most candidates are still preparing for the market that existed three years ago.\nOpenings exist, but they've concentrated. AI-adjacent and infrastructure roles are competitive to fill while generalist roles sit far below their pre-2022 baseline. The entry rung has thinned as AI absorbs the well-bounded work that used to train junior engineers, which pushes recent grads and career changers into a crowded middle already occupied by laid-off mid-level engineers. Time-to-hire has stretched. Fully remote postings are rare.\nThe bigger change is one almost nobody is preparing for: the interview itself got rebuilt. After a wave of real-time AI assistance in remote coding screens, companies responded in two directions. Some dragged interviews back on-site. Others redesigned the assessment — adding rounds where you're handed an AI assistant and evaluated on whether you can prompt it, catch its mistakes, and defend the result. Follow-up questions became the filter. Narrating your reasoning out loud went from nice-to-have to the thing you're actually scored on.\nIf your prep strategy is \"grind 500 LeetCode problems,\" you are optimizing for a screen that increasingly isn't the deciding round.\nJoin software engineer and mentor Phong Lam for a working session on what's actually required to land a software engineering role right now. He'll cover:\n\n* Where the market genuinely split, and which side of it your background currently sits on\n* Why interview loops changed in 2026 — on-site returns, AI-assisted rounds, and follow-up questions as the real filter\n* How to prepare by pattern, not volume: recognizing question families instead of memorizing solutions\n* The new prep skill nobody practices — debugging and defending code you didn't write\n* How to talk about using AI in your work without sounding like you've outsourced your judgment\n* How mid-level and senior engineers coming off a layoff avoid reading as \"generalist\" on paper\n* Where the openings actually are, including the non-obvious companies quietly hiring software talent\n* What career changers and recent grads can do to clear a bar that moved after they enrolled\n\nCome with your questions, your loop stories, and the roles you're targeting.\n**ABOUT PHONG LAM**\nPhong Lam is a senior software engineer at Circle, with past stops at DoorDash, Walmart, and IBM. Alongside his career he mentors junior and senior engineers on algorithmic problem solving, web frameworks, and navigating interviews. Connect with him on LinkedIn at [https://www.linkedin.com/in/phongtlam/](https://www.linkedin.com/in/phongtlam/ \"https://www.linkedin.com/in/phongtlam/\").",
+    "start_at": "2026-10-15T00:00:00+02:00",
+    "url": "https://www.meetup.com/spain-startup-idea-to-ipo/events/316537758/",
+    "event_type": "ONLINE",
+    "city": "",
+    "address": "",
+    "organizer": "Spain  Startup: Idea to IPO",
+    "attendees": 1,
+    "max_tickets": 100,
+    "spots_left": 99,
+    "found_in": [
+      "Startups"
+    ]
+  },
+  {
+    "source": "meetup",
     "source_slug": "Hackathon",
     "source_id": "316185487",
     "name": "Open Source Climate Accounting: What Exists, What's Missing+Where To Contribute",
@@ -528,25 +530,6 @@
   },
   {
     "source": "meetup",
-    "source_slug": "Hackathon",
-    "source_id": "316524838",
-    "name": "AnalyticsCLUB JobExpo Virtual Business, Data & Technology Job Expo",
-    "description": "**What is FirstFridayFair Monthly Job Fair?**\n\nFirstFridayFair Monthly Job Fair is a **global virtual job fair and remote hiring event** hosted by the Analytics CLUB community. This **online job fair platform** brings together **professionals, employers, recruiters, and career coaches** for an immersive, **self-managed career networking experience**.\n\n🎥 **New to FirstFridayFair? Watch our explainer video here:** [https://youtu.be/NlLaCfOjosk](https://youtu.be/NlLaCfOjosk)\n\n**Where and When?**\n📍 Online at [https://events.tao.ai/pod/analytics.club/6j382kbpcnvd](https://events.tao.ai/pod/analytics.club/6j382kbpcnvd)\n🗓 First Friday of the month\n⏰ 11:00 AM - 2:00 PM (Local Time Zone)\n🌍 Open to participants globally\n\n🌍 **Who should join?**\n\n* **Job Seekers:** Looking for their next big break in **remote or local roles**.\n* **Employers & Recruiters:** Eager to find top talent across industries.\n* **Service Providers & Career Coaches:** Supporting professionals with tools, tips, and resources.\n* **Career Enthusiasts & Explorers:** Wishing to expand their network and knowledge.\n\n💬 **Where does the event take place?**\nThis interactive event is hosted on a **Slack-like community chat platform**, making it easy to **join from anywhere** and interact in **real-time group chats and 1-1 video or text conversations**.\n🚀 **What can you do at the event?**\nAttendees can explore several themed **Slack job fair channels** designed for **job networking, peer-to-peer support, and industry discussions**:\n\n* **General:** Intros, announcements, and casual networking.\n* **Networking:** Showcase your portfolio, startup, or job pitch.\n* **Intros:** Meet others, share your career path, and connect personally.\n* **Help Wanted:** Offer your skills or seek help from others.\n* **Industry Room Tech:** Discuss the latest in programming, software, and tech trends.\n\nAdditionally, attendees can engage in:\n\n* **1-1 video and text chats** with other attendees, recruiters, or service providers.\n* Visit the **virtual job openings board** to browse active listings and **connect with recruiters online**.\n* Participate in **live job fair chat**, where you can ask career-related questions, get **online resume tips**, and explore ways to stand out in the hiring process.\n\n❓ **Why join FirstFridayFair Monthly Job Fair?**\n\n* Access **global job networking events** right from your device.\n* Explore **virtual hiring events** designed for professionals seeking flexibility and growth.\n* Engage in meaningful conversations and discover **remote hiring opportunities**.\n* Take advantage of a **self-managed and open community platform**, allowing you to connect at your own pace.\n* Use the dedicated channels to **showcase your skills, ask questions, and build lasting professional connections**.\n\n**Have Questions or Suggestions?**\nWe’d love to help: [https://noworkerleftbehind.org/event_support](https://noworkerleftbehind.org/event_support)",
-    "start_at": "2026-10-02T11:00:00+02:00",
-    "url": "https://www.meetup.com/ac-mad/events/316524838/",
-    "event_type": "ONLINE",
-    "city": "",
-    "address": "",
-    "organizer": "Analytics.CLUB Madrid",
-    "attendees": 1,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "Hackathon"
-    ]
-  },
-  {
-    "source": "meetup",
     "source_slug": "Artificial Intelligence",
     "source_id": "316335741",
     "name": "MARCHA POR LA LONGEVIDAD DE MADRID: Jueves 1 de octubre, 14:00 - 15:30, CET",
@@ -557,7 +540,7 @@
     "city": "Madrid",
     "address": "Calle Arrieta, número 12, 28013 Madrid",
     "organizer": "Madrid Singularity",
-    "attendees": 125,
+    "attendees": 127,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -616,32 +599,13 @@
     "city": "Madrid",
     "address": "Pl. de Manuel Gómez-Moreno, 2, Tetuán, 28020 Madrid, Spain",
     "organizer": "GoMAD - Madrid Go UG",
-    "attendees": 32,
+    "attendees": 33,
     "max_tickets": 60,
-    "spots_left": 28,
+    "spots_left": 27,
     "found_in": [
       "Data Science",
       "DevOps",
       "Startups"
-    ]
-  },
-  {
-    "source": "meetup",
-    "source_slug": "DevOps",
-    "source_id": "316773857",
-    "name": "CERVECEO🍻PLAZA MAHOU BERNABEU + FIESTA",
-    "description": "***Anímate y ven a pasarlo bien conociendo gente nueva.***\n● **Si vienes sol@,** no te preocupes te recibimos y presentamos a l@s demás y a disfrutar de la experiencia.\n\n**-DIRECCION:** PLAZA MAHOU BERNABEU - Estadio Santiago Bernabéu, Puerta 54 - Avenida Concha Espina, 1\n\nDESPUES: Nos iremos de fiesta alguna discoteca de moda\n\n**✅●PARA ASISTIR:** Confirma con tiempo tu asistencia y solo por whatsapp indicando nombre y el meetup al que vas asistir al **604136338**.\n**✅● COSTE:** 5€ gestión, entrega al coordinador al llegar, (intenta traerlo justo).\n**● GASTOS APARTE:** Cada uno paga lo suyo.\n● **Si vienes con invitad@s**, informales de todo y nos avisas al confirmar.\n\n**\\- CONTACTO Y CONFIRMACION DE ASISTENCIA SOLO POR WHATSAPP**",
-    "start_at": "2026-10-02T21:00:00+02:00",
-    "url": "https://www.meetup.com/meetup-group-erboswim/events/316773857/",
-    "event_type": "PHYSICAL",
-    "city": "Madrid",
-    "address": "Av. de Concha Espina, 1, Chamartín, 28036 Madrid, Spain",
-    "organizer": "NUEVOS AMIGOS",
-    "attendees": 13,
-    "max_tickets": 0,
-    "spots_left": null,
-    "found_in": [
-      "DevOps"
     ]
   },
   {
@@ -657,6 +621,25 @@
     "address": "Cale Ibiza",
     "organizer": "NUEVOS AMIGOS",
     "attendees": 14,
+    "max_tickets": 0,
+    "spots_left": null,
+    "found_in": [
+      "DevOps"
+    ]
+  },
+  {
+    "source": "meetup",
+    "source_slug": "DevOps",
+    "source_id": "316773857",
+    "name": "CERVECEO🍻PLAZA MAHOU BERNABEU + FIESTA",
+    "description": "***Anímate y ven a pasarlo bien conociendo gente nueva.***\n● **Si vienes sol@,** no te preocupes te recibimos y presentamos a l@s demás y a disfrutar de la experiencia.\n\n**-DIRECCION:** PLAZA MAHOU BERNABEU - Estadio Santiago Bernabéu, Puerta 54 - Avenida Concha Espina, 1\n\nDESPUES: Nos iremos de fiesta alguna discoteca de moda\n\n**✅●PARA ASISTIR:** Confirma con tiempo tu asistencia y solo por whatsapp indicando nombre y el meetup al que vas asistir al **604136338**.\n**✅● COSTE:** 5€ gestión, entrega al coordinador al llegar, (intenta traerlo justo).\n**● GASTOS APARTE:** Cada uno paga lo suyo.\n● **Si vienes con invitad@s**, informales de todo y nos avisas al confirmar.\n\n**\\- CONTACTO Y CONFIRMACION DE ASISTENCIA SOLO POR WHATSAPP**",
+    "start_at": "2026-10-02T21:00:00+02:00",
+    "url": "https://www.meetup.com/meetup-group-erboswim/events/316773857/",
+    "event_type": "PHYSICAL",
+    "city": "Madrid",
+    "address": "Av. de Concha Espina, 1, Chamartín, 28036 Madrid, Spain",
+    "organizer": "NUEVOS AMIGOS",
+    "attendees": 13,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -695,7 +678,7 @@
     "city": "Madrid",
     "address": "Calle de Atocha, 123, Centro, 28012",
     "organizer": "Professionals & Entrepreneurs Network Madrid(+9.000)",
-    "attendees": 229,
+    "attendees": 233,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

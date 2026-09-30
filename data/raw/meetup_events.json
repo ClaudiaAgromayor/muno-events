@@ -11,9 +11,9 @@
     "city": "Madrid",
     "address": "C. de San Bernardo, 2, Centro, 28013 Madrid",
     "organizer": "Madrid Networking Club",
-    "attendees": 28,
+    "attendees": 29,
     "max_tickets": 120,
-    "spots_left": 92,
+    "spots_left": 91,
     "found_in": [
       "Artificial Intelligence",
       "Startups"
@@ -59,7 +59,7 @@
     "city": "Madrid",
     "address": "C. de Cronos, 63",
     "organizer": "Elixir Madrid",
-    "attendees": 4,
+    "attendees": 5,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [
@@ -148,9 +148,9 @@
     "city": "Madrid",
     "address": "Calle Jorge Juan, 17",
     "organizer": "The Vibe Coding Club Madrid",
-    "attendees": 99,
+    "attendees": 100,
     "max_tickets": 100,
-    "spots_left": 1,
+    "spots_left": 0,
     "found_in": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -172,9 +172,9 @@
     "city": "Madrid",
     "address": "c/ Génova 17",
     "organizer": "MadridJUG",
-    "attendees": 22,
+    "attendees": 24,
     "max_tickets": 40,
-    "spots_left": 18,
+    "spots_left": 16,
     "found_in": [
       "Machine Learning",
       "Data Science",
@@ -239,7 +239,7 @@
     "city": "Madrid",
     "address": "Calle de Sta Engracia, 53",
     "organizer": "Sysarmy Madrid",
-    "attendees": 12,
+    "attendees": 10,
     "max_tickets": 0,
     "spots_left": null,
     "found_in": [

@@ -53,9 +53,9 @@
         "AI"
       ],
       "is_free": true,
-      "guest_count": 48,
-      "sold_out": false,
-      "waitlist_active": false,
+      "guest_count": 49,
+      "sold_out": true,
+      "waitlist_active": true,
       "registration_deadline": null
     },
     "found_on_platforms": [
@@ -309,9 +309,9 @@
     "lat": 40.4207507,
     "lng": -3.708179,
     "extra": {
-      "attendees": 30,
+      "attendees": 32,
       "max_tickets": 120,
-      "spots_left": 90
+      "spots_left": 88
     },
     "found_on_platforms": [
       "meetup"

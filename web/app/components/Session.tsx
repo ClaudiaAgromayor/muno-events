@@ -43,14 +43,22 @@ export function SessionProvider({ children }: { children: React.ReactNode }) {
   );
 
   useEffect(() => {
-    supabase.auth.getUser().then(async ({ data }) => {
-      setUser(data.user);
-      await loadProfile(data.user);
+    let currentId: string | null | undefined = undefined;
+    // Supabase emite eventos de sesión muy a menudo (refresco del token, cambio de
+    // pestaña, otras pestañas abiertas). Solo actualizamos el estado si cambia de verdad
+    // la persona: si no, toda la página se volvía a pintar y "vibraba".
+    const apply = async (u: User | null) => {
+      const id = u?.id ?? null;
+      if (id === currentId) return;
+      currentId = id;
+      setUser(u);
+      await loadProfile(u);
       setLoaded(true);
-    });
+    };
+    supabase.auth.getUser().then(({ data }) => apply(data.user));
     const { data: sub } = supabase.auth.onAuthStateChange((_e, s) => {
-      setUser(s?.user ?? null);
-      loadProfile(s?.user ?? null);
+      // El callback no debe esperar a otras llamadas de Supabase (puede bloquearse)
+      setTimeout(() => apply(s?.user ?? null), 0);
     });
     return () => sub.subscription.unsubscribe();
   }, [supabase, loadProfile]);

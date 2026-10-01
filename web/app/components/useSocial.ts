@@ -64,18 +64,19 @@ export function useSocial(eventIds?: string[]) {
     };
   }, [supabase, fetchRows, instance]);
 
+  const userId = user?.id;
   useEffect(() => {
-    if (!user) return;
+    if (!userId) return;
     supabase
       .from("group_members")
       .select("groups(id, name, emoji)")
-      .eq("user_id", user.id)
+      .eq("user_id", userId)
       .then(({ data }) =>
         setMyGroups(
           ((data ?? []) as unknown as { groups: MyGroup | null }[]).map((r) => r.groups).filter((g): g is MyGroup => !!g)
         )
       );
-  }, [supabase, user]);
+  }, [supabase, userId]);
 
   const byEvent = useMemo(() => {
     const m = new Map<string, EventSocial>();

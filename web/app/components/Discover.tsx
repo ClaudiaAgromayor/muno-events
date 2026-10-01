@@ -96,11 +96,13 @@ export default function Discover({ events, updatedAt }: { events: MunoEvent[]; u
     const limit = new Date(now.getTime() + 8 * 86400000).toISOString();
     return events
       .filter((e) => e.start_at < limit && canJoin(e.status) && !e.is_online)
-      .map((e) => ({ e, score: (e.going_count ?? 0) + 25 * (social.get(e.id).going + social.get(e.id).interested) + (e.featured ? 1000 : 0) }))
+      // Solo datos del servidor: si dependiera de los "voy" de muno (que llegan después),
+      // el carrusel se reordenaría delante de la persona.
+      .map((e) => ({ e, score: (e.going_count ?? 0) + (e.featured ? 1000 : 0) }))
       .sort((a, b) => b.score - a.score)
       .slice(0, 8)
       .map((x) => x.e);
-  }, [events, social, now]);
+  }, [events, now]);
 
   const onRsvp = async (e: MunoEvent, s: RsvpStatus) => {
     if (!user) return router.push(`/entrar?next=${encodeURIComponent(eventPath(e.id))}`);

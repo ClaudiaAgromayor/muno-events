@@ -12,3 +12,6 @@ wheels/
 # Copia local del último scrape (los datos viven en Supabase)
 data/
 .env
+
+# Credenciales locales (nunca al repo)
+secrets/

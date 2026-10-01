@@ -1,198 +1,155 @@
+"""Meetup: usa el endpoint GraphQL de la web (meetup.com/gql2), que responde sin login.
+
+La API oficial ahora exige Meetup Pro; esta es la que usa meetup.com en el navegador. A
+diferencia de las páginas HTML (que solo traen la primera página de resultados), aquí se
+puede paginar y pedir exactamente los campos de aforo: maxTickets, apuntados, lista de
+espera y si las inscripciones están cerradas.
+"""
+
+from __future__ import annotations
+
 import httpx
-import json
-import re
-from bs4 import BeautifulSoup
-import urllib.parse
-import os
 
-def _parse_next_data(html: str) -> dict:
-    soup = BeautifulSoup(html, "html.parser")
-    script = soup.find("script", id="__NEXT_DATA__")
-    return json.loads(script.string)
+from eventos_tech_madrid.common import compute_status, distance_km, event, request
+from eventos_tech_madrid.sources import CITY, MEETUP_GROUPS, MEETUP_KEYWORDS
+
+GQL = "https://www.meetup.com/gql2"
+
+EVENT_FIELDS = """
+  id title description dateTime endTime eventUrl eventType maxTickets status
+  going { totalCount }
+  waiting: rsvps(filter: { rsvpStatus: [WAITLIST] }) { totalCount }
+  rsvpSettings { rsvpsClosed rsvpCloseTime }
+  feeSettings { amount currency }
+  featuredEventPhoto { highResUrl }
+  venue { name address city lat lon }
+  group { name urlname }
+"""
+
+SEARCH_Q = f"""query($f: EventSearchFilter!, $after: String) {{
+  eventSearch(filter: $f, first: 50, after: $after) {{
+    pageInfo {{ hasNextPage endCursor }}
+    edges {{ node {{ {EVENT_FIELDS} }} }}
+  }}
+}}"""
+
+GROUP_Q = f"""query($u: String!) {{
+  groupByUrlname(urlname: $u) {{
+    name
+    events(status: ACTIVE, first: 30) {{ edges {{ node {{ {EVENT_FIELDS} }} }} }}
+  }}
+}}"""
 
 
-def _resolve(store: dict, ref):
-    """Sigue una referencia {'__ref': 'Event:123'} hasta el objeto real."""
-    if isinstance(ref, dict) and "__ref" in ref:
-        return store[ref["__ref"]]
-    return ref
+def _gql(c: httpx.Client, query: str, variables: dict) -> dict:
+    r = request(c, "POST", GQL, json={"query": query, "variables": variables})
+    data = r.json()
+    if data.get("errors") and not data.get("data"):
+        raise RuntimeError(data["errors"][0].get("message"))
+    return data["data"]
 
 
-def fetch_meetup_group(urlname: str) -> list[dict]:
-    url = f"https://www.meetup.com/{urlname}/"
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
-    resp = httpx.get(url, headers=headers, follow_redirects=True, timeout=15)
-    resp.raise_for_status()
+def _to_event(n: dict, trusted: bool) -> dict | None:
+    if n.get("status") not in (None, "ACTIVE", "CANCELLED", "UPCOMING"):
+        return None
+    venue = n.get("venue") or {}
+    is_online = n.get("eventType") == "ONLINE"
+    lat, lng = venue.get("lat"), venue.get("lon")
 
-    data = _parse_next_data(resp.text)
-    store = data["props"]["pageProps"]["__APOLLO_STATE__"]
+    if not is_online:
+        near = lat is not None and distance_km(lat, lng, CITY["lat"], CITY["lng"]) <= CITY["radius_km"]
+        if not near:
+            return None
+        lat, lng = (lat, lng) if (lat or lng) else (None, None)
+    else:
+        if not trusted:
+            return None
+        lat = lng = None
 
-    root = store["ROOT_QUERY"]
-    group_key = next(k for k in root if k.startswith("groupByUrlname"))
-    group = _resolve(store, root[group_key])
+    capacity = n.get("maxTickets") or None  # 0 = sin límite
+    going = (n.get("going") or {}).get("totalCount")
+    waiting = (n.get("waiting") or {}).get("totalCount") or 0
+    fee = n.get("feeSettings") or {}
+    closed = bool((n.get("rsvpSettings") or {}).get("rsvpsClosed"))
 
-    events_key = next(
-        k for k in group if k.startswith("events(") and '"ACTIVE"' in k
+    status = compute_status(
+        cancelled=n.get("status") == "CANCELLED",
+        closed=closed,
+        sold_out=bool(capacity and going is not None and going >= capacity),
+        # En Meetup, cuando se llena, la lista de espera está activa por defecto salvo que
+        # se cierren las inscripciones.
+        waitlist_open=not closed,
+        capacity=capacity,
+        going=going,
     )
-    connection = group[events_key]
+    if waiting > 0 and status in ("open", "few_left"):
+        status = "waitlist"  # ya hay gente esperando: lo honesto es decir lista de espera
 
-    events = []
-    for edge in connection.get("edges", []):
-        ev = _resolve(store, edge["node"])
-        venue = _resolve(store, ev["venue"]) if ev.get("venue") else None
-        events.append({
-            "source": "meetup",
-            "source_slug": urlname,
-            "source_id": ev["id"],
-            "name": ev["title"],
-            "start_at": ev.get("dateTime"),
-            "end_at": ev.get("endTime"),
-            "url": ev.get("eventUrl"),
-            "city": venue.get("city") if venue else None,
-            "address": venue.get("address") if venue else None,
-            "organizer": group.get("name"),
-            "attendees": ev.get("going", {}).get("totalCount"),
-        })
-    return events
-
-
-def fetch_meetup_search(keyword: str, location: str = "es--madrid") -> list[dict]:
-    encoded_kw = urllib.parse.quote(keyword)
-    url = f"https://www.meetup.com/find/?keywords={encoded_kw}&source=EVENTS&location={location}"
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
-    resp = httpx.get(url, headers=headers, follow_redirects=True, timeout=15)
-    resp.raise_for_status()
-
-    data = _parse_next_data(resp.text)
-    store = data["props"]["pageProps"]["__APOLLO_STATE__"]
-    root = store["ROOT_QUERY"]
-
-    search_key = next(k for k in root if k.startswith("eventSearch:"))
-    connection = root[search_key]
-
-    events = []
-    for edge in connection.get("edges", []):
-        ev = _resolve(store, edge["node"])
-        if "title" not in ev:
-            continue
-
-        group = _resolve(store, ev["group"]) if ev.get("group") else {}
-        venue = ev.get("venue") or {}
-        attendees = ev.get("rsvps", {}).get("totalCount")
-        max_tickets = ev.get("maxTickets")
-
-        events.append({
-            "source": "meetup",
-            "source_slug": keyword,
-            "source_id": ev["id"],
-            "name": ev.get("title"),
-            "description": ev.get("description"),
-            "start_at": ev.get("dateTime"),
-            "url": ev.get("eventUrl"),
-            "event_type": ev.get("eventType"),
-            "city": venue.get("city"),
-            "address": venue.get("address"),
-            "organizer": group.get("name"),
-            "attendees": attendees,
-            "max_tickets": max_tickets,
-            "spots_left": (max_tickets - attendees) if (max_tickets and attendees is not None) else None,
-        })
-    return events
+    group = n.get("group") or {}
+    return event(
+        source="meetup",
+        source_id=n["id"],
+        title=n["title"],
+        start_at=n["dateTime"],
+        end_at=n.get("endTime"),
+        url=n.get("eventUrl"),
+        trusted=trusted,
+        description=(n.get("description") or "")[:5000] or None,
+        image_url=(n.get("featuredEventPhoto") or {}).get("highResUrl"),
+        organizer=group.get("name"),
+        organizer_url=f"https://www.meetup.com/{group['urlname']}/" if group.get("urlname") else None,
+        is_online=is_online,
+        venue_name=venue.get("name") if not is_online else None,
+        address=venue.get("address") or None,
+        lat=lat,
+        lng=lng,
+        is_free=not fee.get("amount"),
+        price_min=fee.get("amount") or None,
+        currency=fee.get("currency"),
+        status=status,
+        capacity=capacity,
+        going_count=going,
+        waitlist_count=waiting or None,
+    )
 
 
-def dedupe_events(events: list[dict]) -> list[dict]:
-    deduped = {}
-    for ev in events:
-        key = ev["source_id"]
-        if key not in deduped:
-            deduped[key] = ev.copy()
-            deduped[key]["found_in"] = [ev["source_slug"]]
-        else:
-            deduped[key]["found_in"].append(ev["source_slug"])
-    return list(deduped.values())
+def scrape(c: httpx.Client) -> list[dict]:
+    found: dict[str, dict] = {}
 
-# Meetup busca por palabra clave pero no es una coincidencia exacta: devuelve resultados
-# "relacionados" con bastante manga ancha (verificado con datos reales: una busqueda de
-# "Data Science" trajo una charla de "despertar de la conciencia", y "DevOps" trajo un
-# evento de "conocer gente nueva" en un bar). Filtramos por contenido real del evento,
-# no solo por que haya salido de una de nuestras keywords de busqueda.
-_TECH_PATTERNS = [
-    r"\bia\b", r"\bai\b", r"\bapi\b", r"inteligencia artificial", r"machine learning",
-    r"aprendizaje autom", r"data science", r"ciencia de datos", r"big data",
-    r"deep learning", r"\bllm\b", r"\bgpt\b", r"software", r"desarroll", r"programaci",
-    r"\bpython\b", r"\bjavascript\b", r"\bcloud\b", r"devops", r"startup", r"hackathon",
-    r"tecnolog", r"\btech\b", r"engineer", r"ingenier", r"backend", r"frontend",
-    r"fullstack", r"\bsaas\b", r"\bweb3\b", r"blockchain",
-]
-_TECH_RE = re.compile("|".join(_TECH_PATTERNS), re.IGNORECASE)
+    for kw in MEETUP_KEYWORDS:
+        after, total = None, 0
+        for _ in range(6):
+            f = {"query": kw, "lat": CITY["lat"], "lon": CITY["lng"], "radius": CITY["radius_km"]}
+            data = _gql(c, SEARCH_Q, {"f": f, "after": after})["eventSearch"]
+            for edge in data["edges"]:
+                ev = _to_event(edge["node"], trusted=False)
+                if ev:
+                    found.setdefault(ev["id"], ev)
+                    total += 1
+            if not data["pageInfo"]["hasNextPage"]:
+                break
+            after = data["pageInfo"]["endCursor"]
+        print(f"  meetup búsqueda '{kw}': {total}")
 
-
-def is_tech_relevant(event: dict) -> bool:
-    text = f"{event.get('name', '')} {event.get('description', '')}"
-    return bool(_TECH_RE.search(text))
-
-
-def filter_madrid(events: list[dict]) -> tuple[list[dict], list[dict]]:
-    """Devuelve (eventos_validos, eventos_para_revisar_a_mano)."""
-    valid = []
-    needs_review = []
-    for ev in events:
-        city = (ev.get("city") or "").strip()
-        if "madrid" in city.lower():
-            valid.append(ev)
-        elif city == "" or city.lower() == "spain":
-            # probablemente online/virtual, sin ciudad física — no lo descartamos sin mirar
-            needs_review.append(ev)
-        # si tiene una ciudad concreta distinta de Madrid, se descarta sin más
-    return valid, needs_review
-
-if __name__ == "__main__":
-    keywords = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Data Science",
-        "DevOps",
-        "Startups",
-        "Hackathon",
-    ]
-
-    all_events = []
-    any_errors = False
-    for kw in keywords:
+    trusted_groups = {g.lower() for g in MEETUP_GROUPS}
+    for urlname in MEETUP_GROUPS:
         try:
-            events = fetch_meetup_search(kw)
-            print(f"{kw}: {len(events)} eventos")
-            all_events.extend(events)
-        except Exception as e:
-            print(f"{kw}: ERROR ({e})")
-            any_errors = True
+            g = _gql(c, GROUP_Q, {"u": urlname})["groupByUrlname"]
+            if not g:
+                print(f"  meetup grupo {urlname}: no existe")
+                continue
+            edges = g["events"]["edges"]
+            for edge in edges:
+                ev = _to_event(edge["node"], trusted=True)
+                if ev:
+                    found[ev["id"]] = ev
+        except Exception as e:  # noqa: BLE001
+            print(f"  meetup grupo {urlname}: ERROR {e}")
 
-    if not all_events and any_errors:
-        # todas las busquedas fallaron a la vez: mejor no tocar los archivos del dia
-        # anterior que sobrescribirlos con listas vacias (mismo caso que ya se dio en
-        # Eventbrite con GitHub Actions bloqueado por IP).
-        print("\nTodas las búsquedas fallaron y no hay eventos — no se sobrescribe data/raw/meetup_events.json")
-        raise SystemExit(0)
+    # Un evento encontrado por búsqueda que en realidad es de un grupo de confianza
+    for ev in found.values():
+        url = (ev.get("organizer_url") or "").lower()
+        if any(f"/{g}/" in url for g in trusted_groups):
+            ev["_trusted"] = True
 
-    print(f"\nTotal antes de deduplicar: {len(all_events)}")
-    unique_events = dedupe_events(all_events)
-    print(f"Total después de deduplicar: {len(unique_events)}")
-
-    madrid_events, needs_review = filter_madrid(unique_events)
-
-    valid_events = []
-    for ev in madrid_events:
-        if is_tech_relevant(ev):
-            valid_events.append(ev)
-        else:
-            needs_review.append(ev)
-
-    print(f"Eventos válidos (Madrid + relevancia tech): {len(valid_events)}")
-    print(f"Para revisión manual (ciudad ambigua o relevancia dudosa): {len(needs_review)}")
-
-    os.makedirs("data/raw", exist_ok=True)
-    with open("data/raw/meetup_events.json", "w", encoding="utf-8") as f:
-        json.dump(valid_events, f, ensure_ascii=False, indent=2)
-    with open("data/raw/meetup_needs_review.json", "w", encoding="utf-8") as f:
-        json.dump(needs_review, f, ensure_ascii=False, indent=2)
-    print("Guardado en data/raw/meetup_events.json y meetup_needs_review.json")
+    return list(found.values())

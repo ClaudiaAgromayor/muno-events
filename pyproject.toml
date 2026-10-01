@@ -1,7 +1,7 @@
 [project]
 name = "eventos-tech-madrid"
 version = "0.1.0"
-description = "Add your description here"
+description = "Scrapers de eventos tech de muno (Luma, Meetup, Eventbrite) -> Supabase"
 readme = "README.md"
 authors = [
     { name = "ClaudiaAgromayor", email = "202102295@alu.comillas.edu" }
@@ -10,11 +10,10 @@ requires-python = ">=3.13"
 dependencies = [
     "beautifulsoup4>=4.15.0",
     "httpx>=0.28.1",
-    "pydantic>=2.13.5",
 ]
 
 [project.scripts]
-eventos-tech-madrid = "eventos_tech_madrid:main"
+muno-scrape = "eventos_tech_madrid.pipeline.run:main"
 
 [build-system]
 requires = ["uv_build>=0.12.10,<0.13.0"]

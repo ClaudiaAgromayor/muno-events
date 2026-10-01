@@ -1,185 +1,157 @@
-import httpx
-import json
-from bs4 import BeautifulSoup
-import os
+"""Luma: usa la API interna de la web (api2.luma.com), pública y paginada.
+
+La API oficial de Luma exige Luma Plus; esta es la misma que usa luma.com/discover en el
+navegador, sin login. Da directamente `registration_availability` ("open" / "waitlist" /
+...) y `ticket_info` (agotado, plazas restantes, casi lleno), así que el estado de plazas
+sale de la propia plataforma, no de adivinar.
+"""
+
+from __future__ import annotations
+
 import time
 
+import httpx
 
-def _parse_next_data(html: str) -> dict:
-    soup = BeautifulSoup(html, "html.parser")
-    script = soup.find("script", id="__NEXT_DATA__")
-    return json.loads(script.string)
+from eventos_tech_madrid.common import compute_status, distance_km, event, request
+from eventos_tech_madrid.sources import CITY, LUMA_CALENDARS, LUMA_DISCOVER_SLUGS
 
-
-def _extract_event_items(next_data: dict) -> list[dict]:
-    initial = next_data["props"]["pageProps"]["initialData"]
-    kind = initial.get("kind")
-    data = initial["data"]
-
-    if kind == "discover-place":
-        return data.get("events", [])
-    elif kind == "calendar":
-        return data.get("upcoming", {}).get("entries", [])
-    else:
-        raise ValueError(f"Tipo de página Luma no soportado: {kind}")
+API = "https://api2.luma.com"
 
 
-def _map_item(item: dict, source_slug: str) -> dict:
-    ev = item["event"]
-    return {
-        "source": "luma",
-        "source_slug": source_slug,
-        "source_id": ev["api_id"],
-        "name": ev["name"],
-        "start_at": ev["start_at"],
-        "end_at": ev.get("end_at"),
-        "timezone": ev.get("timezone"),
-        "url": f"https://lu.ma/{ev['url']}",
-        "city": ev.get("geo_address_info", {}).get("city"),
-        "address": ev.get("geo_address_info", {}).get("address")
-                   or ev.get("geo_address_info", {}).get("sublocality"),
-        "organizer": item.get("calendar", {}).get("name"),
-        "is_free": item.get("ticket_info", {}).get("is_free"),
-        "cover_image": ev.get("cover_url"),
-    }
+def _paginate(c: httpx.Client, path: str, params: dict, max_pages: int = 20) -> list[dict]:
+    entries, cursor = [], None
+    for _ in range(max_pages):
+        p = dict(params, pagination_limit=50)
+        if cursor:
+            p["pagination_cursor"] = cursor
+        data = request(c, "GET", API + path, params=p).json()
+        entries += data.get("entries", [])
+        if not data.get("has_more"):
+            break
+        cursor = data.get("next_cursor")
+    return entries
 
 
-def fetch_luma_source(slug: str) -> list[dict]:
-    url = f"https://lu.ma/{slug}"
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
-    resp = httpx.get(url, headers=headers, follow_redirects=True, timeout=15)
-    resp.raise_for_status()
-
-    next_data = _parse_next_data(resp.text)
-    items = _extract_event_items(next_data)
-    return [_map_item(item, slug) for item in items]
-
-def dedupe_events(events: list[dict]) -> list[dict]:
-    deduped = {}
-    for ev in events:
-        key = ev["source_id"]
-        if key not in deduped:
-            deduped[key] = ev.copy()
-            deduped[key]["found_in"] = [ev["source_slug"]]
-        else:
-            deduped[key]["found_in"].append(ev["source_slug"])
-    return list(deduped.values())
-
-def _extract_text_from_doc(node) -> str:
-    """Convierte el árbol ProseMirror de description_mirror en texto plano."""
+def _doc_to_text(node) -> str:
+    """description_mirror es un árbol ProseMirror -> texto plano."""
     if not isinstance(node, dict):
         return ""
     if node.get("type") == "text":
         return node.get("text", "")
-    children = node.get("content", [])
-    text = "".join(_extract_text_from_doc(child) for child in children)
-    if node.get("type") in {"paragraph", "heading", "list_item"}:
+    text = "".join(_doc_to_text(ch) for ch in node.get("content", []))
+    if node.get("type") in {"paragraph", "heading", "list_item", "hard_break"}:
         text += "\n"
     return text
 
 
-def fetch_luma_event_detail(url_slug: str) -> dict:
-    """Trae descripción, categorías y aforo de la página individual de un evento."""
-    url = f"https://lu.ma/{url_slug}"
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
-    resp = httpx.get(url, headers=headers, follow_redirects=True, timeout=15)
-    resp.raise_for_status()
-
-    next_data = _parse_next_data(resp.text)
-    data = next_data["props"]["pageProps"]["initialData"]["data"]
-
-    description = _extract_text_from_doc(data.get("description_mirror") or {}).strip()
-    categories = [c.get("name") for c in (data.get("categories") or [])]
-    coordinate = (data.get("event") or {}).get("coordinate") or {}
-    ticket_types = data.get("ticket_types") or []
-    # No todos los eventos tienen fecha limite de inscripcion fija (verificado con datos
-    # reales: unos la traen, otros dan null porque solo se cierran al llenarse el aforo).
-    registration_deadline = ticket_types[0].get("valid_end_at") if ticket_types else None
-
-    return {
-        "description": description,
-        "categories": categories,
-        "guest_count": data.get("guest_count"),
-        "sold_out": data.get("sold_out"),
-        "waitlist_active": data.get("waitlist_active"),
-        "registration_deadline": registration_deadline,
-        "lat": coordinate.get("latitude"),
-        "lng": coordinate.get("longitude"),
-    }
+def _status(entry: dict) -> str:
+    ev = entry["event"]
+    ti = entry.get("ticket_info") or {}
+    avail = entry.get("registration_availability")
+    waitlist_open = bool(entry.get("waitlist_active")) or ev.get("waitlist_status") == "active"
+    if avail == "waitlist":
+        return "waitlist"
+    return compute_status(
+        cancelled=avail == "cancelled",
+        closed=avail in ("closed", "ended", "not_open"),
+        sold_out=bool(ti.get("is_sold_out")) or avail == "sold_out",
+        waitlist_open=waitlist_open,
+        spots_left=ti.get("spots_remaining"),
+        capacity=None,
+        near_capacity=bool(ti.get("is_near_capacity")),
+    )
 
 
-def enrich_with_details(events: list[dict]) -> list[dict]:
+def _to_event(entry: dict, trusted: bool) -> dict | None:
+    ev = entry["event"]
+    geo = ev.get("geo_address_info") or {}
+    coord = ev.get("coordinate") or geo.get("place_coordinate") or {}
+    lat, lng = coord.get("latitude"), coord.get("longitude")
+    is_online = ev.get("location_type") == "online"
+    city = (geo.get("city") or "").lower()
+
+    if not is_online:
+        near = lat is not None and distance_km(lat, lng, CITY["lat"], CITY["lng"]) <= CITY["radius_km"]
+        if not near and CITY["slug"] not in city:
+            return None  # evento físico en otra ciudad (p. ej. calendarios globales)
+    elif not trusted:
+        return None  # online de búsquedas genéricas: no es "de Madrid"
+
+    ti = entry.get("ticket_info") or {}
+    cal = entry.get("calendar") or {}
+    localized = (geo.get("localized") or {}).get("es") or {}
+    return event(
+        source="luma",
+        source_id=ev["api_id"],
+        title=ev["name"],
+        start_at=ev["start_at"],
+        end_at=ev.get("end_at"),
+        url=f"https://luma.com/{ev['url']}",
+        trusted=trusted,
+        image_url=ev.get("cover_url"),
+        organizer=cal.get("name") or ", ".join(h.get("name", "") for h in (entry.get("hosts") or [])[:2]) or None,
+        organizer_url=f"https://luma.com/{cal['slug']}" if cal.get("slug") else None,
+        is_online=is_online,
+        venue_name=geo.get("address"),
+        address=localized.get("full_address") or geo.get("full_address") or geo.get("short_address"),
+        lat=lat,
+        lng=lng,
+        is_free=ti.get("is_free"),
+        price_min=(ti.get("price") or {}).get("cents", 0) / 100 if isinstance(ti.get("price"), dict) else None,
+        status=_status(entry),
+        going_count=entry.get("guest_count"),
+        _luma_url_slug=ev["url"],
+    )
+
+
+def _add_details(c: httpx.Client, events: list[dict]) -> None:
+    """Descripción y categorías vienen solo en el detalle de cada evento."""
     for ev in events:
-        slug = ev["url"].rstrip("/").split("/")[-1]
         try:
-            detail = fetch_luma_event_detail(slug)
-            ev.update(detail)
-        except Exception as e:
-            print(f"  no se pudo enriquecer '{ev['name']}': {e}")
-        time.sleep(0.3)  # pausa corta entre peticiones, por educación con el servidor
+            d = request(c, "GET", API + "/event/get", params={"event_api_id": ev["source_id"]}).json()
+            ev["description"] = _doc_to_text(d.get("description_mirror") or {}).strip()[:5000] or None
+            ev["_hints"] = " ".join(cat.get("name", "") for cat in d.get("categories") or [])
+        except Exception as e:  # noqa: BLE001 — un detalle que falla no tumba el resto
+            print(f"    luma detalle falló para {ev['title'][:40]}: {e}")
+        time.sleep(0.25)
+
+
+def scrape(c: httpx.Client) -> list[dict]:
+    found: dict[str, dict] = {}
+
+    for slug in LUMA_DISCOVER_SLUGS:
+        entries = _paginate(
+            c, "/discover/get-paginated-events",
+            {"latitude": CITY["lat"], "longitude": CITY["lng"], "slug": slug},
+        )
+        print(f"  luma discover/{slug}: {len(entries)}")
+        for e in entries:
+            ev = _to_event(e, trusted=False)
+            if ev:
+                found.setdefault(ev["id"], ev)
+
+    for cal_slug in LUMA_CALENDARS:
+        try:
+            info = request(c, "GET", API + "/url", params={"url": cal_slug}).json()
+            data = info.get("data") or {}
+            if info.get("kind") == "discover-place":
+                pid = data["place"]["api_id"]
+                entries = _paginate(c, "/discover/get-paginated-events", {"discover_place_api_id": pid})
+                trusted = False  # "luma.com/madrid" es de todo, no solo tech
+            else:
+                cal_id = data["calendar"]["api_id"]
+                entries = _paginate(c, "/calendar/get-items", {"calendar_api_id": cal_id, "period": "future"})
+                trusted = True
+            print(f"  luma calendario {cal_slug}: {len(entries)}")
+            for e in entries:
+                ev = _to_event(e, trusted=trusted)
+                if ev:
+                    if trusted and ev["id"] in found:
+                        found[ev["id"]]["_trusted"] = True
+                    found.setdefault(ev["id"], ev)
+        except Exception as e:  # noqa: BLE001
+            print(f"  luma calendario {cal_slug}: ERROR {e}")
+
+    events = list(found.values())
+    _add_details(c, events)
     return events
-
-TECH_CATEGORIES = {"AI", "Tech"}
-
-
-def filter_madrid_tech(events: list[dict]) -> tuple[list[dict], list[dict]]:
-    """Devuelve (eventos_validos, eventos_para_revisar_a_mano)."""
-    madrid_events = [e for e in events if "madrid" in (e.get("city") or "").lower()]
-
-    valid = []
-    needs_review = []
-    for ev in madrid_events:
-        cats = set(ev.get("categories") or [])
-        if cats & TECH_CATEGORIES:
-            valid.append(ev)
-        elif not cats:
-            needs_review.append(ev)
-        # si tiene categorías pero ninguna es tech (ej. Fitness), se descarta sin más
-
-    return valid, needs_review
-
-if __name__ == "__main__":
-    sources = [
-        "madrid",
-        "madai",
-        "claudecommunity",
-        "aimadrid",
-        "madrid-tech-brunch",
-        "helmcode",
-    ]
-
-    all_events = []
-    any_errors = False
-    for slug in sources:
-        try:
-            events = fetch_luma_source(slug)
-            print(f"{slug}: {len(events)} eventos")
-            all_events.extend(events)
-        except Exception as e:
-            print(f"{slug}: ERROR ({e})")
-            any_errors = True
-
-    if not all_events and any_errors:
-        # todas las fuentes fallaron a la vez: mejor no tocar los archivos del dia
-        # anterior que sobrescribirlos con listas vacias (mismo caso que ya se dio en
-        # Eventbrite con GitHub Actions bloqueado por IP).
-        print("\nTodas las fuentes fallaron y no hay eventos — no se sobrescribe data/raw/luma_events.json")
-        raise SystemExit(0)
-
-    print(f"\nTotal antes de deduplicar: {len(all_events)}")
-    unique_events = dedupe_events(all_events)
-    print(f"Total después de deduplicar: {len(unique_events)}")
-
-    print("\nEnriqueciendo con descripción y categorías (tarda ~1 seg por evento)...")
-    unique_events = enrich_with_details(unique_events)
-
-    valid_events, needs_review = filter_madrid_tech(unique_events)
-    print(f"\nEventos válidos (Madrid + tech): {len(valid_events)}")
-    print(f"Para revisión manual (Madrid, sin categoría): {len(needs_review)}")
-
-    os.makedirs("data/raw", exist_ok=True)
-    with open("data/raw/luma_events.json", "w", encoding="utf-8") as f:
-        json.dump(valid_events, f, ensure_ascii=False, indent=2)
-    with open("data/raw/luma_needs_review.json", "w", encoding="utf-8") as f:
-        json.dump(needs_review, f, ensure_ascii=False, indent=2)
-    print("Guardado en data/raw/luma_events.json y data/raw/luma_needs_review.json")

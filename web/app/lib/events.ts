@@ -1,213 +1,191 @@
-export type EventSource = "luma" | "meetup" | "eventbrite" | "manual";
+// Tipos y utilidades de eventos compartidos por servidor y cliente.
 
-export type EventExtra = {
-  categories?: string[];
-  is_free?: boolean;
-  guest_count?: number;
-  sold_out?: boolean;
-  waitlist_active?: boolean;
-  registration_deadline?: string | null;
-  attendees?: number;
-  max_tickets?: number;
-  spots_left?: number | null;
-  attendance_mode?: string;
-};
+export type EventStatus = "open" | "few_left" | "waitlist" | "sold_out" | "closed" | "cancelled" | "unknown";
+export type EventKind = "meetup" | "conferencia" | "hackathon" | "networking" | "workshop" | "charla" | "otro";
+export type EventSource = "luma" | "meetup" | "eventbrite" | "user" | "web";
 
 export type MunoEvent = {
   id: string;
+  city: string;
   source: EventSource;
-  source_id: string;
-  name: string;
-  description: string | null;
-  start_at: string | null;
-  end_at: string | null;
   url: string | null;
-  city: string | null;
-  address: string | null;
+  also_on: { source: EventSource; url: string }[];
+  title: string;
+  description: string | null;
+  image_url: string | null;
   organizer: string | null;
+  organizer_url: string | null;
+  kind: EventKind;
+  topics: string[];
+  start_at: string;
+  end_at: string | null;
+  is_online: boolean;
+  venue_name: string | null;
+  address: string | null;
   lat: number | null;
   lng: number | null;
-  extra: EventExtra;
-  found_on_platforms: EventSource[];
-  duplicate_ids: string[];
+  is_free: boolean | null;
+  price_min: number | null;
+  currency: string | null;
+  status: EventStatus;
+  capacity: number | null;
+  going_count: number | null;
+  waitlist_count: number | null;
+  language: string | null;
+  featured: boolean;
+  last_seen_at: string;
 };
 
-const SOURCE_LABELS: Record<EventSource, string> = {
+// Columnas que pide la lista (sin la descripción larga, para que la página pese poco)
+export const LIST_COLUMNS =
+  "id,city,source,url,also_on,title,image_url,organizer,kind,topics,start_at,end_at,is_online,venue_name,address,lat,lng,is_free,price_min,currency,status,capacity,going_count,waitlist_count,language,featured,last_seen_at";
+
+export const KINDS: { id: EventKind; label: string; emoji: string }[] = [
+  { id: "meetup", label: "Meetups", emoji: "🍕" },
+  { id: "conferencia", label: "Conferencias", emoji: "🎤" },
+  { id: "hackathon", label: "Hackathons", emoji: "⚡" },
+  { id: "networking", label: "Networking", emoji: "🥂" },
+  { id: "workshop", label: "Workshops", emoji: "🛠️" },
+  { id: "charla", label: "Charlas", emoji: "💬" },
+];
+
+export const TOPICS: Record<string, string> = {
+  ia: "IA",
+  "ml-data": "ML & Data",
+  dev: "Desarrollo",
+  "cloud-devops": "Cloud & DevOps",
+  startups: "Startups",
+  "producto-ux": "Producto & UX",
+  web3: "Web3",
+  ciberseguridad: "Ciberseguridad",
+  hardware: "Hardware & Quantum",
+};
+
+export function kindInfo(kind: EventKind) {
+  return KINDS.find((k) => k.id === kind) ?? { id: "otro", label: "Evento", emoji: "✨" };
+}
+
+export const STATUS_INFO: Record<EventStatus, { label: string; tone: "ok" | "warn" | "bad" | "muted" } | null> = {
+  open: { label: "Plazas libres", tone: "ok" },
+  few_left: { label: "Últimas plazas", tone: "warn" },
+  waitlist: { label: "Lista de espera", tone: "warn" },
+  sold_out: { label: "Agotado", tone: "bad" },
+  closed: { label: "Inscripción cerrada", tone: "bad" },
+  cancelled: { label: "Cancelado", tone: "bad" },
+  unknown: null,
+};
+
+/** ¿Puedes todavía conseguir sitio (aunque sea en lista de espera)? */
+export function canJoin(status: EventStatus) {
+  return status === "open" || status === "few_left" || status === "waitlist" || status === "unknown";
+}
+
+export const SOURCE_LABEL: Record<EventSource, string> = {
   luma: "Luma",
   meetup: "Meetup",
   eventbrite: "Eventbrite",
-  manual: "Envío manual",
+  user: "la web del evento",
+  web: "la web del evento",
 };
 
-export function sourceLabel(source: EventSource): string {
-  return SOURCE_LABELS[source];
-}
-
-export function spotsLabel(event: MunoEvent): string | null {
-  const { source, extra } = event;
-
-  if (source === "luma") {
-    // sold_out=true no siempre significa que hay lista de espera -- Luma deja cerrar
-    // la inscripcion del todo (waitlist_active=false), y ahi no tiene sentido decir
-    // "lista de espera" porque no hay ninguna a la que apuntarse (verificado con datos
-    // reales: Claude Community Madrid Launch Meetup tenia sold_out=true y
-    // waitlist_active=false a la vez).
-    if (extra.sold_out && extra.waitlist_active) return "Lista de espera";
-    if (extra.sold_out && !extra.waitlist_active) return "Inscripción cerrada";
-    if (extra.is_free === true || extra.is_free === false) return "Plazas abiertas";
-    return null;
+export function priceLabel(e: Pick<MunoEvent, "is_free" | "price_min" | "currency">): string | null {
+  if (e.is_free) return "Gratis";
+  if (e.price_min != null && e.price_min > 0) {
+    const n = Number.isInteger(e.price_min) ? e.price_min : e.price_min.toFixed(2);
+    return `Desde ${n} ${e.currency === "USD" ? "$" : "€"}`;
   }
-
-  if (source === "meetup") {
-    const spotsLeft = extra.spots_left;
-    if (spotsLeft === null || spotsLeft === undefined) return null;
-    if (spotsLeft <= 0) return "Sin plazas";
-    return `Quedan ${spotsLeft} plazas`;
-  }
-
   return null;
 }
 
-export function spotsUrgent(event: MunoEvent): boolean {
-  const label = spotsLabel(event);
-  return label === "Lista de espera" || label === "Sin plazas" || label === "Inscripción cerrada";
+// ---------- Fechas (siempre en hora de Madrid, se renderice donde se renderice) ----------
+
+const TZ = "Europe/Madrid";
+
+function parts(iso: string) {
+  const d = new Date(iso);
+  const p = new Intl.DateTimeFormat("es-ES", {
+    timeZone: TZ,
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+    weekday: "short",
+    hour12: false,
+  }).formatToParts(d);
+  const get = (t: string) => p.find((x) => x.type === t)?.value ?? "";
+  return {
+    year: Number(get("year")),
+    month: Number(get("month")),
+    day: Number(get("day")),
+    time: `${get("hour")}:${get("minute")}`,
+    weekday: get("weekday").replace(".", ""),
+  };
 }
 
-const WEEKDAYS = ["Dom", "Lun", "Mar", "Mié", "Jue", "Vie", "Sáb"];
-const MONTHS = ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"];
+const MONTHS = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sept", "oct", "nov", "dic"];
+const WEEKDAYS_LONG = ["domingo", "lunes", "martes", "miércoles", "jueves", "viernes", "sábado"];
 
-export type EventDateParts = {
-  year: number;
-  month: number;
-  day: number;
-  weekday: string;
-  monthLabel: string;
-  /** "HH:MM" en hora de Madrid, o null si la fuente no da hora (p. ej. Eventbrite) */
-  time: string | null;
-};
-
-/**
- * Las 4 fuentes representan start_at de forma distinta:
- * - Luma: ISO en UTC con "Z" (ej. "...T16:00:00.000Z") -> hay que convertir a hora de Madrid,
- *   si no, un evento de las 18:00 en Madrid se mostraria como si fuera a las 16:00.
- * - Meetup: ISO con offset explicito (ej. "+02:00") -> tambien se convierte, sin sorpresas.
- * - Eventbrite: solo fecha, sin hora (ej. "2026-10-01") -> no hay hora que mostrar, y no se
- *   inventa una pasando la fecha por un Date (eso la interpretaria como medianoche UTC y
- *   mostraria una hora falsa al convertir a Madrid).
- * - Envios manuales: fecha y hora sin zona (ej. "...T10:00:00") -> ya es hora de Madrid tal
- *   cual la escribio quien mando el evento, se usa literal sin pasar por conversion de zona.
- */
-export function formatEventDate(startAt: string): EventDateParts {
-  const hasExplicitTz = /Z$|[+-]\d{2}:\d{2}$/.test(startAt);
-  const match = startAt.match(/^(\d{4})-(\d{2})-(\d{2})(?:T(\d{2}):(\d{2}))?/);
-
-  if (!match) {
-    return { year: 0, month: 0, day: 0, weekday: "", monthLabel: "", time: null };
-  }
-
-  const [, yStr, moStr, dStr, hStr, minStr] = match;
-  let year = Number(yStr);
-  let month = Number(moStr);
-  let day = Number(dStr);
-  let time: string | null = hStr ? `${hStr}:${minStr}` : null;
-
-  if (hasExplicitTz) {
-    const date = new Date(startAt);
-    const parts = new Intl.DateTimeFormat("es-ES", {
-      timeZone: "Europe/Madrid",
-      year: "numeric",
-      month: "2-digit",
-      day: "2-digit",
-      hour: "2-digit",
-      minute: "2-digit",
-      hour12: false,
-    }).formatToParts(date);
-    const get = (type: string) => parts.find((p) => p.type === type)?.value ?? "0";
-    year = Number(get("year"));
-    month = Number(get("month"));
-    day = Number(get("day"));
-    time = `${get("hour")}:${get("minute")}`;
-  }
-
-  const weekdayIndex = new Date(Date.UTC(year, month - 1, day)).getUTCDay();
-
-  return { year, month, day, weekday: WEEKDAYS[weekdayIndex], monthLabel: MONTHS[month - 1], time };
+/** Clave de día "YYYY-MM-DD" en hora de Madrid. */
+export function dayKey(iso: string) {
+  const p = parts(iso);
+  return `${p.year}-${String(p.month).padStart(2, "0")}-${String(p.day).padStart(2, "0")}`;
 }
 
-/**
- * Algunos eventos de Luma traen una fecha limite de inscripcion fija (separada de si
- * hay plazas o no); muchos otros no la tienen (solo cierran al llenarse el aforo, sin
- * fecha programada). Solo se muestra cuando existe y todavia no ha pasado.
- */
-export function registrationDeadlineLabel(event: MunoEvent): string | null {
-  const deadline = event.extra.registration_deadline;
-  if (!deadline) return null;
-  const date = new Date(deadline);
-  if (date.getTime() <= Date.now()) return null;
-  const d = formatEventDate(deadline);
-  return `Apúntate antes del ${d.day} ${d.monthLabel}`;
+export function timeLabel(iso: string) {
+  return parts(iso).time;
 }
 
-/**
- * Selecciona un punado de eventos para destacar en portada: los de los proximos `days`
- * dias, ordenados por senales de interes ya presentes en los datos (guest_count de Luma,
- * attendees de Meetup) y, si no hay ninguna, por cercania de fecha. No es una newsletter
- * ni pide datos nuevos -- solo resalta lo que ya tenemos, para dar un motivo de visitar
- * la portada sin tener que desplazarse por toda la agenda.
- */
-export function getFeaturedEvents(events: MunoEvent[], limit = 4, days = 7, now: Date = new Date()): MunoEvent[] {
-  const nowMs = now.getTime();
-  const cutoffMs = nowMs + days * 86400000;
-
-  const upcoming = events.filter((event) => {
-    if (!event.start_at) return false;
-    const t = new Date(event.start_at).getTime();
-    return !Number.isNaN(t) && t >= nowMs && t <= cutoffMs;
-  });
-
-  const popularity = (event: MunoEvent) => Math.max(event.extra.attendees ?? 0, event.extra.guest_count ?? 0);
-
-  return [...upcoming]
-    .sort((a, b) => {
-      const byPopularity = popularity(b) - popularity(a);
-      if (byPopularity !== 0) return byPopularity;
-      return new Date(a.start_at!).getTime() - new Date(b.start_at!).getTime();
-    })
-    .slice(0, limit);
+export function shortDate(iso: string) {
+  const p = parts(iso);
+  return { day: p.day, month: MONTHS[p.month - 1], weekday: p.weekday, time: p.time };
 }
 
-export type EventGroup = { label: string; events: MunoEvent[] };
+/** "Hoy", "Mañana", "jueves 2 oct" — para cabeceras de día. */
+export function dayLabel(key: string, now = new Date()) {
+  const today = dayKey(now.toISOString());
+  const tomorrow = dayKey(new Date(now.getTime() + 86400000).toISOString());
+  const [y, m, d] = key.split("-").map(Number);
+  const wd = WEEKDAYS_LONG[new Date(Date.UTC(y, m - 1, d)).getUTCDay()];
+  if (key === today) return { main: "Hoy", sub: wd };
+  if (key === tomorrow) return { main: "Mañana", sub: wd };
+  return { main: `${d} ${MONTHS[m - 1]}`, sub: wd };
+}
 
-/**
- * Agrupa los eventos por dia natural (no por semana): cada fecha con eventos
- * se convierte en una seccion, con "Hoy"/"Manana" para las dos mas cercanas y
- * "Mie 16 Sep" para el resto. Evita la lista plana de 66 filas seguidas.
- */
-export function groupEventsByDay(events: MunoEvent[], now: Date = new Date()): EventGroup[] {
-  const today = formatEventDate(now.toISOString());
-  const todayUTC = Date.UTC(today.year, today.month - 1, today.day);
+export function longDate(iso: string) {
+  const p = parts(iso);
+  const wd = WEEKDAYS_LONG[new Date(Date.UTC(p.year, p.month - 1, p.day)).getUTCDay()];
+  return `${wd.charAt(0).toUpperCase() + wd.slice(1)}, ${p.day} de ${MONTHS[p.month - 1]}`;
+}
 
-  const order: number[] = [];
-  const buckets = new Map<number, { parts: EventDateParts; events: MunoEvent[] }>();
+export function isPast(e: Pick<MunoEvent, "start_at" | "end_at">, now = new Date()) {
+  return new Date(e.end_at ?? e.start_at).getTime() < now.getTime();
+}
 
-  for (const event of events) {
-    if (!event.start_at) continue;
-    const parts = formatEventDate(event.start_at);
-    const dayUTC = Date.UTC(parts.year, parts.month - 1, parts.day);
-    if (!buckets.has(dayUTC)) {
-      buckets.set(dayUTC, { parts, events: [] });
-      order.push(dayUTC);
-    }
-    buckets.get(dayUTC)!.events.push(event);
-  }
+export function eventPath(id: string) {
+  return `/e/${encodeURIComponent(id)}`;
+}
 
-  order.sort((a, b) => a - b);
+/** Copia del evento que se guarda con cada "voy" (para Mis planes aunque el evento cambie). */
+export function rsvpSnapshot(e: Pick<MunoEvent, "id" | "title" | "start_at" | "address" | "venue_name" | "url">) {
+  return {
+    event_id: e.id,
+    event_name: e.title,
+    event_start_at: e.start_at,
+    event_address: e.venue_name ?? e.address,
+    event_url: e.url,
+  };
+}
 
-  return order.map((dayUTC) => {
-    const { parts, events: dayEvents } = buckets.get(dayUTC)!;
-    const diffDays = Math.round((dayUTC - todayUTC) / 86400000);
-    const label =
-      diffDays === 0 ? "Hoy" : diffDays === 1 ? "Mañana" : `${parts.weekday} ${parts.day} ${parts.monthLabel}`;
-    return { label, events: dayEvents };
-  });
+/** Las descripciones de Meetup vienen en markdown: lo pasamos a texto limpio legible. */
+export function plainText(md: string) {
+  return md
+    .replace(/!\[[^\]]*\]\([^)]*\)/g, "") // imágenes
+    .replace(/\[([^\]]+)\]\((https?:[^)]+)\)/g, "$1 ($2)") // links
+    .replace(/^#{1,6}\s*/gm, "") // títulos
+    .replace(/(\*\*|__)(.+?)\1/g, "$2") // negrita
+    .replace(/^\s*[-*]\s+/gm, "• ") // listas
+    .replace(/\\([*_#[\]()-])/g, "$1") // escapes
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
 }

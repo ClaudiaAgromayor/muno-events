@@ -25,11 +25,11 @@ import httpx
 
 from eventos_tech_madrid.common import client
 from eventos_tech_madrid.pipeline.classify import classify
-from eventos_tech_madrid.scrapers import eventbrite, forms, luma, meetup
+from eventos_tech_madrid.scrapers import eventbrite, luma, meetup
 from eventos_tech_madrid.sources import CITY
 
-SCRAPERS = {"luma": luma.scrape, "meetup": meetup.scrape, "eventbrite": eventbrite.scrape, "form": forms.scrape}
-PRIORITY = {"luma": 0, "meetup": 1, "eventbrite": 2, "user": 3}  # cuál manda si hay duplicados
+SCRAPERS = {"luma": luma.scrape, "meetup": meetup.scrape, "eventbrite": eventbrite.scrape}
+PRIORITY = {"luma": 0, "meetup": 1, "eventbrite": 2}  # cuál manda si hay duplicados
 
 COLUMNS = {
     "id", "city", "source", "source_id", "url", "also_on", "title", "description", "image_url",

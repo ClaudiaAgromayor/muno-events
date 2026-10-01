@@ -27,6 +27,10 @@ _TECH = [
     (r"robot|drones?|hardware|iot|quantum|cu[aá]ntic", 0.8),
     (r"product manag|product owner|\bux\b|\bui\b|dise[ñn]o de producto|no-?code|low-?code", 0.6),
     (r"ingenier|engineer", 0.6),
+    # Marcas y eventos del ecosistema que no dicen "tech" en el título
+    (r"hack the box|\bctf\b|merge madrid|south summit|4yfn|web summit|digital enterprise show|"
+     r"tech show|bit2me|girls leading tech|glth|pitchless|ai tinkerers|gdg|google developer|"
+     r"aws (summit|community|user group)|microsoft reactor|campus madrid|startup grind", 1),
 ]
 
 # Señales de que NO es para nuestro público aunque mencione "digital", "IA" de pasada...

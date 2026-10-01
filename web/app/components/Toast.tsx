@@ -2,66 +2,42 @@
 
 import { createContext, useCallback, useContext, useMemo, useState } from "react";
 
-type ToastKind = "success" | "error";
-type ToastItem = { id: number; kind: ToastKind; message: string };
+type Toast = { id: number; kind: "success" | "error"; text: string };
+type ToastApi = { success: (t: string) => void; error: (t: string) => void };
 
-type ToastContextValue = {
-  success: (message: string) => void;
-  error: (message: string) => void;
-};
-
-const ToastContext = createContext<ToastContextValue | null>(null);
-
-export function useToast(): ToastContextValue {
-  const ctx = useContext(ToastContext);
-  if (!ctx) throw new Error("useToast debe usarse dentro de <ToastProvider>");
-  return ctx;
-}
-
-let nextId = 0;
+const ToastContext = createContext<ToastApi | null>(null);
 
 export function ToastProvider({ children }: { children: React.ReactNode }) {
-  const [items, setItems] = useState<ToastItem[]>([]);
-
-  const dismiss = useCallback((id: number) => {
-    setItems((prev) => prev.filter((t) => t.id !== id));
+  const [toasts, setToasts] = useState<Toast[]>([]);
+  const push = useCallback((kind: Toast["kind"], text: string) => {
+    const id = Date.now() + Math.random();
+    setToasts((t) => [...t, { id, kind, text }]);
+    setTimeout(() => setToasts((t) => t.filter((x) => x.id !== id)), kind === "error" ? 6000 : 3000);
   }, []);
-
-  const push = useCallback(
-    (kind: ToastKind, message: string) => {
-      const id = nextId++;
-      setItems((prev) => [...prev, { id, kind, message }]);
-      setTimeout(() => dismiss(id), kind === "error" ? 6000 : 4000);
-    },
-    [dismiss]
-  );
-
-  const value = useMemo(
-    () => ({
-      success: (message: string) => push("success", message),
-      error: (message: string) => push("error", message),
-    }),
-    [push]
-  );
+  const api = useMemo(() => ({ success: (t: string) => push("success", t), error: (t: string) => push("error", t) }), [push]);
 
   return (
-    <ToastContext.Provider value={value}>
+    <ToastContext.Provider value={api}>
       {children}
-      <div className="pointer-events-none fixed inset-x-0 bottom-0 z-50 flex flex-col items-end gap-2 p-4 sm:p-6">
-        {items.map((t) => (
-          <button
+      <div className="pointer-events-none fixed inset-x-0 bottom-20 z-50 flex flex-col items-center gap-2 px-4 sm:bottom-6">
+        {toasts.map((t) => (
+          <div
             key={t.id}
-            onClick={() => dismiss(t.id)}
-            className={`animate-toast-in pointer-events-auto max-w-sm border px-4 py-2.5 text-left text-sm shadow-lg ${
-              t.kind === "error"
-                ? "border-accent bg-background text-accent"
-                : "border-ok bg-foreground text-background"
+            role="status"
+            className={`animate-toast-in pointer-events-auto max-w-sm rounded-2xl px-4 py-2.5 text-sm font-medium shadow-lg ${
+              t.kind === "error" ? "bg-bad text-white" : "bg-foreground text-background"
             }`}
           >
-            {t.message}
-          </button>
+            {t.text}
+          </div>
         ))}
       </div>
     </ToastContext.Provider>
   );
+}
+
+export function useToast() {
+  const ctx = useContext(ToastContext);
+  if (!ctx) throw new Error("useToast fuera de ToastProvider");
+  return ctx;
 }

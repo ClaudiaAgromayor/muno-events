@@ -130,8 +130,8 @@ export default function Discover({ events, updatedAt }: { events: MunoEvent[]; u
           <span className="bg-gradient-to-r from-brand to-coral bg-clip-text text-transparent">Y con quién ir.</span>
         </h1>
         <p className="mt-3 max-w-xl text-muted sm:text-lg">
-          {events.length} planes de tech en Madrid: meetups, hackathons, charlas y networking de IA, data, desarrollo y
-          startups. Todo en un sitio y siempre al día, para que solo tengas que elegir con quién vas.
+          Los planes de tech de Madrid: meetups, hackathons, charlas y networking de IA, data, desarrollo y startups.
+          Todo en un sitio y siempre al día, para que solo tengas que elegir con quién vas.
         </p>
       </section>
 

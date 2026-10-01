@@ -1,59 +1,31 @@
-name: Scrape eventos Madrid tech
+name: Scrape eventos
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */3 * * *"   # cada 3 horas
   workflow_dispatch:
-
-permissions:
-  contents: write
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+      SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - run: uv sync
 
-      - name: Instalar uv
-        uses: astral-sh/setup-uv@v3
+      # Si una fuente falla del todo, el paso falla y GitHub te avisa por email.
+      # Las demás fuentes se guardan igualmente antes de fallar.
+      - name: Scrapear Luma + Meetup + Eventbrite y guardar en Supabase
+        run: uv run muno-scrape
 
-      - name: Instalar dependencias
-        run: uv sync
-
-      - name: Scraper de Luma
-        run: uv run python src/eventos_tech_madrid/scrapers/luma.py
-        continue-on-error: true
-
-      - name: Scraper de Meetup
-        run: uv run python src/eventos_tech_madrid/scrapers/meetup.py
-        continue-on-error: true
-
-      - name: Scraper de Eventbrite
-        run: uv run python src/eventos_tech_madrid/scrapers/eventbrite.py
-        continue-on-error: true
-
-      - name: Envios manuales (Google Form)
-        run: uv run python src/eventos_tech_madrid/scrapers/manual.py
-        continue-on-error: true
-
-      - name: Geocodificar direcciones de Meetup (Nominatim)
-        run: uv run python src/eventos_tech_madrid/pipeline/geocode.py
-        continue-on-error: true
-
-      - name: Unificar y deduplicar
-        run: uv run python src/eventos_tech_madrid/pipeline/unify.py
-
-      - name: Enriquecer con LLM (nivel, idioma, comida, grabacion)
-        run: uv run python src/eventos_tech_madrid/pipeline/enrich.py
-        env:
-          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-        continue-on-error: true
-
-      - name: Guardar cambios en el repo
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
-          git diff --staged --quiet || git commit -m "Actualizar datos de eventos [automatico]"
-          git push
+      - name: Guardar copia del resultado (para depurar)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: latest-events
+          path: data/latest.json
+          retention-days: 7

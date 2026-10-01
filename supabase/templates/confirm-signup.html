@@ -1,0 +1,48 @@
+<!-- Supabase → Authentication → Emails → Templates → "Confirm signup"
+     Asunto: Entra en muno 🎟️ -->
+<!doctype html>
+<html lang="es">
+  <body style="margin:0;padding:0;background:#f6f4ef;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f6f4ef;padding:32px 16px;">
+      <tr>
+        <td align="center">
+          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:480px;background:#ffffff;border-radius:20px;overflow:hidden;border:1px solid #e7e4ee;">
+            <tr>
+              <td style="background:linear-gradient(135deg,#6d4aff,#ff7a59);background-color:#6d4aff;padding:28px 32px;">
+                <span style="font-size:28px;font-weight:800;letter-spacing:-0.5px;color:#ffffff;">muno<span style="color:#ffd5c8;">.</span></span>
+                <p style="margin:6px 0 0;font-size:14px;color:#efeaff;">Todo el tech de Madrid. Y con quién ir.</p>
+              </td>
+            </tr>
+            <tr>
+              <td style="padding:32px;">
+                <h1 style="margin:0 0 12px;font-size:22px;line-height:1.3;color:#1d1b2b;">¡Te damos la bienvenida a muno! 👋</h1>
+                <p style="margin:0 0 24px;font-size:15px;line-height:1.6;color:#4a4760;">
+                  Pulsa el botón para confirmar tu email y entrar. Desde muno podrás apuntarte a meetups,
+                  hackathons y conferencias de tech en Madrid, ir con tu gente y compartir las fotos después.
+                </p>
+                <table role="presentation" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td style="border-radius:999px;background:#1d1b2b;">
+                      <a href="{{ .ConfirmationURL }}" style="display:inline-block;padding:14px 28px;font-size:15px;font-weight:700;color:#ffffff;text-decoration:none;border-radius:999px;">
+                        Entrar en muno →
+                      </a>
+                    </td>
+                  </tr>
+                </table>
+                <p style="margin:24px 0 0;font-size:13px;line-height:1.6;color:#8a879b;">
+                  Ábrelo en el mismo navegador donde lo pediste. Si no has sido tú, ignora este correo.
+                </p>
+              </td>
+            </tr>
+            <tr>
+              <td style="padding:16px 32px;border-top:1px solid #efedf3;font-size:12px;color:#a19eb0;">
+                muno · eventos de tech, IA y startups en Madrid ·
+                <a href="https://muno-events.vercel.app" style="color:#6d4aff;text-decoration:none;">muno-events.vercel.app</a>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>

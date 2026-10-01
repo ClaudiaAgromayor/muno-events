@@ -121,7 +121,7 @@ export function useSocial(eventIds?: string[]) {
         toast.error(error.message);
         return false;
       }
-      toast.success(status === "going" ? "¡Apuntada en muno! 🎉" : "Guardado en Mis planes");
+      toast.success(status === "going" ? "¡Te has apuntado en muno! 🎉" : "Guardado en Mis planes");
       load();
       return true;
     },

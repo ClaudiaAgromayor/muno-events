@@ -24,7 +24,7 @@ export default function JoinPage({ params }: { params: Promise<{ code: string }>
   const join = async () => {
     const { data, error } = await supabase.rpc("join_group", { p_invite_code: code });
     if (error) return toast.error(error.message);
-    toast.success(`¡Bienvenida a ${name}! 🎉`);
+    toast.success(`¡Ya estás en ${name}! 🎉`);
     router.push(`/comunidades/${data}`);
   };
 

@@ -12,6 +12,9 @@ jobs:
     env:
       SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
       SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+      # Eventbrite bloquea a GitHub: se le pide a través de la web en Vercel
+      EVENTBRITE_PROXY_URL: https://muno-events.vercel.app/api/eventbrite-proxy
+      SCRAPER_PROXY_SECRET: ${{ secrets.SCRAPER_PROXY_SECRET }}
     steps:
       - uses: actions/checkout@v4
       - uses: astral-sh/setup-uv@v6

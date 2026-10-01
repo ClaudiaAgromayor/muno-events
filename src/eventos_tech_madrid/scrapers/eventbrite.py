@@ -13,6 +13,7 @@ también desde otro sitio — ver README.
 from __future__ import annotations
 
 import json
+import os
 import re
 
 import httpx
@@ -21,6 +22,18 @@ from eventos_tech_madrid.common import compute_status, distance_km, event, reque
 from eventos_tech_madrid.sources import CITY, EVENTBRITE_MAX_PAGES, EVENTBRITE_SEARCHES
 
 BASE = "https://www.eventbrite.es"
+
+# Si están definidas, las peticiones pasan por la web de muno en Vercel
+# (web/app/api/eventbrite-proxy), porque Eventbrite bloquea las IPs de GitHub.
+PROXY_URL = os.environ.get("EVENTBRITE_PROXY_URL")
+PROXY_SECRET = os.environ.get("SCRAPER_PROXY_SECRET")
+
+
+def _get(c: httpx.Client, url: str, params: dict) -> httpx.Response:
+    if PROXY_URL and PROXY_SECRET:
+        full = str(httpx.URL(url, params=params))
+        return request(c, "GET", PROXY_URL, params={"url": full}, headers={"x-proxy-secret": PROXY_SECRET})
+    return request(c, "GET", url, params=params)
 
 
 def _server_data(html: str) -> dict:
@@ -32,7 +45,7 @@ def _server_data(html: str) -> dict:
 
 
 def _search_page(c: httpx.Client, path: str, page: int) -> tuple[list[dict], bool]:
-    html = request(c, "GET", f"{BASE}/d/{path}/", params={"page": page}).text
+    html = _get(c, f"{BASE}/d/{path}/", {"page": page}).text
     sd = _server_data(html)
     # Según la versión de la página está en search_data.events o en
     # event_data.active_search.events — se buscan ambas.
@@ -50,9 +63,9 @@ def _availability(c: httpx.Client, ids: list[str]) -> dict[str, dict]:
     out = {}
     for i in range(0, len(ids), 40):
         chunk = ids[i : i + 40]
-        r = request(
-            c, "GET", f"{BASE}/api/v3/destination/events/",
-            params={"event_ids": ",".join(chunk), "expand": "ticket_availability,primary_organizer", "page_size": 50},
+        r = _get(
+            c, f"{BASE}/api/v3/destination/events/",
+            {"event_ids": ",".join(chunk), "expand": "ticket_availability,primary_organizer", "page_size": 50},
         )
         for e in r.json().get("events", []):
             out[e["id"]] = e

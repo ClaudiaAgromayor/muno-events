@@ -65,9 +65,9 @@ export default function PrivacidadPage() {
 
       <h2>Borrar tu cuenta</h2>
       <p>
-        Puedes pedir que borremos tu cuenta y todo tu contenido{" "}
-        <a className="text-brand underline" href="https://github.com/ClaudiaAgromayor/muno-events/issues">
-          abriendo una incidencia en GitHub
+        Puedes pedir que borremos tu cuenta y todo tu contenido escribiendo a{" "}
+        <a className="text-brand underline" href="mailto:juanclo898@gmail.com">
+          juanclo898@gmail.com
         </a>
         . Lo haremos en un plazo máximo de 30 días.
       </p>

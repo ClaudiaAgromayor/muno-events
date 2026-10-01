@@ -38,8 +38,8 @@ export default function TerminosPage() {
 
       <h2>Contacto</h2>
       <p>
-        <a className="text-brand underline" href="https://github.com/ClaudiaAgromayor/muno-events/issues">
-          abriendo una incidencia en GitHub
+        <a className="text-brand underline" href="mailto:juanclo898@gmail.com">
+          juanclo898@gmail.com
         </a>
       </p>
     </main>

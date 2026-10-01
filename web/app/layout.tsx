@@ -29,7 +29,15 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <SessionProvider>
           <ToastProvider>
             <TopBar />
-            <div className="pb-24 sm:pb-12">{children}</div>
+            <div className="pb-24 sm:pb-12">
+              {children}
+              <footer className="mx-auto mt-16 flex max-w-6xl flex-wrap gap-x-5 gap-y-1 px-4 text-xs text-muted sm:px-6">
+                <span>muno · eventos tech en Madrid</span>
+                <a href="/privacidad" className="hover:text-foreground">Privacidad</a>
+                <a href="/terminos" className="hover:text-foreground">Condiciones</a>
+                <a href="https://github.com/ClaudiaAgromayor/muno-events" className="hover:text-foreground">GitHub</a>
+              </footer>
+            </div>
             <BottomNav />
           </ToastProvider>
         </SessionProvider>

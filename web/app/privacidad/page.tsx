@@ -16,7 +16,7 @@ export default function PrivacidadPage() {
       <h2>Qué datos guardamos</h2>
       <ul>
         <li>
-          <b>Al entrar</b> con Google, GitHub, LinkedIn o email: tu email, tu nombre y tu foto de perfil, tal como los
+          <b>Al entrar</b> con Google, GitHub o email: tu email, tu nombre y tu foto de perfil, tal como los
           comparte ese proveedor. No recibimos ni guardamos tu contraseña.
         </li>
         <li>

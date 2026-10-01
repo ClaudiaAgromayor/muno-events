@@ -67,8 +67,6 @@ fuentes se guardan igualmente. Cada ejecución queda registrada en la tabla `scr
 3. **Login** (Supabase → Authentication → Sign In / Providers):
    - **Google**: crea un OAuth client en Google Cloud Console. Redirect URI:
      `https://tnqncbjkrvyytfasnagd.supabase.co/auth/v1/callback`.
-   - **LinkedIn (OIDC)**: crea una app en linkedin.com/developers, activa "Sign In with
-     LinkedIn using OpenID Connect" y usa la misma redirect URI.
    - **Email**: ya viene activado (magic link).
    - **GitHub**: ya lo tenías.
    - En URL Configuration, añade `https://muno-events.vercel.app/**` y `http://localhost:3000/**`

@@ -1,26 +1,15 @@
 "use client";
 
 import { Suspense, useState } from "react";
-import { useSearchParams } from "next/navigation";
+import { useRouter, useSearchParams } from "next/navigation";
 import { Mail } from "lucide-react";
 import { useSession } from "@/app/components/Session";
 import { useToast } from "@/app/components/Toast";
+import GoogleButton from "@/app/entrar/GoogleButton";
 
 type Provider = "google" | "github" | "linkedin_oidc";
 
 const PROVIDERS: { id: Provider; label: string; icon: React.ReactNode }[] = [
-  {
-    id: "google",
-    label: "Continuar con Google",
-    icon: (
-      <svg viewBox="0 0 24 24" className="size-5">
-        <path fill="#4285F4" d="M22.6 12.2c0-.8-.1-1.4-.2-2.1H12v4h6c-.1 1-.8 2.5-2.3 3.5v2.9h3.7c2.1-2 3.2-4.9 3.2-8.3z" />
-        <path fill="#34A853" d="M12 23c3 0 5.6-1 7.4-2.7l-3.7-2.9c-1 .7-2.3 1.2-3.7 1.2-2.9 0-5.3-1.9-6.2-4.6H2v3c1.8 3.6 5.6 6 10 6z" />
-        <path fill="#FBBC05" d="M5.8 14c-.2-.7-.4-1.4-.4-2s.1-1.4.4-2V7H2C1.4 8.6 1 10.2 1 12s.4 3.4 1 5l3.8-3z" />
-        <path fill="#EA4335" d="M12 5.4c1.6 0 2.8.7 3.5 1.3l2.6-2.5C16.6 2.8 14.5 2 12 2 7.6 2 3.8 4.4 2 8l3.8 3c.9-2.7 3.3-4.6 6.2-4.6z" />
-      </svg>
-    ),
-  },
   {
     id: "linkedin_oidc",
     label: "Continuar con LinkedIn",
@@ -44,6 +33,7 @@ const PROVIDERS: { id: Provider; label: string; icon: React.ReactNode }[] = [
 function Login() {
   const { supabase, user } = useSession();
   const toast = useToast();
+  const router = useRouter();
   const params = useSearchParams();
   const next = params.get("next") || "/";
   const [email, setEmail] = useState("");
@@ -73,6 +63,7 @@ function Login() {
 
   return (
     <div className="space-y-3">
+      <GoogleButton onDone={() => router.replace(next)} />
       {PROVIDERS.map((p) => (
         <button
           key={p.id}
@@ -83,6 +74,9 @@ function Login() {
           {p.label}
         </button>
       ))}
+      <button onClick={() => oauth("google")} className="block w-full text-center text-xs text-muted hover:text-foreground">
+        ¿No te aparece el botón de Google? Entra con Google por aquí
+      </button>
       <div className="flex items-center gap-3 py-2 text-xs text-muted">
         <span className="h-px flex-1 bg-line" />o con tu email<span className="h-px flex-1 bg-line" />
       </div>

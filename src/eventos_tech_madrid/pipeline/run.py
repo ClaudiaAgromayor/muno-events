@@ -152,14 +152,24 @@ def main() -> int:
     for ev in events:
         ev["city"] = CITY["slug"]
         ev["last_seen_at"] = ev["updated_at"] = started
-        rows.append({k: v for k, v in ev.items() if k in COLUMNS})
+        # Supabase exige que todas las filas de un mismo envío tengan las mismas claves
+        row = {k: ev.get(k) for k in COLUMNS}
+        row["also_on"] = row["also_on"] or []
+        row["topics"] = row["topics"] or []
+        row["is_online"] = bool(row["is_online"])
+        rows.append(row)
 
     os.makedirs(os.path.dirname(args.out), exist_ok=True)
     with open(args.out, "w", encoding="utf-8") as f:
         json.dump(rows, f, ensure_ascii=False, indent=1)
     print(f"Copia local en {args.out}")
 
-    failed = [n for n, s in stats.items() if s["error"]]
+    # Eventbrite bloquea las IPs de GitHub Actions: es un aviso conocido, no un fallo
+    # nuevo, así que no pone el job en rojo (pero queda anotado en el resumen del run).
+    blocked = [n for n, s in stats.items() if s["error"] and "bloquea esta IP" in s["error"]]
+    for n in blocked:
+        print(f"::warning title={n} bloqueado::{stats[n]['error']}")
+    failed = [n for n, s in stats.items() if s["error"] and n not in blocked]
     if not args.dry_run:
         if rows:
             upsert(rows)

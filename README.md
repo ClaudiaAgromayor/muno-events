@@ -1,94 +1,114 @@
-# muno: eventos de tech, IA y startups en Madrid
+# muno: tech, AI and startup events in Madrid
 
 **[muno-events.vercel.app](https://muno-events.vercel.app)**
 
-Todos los meetups, conferencias, hackathons, workshops y eventos de networking de tech en
-Madrid, juntos en un solo sitio. Además tiene una capa social: te apuntas con tu gente, ves
-quién va y después del evento subís las fotos.
+Every tech meetup, conference, hackathon, workshop and networking event in Madrid, in one place.
+On top of that there is a social layer: sign up with your people, see who is going, and share
+photos after the event. (The app itself is in Spanish.)
 
-## Cómo funciona
+## How it works
 
 ```mermaid
 flowchart LR
-    subgraph fuentes["Fuentes (cada 3 h)"]
+    subgraph sources["Sources (every 3 h)"]
         luma["Luma<br/>api2.luma.com"]
         meetup["Meetup<br/>GraphQL gql2"]
-        eb["Eventbrite<br/>__SERVER_DATA__ + destination API"]
+        eb["Eventbrite<br/>__SERVER_DATA__ + destination API<br/>(via a Vercel proxy)"]
     end
-    fuentes --> run["pipeline/run.py<br/>clasifica · deduplica"]
+    sources --> run["pipeline/run.py<br/>classify · dedupe"]
     run -->|upsert| db[(Supabase<br/>public.events)]
-    user["Alguien pega un link<br/>/nuevo"] -->|api/import| db
-    db --> web["Next.js en Vercel<br/>revalida cada 5 min"]
-    web <--> social["Supabase: RSVP, comunidades,<br/>fotos, perfiles, tiempo real"]
+    user["Someone pastes a link<br/>/nuevo"] -->|api/import| db
+    db --> web["Next.js on Vercel<br/>revalidates every 5 min"]
+    web <--> social["Supabase: RSVPs, communities,<br/>photos, profiles, realtime"]
 ```
 
-### Datos (`src/eventos_tech_madrid/`)
+### Data (`src/eventos_tech_madrid/`)
 
-| Archivo | Qué hace |
+| File | What it does |
 |---|---|
-| `sources.py` | **La lista de fuentes.** Para añadir una comunidad de Meetup o un calendario de Luma, añade una línea aquí. |
-| `scrapers/luma.py` | Usa la API interna de luma.com (pública, paginada). Busca por categoría alrededor de Madrid y en los calendarios de las comunidades. |
-| `scrapers/meetup.py` | Usa el GraphQL de meetup.com: búsquedas por palabra clave y unos 60 grupos tech de Madrid. |
-| `scrapers/eventbrite.py` | Lee las páginas de búsqueda y luego pide la disponibilidad de entradas de cada evento. |
-| `pipeline/classify.py` | Decide si un evento es tech, de qué tipo es (meetup, conferencia, hackathon, networking, workshop o charla), sus temas y su idioma. |
-| `pipeline/run.py` | Lo junta todo, deduplica entre plataformas, agrupa las series que se repiten y guarda en Supabase. |
+| `sources.py` | **The list of sources.** To follow a new Meetup group or Luma calendar, add one line here. |
+| `scrapers/luma.py` | Uses luma.com's internal (public, paginated) API. Searches by category around Madrid and reads community calendars. |
+| `scrapers/meetup.py` | Uses meetup.com's GraphQL endpoint: keyword searches plus about 60 Madrid tech groups. |
+| `scrapers/eventbrite.py` | Reads the search result pages, then asks for ticket availability of each event. |
+| `pipeline/classify.py` | Rule-based classifier: is it tech, what kind of event (meetup, conference, hackathon, networking, workshop, talk), its topics and language. |
+| `pipeline/run.py` | Glues everything together: dedupes across platforms, collapses recurring series, upserts into Supabase. |
 
-**Estado de plazas.** Cada plataforma lo cuenta a su manera, así que se traduce a un único
-estado que es lo que ve la gente en la web: `open` (hay plazas), `few_left` (quedan pocas),
-`waitlist` (lista de espera), `sold_out` (agotado), `closed` (inscripción cerrada) o `cancelled`.
+**Availability.** Each platform reports it differently, so it is normalised into a single status
+that is what people see on the site: `open`, `few_left`, `waitlist`, `sold_out`, `closed` or
+`cancelled`.
 
-- Luma: `registration_availability`, `ticket_info.is_sold_out`, `spots_remaining` y `waitlist_status`.
-- Meetup: `maxTickets` frente a apuntados, número de personas en lista de espera y `rsvpsClosed`.
-- Eventbrite: `ticket_availability.is_sold_out`, `has_available_tickets` y `waitlist_available`.
+- Luma: `registration_availability`, `ticket_info.is_sold_out`, `spots_remaining` and `waitlist_status`.
+- Meetup: `maxTickets` versus attendees, number of people on the waitlist, and `rsvpsClosed`.
+- Eventbrite: `ticket_availability.is_sold_out`, `has_available_tickets` and `waitlist_available`.
 
-Si una fuente falla, el job de GitHub **falla de verdad** y te llega un email. Las demás
-fuentes se guardan igualmente. Cada ejecución queda registrada en la tabla `scrape_runs`.
+**Eventbrite and GitHub Actions.** Eventbrite blocks GitHub's IP addresses (HTTP 405). The scraper
+therefore asks `web/app/api/eventbrite-proxy`, which downloads the pages from Vercel. The route
+only allows Eventbrite search and availability URLs, and only with the shared secret
+`SCRAPER_PROXY_SECRET`. Open `/api/eventbrite-proxy?check=1` to test that Vercel can still reach Eventbrite.
+
+**Failures are loud.** If a source fails, the GitHub job fails and you get an email; the other
+sources are still saved. A blocked Eventbrite shows up as a warning instead. Every run is logged
+in the `scrape_runs` table.
 
 ### Web (`web/`)
 
-| Ruta | Qué hay |
+| Route | What is there |
 |---|---|
-| `/` | Descubrir: buscador, filtros (hoy, esta semana, finde, gratis, con plazas, tipo, tema), lista o mapa y "Lo más top". |
-| `/e/[id]` | Evento: estado de plazas, botón para apuntarse en la plataforma original, "Voy" / "Me interesa", ir con tu comunidad, quién va y, cuando ya ha pasado, las fotos. |
-| `/nuevo` | Pegas un link (Luma, Meetup, Eventbrite, LinkedIn o cualquier web) y el formulario se rellena solo. |
-| `/comunidades` | Comunidades privadas (con link de invitación) o abiertas. Cada una tiene su agenda y su historial. |
-| `/planes` | Tus próximos eventos y los eventos a los que fuiste, donde puedes subir fotos. |
-| `/perfil` | Nombre, a qué te dedicas, LinkedIn y si se muestra tu nombre a los demás. |
+| `/` | Discover: search, filters (today, this week, weekend, free, spots left, type, topic), list or map view, and "most popular this week". |
+| `/e/[id]` | Event page: availability, a button to register on the original platform, "Going" / "Interested", go with your community, who is going and, once it is over, photos. |
+| `/nuevo` | Paste a link (Luma, Meetup, Eventbrite, LinkedIn or any website) and the form fills itself in. |
+| `/comunidades` | Private (invite link) or open communities, each with its own agenda and history. |
+| `/planes` | Your upcoming events and the ones you attended, where you can upload photos. |
+| `/perfil` | Name, what you do, LinkedIn, and whether your name is shown to other attendees. |
+| `/privacidad`, `/terminos` | Privacy policy and terms (required by Google for the sign-in consent screen). |
 
-## Puesta en marcha (una sola vez)
+Sign-in: Google (official Google Identity Services button, so the user sees muno and not the
+Supabase domain), GitHub, and email magic link.
 
-1. **Base de datos.** En Supabase, abre el SQL Editor, pega
-   `supabase/migrations/002_events_y_comunidades.sql` y ejecútalo (el 001 ya está aplicado).
-2. **Secretos de GitHub** (Settings → Secrets and variables → Actions):
-   - `SUPABASE_URL` = `https://tnqncbjkrvyytfasnagd.supabase.co`
-   - `SUPABASE_SERVICE_ROLE_KEY` = la **secret key** de Supabase (Project Settings → API keys).
-     Esta nunca va en la web ni en el código.
-   - Puedes borrar `OPENROUTER_API_KEY`, ya no se usa.
-3. **Login** (Supabase → Authentication → Sign In / Providers):
-   - **Google**: crea un OAuth client en Google Cloud Console. Redirect URI:
-     `https://tnqncbjkrvyytfasnagd.supabase.co/auth/v1/callback`.
-   - **Email**: ya viene activado (magic link).
-   - **GitHub**: ya lo tenías.
-   - En URL Configuration, añade `https://muno-events.vercel.app/**` y `http://localhost:3000/**`
-     a Redirect URLs.
-4. Lanza el workflow a mano una vez (Actions → Scrape eventos → Run workflow) para llenar la tabla.
+## Setup (one time)
 
-## En local
+1. **Database.** In Supabase, open the SQL Editor and run, in order,
+   `supabase/migrations/001_schema_inicial.sql`, `002_events_y_comunidades.sql` and
+   `003_permisos_scraper.sql`. The project has "Automatically expose new tables" turned off, so
+   the grants in each file are required.
+2. **GitHub secrets** (Settings → Secrets and variables → Actions):
+   - `SUPABASE_URL`: your project URL.
+   - `SUPABASE_SERVICE_ROLE_KEY`: the Supabase **secret key** (Project Settings → API Keys).
+     It must never go in the web app or in the code.
+   - `SCRAPER_PROXY_SECRET`: a long random string (`openssl rand -hex 32`).
+3. **Vercel environment variables:** `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY`
+   and the same `SCRAPER_PROXY_SECRET` as in GitHub.
+4. **Sign-in** (Supabase → Authentication):
+   - **Google**: create an OAuth client in Google Cloud Console (type "Web application").
+     Authorized JavaScript origins: your site URL and `http://localhost:3000`. Redirect URI:
+     `https://<project>.supabase.co/auth/v1/callback`. Paste the client ID and secret into
+     Supabase → Sign In / Providers → Google, and publish the consent screen.
+   - **GitHub** and **Email** are enabled in the same place.
+   - **URL Configuration**: set the Site URL and add `https://<your-site>/**` and
+     `http://localhost:3000/**` to the Redirect URLs.
+   - **Emails**: the built-in sender only allows 2 emails per hour, so configure custom SMTP
+     (Authentication → Emails → SMTP Settings) and paste the HTML from `supabase/templates/`
+     into the "Confirm signup" and "Magic Link" templates.
+5. Run the workflow once by hand (Actions → Scrape eventos → Run workflow) to fill the table.
+
+## Running locally
 
 ```bash
 uv sync
-uv run muno-scrape --dry-run        # scrapea sin escribir; deja data/latest.json
-uv run muno-scrape --only meetup    # una sola fuente (necesita SUPABASE_* en el entorno)
+uv run muno-scrape --dry-run        # scrape without writing; leaves data/latest.json
+uv run muno-scrape --only meetup    # a single source (needs SUPABASE_* in the environment)
 
 cd web && npm install && npm run dev
 ```
 
-`web/.env.local` necesita `NEXT_PUBLIC_SUPABASE_URL` y `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY`.
-En `next dev`, si la tabla `events` aún no existe, la web usa `data/latest.json`.
+`web/.env.local` needs `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY`.
+Under `next dev`, if the `events` table does not exist yet the site falls back to `data/latest.json`.
+Local credentials live in `secrets/`, which is git-ignored.
 
-## Siguientes pasos
+## Next steps
 
-- Más fuentes: AI Tinkerers (madrid.aitinkerers.org), la agenda de Campus Madrid y la de
-  South Summit. Se añaden como nuevos scrapers en `scrapers/`.
-- Avisos: "alguien de tu comunidad va a X" y "se ha liberado una plaza" (por email o push).
-- Más ciudades: `CITY` en `sources.py` y la columna `city` ya están preparadas.
+- More sources: AI Tinkerers (madrid.aitinkerers.org), Campus Madrid and South Summit agendas.
+  Each one is a new scraper in `scrapers/`.
+- Notifications: "someone from your community is going to X" and "a spot just opened up" (email or push).
+- Weekly email digest.
+- More cities: `CITY` in `sources.py` and the `city` column are already in place.
